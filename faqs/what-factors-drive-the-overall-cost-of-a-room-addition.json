@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors drive the overall cost of a room addition?",
-  "description": "Total costs depend on square footage, foundation needs, finish levels, and whether the space requires complex plumbing and electrical work for kitchens or bathr",
   "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-a-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors drive the overall cost of a room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a home addition depends on square footage, intended use, foundation requirements, and interior finish levels. A dry room addition, such as an expanded living room or simple bedroom, generally costs less because it requires standard framing, drywall, and basic electrical wiring. In contrast, additions that include bathrooms, kitchens, or laundry facilities require extensive plumbing tie-ins, specialized ventilation, waterproofing, and tile work, which significantly increase the total investment. Bay City Remodeling & Bathrooms reviews plans during consultations and offers negotiable pricing and veteran discounts.",
-        "description": "Total costs depend on square footage, foundation needs, finish levels, and whether the space requires complex plumbing and electrical work for kitchens or bathrooms."
-      }
-    }
-  ],
+  "name": "What factors drive the overall cost of a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors drive the overall cost of a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Room addition costs are determined by the project's square footage, structural foundation requirements, roof tie-in complexity, and interior finishes. Adding \"wet\" spaces—such as a full bathroom or kitchenette—requires extensive plumbing rough-ins and fixtures, which substantially increases costs compared to a dry bedroom or den expansion. Other major variables include upgrading your electrical panel, matching existing exterior stucco, extending heating and cooling ductwork, and site preparation needs like grading or soil stabilization. Bay City Remodeling & Bathrooms reviews these specific elements during the estimating process and offers negotiable pricing and veteran discounts.",
+        "@type": "Answer",
+        "description": "Total square footage, foundation and roofing tie-ins, electrical capacity, and whether the project includes plumbing for bathrooms or kitchens drive the overall cost."
+      }
+    }
+  ],
+  "description": "Total square footage, foundation and roofing tie-ins, electrical capacity, and whether the project includes plumbing for bathrooms or kitchens drive the overall"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a standard room addition and an in-law suite or ADU?",
-  "description": "A standard addition expands your existing living space, while an in-law suite or ADU provides a more independent, self-contained layout for extended family or g",
   "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-standard-room-addition-and-an-in-law-suite-or-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a standard room addition and an in-law suite or ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A room addition expands your existing home's footprint or layout to add functional square footage, such as a new bedroom, home office, or expanded living room. In contrast, an accessory dwelling unit (ADU) or in-law suite is typically designed as a self-contained living space that may include its own bathroom, sleeping area, and independent access for multigenerational living. Choosing between them depends on how you plan to use the space: simple family living needs usually call for an integrated room addition, while housing extended family or guests long term often requires the distinct privacy and functional layout of a suite. The appropriate scope is determined during your initial consultation.",
-        "description": "A standard addition expands your existing living space, while an in-law suite or ADU provides a more independent, self-contained layout for extended family or guests."
-      }
-    }
-  ],
+  "name": "What is the difference between a standard room addition and an in-law suite or ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard room addition and an in-law suite or ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition expands your existing home's footprint or layout to add functional square footage, such as a new bedroom, home office, or expanded living room. In contrast, an accessory dwelling unit (ADU) or in-law suite is typically designed as a self-contained living space that may include its own bathroom, sleeping area, and independent access for multigenerational living. Choosing between them depends on how you plan to use the space: simple family living needs usually call for an integrated room addition, while housing extended family or guests long term often requires the distinct privacy and functional layout of a suite. The appropriate scope is determined during your initial consultation.",
+        "@type": "Answer",
+        "description": "A standard addition expands your existing living space, while an in-law suite or ADU provides a more independent, self-contained layout for extended family or guests."
+      }
+    }
+  ],
+  "description": "A standard addition expands your existing living space, while an in-law suite or ADU provides a more independent, self-contained layout for extended family or g"
 }

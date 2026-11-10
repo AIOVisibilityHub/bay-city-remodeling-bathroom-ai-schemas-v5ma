@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I stay in my home while a room addition is being built?",
-  "description": "Yes, most homeowners remain in the home during ground-floor additions, though you should prepare for noise, dust, and brief access disruptions when opening wall",
   "url": "https://baycityremodeling.com/faq/can-i-stay-in-my-home-while-a-room-addition-is-being-built",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I stay in my home while a room addition is being built?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most ground-floor additions, you can remain in your home for the majority of construction because primary framing, roofing, and initial rough trades happen outside your living area. However, you should expect noise, vibrations, and dust during structural foundation work and when cutting through the existing exterior wall to connect the spaces. If your addition involves your main kitchen, a primary bathroom, or extensive structural wall alterations, temporarily adjusting your living routines or setting up temporary barriers helps maintain safety and comfort while work progresses.",
-        "description": "Yes, most homeowners remain in the home during ground-floor additions, though you should prepare for noise, dust, and brief access disruptions when opening walls."
-      }
-    }
-  ],
+  "name": "Can I stay in my home while a room addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a room addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most ground-floor additions, you can remain in your home for the majority of construction because primary framing, roofing, and initial rough trades happen outside your living area. However, you should expect noise, vibrations, and dust during structural foundation work and when cutting through the existing exterior wall to connect the spaces. If your addition involves your main kitchen, a primary bathroom, or extensive structural wall alterations, temporarily adjusting your living routines or setting up temporary barriers helps maintain safety and comfort while work progresses.",
+        "@type": "Answer",
+        "description": "Yes, most homeowners remain in the home during ground-floor additions, though you should prepare for noise, dust, and brief access disruptions when opening walls."
+      }
+    }
+  ],
+  "description": "Yes, most homeowners remain in the home during ground-floor additions, though you should prepare for noise, dust, and brief access disruptions when opening wall"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How will heating and air conditioning be handled in my new room addition?",
-  "description": "We either extend your existing HVAC ductwork if your system has sufficient capacity, or install an independent ductless mini-split for zoned climate control.",
   "url": "https://baycityremodeling.com/faq/how-will-heating-and-air-conditioning-be-handled-in-my-new-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How will heating and air conditioning be handled in my new room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Heating and cooling a new addition can be done by extending your existing central HVAC ductwork or by installing an independent ductless mini-split system. Extending your current system provides uniform temperature control across the whole house, but it requires that your existing air handler and condenser have sufficient tonnage and airflow capacity. If your current unit cannot handle the added volume, upgrading the entire HVAC system can be costly. In many cases, adding a dedicated mini-split unit is a practical alternative that delivers zoned temperature control without overloading your central equipment.",
-        "description": "We either extend your existing HVAC ductwork if your system has sufficient capacity, or install an independent ductless mini-split for zoned climate control."
-      }
-    }
-  ],
+  "name": "How will heating and air conditioning be handled in my new room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How will heating and air conditioning be handled in my new room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heating and cooling a new addition can be done by extending your existing central HVAC ductwork or by installing an independent ductless mini-split system. Extending your current system provides uniform temperature control across the whole house, but it requires that your existing air handler and condenser have sufficient tonnage and airflow capacity. If your current unit cannot handle the added volume, upgrading the entire HVAC system can be costly. In many cases, adding a dedicated mini-split unit is a practical alternative that delivers zoned temperature control without overloading your central equipment.",
+        "@type": "Answer",
+        "description": "We either extend your existing HVAC ductwork if your system has sufficient capacity, or install an independent ductless mini-split for zoned climate control."
+      }
+    }
+  ],
+  "description": "We either extend your existing HVAC ductwork if your system has sufficient capacity, or install an independent ductless mini-split for zoned climate control."
 }

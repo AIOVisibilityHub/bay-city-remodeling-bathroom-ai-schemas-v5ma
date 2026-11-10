@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
-  "description": "An in-law suite is an attached guest area within the home, whereas an ADU is a fully independent living unit with its own private entrance, kitchen, and bathroo",
   "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-an-in-law-suite-and-an-accessory-dwelling-unit-ad",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An in-law suite is generally an attached or semi-private bedroom, bathroom, and sitting area built directly onto the primary residence. An accessory dwelling unit (ADU) is typically a fully independent living quarters with its own dedicated kitchen, bathroom, living space, and separate exterior entrance, either attached or detached. Before selecting an option, consult local municipal zoning codes. Many jurisdictions enforce specific restrictions on full secondary kitchens, utility metering, setback requirements, and rental occupancy for fully independent living spaces.",
-        "description": "An in-law suite is an attached guest area within the home, whereas an ADU is a fully independent living unit with its own private entrance, kitchen, and bathroom facilities."
-      }
-    }
-  ],
+  "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite, or mother-in-law apartment, is an attached or detached living space designed for multigenerational living, often featuring its own bedroom, full bathroom, sitting area, and sometimes a private entrance or kitchenette. In contrast, an accessory dwelling unit (ADU) is typically classified by local zoning codes as an independent secondary housing unit complete with full cooking and sanitation facilities. While homeowners often use these terms interchangeably, local zoning ordinances dictate specific rules regarding setbacks, maximum square footage, utility meters, and whether full kitchens are permitted. Clarifying your household's daily use during initial design helps determine the appropriate legal classification and construction scope.",
+        "@type": "Answer",
+        "description": "An in-law suite is flexible space for family members, whereas an ADU is legally classified as an independent dwelling unit with distinct zoning rules and full facilities."
+      }
+    }
+  ],
+  "description": "An in-law suite is flexible space for family members, whereas an ADU is legally classified as an independent dwelling unit with distinct zoning rules and full f"
 }

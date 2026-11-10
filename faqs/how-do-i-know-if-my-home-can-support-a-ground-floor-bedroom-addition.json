@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my home can support a ground-floor bedroom addition?",
-  "description": "Your home can support an addition if lot setbacks, zoning, and utility capacities allow. A property survey and site consultation verify structural and space fea",
   "url": "https://baycityremodeling.com/faq/how-do-i-know-if-my-home-can-support-a-ground-floor-bedroom-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my home can support a ground-floor bedroom addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adding a bedroom requires evaluating your property setbacks, lot coverage limits, and current utility capacities. Before starting, homeowners should gather their property survey, identify HOA requirements if applicable, and review their electrical panel capacity. In addition, extending living space often requires adjusting or extending your central air conditioning to keep the new room properly cooled. Bay City Remodeling & Bathrooms evaluates your existing home structure and property boundaries during the initial consultation to determine proper placement and mechanical requirements.",
-        "description": "Your home can support an addition if lot setbacks, zoning, and utility capacities allow. A property survey and site consultation verify structural and space feasibility."
-      }
-    }
-  ],
+  "name": "How do I know if my home can support a ground-floor bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home can support a ground-floor bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bedroom requires evaluating your property setbacks, lot coverage limits, and current utility capacities. Before starting, homeowners should gather their property survey, identify HOA requirements if applicable, and review their electrical panel capacity. In addition, extending living space often requires adjusting or extending your central air conditioning to keep the new room properly cooled. Bay City Remodeling & Bathrooms evaluates your existing home structure and property boundaries during the initial consultation to determine proper placement and mechanical requirements.",
+        "@type": "Answer",
+        "description": "Your home can support an addition if lot setbacks, zoning, and utility capacities allow. A property survey and site consultation verify structural and space feasibility."
+      }
+    }
+  ],
+  "description": "Your home can support an addition if lot setbacks, zoning, and utility capacities allow. A property survey and site consultation verify structural and space fea"
 }

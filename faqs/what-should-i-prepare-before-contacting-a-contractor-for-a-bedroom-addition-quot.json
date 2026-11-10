@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I prepare before contacting a contractor for a bedroom addition quote?",
-  "description": "Gather your property survey, outline your desired room dimensions and features (like an en-suite bath), and determine your target budget and timeline.",
   "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-bedroom-addition-quot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I prepare before contacting a contractor for a bedroom addition quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before reaching out to a contractor, clarify your primary goals, desired room dimensions, target completion timeline, and whether you want an attached bathroom or walk-in closet. Having a copy of your property survey or boundary markers helps determine suitable building areas. You should also consider your household’s functional needs, such as multigenerational living or future accessibility. Bay City Remodeling & Bathrooms uses this preliminary information during the consultation to provide practical recommendations and detailed quotes.",
-        "description": "Gather your property survey, outline your desired room dimensions and features (like an en-suite bath), and determine your target budget and timeline."
-      }
-    }
-  ],
+  "name": "What should I prepare before contacting a contractor for a bedroom addition quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for a bedroom addition quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before reaching out to a contractor, clarify your primary goals, desired room dimensions, target completion timeline, and whether you want an attached bathroom or walk-in closet. Having a copy of your property survey or boundary markers helps determine suitable building areas. You should also consider your household’s functional needs, such as multigenerational living or future accessibility. Bay City Remodeling & Bathrooms uses this preliminary information during the consultation to provide practical recommendations and detailed quotes.",
+        "@type": "Answer",
+        "description": "Gather your property survey, outline your desired room dimensions and features (like an en-suite bath), and determine your target budget and timeline."
+      }
+    }
+  ],
+  "description": "Gather your property survey, outline your desired room dimensions and features (like an en-suite bath), and determine your target budget and timeline."
 }

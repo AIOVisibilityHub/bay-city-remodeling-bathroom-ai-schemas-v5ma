@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a bump-out addition and a full bedroom addition?",
-  "description": "A bump-out expands an existing room by a few feet, while a full bedroom addition builds an entirely new enclosed living space from a new foundation up to the ro",
   "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-bump-out-addition-and-a-full-bedroom-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a bump-out addition and a full bedroom addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A bump-out extends an existing wall outward by a few feet, creating extra room for a larger closet, sitting area, or bed alcove without pouring a full-scale separate foundation footprint. A full bedroom addition builds an entirely new enclosed room from the ground up, requiring its own foundation, exterior walls, and roof tie-in. While a bump-out involves lower material costs and quicker framing, a full addition adds significantly more square footage and allows for separate private living suites or attached bathrooms.",
-        "description": "A bump-out expands an existing room by a few feet, while a full bedroom addition builds an entirely new enclosed living space from a new foundation up to the roof."
-      }
-    }
-  ],
+  "name": "What is the difference between a bump-out addition and a full bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bump-out addition and a full bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out extends an existing wall outward by a few feet, creating extra room for a larger closet, sitting area, or bed alcove without pouring a full-scale separate foundation footprint. A full bedroom addition builds an entirely new enclosed room from the ground up, requiring its own foundation, exterior walls, and roof tie-in. While a bump-out involves lower material costs and quicker framing, a full addition adds significantly more square footage and allows for separate private living suites or attached bathrooms.",
+        "@type": "Answer",
+        "description": "A bump-out expands an existing room by a few feet, while a full bedroom addition builds an entirely new enclosed living space from a new foundation up to the roof."
+      }
+    }
+  ],
+  "description": "A bump-out expands an existing room by a few feet, while a full bedroom addition builds an entirely new enclosed living space from a new foundation up to the ro"
 }
