@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-total-cost-of-a-bathroom-expansion",
+  "name": "What factors influence the total cost of a bathroom expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a bathroom expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of expanding a bathroom depends heavily on structural changes, plumbing relocations, and whether you build an exterior addition. Moving load-bearing walls, running new supply and drain lines, and upgrading electrical circuits add to basic finish costs like tile and cabinetry. Simple wall reconfigurations within the existing home envelope cost less than framing out an addition with foundation work and exterior finishing. Bay City Remodeling & Bathrooms provides detailed estimates after evaluating the floor plan and discussing design priorities, fixture selections, and negotiable pricing options.",
+        "@type": "Answer",
+        "description": "Costs depend on whether you move load-bearing walls, relocate plumbing and electrical lines, and choose an interior reconfiguration versus an exterior room addition."
+      }
+    }
+  ],
+  "description": "Costs depend on whether you move load-bearing walls, relocate plumbing and electrical lines, and choose an interior reconfiguration versus an exterior room addi"
+}

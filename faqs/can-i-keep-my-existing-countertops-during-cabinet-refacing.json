@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-keep-my-existing-countertops-during-cabinet-refacing",
+  "name": "Can I keep my existing countertops during cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing countertops during cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can keep your existing countertops during cabinet refacing. Because the cabinet framework remains anchored to the walls and floors, refacing does not require disturbing or detaching your granite, quartz, or laminate counters. However, if your long-term plan includes upgrading countertops or adding a tile backsplash, it is best to discuss the order of operations with your remodeling contractor during project planning to ensure seamless seams and transitions.",
+        "@type": "Answer",
+        "description": "Yes. Because the underlying cabinet structures stay anchored in place, your existing countertops do not need to be removed or disturbed during refacing."
+      }
+    }
+  ],
+  "description": "Yes. Because the underlying cabinet structures stay anchored in place, your existing countertops do not need to be removed or disturbed during refacing."
+}

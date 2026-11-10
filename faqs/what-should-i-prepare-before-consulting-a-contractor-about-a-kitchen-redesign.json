@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-kitchen-redesign",
+  "name": "What should I prepare before consulting a contractor about a kitchen redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a kitchen redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before booking an initial consultation, measure the rough dimensions of your room and list the practical problems you want to solve. Take note of appliance sizes, your preferred cooking workflow, and whether you need dedicated pantry storage or a central island. Identify must-haves versus flexible preferences, such as keeping existing appliance positions to manage construction scope. Gathering these preferences and inspiration photos gives your contractor the details needed to produce an accurate estimate and workable concept.",
+        "@type": "Answer",
+        "description": "Note your room dimensions, list functional issues with your current kitchen, determine major appliance preferences, and clarify your overall budget priorities."
+      }
+    }
+  ],
+  "description": "Note your room dimensions, list functional issues with your current kitchen, determine major appliance preferences, and clarify your overall budget priorities."
+}

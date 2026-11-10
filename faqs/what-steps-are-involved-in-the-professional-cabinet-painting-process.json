@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-steps-are-involved-in-the-professional-cabinet-painting-process",
+  "name": "What steps are involved in the professional cabinet painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the professional cabinet painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional cabinet painting involves several meticulous steps to ensure a smooth, durable finish that resists daily wear. The process begins with removing all hardware, doors, and drawer fronts, followed by thorough cleaning to eliminate kitchen grease and residue. Technicians then scuff-sand all surfaces, repair minor dings or surface blemishes, and apply a specialized bonding primer designed to seal the wood grain. Finally, multiple finish coats of premium cabinet enamel are applied—often via spray application for a factory-smooth texture—before the hardware is reinstalled and doors are realigned.",
+        "@type": "Answer",
+        "description": "The process includes removing hardware, degreasing, sanding, priming with a bonding primer, applying multiple durable topcoats, and reattaching hardware with precise alignment."
+      }
+    }
+  ],
+  "description": "The process includes removing hardware, degreasing, sanding, priming with a bonding primer, applying multiple durable topcoats, and reattaching hardware with pr"
+}

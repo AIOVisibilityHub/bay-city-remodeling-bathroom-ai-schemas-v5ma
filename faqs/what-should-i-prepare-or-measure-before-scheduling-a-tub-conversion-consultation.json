@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-or-measure-before-scheduling-a-tub-conversion-consultation",
+  "name": "What should I prepare or measure before scheduling a tub conversion consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or measure before scheduling a tub conversion consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an estimate, measure your bathroom layout, determine your target budget, and decide on must-have features such as built-in benches, recessed niches, or low-threshold curbs. Take note of any current issues, including slow drainage, loose tiles, or signs of water leaks around the tub skirt. It also helps to decide whether you want custom tile or lower-maintenance solid surrounds. Having these details ready ensures an accurate assessment during your initial consultation.",
+        "@type": "Answer",
+        "description": "Note your space dimensions, decide on key features like storage niches or benches, identify any existing leak issues, and outline your target budget before meeting with a contractor."
+      }
+    }
+  ],
+  "description": "Note your space dimensions, decide on key features like storage niches or benches, identify any existing leak issues, and outline your target budget before meet"
+}

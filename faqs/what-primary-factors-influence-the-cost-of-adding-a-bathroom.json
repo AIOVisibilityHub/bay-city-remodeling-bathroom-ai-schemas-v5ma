@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-primary-factors-influence-the-cost-of-adding-a-bathroom",
+  "name": "What primary factors influence the cost of adding a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What primary factors influence the cost of adding a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost of a bathroom addition depends on whether it is built within existing walls or requires new foundation framing, as well as the complexity of plumbing extensions. Other major budget factors include electrical panel capacity, ventilation requirements, and selected materials like custom tile, walk-in showers, or specialty vanities. Adding plumbing to a concrete slab requires trenching, which impacts labor compared to homes with accessible crawlspaces. Bay City Remodeling & Bathrooms provides customized estimates based on project scope and offers negotiable pricing and veteran discounts.",
+        "@type": "Answer",
+        "description": "Costs vary based on building within existing walls versus ground-up framing, plumbing distance, slab trenching, electrical needs, and chosen finish fixtures."
+      }
+    }
+  ],
+  "description": "Costs vary based on building within existing walls versus ground-up framing, plumbing distance, slab trenching, electrical needs, and chosen finish fixtures."
+}

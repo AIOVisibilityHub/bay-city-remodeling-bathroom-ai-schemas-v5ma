@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-keep-my-bathtub-or-convert-it-to-a-walk-in-shower-in-a-small-bathroom",
+  "name": "Should I keep my bathtub or convert it to a walk-in shower in a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my bathtub or convert it to a walk-in shower in a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion opens up usable floor space and makes compact bathrooms feel significantly larger. Replacing a bulky tub with a curbless or low-threshold walk-in shower creates a continuous visual line across the room, reducing physical barriers. The primary tradeoff involves resale value and household convenience: homes with only one bathroom often benefit from keeping at least one bathtub for small children or pets. If your home has another tub elsewhere, converting a small secondary bathroom into a walk-in shower is an effective way to maximize daily comfort, light, and accessibility.",
+        "@type": "Answer",
+        "description": "Converting to a walk-in shower maximizes space and accessibility, but keeping a tub is recommended if it is the only bathtub in the home."
+      }
+    }
+  ],
+  "description": "Converting to a walk-in shower maximizes space and accessibility, but keeping a tub is recommended if it is the only bathtub in the home."
+}

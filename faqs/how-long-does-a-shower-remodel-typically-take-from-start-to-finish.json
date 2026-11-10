@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-shower-remodel-typically-take-from-start-to-finish",
+  "name": "How long does a shower remodel typically take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a shower remodel typically take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most custom shower remodeling projects take approximately one to three weeks of active construction once work starts. The overall schedule depends on the scope of demolition, framing adjustments, plumbing updates, and the curing time required for mortar, waterproofing membranes, and tile grout. If you select custom-ordered materials like fabricated frameless glass doors or specialty tile, fabrication lead times occur before installation begins. Any hidden moisture damage discovered behind drywall after demolition can also extend the timeline while repairs are completed.",
+        "@type": "Answer",
+        "description": "A standard shower remodel takes about one to three weeks of active construction, depending on tile complexity, plumbing changes, and material lead times."
+      }
+    }
+  ],
+  "description": "A standard shower remodel takes about one to three weeks of active construction, depending on tile complexity, plumbing changes, and material lead times."
+}

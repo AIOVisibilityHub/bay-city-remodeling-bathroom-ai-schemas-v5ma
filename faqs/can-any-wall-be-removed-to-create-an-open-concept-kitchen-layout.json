@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-any-wall-be-removed-to-create-an-open-concept-kitchen-layout",
+  "name": "Can any wall be removed to create an open-concept kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any wall be removed to create an open-concept kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a wall depends entirely on whether it is load-bearing and what utilities run through it. A load-bearing wall supports structural weight from the roof or upper floors and requires engineered beam support to remove safely. Non-load-bearing partition walls are simpler to take down, though both types often contain electrical wiring, plumbing, or venting that must be relocated. Bay City Remodeling & Bathrooms handles drywall, structural adjustments, and home remodeling, helping assess structural walls during planning before any demolition begins.",
+        "@type": "Answer",
+        "description": "Most walls can be removed, but load-bearing walls require structural support beams, and any hidden plumbing or electrical wiring inside must be rerouted."
+      }
+    }
+  ],
+  "description": "Most walls can be removed, but load-bearing walls require structural support beams, and any hidden plumbing or electrical wiring inside must be rerouted."
+}

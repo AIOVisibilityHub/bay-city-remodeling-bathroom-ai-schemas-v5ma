@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-is-it-time-to-replace-bathroom-tile-instead-of-repairing-it",
+  "name": "When is it time to replace bathroom tile instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace bathroom tile instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your bathroom tile if you observe cracked or loose tiles, persistent dark mold inside the grout joints, or soft spots in the surrounding drywall or subfloor. Spongy floor sections or loose tiles near the tub and shower base frequently point to prolonged water intrusion underneath the setting bed. Additionally, homeowners planning tub-to-shower conversions, expanding into walk-in showers, or modernizing outdated finishes often choose complete tile replacement to reconfigure plumbing lines and update waterproofing assemblies to current building standards.",
+        "@type": "Answer",
+        "description": "Replace your tile if you notice persistent leaks, cracked tiles, soft subflooring, or extensive mold behind walls, or when reconfiguring a shower layout."
+      }
+    }
+  ],
+  "description": "Replace your tile if you notice persistent leaks, cracked tiles, soft subflooring, or extensive mold behind walls, or when reconfiguring a shower layout."
+}

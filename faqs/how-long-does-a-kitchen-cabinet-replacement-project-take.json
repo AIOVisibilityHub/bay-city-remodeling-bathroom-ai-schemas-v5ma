@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-kitchen-cabinet-replacement-project-take",
+  "name": "How long does a kitchen cabinet replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen cabinet replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen cabinet replacement usually takes between one to three weeks on-site, though custom orders require advance lead time for manufacturing. The overall schedule depends on whether the installation is a direct swap or part of a larger kitchen remodel involving drywall work and new countertops. Removing existing cabinetry and prepping walls takes a couple of days, followed by installation, alignment, and hardware placement. If new stone countertops are being templated and fabricated over the fresh lower cabinets, that process can add additional days before final sink and plumbing hookups occur.",
+        "@type": "Answer",
+        "description": "Cabinet installation generally takes one to three weeks on-site, with additional lead time for ordering materials and coordinating new countertop fabrication."
+      }
+    }
+  ],
+  "description": "Cabinet installation generally takes one to three weeks on-site, with additional lead time for ordering materials and coordinating new countertop fabrication."
+}

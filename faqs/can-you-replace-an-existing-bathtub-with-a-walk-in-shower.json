@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-you-replace-an-existing-bathtub-with-a-walk-in-shower",
+  "name": "Can you replace an existing bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you replace an existing bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing bathtub into a walk-in shower is one of the most common bathroom remodeling projects. A standard tub footprint of 60 by 30 inches provides sufficient space for a comfortable, modern walk-in shower. During this conversion, the contractor removes the old tub surround, evaluates the underlying plumbing, and relocates the drain line, as shower drains require a larger diameter pipe than tub drains to manage water flow properly. New water-resistant wallboard or drywall repairs prepare the enclosure before waterproofing, custom tile installation, and fixture mounting take place.",
+        "@type": "Answer",
+        "description": "Yes, a standard bathtub alcove can be converted into a walk-in shower, which typically involves updating the drain size, repairing wallboard, and adding custom tile."
+      }
+    }
+  ],
+  "description": "Yes, a standard bathtub alcove can be converted into a walk-in shower, which typically involves updating the drain size, repairing wallboard, and adding custom"
+}

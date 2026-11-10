@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-custom-tile-or-an-acrylic-surround-for-my-shower-walls",
+  "name": "Should I choose custom tile or an acrylic surround for my shower walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose custom tile or an acrylic surround for my shower walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between porcelain tile and prefabricated acrylic surrounds comes down to maintenance, aesthetics, and budget tradeoffs. Porcelain tile offers unmatched design flexibility, high durability, and custom sizing, which allows for personalized niches and built-in benches. However, tile requires skilled installation, meticulous waterproofing, and periodic grout cleaning. Acrylic surrounds provide a lower-maintenance, seamless surface that installs quickly, but they offer fewer design options and can feel less substantial in higher-end bathroom renovations.",
+        "@type": "Answer",
+        "description": "Custom tile offers superior design flexibility and durability but requires grout maintenance; acrylic surrounds install faster and clean easily but provide limited aesthetic options."
+      }
+    }
+  ],
+  "description": "Custom tile offers superior design flexibility and durability but requires grout maintenance; acrylic surrounds install faster and clean easily but provide limi"
+}

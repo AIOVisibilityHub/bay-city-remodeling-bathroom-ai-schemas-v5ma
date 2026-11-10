@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-remodeling-an-accessible-bathroom",
+  "name": "What factors influence the cost of remodeling an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of remodeling an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing varies widely based on whether you are doing a localized fixture update or an extensive structural reconfiguration. Basic upgrades, such as replacing a traditional bathtub with a low-barrier acrylic shower insert and installing wall-mounted grab bars, represent the lower end of the cost spectrum. Extensive projects involving custom tile walk-in showers, concrete subfloor adjustments for true zero-threshold drainage, doorway expansion, drywall repair, and custom floating vanities cost significantly more. Bay City Remodeling & Bathrooms offers free quotes to assess your existing footprint, plumbing locations, and material selections, along with negotiable pricing and veteran discounts to help manage project budgets.",
+        "@type": "Answer",
+        "description": "Costs depend on project scope, including whether you choose a basic tub-to-shower conversion or structural work like widening doorways, relocating plumbing, and installing custom tile."
+      }
+    }
+  ],
+  "description": "Costs depend on project scope, including whether you choose a basic tub-to-shower conversion or structural work like widening doorways, relocating plumbing, and"
+}

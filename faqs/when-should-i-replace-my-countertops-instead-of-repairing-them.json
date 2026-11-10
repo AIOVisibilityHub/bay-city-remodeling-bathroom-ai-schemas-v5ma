@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-should-i-replace-my-countertops-instead-of-repairing-them",
+  "name": "When should I replace my countertops instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my countertops instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace countertops when you notice deep structural cracks, persistent staining, delamination, water damage near sinks, or when your current counters no longer fit your daily needs. Surface damage on porous materials often harbors bacteria, while laminate with peeling layers or blown particle board cores cannot be permanently patched. Homeowners also update surfaces during appliance upgrades or when converting from a top-mount to an undermount sink. If your surfaces look dated or interfere with kitchen or bathroom functionality, scheduling an estimate clarifies your renovation options.",
+        "@type": "Answer",
+        "description": "Replace countertops if you see structural cracks, water-damaged cores, peeling layers, or if you plan to upgrade to an undermount sink."
+      }
+    }
+  ],
+  "description": "Replace countertops if you see structural cracks, water-damaged cores, peeling layers, or if you plan to upgrade to an undermount sink."
+}

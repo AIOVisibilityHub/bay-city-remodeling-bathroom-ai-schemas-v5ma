@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-for-a-bathroom-addition-consultation",
+  "name": "How should I prepare for a bathroom addition consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a bathroom addition consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling a design consultation, identify your primary goals, household priorities, and ideal location. Gather measurements or simple sketches of the proposed area, locate your electrical service panel, and determine where your home's main water line and cleanout reside. Consider whether the space requires accessibility features like a zero-threshold walk-in shower, wide door openings, or grab bar reinforcement. Having a clear idea of fixture preferences, planned users, and approximate start timing helps streamline the preliminary estimating and layout design discussions.",
+        "@type": "Answer",
+        "description": "Identify your target location, note where existing plumbing runs, list must-have features like walk-in showers or accessibility needs, and gather your project timeline."
+      }
+    }
+  ],
+  "description": "Identify your target location, note where existing plumbing runs, list must-have features like walk-in showers or accessibility needs, and gather your project t"
+}

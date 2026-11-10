@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-is-it-time-to-replace-a-bathroom-vanity-rather-than-repair-it",
+  "name": "When is it time to replace a bathroom vanity rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace a bathroom vanity rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your vanity if the cabinet shows structural damage, water rot, cracked countertops, or cannot meet your daily storage needs. Persistent moisture underneath the sink often weakens particleboard bases beyond repair. Replacing the vanity is also practical when updating outdated finishes during a broader bathroom remodel. Upgrading allows you to reconfigure door and drawer combinations, switch from a single to a double basin, or install taller, comfort-height cabinets that improve everyday functionality.",
+        "@type": "Answer",
+        "description": "Replace your vanity if you notice wood rot, water damage, cracked counters, or inadequate storage. Swapping it out also modernizes outdated styling."
+      }
+    }
+  ],
+  "description": "Replace your vanity if you notice wood rot, water damage, cracked counters, or inadequate storage. Swapping it out also modernizes outdated styling."
+}

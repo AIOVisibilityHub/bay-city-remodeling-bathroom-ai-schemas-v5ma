@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-steps-are-involved-during-the-shower-replacement-process",
+  "name": "What steps are involved during the shower replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved during the shower replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower replacement process begins with an in-home assessment to review your bathroom layout, measure the area, and discuss material preferences. Once work starts, the crew tears out the existing shower enclosure, pan, and backing material down to the wall framing. Next, technicians inspect framing for hidden water damage, complete necessary drywall and subfloor repairs, and update rough plumbing valves. A continuous waterproofing system and custom shower pan are installed, followed by tile setting, grouting, fixture installation, and custom glass door placement. A thorough cleanup and final walkthrough complete the job.",
+        "@type": "Answer",
+        "description": "The process involves demolition down to the studs, repairing damaged drywall or subfloor, rough plumbing updates, waterproofing, pan installation, tile setting, fixture trimming, and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves demolition down to the studs, repairing damaged drywall or subfloor, rough plumbing updates, waterproofing, pan installation, tile setting,"
+}

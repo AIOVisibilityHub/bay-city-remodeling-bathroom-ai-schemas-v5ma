@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-plumbing-handled-if-my-home-is-built-on-a-concrete-slab",
+  "name": "How is plumbing handled if my home is built on a concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is plumbing handled if my home is built on a concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many homes across Brandon and surrounding Florida communities, additions are built on concrete slab foundations, which require mechanical saw-cutting and trenching to lay underground drain lines and p-traps. If your home is built on a concrete slab, plumbers cut channels into the existing slab to slope sewer pipes toward the main cleanout. The trenches are then backfilled, inspected, and patched with fresh concrete before wall framing, drywall, and finish flooring begin. Planning plumbing runs closer to existing exterior cleanouts minimizes slab trenching.",
+        "@type": "Answer",
+        "description": "Plumbers saw-cut and trench through the concrete to lay sloped drain pipes, which are inspected and repaved with fresh concrete before framing and tiling."
+      }
+    }
+  ],
+  "description": "Plumbers saw-cut and trench through the concrete to lay sloped drain pipes, which are inspected and repaved with fresh concrete before framing and tiling."
+}

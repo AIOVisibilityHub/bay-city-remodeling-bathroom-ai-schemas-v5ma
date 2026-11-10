@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-walk-in-shower-installation-take-from-start-to-finish",
+  "name": "How long does a walk-in shower installation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a walk-in shower installation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a walk-in shower typically takes between one to three weeks depending on the scope of work. A straightforward replacement where the new shower fits directly into an existing alcove with minimal plumbing changes moves quickly. However, full custom tile layouts, glass door fabrication, or moving drain lines and supply pipes will extend the timeline. Additional structural repairs, such as fixing deteriorated subfloors or replacing water-damaged drywall found after demolition, also add time. Once rough plumbing passes, installing waterproof backer board, setting tile, grouting, and sealing require proper drying intervals before final fixtures and doors go in.",
+        "@type": "Answer",
+        "description": "A walk-in shower installation usually takes one to three weeks, depending on whether plumbing lines move, drywall repairs are needed, or custom tile is installed."
+      }
+    }
+  ],
+  "description": "A walk-in shower installation usually takes one to three weeks, depending on whether plumbing lines move, drywall repairs are needed, or custom tile is installe"
+}

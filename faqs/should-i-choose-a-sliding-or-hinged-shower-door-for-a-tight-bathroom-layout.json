@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-a-sliding-or-hinged-shower-door-for-a-tight-bathroom-layout",
+  "name": "Should I choose a sliding or hinged shower door for a tight bathroom layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a sliding or hinged shower door for a tight bathroom layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding glass doors run on a top track and slide parallel to the wall, making them ideal when a swinging door would bump into an adjacent toilet, vanity, or towel bar. However, sliding systems usually open only halfway, creating a narrower entrance to the shower stall. Hinged doors provide a wider entrance and a minimalist look, but they require ample clearance outside the enclosure so the glass does not hit fixtures. Your floor plan’s exterior clearance determines which design functions best.",
+        "@type": "Answer",
+        "description": "Sliding doors save space in tight layouts, while hinged doors offer a wider walk-in entry if exterior swing clearance allows."
+      }
+    }
+  ],
+  "description": "Sliding doors save space in tight layouts, while hinged doors offer a wider walk-in entry if exterior swing clearance allows."
+}

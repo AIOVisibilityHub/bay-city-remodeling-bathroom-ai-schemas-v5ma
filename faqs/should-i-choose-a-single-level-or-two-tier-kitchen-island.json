@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-a-single-level-or-two-tier-kitchen-island",
+  "name": "Should I choose a single-level or two-tier kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a single-level or two-tier kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen island is built at counter height, which is 36 inches from the floor, ideal for food prep and casual seating using 24-inch counter stools. A two-tier island adds a 42-inch raised bar top. The raised tier hides countertop clutter from adjacent living areas and separates cooking zones from dining guests. However, single-level islands provide one continuous, uninterrupted surface that is more versatile for baking, serving buffets, and accommodating open-concept entertaining. Your entertaining habits and kitchen visibility determine which design fits best.",
+        "@type": "Answer",
+        "description": "Single-level 36-inch islands maximize continuous prep surface, while two-tier 42-inch islands conceal dirty dishes and separate dining guests from cooking areas."
+      }
+    }
+  ],
+  "description": "Single-level 36-inch islands maximize continuous prep surface, while two-tier 42-inch islands conceal dirty dishes and separate dining guests from cooking areas"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-regular-interior-wall-paint-be-used-to-paint-kitchen-cabinets",
+  "name": "Can regular interior wall paint be used to paint kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can regular interior wall paint be used to paint kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting cabinets requires specialized, high-durability coatings rather than standard latex wall paint. Professional cabinet refinishers typically use industrial-grade waterborne alkyd enamels, urethane-modified acrylics, or conversion coatings. These specialized formulas dry to a hard, smooth finish that resists chipping, scratching, and frequent hand contact around handles. Standard interior wall paint remains too soft and rubbery, making it prone to peeling, sticking to face frames, and breaking down quickly under regular kitchen heat, cleaning chemicals, and moisture.",
+        "@type": "Answer",
+        "description": "No, standard wall paint is too soft for cabinets. Cabinet refinishing requires durable waterborne alkyd or urethane enamels designed to resist grease, chipping, and heavy handling."
+      }
+    }
+  ],
+  "description": "No, standard wall paint is too soft for cabinets. Cabinet refinishing requires durable waterborne alkyd or urethane enamels designed to resist grease, chipping,"
+}

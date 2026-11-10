@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-a-walk-in-shower-conversion-or-a-walk-in-bathtub",
+  "name": "Should I choose a walk-in shower conversion or a walk-in bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a walk-in shower conversion or a walk-in bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice depends on the user's specific mobility levels and future care needs. Converting an existing tub into a walk-in shower eliminates the tripping hazard of stepping over a standard tub apron, creating flat, curbless entry that works well for walkers and wheelchairs. In contrast, walk-in tubs provide deep seated soaking with hydrotherapy features, but they require the bather to step over a low ledge and sit inside the tub while it fills and drains. Homeowners must weigh this practical tradeoff: walk-in showers offer faster, independent daily hygiene and easier caregiver assistance, whereas walk-in tubs prioritize therapeutic warm-water soaking.",
+        "@type": "Answer",
+        "description": "Walk-in showers remove high step-over hazards and provide easier roll-in or caregiver access, while walk-in tubs offer seated soaking but require waiting inside while water fills and drains."
+      }
+    }
+  ],
+  "description": "Walk-in showers remove high step-over hazards and provide easier roll-in or caregiver access, while walk-in tubs offer seated soaking but require waiting inside"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-kitchen-remodeling-costs",
+  "name": "What factors have the biggest impact on kitchen remodeling costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on kitchen remodeling costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary cost drivers in a kitchen renovation are custom cabinetry, stone or solid-surface countertops, structural changes, and appliance packages. Moving plumbing fixtures, gas connections, or electrical panels increases labor and trade requirements compared to working within the existing footprint. Premium materials such as solid wood cabinets or quartz slabs also shift the overall investment. Homeowners can request a free quote through an initial consultation to assess their specific layout, discuss negotiated pricing options, and determine a realistic budget aligned with their aesthetic and functional priorities.",
+        "@type": "Answer",
+        "description": "Cabinetry choices, countertop materials, appliance selections, and whether you move plumbing or electrical lines have the greatest impact on total remodeling costs."
+      }
+    }
+  ],
+  "description": "Cabinetry choices, countertop materials, appliance selections, and whether you move plumbing or electrical lines have the greatest impact on total remodeling co"
+}

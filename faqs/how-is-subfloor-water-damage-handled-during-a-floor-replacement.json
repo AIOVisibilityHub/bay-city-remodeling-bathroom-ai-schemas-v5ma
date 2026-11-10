@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-subfloor-water-damage-handled-during-a-floor-replacement",
+  "name": "How is subfloor water damage handled during a floor replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is subfloor water damage handled during a floor replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Subfloor damage is uncovered during the demolition phase once old tile, vinyl, or carpet is completely stripped away. Common signs include darkened plywood, softness, rotted wood near the toilet flange, or cracked concrete. When damage is found, the affected subfloor sections are cut out and replaced with fresh exterior-grade plywood or patched with specialized concrete leveling compound. Ensuring a stable, level subfloor prevents new tiles from cracking and keeps moisture seals intact.",
+        "@type": "Answer",
+        "description": "Installers remove damaged plywood or patch concrete slabs during demolition, securing a flat, sound subfloor before laying new waterproof underlayment."
+      }
+    }
+  ],
+  "description": "Installers remove damaged plywood or patch concrete slabs during demolition, securing a flat, sound subfloor before laying new waterproof underlayment."
+}

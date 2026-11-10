@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-a-concrete-slab-foundation-in-the-tampa-bay-area-affect-walk-in-shower",
+  "name": "How does a concrete slab foundation in the Tampa Bay area affect walk-in shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a concrete slab foundation in the Tampa Bay area affect walk-in shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in the Tampa Bay area frequently reside in single-story slab-on-grade concrete homes, common throughout communities like Brandon, Riverview, and Sun City Center. Installing a curbless walk-in shower in a concrete slab requires trenching or chipping out the concrete foundation to recess the shower pan and properly slope the drain line. In contrast, homes with raised wood subfloors allow floor joists to be modified from below. Understanding whether your home sits on a monolithic slab helps determine the initial demolition scope, equipment needs, and plumbing setup required to achieve true zero-step entry.",
+        "@type": "Answer",
+        "description": "On concrete slab foundations common around Tampa Bay, creating a zero-threshold shower requires chipping concrete to lower the drain and pan, unlike wood subfloors."
+      }
+    }
+  ],
+  "description": "On concrete slab foundations common around Tampa Bay, creating a zero-threshold shower requires chipping concrete to lower the drain and pan, unlike wood subflo"
+}

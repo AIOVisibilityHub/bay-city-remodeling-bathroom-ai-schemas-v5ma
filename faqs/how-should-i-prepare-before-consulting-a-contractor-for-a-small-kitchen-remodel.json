@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-consulting-a-contractor-for-a-small-kitchen-remodel",
+  "name": "How should I prepare before consulting a contractor for a small kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before consulting a contractor for a small kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by documenting how you currently use the room and identifying specific storage bottlenecks. Measure your current appliances to decide if you want compact, counter-depth models that save walkway clearance. Create a list of must-have items versus preferences, noting where items clutter your existing countertops. Taking clear photos and noting the locations of existing plumbing stacks, vents, and electrical panels helps contractors assess what adjustments are practical. Having this information ready allows for an accurate initial consultation and realistic quote.",
+        "@type": "Answer",
+        "description": "List your daily storage issues, measure appliances, and photograph existing plumbing and outlets. This helps contractors design an efficient layout and provide accurate estimates."
+      }
+    }
+  ],
+  "description": "List your daily storage issues, measure appliances, and photograph existing plumbing and outlets. This helps contractors design an efficient layout and provide"
+}

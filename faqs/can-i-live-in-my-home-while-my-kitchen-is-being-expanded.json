@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-live-in-my-home-while-my-kitchen-is-being-expanded",
+  "name": "Can I live in my home while my kitchen is being expanded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home while my kitchen is being expanded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home depends on the scale of the expansion and your household's tolerance for dust and disruption. If the project involves an exterior bump-out or is partitioned off with temporary plastic barriers, you can often remain in the house by establishing a temporary cooking station in another room. However, during major structural wall removal, subfloor trenching, and long periods without running water or gas, living on-site can become inconvenient. Planning your temporary kitchen setup—such as setting up a microwave, mini-fridge, and electric kettle—is an essential preparatory step before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, many homeowners stay by setting up a temporary kitchenette, though major structural demolition and utility shutoffs create short periods of disruption."
+      }
+    }
+  ],
+  "description": "Yes, many homeowners stay by setting up a temporary kitchenette, though major structural demolition and utility shutoffs create short periods of disruption."
+}

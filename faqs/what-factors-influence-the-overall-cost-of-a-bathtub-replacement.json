@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-overall-cost-of-a-bathtub-replacement",
+  "name": "What factors influence the overall cost of a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the overall cost of a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total investment for a bathtub replacement depends heavily on material choice, plumbing modifications, and wall finishes. A direct alcove replacement with a prefabricated acrylic unit costs significantly less than a cast iron or freestanding soaking tub paired with custom wall tile. Other key factors influencing your estimate include whether valves and drain pipes must be relocated, any necessary drywall repairs, subfloor reinforcement, and whether you update adjacent fixtures at the same time. Bay City Remodeling & Bathrooms reviews these details during the initial estimate to outline accurate project pricing.",
+        "@type": "Answer",
+        "description": "Costs depend on your chosen tub material, custom tile versus surround panels, plumbing relocations, underlying subfloor repairs, and fixture upgrades."
+      }
+    }
+  ],
+  "description": "Costs depend on your chosen tub material, custom tile versus surround panels, plumbing relocations, underlying subfloor repairs, and fixture upgrades."
+}

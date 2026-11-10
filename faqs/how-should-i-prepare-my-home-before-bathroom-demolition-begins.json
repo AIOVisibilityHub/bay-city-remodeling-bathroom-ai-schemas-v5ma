@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-home-before-bathroom-demolition-begins",
+  "name": "How should I prepare my home before bathroom demolition begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before bathroom demolition begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor begins, you should clear all personal items from cabinets, closets, and countertops to protect them from dust and debris. Establish a dedicated path for the crew from the home entrance to the work area, and make sure pets are secured away from the renovation zone. If this is your only bathroom, you will need to plan alternative bathing and toilet arrangements for the duration of plumbing disconnections. It is also wise to finalize and order all critical materials—such as plumbing valves, tile, and vanities—before demolition starts so work proceeds smoothly.",
+        "@type": "Answer",
+        "description": "Empty all cabinets and countertops, secure pets, clear a pathway for workers, arrange temporary facilities if needed, and confirm materials have arrived before work starts."
+      }
+    }
+  ],
+  "description": "Empty all cabinets and countertops, secure pets, clear a pathway for workers, arrange temporary facilities if needed, and confirm materials have arrived before"
+}

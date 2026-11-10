@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-can-i-make-a-small-bathroom-look-and-feel-larger-without-moving-walls",
+  "name": "How can I make a small bathroom look and feel larger without moving walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small bathroom look and feel larger without moving walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visual space in a tight bathroom increases through strategic lighting, large-format tile, and continuous flooring. Installing a clear glass shower panel instead of an opaque curtain prevents visual interruption and lets light travel throughout the entire room. Recessed storage—such as tiled shower niches and recessed medicine cabinets—stores toiletries inside the wall cavities instead of crowding external countertops. Choosing light-colored tiles and extending floor tile directly into a curbless walk-in shower also removes borders, making the room feel wider.",
+        "@type": "Answer",
+        "description": "Use frameless glass enclosures, recessed wall niches, large tiles, and continuous flooring to make a compact bathroom feel larger."
+      }
+    }
+  ],
+  "description": "Use frameless glass enclosures, recessed wall niches, large tiles, and continuous flooring to make a compact bathroom feel larger."
+}

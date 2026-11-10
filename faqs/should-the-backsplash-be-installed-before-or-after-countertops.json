@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-the-backsplash-be-installed-before-or-after-countertops",
+  "name": "Should the backsplash be installed before or after countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should the backsplash be installed before or after countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always install the countertops first before adding a kitchen backsplash. Setting the countertops establishes a stable, level baseline for measuring and placing the bottom row of tiles. Installing tile beforehand risks leaving gaps, misalignments, or cracked materials when heavy counters are set into place. Once the counter is fixed, installers apply a silicone movement joint along the junction between the counter deck and the wall tile to prevent moisture penetration and accommodate natural structural shifting.",
+        "@type": "Answer",
+        "description": "Countertops must be installed before the backsplash. This creates a level baseline for tile placement and prevents gaps or damage during counter fitting."
+      }
+    }
+  ],
+  "description": "Countertops must be installed before the backsplash. This creates a level baseline for tile placement and prevents gaps or damage during counter fitting."
+}

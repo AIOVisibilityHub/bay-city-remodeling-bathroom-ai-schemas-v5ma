@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-most-affect-the-cost-of-remodeling-a-small-bathroom",
+  "name": "What factors most affect the cost of remodeling a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors most affect the cost of remodeling a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost of a small bathroom remodel depends primarily on fixture selection, plumbing changes, and tile scope. Keeping existing plumbing lines intact keeps labor expenses lower, whereas moving a toilet, shower drain, or vanity requires extensive subfloor access and pipe relocation. Material choices—such as standard acrylic shower surrounds versus full custom floor-to-ceiling tilework—also shift the budget significantly. Setting a realistic plan requires deciding early on whether you need a cosmetic update or a full tear-out down to the wall studs.",
+        "@type": "Answer",
+        "description": "Plumbing relocation, custom tile installation, and material selections have the greatest impact on small bathroom remodeling costs."
+      }
+    }
+  ],
+  "description": "Plumbing relocation, custom tile installation, and material selections have the greatest impact on small bathroom remodeling costs."
+}

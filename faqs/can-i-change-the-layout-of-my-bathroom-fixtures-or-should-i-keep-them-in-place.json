@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-change-the-layout-of-my-bathroom-fixtures-or-should-i-keep-them-in-place",
+  "name": "Can I change the layout of my bathroom fixtures, or should I keep them in place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout of my bathroom fixtures, or should I keep them in place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can change your bathroom layout, but relocating fixtures requires evaluating your home's existing drain lines, vent stacks, and floor framing. Moving a toilet or shower involves cutting into the subfloor or concrete slab to extend waste pipes and ensure proper drainage slope. While moving plumbing increases labor and plumbing expenses, keeping fixtures in their existing locations allows more of your budget to go toward premium tile, lighting, and cabinetry. During the planning stage, a site evaluation confirms whether your structural framework can accommodate new plumbing runs without compromising surrounding spaces.",
+        "@type": "Answer",
+        "description": "You can move fixtures, but relocating toilets, tubs, or sinks requires modifying drain and water supply lines, which increases project labor and overall cost."
+      }
+    }
+  ],
+  "description": "You can move fixtures, but relocating toilets, tubs, or sinks requires modifying drain and water supply lines, which increases project labor and overall cost."
+}

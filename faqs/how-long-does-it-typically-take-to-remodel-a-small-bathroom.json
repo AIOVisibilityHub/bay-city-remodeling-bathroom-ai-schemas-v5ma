@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-typically-take-to-remodel-a-small-bathroom",
+  "name": "How long does it typically take to remodel a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to remodel a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most small bathroom renovations take between one and three weeks of active construction, depending on project complexity. Surface-level cosmetic refreshes involving new vanities, mirrors, and paint move fastest, often wrapping up in several days. However, full overhauls involving drywall repair, custom tile setting, waterproofing, and rerouting plumbing fixtures require coordinated scheduling. Drying times for thinset, grout, and drywall mud also dictate the overall schedule. Before work begins, having all materials on site helps avoid delays during tear-out and rebuilding.",
+        "@type": "Answer",
+        "description": "A small bathroom remodel generally takes one to three weeks, depending on whether plumbing is relocated and custom tile work is installed."
+      }
+    }
+  ],
+  "description": "A small bathroom remodel generally takes one to three weeks, depending on whether plumbing is relocated and custom tile work is installed."
+}

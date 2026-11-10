@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-change-the-drain-location-or-layout-during-a-bathtub-replacement",
+  "name": "Can I change the drain location or layout during a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the drain location or layout during a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home was constructed on a concrete slab, moving the bathtub drain or supply lines requires saw-cutting and trenching the concrete floor. Homes built with raised foundations or wood subfloors allow plumbers to access and reroute plumbing from below, which is simpler and less invasive. When planning a replacement in homes with slab foundations, keeping the drain in its original position minimizes slab demolition, reduces project dust, and keeps labor hours lower while still providing a completely updated fixture and surround.",
+        "@type": "Answer",
+        "description": "Yes, but changing the drain location on a concrete slab requires trenching the concrete, whereas keeping the original location reduces installation time and demolition."
+      }
+    }
+  ],
+  "description": "Yes, but changing the drain location on a concrete slab requires trenching the concrete, whereas keeping the original location reduces installation time and dem"
+}

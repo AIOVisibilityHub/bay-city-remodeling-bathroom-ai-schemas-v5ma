@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-total-cost-of-converting-a-tub-to-a-shower",
+  "name": "What factors influence the total cost of converting a tub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of converting a tub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends on chosen materials, structural conditions, and plumbing modifications. Key cost drivers include tile selection, high-end shower valves, custom glass enclosures, and whether the existing drain line must be resized or moved. If tear-out uncovers hidden moisture damage or rotted framing behind the old tub apron, repairing those elements adds to labor and material expenses. Bay City Remodeling & Bathrooms provides free quotes and negotiable pricing, as well as veteran discounts, to accommodate varied project scopes.",
+        "@type": "Answer",
+        "description": "Costs vary based on custom tile choices, glass doors, plumbing reconfigurations, and necessary subfloor or drywall repairs uncovered behind the old bathtub."
+      }
+    }
+  ],
+  "description": "Costs vary based on custom tile choices, glass doors, plumbing reconfigurations, and necessary subfloor or drywall repairs uncovered behind the old bathtub."
+}

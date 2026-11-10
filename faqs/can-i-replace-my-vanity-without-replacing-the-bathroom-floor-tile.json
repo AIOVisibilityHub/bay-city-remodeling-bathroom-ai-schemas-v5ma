@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-replace-my-vanity-without-replacing-the-bathroom-floor-tile",
+  "name": "Can I replace my vanity without replacing the bathroom floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my vanity without replacing the bathroom floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your new vanity has the same footprint as the original, you can usually keep your current tile intact. However, older vanities were often installed directly over bare subflooring before tile was laid around them. If your new vanity is smaller, sits on raised legs, or floats above the floor, bare subfloor gaps may be visible. You will need to patch the missing floor tile or plan for full floor re-tiling as part of your remodeling project.",
+        "@type": "Answer",
+        "description": "Yes, as long as the new vanity covers the original footprint or matches existing tile. Smaller or raised units may expose unfinished gaps in the flooring."
+      }
+    }
+  ],
+  "description": "Yes, as long as the new vanity covers the original footprint or matches existing tile. Smaller or raised units may expose unfinished gaps in the flooring."
+}

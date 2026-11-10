@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-bathroom-vanity-replacement-usually-take",
+  "name": "How long does a bathroom vanity replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom vanity replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathroom vanity typically takes one to two days for a standard, direct swap. If your project involves moving supply lines, relocating drain pipes, repairing damaged drywall behind the old cabinet, or patching floor tile, the timeline can extend to three or four days. Bay City Remodeling & Bathrooms coordinates the removal, plumbing connections, and wall prep so the work proceeds smoothly. Custom-ordered countertops or specialized cabinetry may also require additional lead time before installation begins.",
+        "@type": "Answer",
+        "description": "A standard vanity replacement usually takes one to two days. Projects requiring plumbing relocation, tile work, or drywall repairs often take three to four days."
+      }
+    }
+  ],
+  "description": "A standard vanity replacement usually takes one to two days. Projects requiring plumbing relocation, tile work, or drywall repairs often take three to four days"
+}

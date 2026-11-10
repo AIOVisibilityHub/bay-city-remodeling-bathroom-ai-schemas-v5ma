@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-kitchen-renovation-take-from-start-to-finish",
+  "name": "How long does a typical kitchen renovation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen renovation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project duration depends heavily on whether the existing footprint remains the same or walls and utility lines are moved. A cosmetic update that replaces surfaces, cabinet doors, and appliances often takes a few weeks once materials arrive. A complete gut remodel that involves structural changes, drywall replacement, and custom cabinetry generally requires several weeks of on-site construction. Delivery lead times for custom cabinets or specialty stone can also affect the schedule, meaning work is often scheduled around material delivery to reduce the amount of time the home is without an operational kitchen.",
+        "@type": "Answer",
+        "description": "A cosmetic kitchen refresh can take a few weeks, while a comprehensive renovation with structural work or layout shifts typically spans several weeks after materials arrive."
+      }
+    }
+  ],
+  "description": "A cosmetic kitchen refresh can take a few weeks, while a comprehensive renovation with structural work or layout shifts typically spans several weeks after mate"
+}

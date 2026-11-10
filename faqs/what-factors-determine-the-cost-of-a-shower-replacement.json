@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-a-shower-replacement",
+  "name": "What factors determine the cost of a shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of a shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several core factors influence total project pricing, including the shower footprint size, chosen wall materials, plumbing changes, and door glass style. Custom tile installation generally carries higher labor and material investments than prefabricated surrounds because of detailed waterproofing, cutting, and grouting work. Relocating drains, updating aging valves, or adding luxury fixtures like rainfall showerheads and body sprays will also adjust plumbing costs. At Bay City Remodeling & Bathrooms, pricing is negotiable based on material selections and scope, and qualified military veterans can take advantage of veteran discounts to help manage overall renovation expenses.",
+        "@type": "Answer",
+        "description": "Costs depend on shower dimensions, custom tile versus surround materials, plumbing modifications, and glass styles. We offer negotiable pricing and veteran discounts to fit your budget."
+      }
+    }
+  ],
+  "description": "Costs depend on shower dimensions, custom tile versus surround materials, plumbing modifications, and glass styles. We offer negotiable pricing and veteran disc"
+}

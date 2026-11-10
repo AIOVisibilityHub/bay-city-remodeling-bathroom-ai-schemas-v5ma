@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/which-countertop-and-tile-materials-work-best-for-guest-bathrooms",
+  "name": "Which countertop and tile materials work best for guest bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which countertop and tile materials work best for guest bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Select materials for a guest bathroom that combine durability, stain resistance, and low daily maintenance. Porcelain and ceramic tiles are outstanding choices for floors and shower surrounds because they resist water absorption and do not require regular sealing like natural stone. For vanity countertops, engineered quartz outperforms natural marble by resisting makeup stains, toothpaste etching, and water spots. Moisture-resistant drywall behind vanities and cement backer board in wet areas protect against hidden humidity issues, ensuring long-term structural integrity.",
+        "@type": "Answer",
+        "description": "Engineered quartz countertops and porcelain or ceramic tiles work best because they resist moisture, stains, and daily wear without needing regular sealing."
+      }
+    }
+  ],
+  "description": "Engineered quartz countertops and porcelain or ceramic tiles work best because they resist moisture, stains, and daily wear without needing regular sealing."
+}

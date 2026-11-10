@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-kitchen-island",
+  "name": "What should I prepare before consulting a contractor about a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor about a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a remodeling contractor, gather rough room dimensions, identify your primary goals, and check your flooring continuity. Determine whether you prioritize seating, deep storage drawers, food preparation space, or built-in appliances. Check whether existing flooring runs underneath current cabinets or if bare subfloor will need matching tile or wood. It also helps to note where plumbing and electrical access points sit in surrounding walls. Bay City Remodeling & Bathrooms uses these details during initial consultations to recommend suitable island dimensions and utility configurations.",
+        "@type": "Answer",
+        "description": "Measure your kitchen, decide whether you need seating or appliances, and check your existing flooring condition so your contractor can plan layout and utility connections accurately."
+      }
+    }
+  ],
+  "description": "Measure your kitchen, decide whether you need seating or appliances, and check your existing flooring condition so your contractor can plan layout and utility c"
+}

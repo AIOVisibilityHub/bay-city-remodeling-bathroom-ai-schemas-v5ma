@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-plumbing-fixtures-be-moved-to-any-location-during-an-expansion",
+  "name": "Can plumbing fixtures be moved to any location during an expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can plumbing fixtures be moved to any location during an expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding a bathroom frequently requires relocating main drain stacks, supply lines, and vent piping, especially when repositioning toilets, showers, or sinks. Moving plumbing in homes built on concrete slabs—common throughout the Tampa Bay area—involves cutting and trenching concrete, which adds complexity compared to homes over a crawl space. When planning your layout, your contractor checks the main soil stack location to design an efficient plumbing route that ensures proper slope and venting without unnecessary trenching.",
+        "@type": "Answer",
+        "description": "Plumbing fixtures can usually be moved, but trenching concrete slabs or rerouting vents and main drain stacks increases project complexity and costs."
+      }
+    }
+  ],
+  "description": "Plumbing fixtures can usually be moved, but trenching concrete slabs or rerouting vents and main drain stacks increases project complexity and costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-home-before-bathroom-floor-installation-begins",
+  "name": "How should I prepare my home before bathroom floor installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before bathroom floor installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installers arrive, clear all personal belongings from the bathroom, including rugs, hampers, toiletries, and vanity drawer contents if the vanity is being moved or replaced. Ensure a clear pathway from the front door or garage to the bathroom so workers can carry tools, thin-set, and heavy tile boxes. If the bathroom being renovated is your home’s only full bath, establish alternative arrangements, as the toilet and shower will be out of service during the installation and curing period.",
+        "@type": "Answer",
+        "description": "Remove all personal items and rugs from the bathroom, clear a pathway for installers, and plan for temporary bathroom access while materials cure."
+      }
+    }
+  ],
+  "description": "Remove all personal items and rugs from the bathroom, clear a pathway for installers, and plan for temporary bathroom access while materials cure."
+}

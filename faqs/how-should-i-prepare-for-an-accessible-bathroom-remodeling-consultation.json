@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-for-an-accessible-bathroom-remodeling-consultation",
+  "name": "How should I prepare for an accessible bathroom remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for an accessible bathroom remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a contractor, document the specific physical needs of the individuals using the space today and anticipate changes over the next five to ten years. Measure whether equipment like transfer benches, wheelchairs, or walkers must pass through the doorway and turn comfortably inside the room. Make note of current pain points, such as reaching valves, stepping into deep tubs, or slippery tile floors. It is also beneficial to verify where existing plumbing stacks and electrical switches sit, and to have rough dimensions or photos ready when submitting an online consultation form or scheduling an on-site walkthrough.",
+        "@type": "Answer",
+        "description": "List specific mobility needs, measure any mobility aids like wheelchairs or walkers, note difficult bathroom areas, and identify existing plumbing and electrical placements."
+      }
+    }
+  ],
+  "description": "List specific mobility needs, measure any mobility aids like wheelchairs or walkers, note difficult bathroom areas, and identify existing plumbing and electrica"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-an-initial-kitchen-remodeling-consultation",
+  "name": "How should I prepare before an initial kitchen remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before an initial kitchen remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before design planning begins, gather key information about your household routines and aesthetic preferences. Measure the rough dimensions of your room, take note of traffic flow bottlenecks, and create a list of must-have features, such as kitchen islands or pantry storage. You should also select or measure the appliances you intend to keep or purchase, as exact appliance dimensions determine cabinet sizing and countertop cutouts. Finally, note any existing electrical or plumbing concerns—such as low water pressure or an inadequate number of outlets—so the remodeling team can address these issues during rough construction.",
+        "@type": "Answer",
+        "description": "List your storage priorities, select your preferred appliance styles and dimensions, measure general room boundaries, and note any plumbing or electrical issues you want resolved."
+      }
+    }
+  ],
+  "description": "List your storage priorities, select your preferred appliance styles and dimensions, measure general room boundaries, and note any plumbing or electrical issues"
+}

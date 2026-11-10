@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/why-is-waterproofing-necessary-behind-bathroom-wall-and-floor-tile",
+  "name": "Why is waterproofing necessary behind bathroom wall and floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is waterproofing necessary behind bathroom wall and floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile itself is water-resistant, but it is not waterproof on its own. Grout lines and standard cement backer boards can absorb moisture and humidity over time. If a continuous waterproofing barrier is missing behind the tile, water can migrate into wall studs and subflooring, causing hidden structural rot and mold development. Professional shower builds incorporate specialized waterproofing systems, such as sealed waterproof membranes and correctly sloped shower pans, to keep moisture within the drainage plane and away from the home's structural framing.",
+        "@type": "Answer",
+        "description": "Tile and grout absorb moisture over time. A continuous waterproof membrane behind the tile prevents water from reaching the framing, stopping rot and mold growth."
+      }
+    }
+  ],
+  "description": "Tile and grout absorb moisture over time. A continuous waterproof membrane behind the tile prevents water from reaching the framing, stopping rot and mold growt"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-replace-countertops-in-the-tampa-bay-area",
+  "name": "Do I need a building permit to replace countertops in the Tampa Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to replace countertops in the Tampa Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, replacing an existing countertop with identical dimensions does not require a municipal building permit, but structural changes or major utility relocations do. For example, if your countertop upgrade involves moving plumbing lines, reconfiguring gas connections for a cooktop, or altering load-bearing partition walls, local building departments in Brandon, Tampa, or surrounding Hillsborough County require permits. Bay City Remodeling & Bathrooms is fully insured, bonded, and carries workers' compensation, managing necessary trades and code requirements when kitchen or bathroom renovations include larger structural or mechanical alterations.",
+        "@type": "Answer",
+        "description": "Simple countertop swaps do not need permits, but permits are required if you move plumbing, relocate gas lines, or alter structural walls."
+      }
+    }
+  ],
+  "description": "Simple countertop swaps do not need permits, but permits are required if you move plumbing, relocate gas lines, or alter structural walls."
+}

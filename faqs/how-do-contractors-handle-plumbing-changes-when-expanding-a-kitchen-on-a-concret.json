@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-handle-plumbing-changes-when-expanding-a-kitchen-on-a-concret",
+  "name": "How do contractors handle plumbing changes when expanding a kitchen on a concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors handle plumbing changes when expanding a kitchen on a concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding a kitchen on a concrete slab foundation requires cutting and trenching the concrete to relocate plumbing pipes and drain lines. In regions like the Tampa Bay area, where homes are predominantly built on monolithic slabs, shifting a sink or dishwasher across an expanded footprint means saw-cutting the slab, excavating soil, laying new PVC pipe at the required slope, and pouring back concrete. Electrical lines can often be routed through ceilings or walls, but relocating below-floor plumbing represents a major phase of demolition that requires thorough scheduling before new subfloors and tile or luxury vinyl can be installed.",
+        "@type": "Answer",
+        "description": "Contractors saw-cut and trench the concrete slab to lay new water and drain lines at proper slope, then re-pour concrete before floor installation."
+      }
+    }
+  ],
+  "description": "Contractors saw-cut and trench the concrete slab to lay new water and drain lines at proper slope, then re-pour concrete before floor installation."
+}

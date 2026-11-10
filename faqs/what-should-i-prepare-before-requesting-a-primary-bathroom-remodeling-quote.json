@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-primary-bathroom-remodeling-quote",
+  "name": "What should I prepare before requesting a primary bathroom remodeling quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a primary bathroom remodeling quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before reaching out to a contractor, clarify your main goals, budget preferences, and desired layout adjustments. Note recurring functional issues, such as poor ventilation, inadequate lighting, or lack of counter space. Measure your basic room dimensions, take photos of fixture placements, and decide if you want to keep existing plumbing locations or reposition sinks and toilets. Having a clear wish list helps Bay City Remodeling & Bathrooms evaluate your primary suite during the initial consultation and produce an accurate scope of work.",
+        "@type": "Answer",
+        "description": "Identify your layout goals, list must-have fixtures, set a preliminary budget, and take photos of current plumbing and electrical locations before scheduling your consultation."
+      }
+    }
+  ],
+  "description": "Identify your layout goals, list must-have fixtures, set a preliminary budget, and take photos of current plumbing and electrical locations before scheduling yo"
+}

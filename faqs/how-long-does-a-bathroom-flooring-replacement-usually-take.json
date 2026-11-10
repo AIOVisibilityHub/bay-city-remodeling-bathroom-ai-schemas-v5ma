@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-bathroom-flooring-replacement-usually-take",
+  "name": "How long does a bathroom flooring replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom flooring replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing bathroom flooring typically takes two to four days, depending on room size and material selection. The process starts with removing old tile or vinyl and inspecting the subfloor for water damage. Installing an uncoupling membrane or cement backer board ensures proper tile adhesion and moisture protection. Laying tile and letting the mortar cure requires at least twenty-four hours before grouting. If your project includes a vanity replacement, tub-to-shower conversion, or plumbing adjustments, the overall schedule expands accordingly.",
+        "@type": "Answer",
+        "description": "Most bathroom floor replacements take two to four days. Demolition, subfloor preparation, mortar curing, and grouting all factor into the project timeline."
+      }
+    }
+  ],
+  "description": "Most bathroom floor replacements take two to four days. Demolition, subfloor preparation, mortar curing, and grouting all factor into the project timeline."
+}

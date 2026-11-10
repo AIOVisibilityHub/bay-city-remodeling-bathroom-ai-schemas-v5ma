@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-bathroom-expansion-project-typically-take",
+  "name": "How long does a bathroom expansion project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom expansion project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most full bathroom expansions take several weeks to a few months, depending on the project scope. A project that only shifts non-bearing interior partition walls moves much faster than one requiring an exterior foundation, roofline integration, or substantial plumbing reroutes. The timeline generally moves through design planning, permitting, structural framing, rough-in mechanicals, drywall installation, waterproofing, and tile placement before installing fixtures. Unforeseen issues behind older walls or custom vanity lead times can also adjust the schedule.",
+        "@type": "Answer",
+        "description": "A bathroom expansion typically takes several weeks to a few months, depending on permitting, structural framing needs, plumbing relocations, and finish installations."
+      }
+    }
+  ],
+  "description": "A bathroom expansion typically takes several weeks to a few months, depending on permitting, structural framing needs, plumbing relocations, and finish installa"
+}

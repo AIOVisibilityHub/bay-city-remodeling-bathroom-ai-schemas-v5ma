@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/is-a-double-sink-vanity-better-than-a-single-vanity-for-a-primary-bathroom",
+  "name": "Is a double-sink vanity better than a single vanity for a primary bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a double-sink vanity better than a single vanity for a primary bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A double vanity provides independent sinks and separate storage zones for two people, improving morning routines in shared primary suites. However, double vanities require at least 60 inches of wall width to avoid cramped counter space and elbow room. If your bathroom footprint is narrow, a larger single vanity with expansive drawer banks and wider countertop area often provides more practical daily storage than squeezing two sinks into tight dimensions. Balancing plumbing rough-ins with available floor space determines the best fit.",
+        "@type": "Answer",
+        "description": "A double vanity benefits couples sharing morning routines if you have 60 inches or more of wall space; otherwise, a spacious single vanity provides superior counter storage."
+      }
+    }
+  ],
+  "description": "A double vanity benefits couples sharing morning routines if you have 60 inches or more of wall space; otherwise, a spacious single vanity provides superior cou"
+}

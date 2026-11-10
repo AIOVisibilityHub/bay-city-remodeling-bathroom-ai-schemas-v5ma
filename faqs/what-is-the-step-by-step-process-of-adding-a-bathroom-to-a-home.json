@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-of-adding-a-bathroom-to-a-home",
+  "name": "What is the step-by-step process of adding a bathroom to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of adding a bathroom to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom involves architectural design, permitting, framing, plumbing rough-ins, electrical wiring, insulation, drywall installation, tile work, fixture placement, and final inspections. The process begins with planning the layout and confirming your home's plumbing connection points. Once structural framing is up, plumbers run drain lines, vent stacks, and supply pipes. After mechanical and electrical rough-ins pass local inspection, the project moves to hanging and finishing drywall, waterproofing wet zones, setting tile, installing vanities and plumbing fixtures, and completing trim work before final walkthrough.",
+        "@type": "Answer",
+        "description": "The process moves from design and permitting to framing, rough-in plumbing and electrical, drywall and waterproofing, tiling, setting fixtures, and passing final inspections."
+      }
+    }
+  ],
+  "description": "The process moves from design and permitting to framing, rough-in plumbing and electrical, drywall and waterproofing, tiling, setting fixtures, and passing fina"
+}

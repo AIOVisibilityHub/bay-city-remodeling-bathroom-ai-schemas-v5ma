@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-cabinet-refacing-and-full-cabinet-replacement",
+  "name": "What is the difference between cabinet refacing and full cabinet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet refacing and full cabinet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing updates the exterior components of your cabinets, whereas full cabinet replacement removes everything down to the drywall. The main tradeoff involves layout and condition. With refacing, you keep your current kitchen layout, existing cabinet boxes, and existing countertops intact. It causes less disruption and preserves usable infrastructure. In contrast, full replacement allows you to reconfigure your floor plan, move appliances, or replace structurally failing cabinet boxes, but it requires complete tear-out and longer construction schedules.",
+        "@type": "Answer",
+        "description": "Refacing updates existing cabinet boxes with new doors, fronts, and veneer. Full replacement removes the entire cabinet structure to rebuild or reconfigure the layout."
+      }
+    }
+  ],
+  "description": "Refacing updates existing cabinet boxes with new doors, fronts, and veneer. Full replacement removes the entire cabinet structure to rebuild or reconfigure the"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-stages-of-a-full-kitchen-remodeling-project",
+  "name": "What are the main stages of a full kitchen remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main stages of a full kitchen remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel involves a multi-step workflow starting with an initial consultation and layout planning. During this planning stage, homeowners select cabinets, countertop surfaces, and appliances while deciding whether to keep or alter the room's footprint. Once the scope is finalized, the crew begins demolition, carefully removing old fixtures, flooring, and cabinetry. Structural modifications and behind-the-wall trade work—such as moving plumbing lines, adding electrical circuits, or repairing drywall—occur before new elements arrive. Installation follows in sequence: new cabinets, measured countertops, sink fixtures, appliances, and decorative tile. Project managers coordinate these stages so finishes align smoothly from rough-in to the final walkthrough.",
+        "@type": "Answer",
+        "description": "A kitchen remodel includes initial planning and design, demolition, rough-in adjustments, drywall repairs, cabinet and countertop installation, appliance hookups, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "A kitchen remodel includes initial planning and design, demolition, rough-in adjustments, drywall repairs, cabinet and countertop installation, appliance hookup"
+}

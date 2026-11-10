@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-have-to-move-plumbing-and-gas-lines-when-redesigning-my-kitchen-layout",
+  "name": "Do I have to move plumbing and gas lines when redesigning my kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to move plumbing and gas lines when redesigning my kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing or gas lines depends on whether your new design relocates the sink, dishwasher, or cooking range. When you change where these fixtures sit, pipes and supply lines must be extended or rerouted through floors and walls, which adds labor and installation time. If you keep the primary work zones in their original positions and redesign only the surrounding cabinetry, storage, and island space, you can often avoid plumbing and gas adjustments. A home consultation helps establish whether relocating those utilities is necessary to achieve your functional goals.",
+        "@type": "Answer",
+        "description": "You only need to move plumbing or gas lines if your new layout relocates the sink, dishwasher, or range away from their original utility hookups."
+      }
+    }
+  ],
+  "description": "You only need to move plumbing or gas lines if your new layout relocates the sink, dishwasher, or range away from their original utility hookups."
+}

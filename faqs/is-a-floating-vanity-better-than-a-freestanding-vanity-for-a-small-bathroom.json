@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/is-a-floating-vanity-better-than-a-freestanding-vanity-for-a-small-bathroom",
+  "name": "Is a floating vanity better than a freestanding vanity for a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a floating vanity better than a freestanding vanity for a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floating vanity mounts directly to wall studs, leaving floor space exposed beneath the cabinet. This open gap creates an optical illusion of a broader room and provides space to tuck small items, like stepping stools or wastebaskets. However, floating units usually offer less interior drawer capacity than freestanding cabinets because plumbing traps must fit into tighter profiles. Wall-hung units also require sturdy wood blocking inside the drywall to support the weight safely, making structural preparation essential during the rough-in stage.",
+        "@type": "Answer",
+        "description": "Floating vanities visually expand floor space, but freestanding vanities usually provide more built-in storage."
+      }
+    }
+  ],
+  "description": "Floating vanities visually expand floor space, but freestanding vanities usually provide more built-in storage."
+}

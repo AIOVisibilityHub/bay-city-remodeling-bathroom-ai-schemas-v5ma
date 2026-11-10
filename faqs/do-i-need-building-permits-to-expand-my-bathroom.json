@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-expand-my-bathroom",
+  "name": "Do I need building permits to expand my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits to expand my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, expanding a bathroom almost always requires local building permits. Structural wall alterations, running new electrical wiring, and altering plumbing lines must comply with local residential codes and pass municipal inspections. In Florida communities across Hillsborough, Pinellas, and surrounding counties, permitting ensures structural integrity and water safety standards. Licensed general contractors handle the plan submissions, permit pulling, and scheduling of rough-in and final building inspections so the project meets required codes.",
+        "@type": "Answer",
+        "description": "Yes, permits are required when altering walls, moving plumbing lines, or expanding the electrical system to comply with local building and safety codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are required when altering walls, moving plumbing lines, or expanding the electrical system to comply with local building and safety codes."
+}

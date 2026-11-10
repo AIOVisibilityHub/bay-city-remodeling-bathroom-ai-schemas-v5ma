@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-change-my-kitchen-layout-when-replacing-cabinets",
+  "name": "Can I change my kitchen layout when replacing cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my kitchen layout when replacing cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not have to keep the exact same kitchen footprint when replacing your cabinets. Full replacement is the ideal opportunity to eliminate awkward corner dead zones, add a functional kitchen island, extend upper cabinets to the ceiling, or improve workflow between the sink, refrigerator, and range. However, altering the layout involves trade coordination, as shifting cabinet runs may require drywall repairs, flooring infill where old bases sat, and relocating underlying electrical lines or plumbing rough-ins. A planned design assessment clarifies what structural or utility adjustments are needed.",
+        "@type": "Answer",
+        "description": "Yes, replacing cabinets allows you to change your layout, add an island, or extend storage, though shifting utilities and patching drywall may be necessary."
+      }
+    }
+  ],
+  "description": "Yes, replacing cabinets allows you to change your layout, add an island, or extend storage, though shifting utilities and patching drywall may be necessary."
+}

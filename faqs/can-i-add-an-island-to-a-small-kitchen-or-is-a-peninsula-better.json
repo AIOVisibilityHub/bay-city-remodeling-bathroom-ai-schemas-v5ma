@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-add-an-island-to-a-small-kitchen-or-is-a-peninsula-better",
+  "name": "Can I add an island to a small kitchen, or is a peninsula better?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add an island to a small kitchen, or is a peninsula better?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most compact kitchens lack the clearance needed for a standard island, making a peninsula or movable cart a better fit. A permanent kitchen island requires at least 36 to 42 inches of walkway clearance on all operational sides to safely open oven and dishwasher doors. If your kitchen cannot provide that buffer, a peninsula connected to an existing wall provides additional counter space and storage without cutting off central movement. In very tight spaces, built-in base drawers maximize storage without requiring floor space for an island.",
+        "@type": "Answer",
+        "description": "Islands need 36 to 42 inches of clearance around all sides to function safely. If space is tight, a peninsula provides counter surface and storage without crowding walkways."
+      }
+    }
+  ],
+  "description": "Islands need 36 to 42 inches of clearance around all sides to function safely. If space is tight, a peninsula provides counter surface and storage without crowd"
+}

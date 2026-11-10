@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-change-the-layout-and-move-plumbing-fixtures-in-my-master-bathroom",
+  "name": "Can I change the layout and move plumbing fixtures in my master bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout and move plumbing fixtures in my master bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating primary bathroom plumbing is often possible, but concrete slab foundations common in Florida require careful planning. Moving a toilet, shower drain, or vanity requires cutting or trenching into the concrete slab to tie into existing drain lines and vent stacks. Keeping plumbing fixtures along existing walls reduces labor time, demolition dust, and structural trenching costs. If your primary suite feels cramped or dysfunctional, reconfiguring lines can create better pathways, accommodate double vanities, or allow for an expanded walk-in shower.",
+        "@type": "Answer",
+        "description": "Yes, layouts can be adjusted, though moving drains and supply lines on concrete slabs involves trenching, added rough-in labor, and coordination with existing vent lines."
+      }
+    }
+  ],
+  "description": "Yes, layouts can be adjusted, though moving drains and supply lines on concrete slabs involves trenching, added rough-in labor, and coordination with existing v"
+}

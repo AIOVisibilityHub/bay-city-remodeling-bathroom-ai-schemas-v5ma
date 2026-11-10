@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-add-a-sink-or-dishwasher-to-a-kitchen-island",
+  "name": "Can I add a sink or dishwasher to a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a sink or dishwasher to a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can install a sink or dishwasher in an island, but it requires routing water supply, drain lines, and electrical connections beneath your flooring. If your home sits on a concrete slab foundation, as is typical in Florida, the installation team must cut through the concrete to lay plumbing and drainage lines before patching the floor. While this process adds labor and planning time, it provides dedicated workflow zones and keeps dirty dishes off perimeter counters. You should evaluate whether the improved layout justifies the floor trenching and utility coordination.",
+        "@type": "Answer",
+        "description": "Yes, but adding a sink or dishwasher requires running plumbing and electrical lines beneath the floor, which may involve cutting into concrete slab foundations."
+      }
+    }
+  ],
+  "description": "Yes, but adding a sink or dishwasher requires running plumbing and electrical lines beneath the floor, which may involve cutting into concrete slab foundations."
+}

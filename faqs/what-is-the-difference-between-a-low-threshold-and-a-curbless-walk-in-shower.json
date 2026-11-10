@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-low-threshold-and-a-curbless-walk-in-shower",
+  "name": "What is the difference between a low-threshold and a curbless walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a low-threshold and a curbless walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers can be designed with a low-profile threshold or as a completely curbless, barrier-free entry. A low-profile curb features a small lip of three to four inches that helps keep water contained while offering easier step-in access than a deep tub. A barrier-free or curbless shower eliminates the threshold entirely so the bathroom floor flows seamlessly into the shower pan. Choosing a curbless design often requires modifying or recessing the floor framing to ensure proper slope toward the drain, making it slightly more labor-intensive but ideal for aging in place or wheelchair accessibility.",
+        "@type": "Answer",
+        "description": "Low-threshold showers have a small step-over curb to catch water, while curbless showers feature a flat, barrier-free entry that requires recessed subflooring for drainage."
+      }
+    }
+  ],
+  "description": "Low-threshold showers have a small step-over curb to catch water, while curbless showers feature a flat, barrier-free entry that requires recessed subflooring f"
+}

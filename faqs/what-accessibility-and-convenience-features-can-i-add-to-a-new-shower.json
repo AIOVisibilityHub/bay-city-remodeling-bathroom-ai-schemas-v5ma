@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-accessibility-and-convenience-features-can-i-add-to-a-new-shower",
+  "name": "What accessibility and convenience features can I add to a new shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility and convenience features can I add to a new shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower replacement can be fully customized with features designed to improve comfort, safety, and everyday convenience. Popular upgrades include recessed wall niches to keep toiletries organized without reducing standing space, integrated corner benches or fold-down teak seating, and frameless glass panels that make the entire room feel larger. For enhanced safety and accessibility, low-profile or zero-threshold curbs eliminate tripping hazards, while securely anchored grab bars and handheld slide-bar showerheads provide flexible support for users of all physical abilities.",
+        "@type": "Answer",
+        "description": "You can add low or zero-threshold entries, built-in niches, floating benches, reinforced grab bars, and handheld shower wands to balance safety, storage, and modern comfort."
+      }
+    }
+  ],
+  "description": "You can add low or zero-threshold entries, built-in niches, floating benches, reinforced grab bars, and handheld shower wands to balance safety, storage, and mo"
+}

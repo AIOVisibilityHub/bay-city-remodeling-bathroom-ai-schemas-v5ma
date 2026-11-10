@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-measurements-should-i-take-before-choosing-a-replacement-vanity",
+  "name": "What measurements should I take before choosing a replacement vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements should I take before choosing a replacement vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering a new vanity, measure the total width, depth, and height of your available space. Confirm that cabinet doors and drawers can open fully without striking the toilet, entry door, or shower enclosure. Additionally, locate your water shutoff valves and drain outlet on the wall, noting their height from the floor. Bay City Remodeling & Bathrooms reviews these rough-in measurements to confirm your preferred vanity style will fit without forcing costly wall alterations or unexpected pipe modifications.",
+        "@type": "Answer",
+        "description": "Measure the available width, depth, and height, check door swing clearances, and note the exact placement of your existing plumbing pipes and shutoff valves."
+      }
+    }
+  ],
+  "description": "Measure the available width, depth, and height, check door swing clearances, and note the exact placement of your existing plumbing pipes and shutoff valves."
+}

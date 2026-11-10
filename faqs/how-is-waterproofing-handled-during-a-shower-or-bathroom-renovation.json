@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-waterproofing-handled-during-a-shower-or-bathroom-renovation",
+  "name": "How is waterproofing handled during a shower or bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is waterproofing handled during a shower or bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper waterproofing is critical behind tile because tile and grout are not completely waterproof on their own. During renovation, installers apply dedicated waterproofing membranes over cement backer board or moisture-resistant drywall before any tile adhesive is laid. Shower pans require pre-slope testing and sealed corner bandings around niches, benches, and plumbing valves to stop leaks into wall cavities. In the humid climate of the Tampa Bay area, reliable vapor management and functioning exhaust ventilation prevent mold growth and drywall decay. Quality waterproofing preserves your home’s structural framing for decades.",
+        "@type": "Answer",
+        "description": "Waterproofing involves applying certified membranes over cement backer boards or moisture-resistant drywall, sealing joints, and properly pitching shower pans before setting tile."
+      }
+    }
+  ],
+  "description": "Waterproofing involves applying certified membranes over cement backer boards or moisture-resistant drywall, sealing joints, and properly pitching shower pans b"
+}

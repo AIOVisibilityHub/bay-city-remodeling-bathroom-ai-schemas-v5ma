@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-know-when-it-is-time-to-remodel-my-shower-rather-than-just-repair-it",
+  "name": "How do I know when it is time to remodel my shower rather than just repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to remodel my shower rather than just repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signaling factors include persistent leaks, cracked or loose tiles, deteriorating grout, and visible mold or mildew that returns despite regular cleaning. Spongy floorboards around the shower base or peeling paint on adjacent walls often indicate trapped water and failing waterproofing behind the walls. A remodel is also warranted when an existing high-step bathtub or narrow enclosure poses accessibility challenges for household members who need safer entry and exit.",
+        "@type": "Answer",
+        "description": "You should remodel if you notice recurring mold, failing waterproofing, cracked tiles, soft subflooring, persistent leaks, or if you require safer physical access."
+      }
+    }
+  ],
+  "description": "You should remodel if you notice recurring mold, failing waterproofing, cracked tiles, soft subflooring, persistent leaks, or if you require safer physical acce"
+}

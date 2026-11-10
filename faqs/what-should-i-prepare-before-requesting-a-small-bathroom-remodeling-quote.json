@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-small-bathroom-remodeling-quote",
+  "name": "What should I prepare before requesting a small bathroom remodeling quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a small bathroom remodeling quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling a consultation, measure your room dimensions and note what is and is not functioning in your daily routine. Take inventory of must-have storage needs, such as linens, toiletries, and cleaning supplies, so the layout accommodates adequate cabinetry or wall shelving. It is also helpful to clarify who uses the space—whether it serves as a primary guest bath or a master suite—and gather photo examples of finishes you like. Finally, check your home’s existing water shut-off valves to ensure accessibility during demolition.",
+        "@type": "Answer",
+        "description": "Measure room dimensions, clarify your storage needs, gather style preferences, and confirm your main plumbing shut-off location."
+      }
+    }
+  ],
+  "description": "Measure room dimensions, clarify your storage needs, gather style preferences, and confirm your main plumbing shut-off location."
+}

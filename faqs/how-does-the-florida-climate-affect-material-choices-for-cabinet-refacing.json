@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-the-florida-climate-affect-material-choices-for-cabinet-refacing",
+  "name": "How does the Florida climate affect material choices for cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the Florida climate affect material choices for cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In humid coastal and inland environments across the Tampa Bay area, including Brandon and Hillsborough County, high moisture levels can cause inferior particleboard or improperly sealed veneers to swell and peel over time. Homeowners should select moisture-resistant materials, durable laminates, or properly sealed solid wood doors engineered to perform well in Florida humidity. Professional installers ensure strong adhesion and edge banding so kitchen steam and humidity do not compromise the refacing veneer.",
+        "@type": "Answer",
+        "description": "High humidity in the Tampa Bay area requires moisture-resistant materials, durable adhesives, and well-sealed door finishes to prevent warping, swelling, and peeling."
+      }
+    }
+  ],
+  "description": "High humidity in the Tampa Bay area requires moisture-resistant materials, durable adhesives, and well-sealed door finishes to prevent warping, swelling, and pe"
+}

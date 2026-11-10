@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-an-open-concept-kitchen-remodel",
+  "name": "What factors determine the cost of an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept kitchen remodel is primarily driven by structural changes, utility relocation, and finish selections. Taking down non-load-bearing partition walls is relatively straightforward, but removing structural walls introduces beam installation, temporary shoring, and drywall tie-ins. Relocating a sink, dishwasher, or range to a new central island requires trenching or reconfiguring plumbing, gas pipes, and electrical wiring through the subfloor. High-end cabinetry, custom island countertops, and continuous flooring across previously separate rooms also impact overall expenditure. Clear plans made prior to demolition help manage unforeseen costs related to hidden pipes or framing inconsistencies.",
+        "@type": "Answer",
+        "description": "Costs depend on whether walls are load-bearing, utility relocation needs for sinks or islands, flooring tie-ins, and selected finishes like cabinets."
+      }
+    }
+  ],
+  "description": "Costs depend on whether walls are load-bearing, utility relocation needs for sinks or islands, flooring tie-ins, and selected finishes like cabinets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-unexpected-issues-often-surface-when-remodeling-small-kitchens-in-older-tam",
+  "name": "What unexpected issues often surface when remodeling small kitchens in older Tampa Bay homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unexpected issues often surface when remodeling small kitchens in older Tampa Bay homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Florida homes, contractors frequently encounter outdated two-prong wiring, aluminum wiring, and moisture damage behind drywall near exterior walls. Concrete block construction can also limit where recessed wall cabinets or relocated plumbing runs can easily sit without framing out additional furring strips. Identifying plumbing pipe corrosion or previous slow leaks around sink bases during demolition is also common. Addressing these hidden issues early ensures your new cabinets and modern appliances rest on stable, code-compliant infrastructure.",
+        "@type": "Answer",
+        "description": "Common hidden issues include outdated electrical wiring, moisture inside exterior wall drywall, and plumbing line corrosion that must be addressed during demolition."
+      }
+    }
+  ],
+  "description": "Common hidden issues include outdated electrical wiring, moisture inside exterior wall drywall, and plumbing line corrosion that must be addressed during demoli"
+}

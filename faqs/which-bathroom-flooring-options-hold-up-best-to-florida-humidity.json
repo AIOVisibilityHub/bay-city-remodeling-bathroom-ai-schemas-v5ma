@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/which-bathroom-flooring-options-hold-up-best-to-florida-humidity",
+  "name": "Which bathroom flooring options hold up best to Florida humidity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which bathroom flooring options hold up best to Florida humidity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida's humid climate, luxury vinyl plank and glazed porcelain tile outperform natural hardwoods and standard laminate. Florida homes built on concrete slabs can experience moisture vapor transmission from the ground, which can warp real wood or delaminate cheap flooring. Selecting materials rated for high humidity prevents buckling, mold growth, and premature adhesive failure. When choosing flooring in Tampa Bay communities, ensure proper moisture barrier underlayment is specified for slab or crawlspace foundations.",
+        "@type": "Answer",
+        "description": "Glazed porcelain tile and waterproof luxury vinyl plank perform best against Florida’s high humidity and ground moisture vapor on concrete slabs."
+      }
+    }
+  ],
+  "description": "Glazed porcelain tile and waterproof luxury vinyl plank perform best against Florida’s high humidity and ground moisture vapor on concrete slabs."
+}

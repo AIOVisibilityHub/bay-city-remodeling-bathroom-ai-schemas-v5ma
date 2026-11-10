@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-install-a-kitchen-island",
+  "name": "How long does it take to install a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen island installation typically takes between one and three weeks once cabinetry and stone materials arrive. The timeframe depends directly on utility integration and floor prep. A basic dry island—which features only cabinets and a countertop—installs quickly within a few days. If your project includes cutting concrete for plumbing, roughing in dedicated electrical circuits, or venting a cooktop hood, construction takes longer to accommodate inspections and trade coordination. Bay City Remodeling & Bathrooms coordinates these phases from initial planning through final trim to minimize household disruption.",
+        "@type": "Answer",
+        "description": "A typical island installation takes one to three weeks once materials arrive, depending on whether plumbing, electrical work, or concrete trenching is required."
+      }
+    }
+  ],
+  "description": "A typical island installation takes one to three weeks once materials arrive, depending on whether plumbing, electrical work, or concrete trenching is required."
+}

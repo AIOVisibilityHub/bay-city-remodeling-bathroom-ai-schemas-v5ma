@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-a-countertop-replacement",
+  "name": "What factors determine the cost of a countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of a countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop replacement costs depend on total square footage, material selection, edge profiles, and the number of cutouts needed for sinks, cooktops, and faucets. Material tiers vary widely, with natural stone and premium quartz sitting at higher price points than standard laminates or entry-level slabs. Additional cost factors include tear-out and haul-away of existing surfaces, subtop preparation, and reconnecting plumbing fixtures. Bay City Remodeling & Bathrooms reviews project details through a free-quote consultation, offering negotiable pricing and veteran discounts to help homeowners manage remodeling budgets effectively.",
+        "@type": "Answer",
+        "description": "Cost is determined by square footage, material choice, slab rarity, edge detailing, sink cutouts, removal of old counters, and plumbing work."
+      }
+    }
+  ],
+  "description": "Cost is determined by square footage, material choice, slab rarity, edge detailing, sink cutouts, removal of old counters, and plumbing work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-should-a-homeowner-consider-an-accessible-bathroom-remodel",
+  "name": "When should a homeowner consider an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a homeowner consider an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should plan an accessible remodel before a sudden mobility change or fall makes bathing dangerous. Warning signs include difficulty stepping over the tub rim, holding onto towel bars or vanity edges for balance, feeling unstable on wet tile, or struggling to stand from a standard low toilet. Planning early allows you to select attractive fixtures and design a cohesive layout without the pressure of an emergency discharge from a medical facility. Homeowners planning multigenerational living arrangements or home additions for aging parents also benefit from addressing accessible bathroom modifications during the initial construction phase.",
+        "@type": "Answer",
+        "description": "Consider remodeling when stepping over tub walls feels unsafe, balance is unsteady, or before aging parents move in, avoiding rushed decisions after an injury."
+      }
+    }
+  ],
+  "description": "Consider remodeling when stepping over tub walls feels unsafe, balance is unsteady, or before aging parents move in, avoiding rushed decisions after an injury."
+}

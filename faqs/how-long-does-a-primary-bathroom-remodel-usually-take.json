@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-primary-bathroom-remodel-usually-take",
+  "name": "How long does a primary bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom remodel typically takes between three to six weeks of active construction, though complex structural changes can take longer. The total timeline depends on your chosen scope, material lead times, and structural adjustments. Custom tile work, vanity fabrication, and moving plumbing lines from an existing tub to a walk-in shower require additional time for rough-in inspections and waterproofing cure periods. Bay City Remodeling & Bathrooms coordinates trades, inspections, and drywall finishes to keep work progressing smoothly across Brandon and Tampa Bay area homes.",
+        "@type": "Answer",
+        "description": "Most primary bathroom remodels take 3 to 6 weeks of active work, depending on fixture lead times, plumbing alterations, custom tile installations, and required municipal inspections."
+      }
+    }
+  ],
+  "description": "Most primary bathroom remodels take 3 to 6 weeks of active work, depending on fixture lead times, plumbing alterations, custom tile installations, and required"
+}

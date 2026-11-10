@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-borrowing-closet-space-and-building-an-exterior-a",
+  "name": "What is the difference between borrowing closet space and building an exterior addition for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between borrowing closet space and building an exterior addition for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Borrowing interior space is generally faster and avoids exterior foundation work, but it reduces the footprint of adjacent living areas or closets. An exterior home addition preserves your existing interior rooms and allows for a customized layout, but it involves foundation pouring, exterior framing, and exterior wall modifications such as siding or stucco work. Homeowners must evaluate whether sacrificing storage space or an adjoining bedroom corner makes more sense than paying for structural exterior construction. The condition of your surrounding rooms and overall budget help decide the right trade-off.",
+        "@type": "Answer",
+        "description": "Interior expansion takes space from closets or adjacent rooms without exterior work, while an exterior addition expands outward, preserving indoor space but requiring new foundation work."
+      }
+    }
+  ],
+  "description": "Interior expansion takes space from closets or adjacent rooms without exterior work, while an exterior addition expands outward, preserving indoor space but req"
+}

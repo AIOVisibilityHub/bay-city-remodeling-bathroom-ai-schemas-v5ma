@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-properly-waterproof-a-custom-primary-shower",
+  "name": "How do contractors properly waterproof a custom primary shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors properly waterproof a custom primary shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper shower waterproofing requires a continuous, sealed barrier behind tile surfaces to stop water penetration before it reaches drywall or framing. Modern installations use bonded waterproof membranes, preformed sloped pans or mud beds, and sealed pipe collars rather than relying solely on grout and tile. Water that penetrates tile must drain properly without saturating wall studs. Bay City Remodeling & Bathrooms handles complete shower construction, combining secure backing, professional tile setting, and drywall repair to prevent long-term moisture and mold issues.",
+        "@type": "Answer",
+        "description": "Contractors apply continuous waterproof sheet or liquid membranes over cementitious backer boards and sloped shower pans, sealing all seams, drains, and pipe penetrations."
+      }
+    }
+  ],
+  "description": "Contractors apply continuous waterproof sheet or liquid membranes over cementitious backer boards and sloped shower pans, sealing all seams, drains, and pipe pe"
+}

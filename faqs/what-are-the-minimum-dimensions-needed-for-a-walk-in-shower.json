@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-minimum-dimensions-needed-for-a-walk-in-shower",
+  "name": "What are the minimum dimensions needed for a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the minimum dimensions needed for a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower should measure at least 36 by 36 inches for a comfortable standalone enclosure, though larger footprints provide more versatility. When converting a standard bathtub, the typical dimensions of 60 inches wide by 30 to 32 inches deep create an ideal rectangular shower. If you plan to incorporate a built-in tiled bench, multiple showerheads, or a doorless entry that controls water overspray, an enclosure measuring 42 by 60 inches or larger is recommended to ensure adequate elbow room and proper drainage flow.",
+        "@type": "Answer",
+        "description": "A comfortable walk-in shower needs at least 36 by 36 inches, though a converted bathtub space of 60 by 30 inches provides optimal room for everyday use."
+      }
+    }
+  ],
+  "description": "A comfortable walk-in shower needs at least 36 by 36 inches, though a converted bathtub space of 60 by 30 inches provides optimal room for everyday use."
+}

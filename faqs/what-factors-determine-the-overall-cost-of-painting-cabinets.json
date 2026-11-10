@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-overall-cost-of-painting-cabinets",
+  "name": "What factors determine the overall cost of painting cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the overall cost of painting cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost of cabinet painting depends on the total count of doors and drawer fronts, the condition of the existing wood, and the chosen paint finish. Custom details like intricate crown molding, open shelving, or heavily detailed raised-panel doors require extra labor compared to flat Shaker-style profiles. Additional factors include repairs for surface gouges, whether you want the interior shelves painted, and whether you plan to install new hardware that requires filling and redrilling existing holes. Requesting an in-person estimate helps establish an accurate price based on your specific kitchen configuration.",
+        "@type": "Answer",
+        "description": "Costs depend on the number of doors and drawers, wood condition, door profile complexity, necessary repairs, and whether new hardware requires drilling new hole patterns."
+      }
+    }
+  ],
+  "description": "Costs depend on the number of doors and drawers, wood condition, door profile complexity, necessary repairs, and whether new hardware requires drilling new hole"
+}

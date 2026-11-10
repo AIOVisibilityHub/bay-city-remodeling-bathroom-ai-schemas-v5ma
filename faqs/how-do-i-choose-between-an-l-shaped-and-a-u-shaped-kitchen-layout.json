@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-between-an-l-shaped-and-a-u-shaped-kitchen-layout",
+  "name": "How do I choose between an L-shaped and a U-shaped kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between an L-shaped and a U-shaped kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An L-shaped layout fits open floor plans and smaller spaces, whereas a U-shaped layout provides maximum continuous counter space and storage in dedicated rooms. An L-shaped footprint keeps two walls open, making it simple to incorporate an island and integrate the kitchen with an adjoining living area. A U-shaped footprint wraps around three walls, which isolates the work area from foot traffic but may make multiple cooks feel confined if the central floor space is narrow.",
+        "@type": "Answer",
+        "description": "Choose an L-shape if you want an open feel with room for an island; choose a U-shape if you prioritize continuous countertop space and enclosed storage."
+      }
+    }
+  ],
+  "description": "Choose an L-shape if you want an open feel with room for an island; choose a U-shape if you prioritize continuous countertop space and enclosed storage."
+}

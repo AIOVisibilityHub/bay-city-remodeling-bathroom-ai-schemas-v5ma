@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-preparation-is-required-before-guest-bathroom-remodeling-begins",
+  "name": "What preparation is required before guest bathroom remodeling begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is required before guest bathroom remodeling begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before demolition starts, you must complete design planning, order all key materials, and clear out the space. First, finalize your floor plan and confirm that fixtures fit your exact room measurements. Order vanities, tile, valves, and lighting early to ensure everything is on-site or scheduled for delivery before work begins. Empty all cabinets, medicine chests, and decorative items from the bathroom and adjacent hallways to prevent dust damage. Finally, establish where work crews will enter your home and designate an alternative bathroom for your household during construction.",
+        "@type": "Answer",
+        "description": "Finalize your design, ensure all materials and fixtures are ordered, clear out personal belongings, and set up an alternative bathroom for daily use."
+      }
+    }
+  ],
+  "description": "Finalize your design, ensure all materials and fixtures are ordered, clear out personal belongings, and set up an alternative bathroom for daily use."
+}

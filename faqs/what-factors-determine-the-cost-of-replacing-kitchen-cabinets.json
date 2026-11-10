@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-replacing-kitchen-cabinets",
+  "name": "What factors determine the cost of replacing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of replacing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen cabinet replacement depends on the linear footage of your kitchen, the box construction, door styles, and material grades. Stock manufactured cabinets are the most budget-friendly, while semi-custom and fully custom cabinetry tailored to unique room dimensions carry higher price points. Project scope also influences total investment: preserving your existing layout minimizes plumbing and electrical modifications, whereas reconfiguring walls, adding an island, or integrating built-in appliances increases labor, drywall preparation, and trade coordination. Inquiries and formal quotes help establish exact pricing tailored to your space.",
+        "@type": "Answer",
+        "description": "Cost depends on the total linear footage, custom versus stock build quality, door styles, and whether your layout requires moving plumbing, electrical, or drywall."
+      }
+    }
+  ],
+  "description": "Cost depends on the total linear footage, custom versus stock build quality, door styles, and whether your layout requires moving plumbing, electrical, or drywa"
+}

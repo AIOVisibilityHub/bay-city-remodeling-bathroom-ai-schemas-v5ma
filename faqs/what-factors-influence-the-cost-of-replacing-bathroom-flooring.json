@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-replacing-bathroom-flooring",
+  "name": "What factors influence the cost of replacing bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of replacing bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom flooring replacement costs vary based on square footage, material selection, and existing subfloor conditions. Basic ceramic tile and luxury vinyl are generally the most affordable options, whereas large-format porcelain, marble, or intricate mosaic patterns require more labor and specialized setting materials. Other cost factors include demolishing previous tile, replacing moisture-compromised plywood, resetting the toilet, and integrating the new floor with an existing shower pan or vanity. In-person consultations help determine precise pricing based on specific layout needs.",
+        "@type": "Answer",
+        "description": "Costs depend on bathroom square footage, material type, subfloor repair needs, demolition complexity, and resetting fixtures like toilets and vanities."
+      }
+    }
+  ],
+  "description": "Costs depend on bathroom square footage, material type, subfloor repair needs, demolition complexity, and resetting fixtures like toilets and vanities."
+}

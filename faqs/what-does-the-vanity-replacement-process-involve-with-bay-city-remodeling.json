@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-does-the-vanity-replacement-process-involve-with-bay-city-remodeling",
+  "name": "What does the vanity replacement process involve with Bay City Remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does the vanity replacement process involve with Bay City Remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay City Remodeling & Bathrooms handles the entire vanity replacement from initial planning to final inspection. The process begins with assessing your space, plumbing layout, and storage preferences during a consultation. The crew disconnects existing water and drain lines, disposes of the old unit, repairs compromised drywall, and confirms plumbing rough-ins align. Once the new vanity, sink, faucet, and countertop are leveled and secured, all plumbing connections are tested for leaks, and edges are sealed with waterproof silicone.",
+        "@type": "Answer",
+        "description": "The team handles removal, drywall prep, plumbing adjustments, vanity anchoring, countertop and sink installation, faucet hookup, and complete leak testing."
+      }
+    }
+  ],
+  "description": "The team handles removal, drywall prep, plumbing adjustments, vanity anchoring, countertop and sink installation, faucet hookup, and complete leak testing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-remodeling-an-in-law-suite-bathroom-differ-from-a-standard-guest-bath",
+  "name": "How does remodeling an in-law suite bathroom differ from a standard guest bath?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does remodeling an in-law suite bathroom differ from a standard guest bath?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In-law suite and guest addition bathrooms require specialized planning focused on universal design, privacy, and dedicated mechanical access. Unlike standard secondary baths, these spaces often accommodate aging parents or long-term visitors, making curbless walk-in showers, reinforced backing for grab bars, and wider doorways essential priorities. Plumbing rough-ins must also account for connection to the main sewer line or septic system, often requiring dedicated subfloor trenching. Bay City Remodeling & Bathrooms coordinates these requirements when building guest additions, accessory dwelling units, and multigenerational living spaces.",
+        "@type": "Answer",
+        "description": "In-law suite bathrooms focus on long-term accessibility, such as curbless showers and wider doorways, and often involve new structural plumbing connections."
+      }
+    }
+  ],
+  "description": "In-law suite bathrooms focus on long-term accessibility, such as curbless showers and wider doorways, and often involve new structural plumbing connections."
+}

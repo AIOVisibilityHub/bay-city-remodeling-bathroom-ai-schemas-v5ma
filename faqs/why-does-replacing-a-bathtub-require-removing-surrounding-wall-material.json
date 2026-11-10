@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/why-does-replacing-a-bathtub-require-removing-surrounding-wall-material",
+  "name": "Why does replacing a bathtub require removing surrounding wall material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does replacing a bathtub require removing surrounding wall material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathtub involves far more than lifting out the old tub. The contractor must disconnect the drain, overflow, and supply lines, which often requires opening access panels or cutting through drywall. Because tubs are set during rough construction, removing an existing unit usually damages the surrounding wallboard and tile, requiring fresh moisture-resistant backing and wall repairs. Additionally, hidden water leaks beneath an old tub frequently expose rotted framing or subflooring that must be structurally resolved before the new basin can rest securely on a level mortar bed.",
+        "@type": "Answer",
+        "description": "Bathtub flanges sit behind wall coverings, so pulling out the tub requires removing the lower wall surround. This also reveals any hidden subfloor or plumbing damage."
+      }
+    }
+  ],
+  "description": "Bathtub flanges sit behind wall coverings, so pulling out the tub requires removing the lower wall surround. This also reveals any hidden subfloor or plumbing d"
+}

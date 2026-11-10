@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-laminate-or-thermofoil-cabinets-be-painted-as-well-as-real-wood",
+  "name": "Can laminate or thermofoil cabinets be painted as well as real wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can laminate or thermofoil cabinets be painted as well as real wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, laminate, thermofoil, and composite cabinets can be painted successfully, provided the underlying core material remains firmly bonded and free of swelling. The key difference lies in the prep work: slick laminate and vinyl surfaces lack natural wood pores, so they require thorough degreasing, mechanical scuff-sanding, and a heavy-duty bonding primer formulated specifically to adhere to non-porous plastics. If thermofoil is already peeling away from the underlying medium-density fiberboard, the loose coating must be repaired or removed before any paint can be applied.",
+        "@type": "Answer",
+        "description": "Yes, but they require specialized bonding primers and scuff-sanding to adhere to smooth, non-porous surfaces. Any peeling thermofoil must be addressed prior to painting."
+      }
+    }
+  ],
+  "description": "Yes, but they require specialized bonding primers and scuff-sanding to adhere to smooth, non-porous surfaces. Any peeling thermofoil must be addressed prior to"
+}

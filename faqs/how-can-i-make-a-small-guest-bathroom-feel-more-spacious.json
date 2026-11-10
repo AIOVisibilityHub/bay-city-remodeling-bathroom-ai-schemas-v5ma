@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-can-i-make-a-small-guest-bathroom-feel-more-spacious",
+  "name": "How can I make a small guest bathroom feel more spacious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small guest bathroom feel more spacious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can make a compact guest bath feel significantly larger by selecting visual-expanding fixtures, thoughtful lighting, and continuous surfaces. Installing a floating vanity reveals floor space beneath, which tricks the eye into seeing a larger room. Replacing a shower curtain with clear frameless glass allows sightlines to extend directly to the back wall. Using large-format wall tile with minimal grout lines also reduces visual clutter. Recessed lighting paired with a backlit mirror improves brightness across all corners without encroaching on overhead or wall space.",
+        "@type": "Answer",
+        "description": "Use a floating vanity, clear glass shower doors, large-format tile, and recessed lighting to eliminate visual barriers and open up the room."
+      }
+    }
+  ],
+  "description": "Use a floating vanity, clear glass shower doors, large-format tile, and recessed lighting to eliminate visual barriers and open up the room."
+}

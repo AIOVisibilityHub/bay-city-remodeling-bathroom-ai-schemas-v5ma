@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-tub-to-shower-conversion-take-to-complete",
+  "name": "How long does a tub-to-shower conversion take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tub-to-shower conversion take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tub-to-shower conversion takes between several days and two weeks of active construction, depending on project complexity. Straightforward replacements using standard prefabricated pans and basic plumbing alignments require less time. Custom designs featuring intricate tile patterns, built-in recessed niches, shower benches, or plumbing line relocations extend the timeline. Additional days may also be required if opening the walls reveals hidden subfloor water damage or outdated pipes that require repair before new materials can be installed.",
+        "@type": "Answer",
+        "description": "Most tub-to-shower conversions take between several days and two weeks, depending on whether you choose prefabricated components or custom tile and plumbing adjustments."
+      }
+    }
+  ],
+  "description": "Most tub-to-shower conversions take between several days and two weeks, depending on whether you choose prefabricated components or custom tile and plumbing adj"
+}

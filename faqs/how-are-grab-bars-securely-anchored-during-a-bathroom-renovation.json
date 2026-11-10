@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-are-grab-bars-securely-anchored-during-a-bathroom-renovation",
+  "name": "How are grab bars securely anchored during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are grab bars securely anchored during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard grab bars cannot simply be secured into tile or drywall with standard anchors, as they must support significant pulling and falling weight. During the framing or demolition stage, contractors open the drywall to install solid wood blocking between the wall studs directly behind where the bars will sit. If you are retrofitting an existing finished wall without a full tear-out, specialized heavy-duty hollow-wall anchors engineered specifically for grab bars must be used, or the bars must align precisely with existing structural wall studs. Ensuring solid internal backing prevents the fixtures from pulling free under sudden force.",
+        "@type": "Answer",
+        "description": "Grab bars are anchored by installing solid wood blocking between wall studs during demolition, or by securing directly into structural studs with heavy-duty fasteners."
+      }
+    }
+  ],
+  "description": "Grab bars are anchored by installing solid wood blocking between wall studs during demolition, or by securing directly into structural studs with heavy-duty fas"
+}

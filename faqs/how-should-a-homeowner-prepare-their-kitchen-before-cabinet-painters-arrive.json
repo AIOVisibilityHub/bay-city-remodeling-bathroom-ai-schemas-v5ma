@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-a-homeowner-prepare-their-kitchen-before-cabinet-painters-arrive",
+  "name": "How should a homeowner prepare their kitchen before cabinet painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare their kitchen before cabinet painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the painting crew arrives, you should clear off all countertops, empty out the drawers, and remove items from the front edges of cabinet shelves. While completely emptying the interior of every cabinet box is not always necessary if only exterior face frames are being coated, clearing out items ensures they stay protected from fine sanding dust. You should also decide whether you are keeping your current cabinet knobs and pulls or replacing them, and have any new hardware on site so technicians know whether old mounting holes need to be filled.",
+        "@type": "Answer",
+        "description": "Clear off countertops, empty all drawers, clear perimeter items from shelves, and provide any new cabinet hardware so screw holes can be filled and redrilled if necessary."
+      }
+    }
+  ],
+  "description": "Clear off countertops, empty all drawers, clear perimeter items from shelves, and provide any new cabinet hardware so screw holes can be filled and redrilled if"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-replacing-a-bathroom-vanity",
+  "name": "What factors determine the cost of replacing a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of replacing a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost depends on vanity width, whether it is prefabricated or custom-built, countertop materials, and required plumbing modifications. A straightforward swap using existing plumbing lines costs significantly less than a remodel requiring pipe relocation or drywall restoration. Other elements that influence the final quote include faucet hardware, sink style, and mirror or lighting updates. Bay City Remodeling & Bathrooms provides detailed estimates after reviewing your existing layout, and offers negotiable pricing options alongside veteran discounts for qualifying clients.",
+        "@type": "Answer",
+        "description": "Costs depend on cabinet size, materials, countertop selection, and whether plumbing or drywall must be moved or repaired. Bay City Remodeling provides custom quotes."
+      }
+    }
+  ],
+  "description": "Costs depend on cabinet size, materials, countertop selection, and whether plumbing or drywall must be moved or repaired. Bay City Remodeling provides custom qu"
+}

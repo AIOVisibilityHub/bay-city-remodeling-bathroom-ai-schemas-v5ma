@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-bathroom-renovation",
+  "name": "What factors have the biggest impact on the cost of a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the cost of a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom remodeling costs depend on the size of the room, chosen materials, and whether you move structural walls or existing plumbing. Cosmetic updates such as replacing a vanity, toilet, and standard fixtures cost significantly less than tearing down walls or relocating waste lines. Major expenses include custom tile work, walk-in shower waterproofing systems, high-end countertops, and required drywall patching. To control your budget, determine whether you can keep your existing plumbing footprint intact before final design selections begin. Bay City Remodeling & Bathrooms offers free quotes and negotiable pricing based on project scope.",
+        "@type": "Answer",
+        "description": "Costs are driven primarily by plumbing or layout changes, tile selections, custom cabinetry, and the extent of demolition or drywall preparation required."
+      }
+    }
+  ],
+  "description": "Costs are driven primarily by plumbing or layout changes, tile selections, custom cabinetry, and the extent of demolition or drywall preparation required."
+}

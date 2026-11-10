@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-kitchen-before-cabinet-replacement-starts",
+  "name": "How should I prepare my kitchen before cabinet replacement starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before cabinet replacement starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installers arrive, empty all existing upper and lower cabinets, pantry spaces, and drawers completely. Box up dishes, glassware, and cookware, labeling essentials to keep accessible in a temporary dining or meal-prep area. Clear adjacent walkways and counters so the team has unobstructed access for carrying out bulky old boxes and bringing in new units. If your cabinet replacement involves removing countertops that house the sink or cooktop, disconnect utilities safely in advance and verify where delivery boxes can be staged prior to mounting.",
+        "@type": "Answer",
+        "description": "Empty all cabinets and drawers completely, set up a temporary meal station, clear work pathways, and ensure utility connections to sinks and appliances are addressed."
+      }
+    }
+  ],
+  "description": "Empty all cabinets and drawers completely, set up a temporary meal station, clear work pathways, and ensure utility connections to sinks and appliances are addr"
+}

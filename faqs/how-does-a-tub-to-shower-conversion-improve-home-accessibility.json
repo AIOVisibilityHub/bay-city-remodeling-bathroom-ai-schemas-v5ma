@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-a-tub-to-shower-conversion-improve-home-accessibility",
+  "name": "How does a tub-to-shower conversion improve home accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a tub-to-shower conversion improve home accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a tub to a low-threshold or curbless shower significantly improves safety for aging in place or limited mobility. Stepping over a conventional tub rim is a frequent cause of bathroom slips. Conversions allow for barrier-free entry, slip-resistant flooring, anchored grab bars, handheld sprayers, and built-in bench seating. These functional modifications support multigenerational living arrangements and enable seniors to maintain independence in their existing homes without sacrificing aesthetic appeal.",
+        "@type": "Answer",
+        "description": "It eliminates the barrier of stepping over a tall bathtub ledge and allows for safety enhancements such as grab bars, non-slip floors, and integrated seating."
+      }
+    }
+  ],
+  "description": "It eliminates the barrier of stepping over a tall bathtub ledge and allows for safety enhancements such as grab bars, non-slip floors, and integrated seating."
+}

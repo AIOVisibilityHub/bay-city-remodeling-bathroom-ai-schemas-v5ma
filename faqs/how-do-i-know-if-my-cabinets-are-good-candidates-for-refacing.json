@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-know-if-my-cabinets-are-good-candidates-for-refacing",
+  "name": "How do I know if my cabinets are good candidates for refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my cabinets are good candidates for refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing is typically appropriate if your existing cabinet boxes are structurally sound, level, and free of moisture or pest damage. Homeowners choose refacing when they are satisfied with their current kitchen footprint, storage capacity, and appliance locations, but dislike outdated wood tones, chipped finishes, or dated door profiles. If the interior shelving and structural framing are sagging, rotted, or broken, a full replacement is usually necessary instead of refacing.",
+        "@type": "Answer",
+        "description": "Your cabinets are ideal for refacing if the internal boxes are sturdy, level, and undamaged, and you are satisfied with your existing kitchen layout."
+      }
+    }
+  ],
+  "description": "Your cabinets are ideal for refacing if the internal boxes are sturdy, level, and undamaged, and you are satisfied with your existing kitchen layout."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-remodel-my-kitchen",
+  "name": "Do I need building permits to remodel my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits to remodel my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are generally required whenever a kitchen renovation involves structural changes, running new electrical circuits, moving plumbing supply lines, or shifting mechanical venting. Cosmetic updates—such as painting, swapping cabinet hardware, or replacing existing countertops in the exact same footprint—often do not require municipal permits. However, opening walls to create open-concept living, installing additional GFCI outlets, or relocating a sink demands permit filing and scheduled inspections with local building departments. Working with insured and bonded construction professionals ensures these requirements are handled correctly so your project complies with current building standards.",
+        "@type": "Answer",
+        "description": "Permits are required for structural alterations or moving plumbing, gas, and electrical lines, but surface updates like countertop or fixture swaps generally do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required for structural alterations or moving plumbing, gas, and electrical lines, but surface updates like countertop or fixture swaps generally do"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-features-are-included-in-an-accessible-bathroom-remodel",
+  "name": "What features are included in an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features are included in an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom remodel typically features a curbless walk-in shower, secure grab bars, wider entryways, slip-resistant flooring, comfort-height toilets, and open vanity space. A major decision factor depends on whether the space is being designed for general aging-in-place or for full wheelchair clearance. For seated mobility, the room requires adequate turning clearance and roll-in shower access with linear drains. If the remodel is focused on general fall prevention, simple modifications like replacing a high-sided bathtub with a low-threshold walk-in shower, adding targeted wall reinforcement for handrails, and upgrading lighting may be sufficient without widening the entire bathroom perimeter.",
+        "@type": "Answer",
+        "description": "Accessible bathroom remodels often include zero-threshold walk-in showers, reinforced grab bars, slip-resistant tile, wider doorways, comfort-height toilets, and accessible vanity counters."
+      }
+    }
+  ],
+  "description": "Accessible bathroom remodels often include zero-threshold walk-in showers, reinforced grab bars, slip-resistant tile, wider doorways, comfort-height toilets, an"
+}

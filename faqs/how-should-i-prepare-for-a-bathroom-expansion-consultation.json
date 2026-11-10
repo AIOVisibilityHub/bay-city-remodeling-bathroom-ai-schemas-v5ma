@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-for-a-bathroom-expansion-consultation",
+  "name": "How should I prepare for a bathroom expansion consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a bathroom expansion consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a remodeling contractor, identify which features are essential, such as a freestanding tub, walk-in shower, or dedicated linen closet. Note which rooms border the bathroom and whether you are open to giving up closet space or room footage. Gathering rough dimensions, photographs of current fixtures, and a clear idea of your overall budget will help guide the discussion. Also check if your electrical panel has room for new circuits if you plan to add high-draw items like radiant heating or high-capacity exhaust fans.",
+        "@type": "Answer",
+        "description": "List your must-have fixtures, decide what adjacent space you are willing to give up, and set a clear budget before your initial contractor consultation."
+      }
+    }
+  ],
+  "description": "List your must-have fixtures, decide what adjacent space you are willing to give up, and set a clear budget before your initial contractor consultation."
+}

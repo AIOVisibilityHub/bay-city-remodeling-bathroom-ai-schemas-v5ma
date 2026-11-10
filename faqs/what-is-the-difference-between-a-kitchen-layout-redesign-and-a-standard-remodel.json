@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-kitchen-layout-redesign-and-a-standard-remodel",
+  "name": "What is the difference between a kitchen layout redesign and a standard remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen layout redesign and a standard remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen layout redesign alters the physical footprint and placement of major work zones, while a standard remodel typically updates surfaces within the existing floor plan. In a redesign, you might shift the sink, relocate the range, reconfigure cabinetry runs, or eliminate walls to expand usable floor space. A cosmetic remodel leaves plumbing, gas lines, and walls intact, focusing only on replacing cabinet fronts, countertops, and backsplashes. Choosing a redesign makes sense when traffic bottlenecks or awkward appliance placements make daily cooking frustrating, though it requires more planning for structural, electrical, and plumbing changes.",
+        "@type": "Answer",
+        "description": "A redesign reconfigures the physical footprint, walls, and appliance locations, while a standard remodel updates finishes like cabinets and counters within the existing layout."
+      }
+    }
+  ],
+  "description": "A redesign reconfigures the physical footprint, walls, and appliance locations, while a standard remodel updates finishes like cabinets and counters within the"
+}

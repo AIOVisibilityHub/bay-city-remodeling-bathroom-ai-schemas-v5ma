@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-the-cost-of-cabinet-refacing-compare-to-new-cabinets",
+  "name": "How does the cost of cabinet refacing compare to new cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the cost of cabinet refacing compare to new cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing generally costs significantly less than a full tear-out and custom cabinet replacement because it preserves the internal boxes and minimizes labor. Factors that influence the final investment include the choice of door materials (such as solid wood versus thermofoil or laminate), drawer front design, custom hardware, the total number of openings, and whether accessories like soft-close hinges or roll-out trays are added. Bay City Remodeling provides free quotes and offers negotiable pricing and veteran discounts for renovation work.",
+        "@type": "Answer",
+        "description": "Refacing is typically substantially more cost-effective than new cabinetry because it preserves the cabinet boxes and avoids the demolition labor of a full replacement."
+      }
+    }
+  ],
+  "description": "Refacing is typically substantially more cost-effective than new cabinetry because it preserves the cabinet boxes and avoids the demolition labor of a full repl"
+}

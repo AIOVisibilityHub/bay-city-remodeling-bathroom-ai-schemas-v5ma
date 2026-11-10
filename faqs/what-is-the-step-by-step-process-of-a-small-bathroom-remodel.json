@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-of-a-small-bathroom-remodel",
+  "name": "What is the step-by-step process of a small bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of a small bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard small bathroom remodel begins with design planning and material selection, followed by demolition down to the framing. Once old fixtures, drywall, and flooring are removed, technicians inspect for hidden moisture damage and rough in any updated plumbing and electrical lines. After wall preparation and drywall installation, waterproofing membranes are applied to wet areas before tile setting begins. Once tile and grout cure, technicians install the vanity, toilet, and plumbing trim, finishing with painting, mirrors, and accessories.",
+        "@type": "Answer",
+        "description": "The process includes design, demolition, plumbing and electrical rough-ins, drywall, waterproofing, tiling, and final fixture installation."
+      }
+    }
+  ],
+  "description": "The process includes design, demolition, plumbing and electrical rough-ins, drywall, waterproofing, tiling, and final fixture installation."
+}

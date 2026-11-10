@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-starting-an-open-concept-kitchen-design",
+  "name": "How should I prepare before starting an open-concept kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before starting an open-concept kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare, determine your functional goals, document your storage needs, and decide how you want living areas to connect. Take inventory of small appliances and pantry items to verify whether eliminating upper wall cabinets will require a larger pantry or extra island base cabinets. Review adjacent flooring and ceiling heights, as open plans often require continuous flooring or ceiling leveling across adjoining spaces. It is also beneficial to photograph your current layout and identify which existing utilities, like gas or plumbing lines, you prefer to keep in place to control structural complexity before requesting an estimate.",
+        "@type": "Answer",
+        "description": "Evaluate your storage requirements, review how adjacent rooms connect, and decide whether you want to relocate existing plumbing and electrical lines."
+      }
+    }
+  ],
+  "description": "Evaluate your storage requirements, review how adjacent rooms connect, and decide whether you want to relocate existing plumbing and electrical lines."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-remodel-a-home-into-an-open-concept-kitchen",
+  "name": "How long does it take to remodel a home into an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remodel a home into an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept kitchen remodel typically takes between six and sixteen weeks of active construction, depending on project complexity. Straightforward cosmetic updates and minor layout alterations fall on the shorter end. Projects involving structural wall removal, beam installation, relocating mechanical lines, and drywall finishing take longer. Lead times for custom cabinets, stone slabs, and specialty appliances also dictate project flow and must be ordered well in advance of framing. Preparing for construction involves setting up a temporary cooking station elsewhere in the home, as the kitchen area will remain out of service during active renovation.",
+        "@type": "Answer",
+        "description": "Most open-concept kitchen renovations take 6 to 16 weeks, depending on structural wall removal, utility relocations, and material delivery lead times."
+      }
+    }
+  ],
+  "description": "Most open-concept kitchen renovations take 6 to 16 weeks, depending on structural wall removal, utility relocations, and material delivery lead times."
+}

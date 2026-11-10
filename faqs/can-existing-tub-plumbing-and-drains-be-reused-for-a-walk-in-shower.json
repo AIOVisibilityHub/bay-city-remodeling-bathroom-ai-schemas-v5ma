@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-existing-tub-plumbing-and-drains-be-reused-for-a-walk-in-shower",
+  "name": "Can existing tub plumbing and drains be reused for a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing tub plumbing and drains be reused for a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tub drains are commonly 1.5 inches in diameter, whereas standard walk-in shower drains require a 2-inch diameter pipe to handle rapid water flow and prevent pooling. During conversion, the contractor cuts into the subfloor or slab to enlarge the drain line and trap. The drain location often shifts from the edge of the space to the center or a linear trench. Water supply lines must also be raised, as shower mixing valves sit higher on the wall than bathtub spouts.",
+        "@type": "Answer",
+        "description": "Existing water lines can often be adapted, but tub drains typically must be upgraded from 1.5 inches to a 2-inch pipe to handle shower water flow without backing up."
+      }
+    }
+  ],
+  "description": "Existing water lines can often be adapted, but tub drains typically must be upgraded from 1.5 inches to a 2-inch pipe to handle shower water flow without backin"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-a-new-shower-waterproofed-to-prevent-leaks-behind-the-walls",
+  "name": "How is a new shower waterproofed to prevent leaks behind the walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a new shower waterproofed to prevent leaks behind the walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper waterproofing requires a multi-layered barrier behind your finished tile to prevent moisture from reaching framing and drywall. Construction begins with solid backing, followed by a dedicated waterproof pan liner or pre-formed waterproof shower tray sloped toward the drain. The surrounding shower walls are lined with moisture-resistant backer board and coated with a continuous liquid or sheet waterproofing membrane. Tile and grout shed surface water, but this underlying sealed membrane is what stops leaks, protecting your home against hidden structural decay and moisture intrusion.",
+        "@type": "Answer",
+        "description": "Waterproofing involves installing moisture-resistant backer board, a sloped pan or liner, and a continuous liquid or sheet membrane beneath the tile to block moisture."
+      }
+    }
+  ],
+  "description": "Waterproofing involves installing moisture-resistant backer board, a sloped pan or liner, and a continuous liquid or sheet membrane beneath the tile to block mo"
+}

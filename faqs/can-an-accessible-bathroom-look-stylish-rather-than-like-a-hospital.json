@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-an-accessible-bathroom-look-stylish-rather-than-like-a-hospital",
+  "name": "Can an accessible bathroom look stylish rather than like a hospital?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an accessible bathroom look stylish rather than like a hospital?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modern accessible remodeling uses universal design principles to deliver high safety without clinical styling. You can combine stylish porcelain or natural stone textured tile with designer grab bars that double as towel rails, toilet paper holders, or shower shelves in brushed nickel, matte black, or brass finishes. Floating or open-base vanities provide necessary leg clearance for seated users while maintaining an open, contemporary appearance. Frameless glass shower enclosures, built-in quartz bench seating, and recessed niche storage create a luxury spa aesthetic while remaining fully functional for mobility aids.",
+        "@type": "Answer",
+        "description": "Yes. Modern accessible designs incorporate decorative grab bars that match designer finishes, frameless glass, floating vanities, and textured tile to create a high-end spa aesthetic."
+      }
+    }
+  ],
+  "description": "Yes. Modern accessible designs incorporate decorative grab bars that match designer finishes, frameless glass, floating vanities, and textured tile to create a"
+}

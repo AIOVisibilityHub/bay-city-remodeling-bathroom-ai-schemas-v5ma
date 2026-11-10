@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-special-considerations-apply-to-bathroom-additions-in-the-tampa-bay-area",
+  "name": "What special considerations apply to bathroom additions in the Tampa Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What special considerations apply to bathroom additions in the Tampa Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, exterior additions must meet regional wind-load requirements, energy codes, and local setback boundaries from your property lines. In neighborhoods throughout Tampa, Brandon, and coastal communities in Hillsborough and Pinellas counties, high humidity also demands strict moisture barriers, adequate mechanical ventilation, and mildew-resistant drywall. If building outward, your contractor must also match exterior finishes, such as blending new stucco with existing home exterior walls, while ensuring proper site drainage away from the new foundation.",
+        "@type": "Answer",
+        "description": "Additions must comply with Florida wind-load codes, local setback limits, and humidity management while blending exterior stucco with the existing home."
+      }
+    }
+  ],
+  "description": "Additions must comply with Florida wind-load codes, local setback limits, and humidity management while blending exterior stucco with the existing home."
+}

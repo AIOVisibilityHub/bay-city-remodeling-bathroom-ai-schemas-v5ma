@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-convert-my-existing-bathtub-into-a-walk-in-shower",
+  "name": "Can I convert my existing bathtub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing bathtub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an old bathtub into a walk-in shower is one of the most common bathroom remodeling projects. The process involves removing the existing tub, evaluating the underlying plumbing and subfloor, relocating the drain if necessary, and installing a new waterproof shower pan, wall surround, and fixtures. A major decision factor is plumbing placement; tub drains are typically 1.5 inches, whereas shower drains require a 2-inch pipe to handle water flow properly. While you gain easier accessibility, open space, and a modern aesthetic, the tradeoff is losing a soaking basin, which can be an important consideration for households with small children.",
+        "@type": "Answer",
+        "description": "Yes, converting a tub into a walk-in shower is common and involves removing the tub, updating the drain size, installing waterproofing, and adding tile or wall surrounds."
+      }
+    }
+  ],
+  "description": "Yes, converting a tub into a walk-in shower is common and involves removing the tub, updating the drain size, installing waterproofing, and adding tile or wall"
+}

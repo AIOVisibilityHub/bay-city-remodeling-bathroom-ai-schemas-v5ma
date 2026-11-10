@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-guest-bathroom-remodel-usually-take",
+  "name": "How long does a guest bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a guest bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest bathroom remodel typically takes two to four weeks of active construction once materials arrive. The overall schedule depends on whether the project involves a cosmetic update or structural modifications. A cosmetic refresh involving fixture swaps, vanity replacement, and painting can wrap up in under two weeks. A full gut renovation that includes drywall repair, waterproofing, custom tile installation, and moving plumbing lines often requires three to four weeks. Lead times for custom vanities, specialty tile, or glass shower enclosures must be factored into the planning phase before demolition begins to prevent on-site delays.",
+        "@type": "Answer",
+        "description": "A guest bathroom remodel typically takes two to four weeks of active construction, depending on whether plumbing lines move or custom tile and fixtures are installed."
+      }
+    }
+  ],
+  "description": "A guest bathroom remodel typically takes two to four weeks of active construction, depending on whether plumbing lines move or custom tile and fixtures are inst"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-an-indoor-kitchen-expansion-compare-to-building-an-outdoor-kitchen",
+  "name": "How does an indoor kitchen expansion compare to building an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an indoor kitchen expansion compare to building an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor kitchen extensions are popular across Central Florida, but an indoor kitchen expansion differs significantly in terms of daily utility, climate control, and construction demands. An indoor expansion requires fully enclosed framing, insulation, HVAC duct tie-ins, and seamless interior drywall integration, making it usable in all weather conditions. An exterior outdoor kitchen, built on a covered patio or deck, adds cooking flexibility and entertaining space without altering the home's main thermal envelope. Bay City Remodeling & Bathrooms builds both interior additions and custom outdoor kitchens, helping homeowners weigh entertaining desires against everyday family cooking requirements.",
+        "@type": "Answer",
+        "description": "An indoor expansion adds climate-controlled living space and full-service daily cooking, while an outdoor kitchen creates open-air entertaining space on a patio."
+      }
+    }
+  ],
+  "description": "An indoor expansion adds climate-controlled living space and full-service daily cooking, while an outdoor kitchen creates open-air entertaining space on a patio"
+}

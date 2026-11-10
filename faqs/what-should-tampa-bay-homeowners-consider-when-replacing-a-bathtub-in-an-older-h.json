@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-tampa-bay-homeowners-consider-when-replacing-a-bathtub-in-an-older-h",
+  "name": "What should Tampa Bay homeowners consider when replacing a bathtub in an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should Tampa Bay homeowners consider when replacing a bathtub in an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners throughout Brandon, Tampa, and surrounding Hillsborough and Pinellas communities often deal with high indoor humidity and legacy plumbing in older neighborhoods like Historic Kenwood, Hyde Park, or Seminole Heights. In these homes, removing an older tub frequently reveals outdated galvanized piping, past hidden moisture intrusion, or uneven framing. A professional replacement resolves these regional challenges by installing current water shutoff valves, pairing tubs with cement backer boards or moisture-resistant drywall, and ensuring proper waterproof flashing before tiling.",
+        "@type": "Answer",
+        "description": "Older area homes often have aging galvanized pipes and hidden moisture behind surrounds, making updated shutoffs, level framing, and water-resistant wall backing essential."
+      }
+    }
+  ],
+  "description": "Older area homes often have aging galvanized pipes and hidden moisture behind surrounds, making updated shutoffs, level framing, and water-resistant wall backin"
+}

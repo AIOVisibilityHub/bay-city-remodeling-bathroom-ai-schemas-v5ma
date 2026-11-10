@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-is-it-worth-relocating-plumbing-in-a-guest-bathroom",
+  "name": "When is it worth relocating plumbing in a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it worth relocating plumbing in a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing fixtures should be moved only when the existing layout genuinely restricts movement or daily functionality. Keeping your sink, toilet, and shower in their current locations saves significant labor and rough-in costs, preserving more of your budget for premium tile and cabinetry. Moving fixtures requires opening subfloors or walls, re-routing water supply lines, and altering waste-and-vent stacks. If the current door swings into the toilet or a guest cannot enter the shower comfortably, relocating fixtures is worth the additional investment to correct structural flow.",
+        "@type": "Answer",
+        "description": "Relocating plumbing is worth the cost only if your current layout causes severe clearance issues or blocks comfortable access to the toilet, sink, or shower."
+      }
+    }
+  ],
+  "description": "Relocating plumbing is worth the cost only if your current layout causes severe clearance issues or blocks comfortable access to the toilet, sink, or shower."
+}

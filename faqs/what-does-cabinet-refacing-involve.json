@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-does-cabinet-refacing-involve",
+  "name": "What does cabinet refacing involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does cabinet refacing involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing involves updating the exterior look of existing cabinetry while keeping the original cabinet boxes in place. The cabinet doors, drawer fronts, and hardware are removed and replaced with new ones. A matching wood veneer or laminate is then applied over the exterior face frames and exposed side panels of the existing cabinet boxes. This process allows homeowners to change the color, wood grain, profile, and style of their kitchen or bathroom cabinetry without doing full demolition or removing existing countertop surfaces.",
+        "@type": "Answer",
+        "description": "Cabinet refacing replaces your doors, drawer fronts, and hardware while applying a matching veneer over existing cabinet boxes, giving them a fresh look without demolition."
+      }
+    }
+  ],
+  "description": "Cabinet refacing replaces your doors, drawer fronts, and hardware while applying a matching veneer over existing cabinet boxes, giving them a fresh look without"
+}

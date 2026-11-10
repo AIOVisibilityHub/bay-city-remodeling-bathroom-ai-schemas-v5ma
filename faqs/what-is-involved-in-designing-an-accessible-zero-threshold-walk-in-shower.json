@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-involved-in-designing-an-accessible-zero-threshold-walk-in-shower",
+  "name": "What is involved in designing an accessible zero-threshold walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in designing an accessible zero-threshold walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing an accessible, barrier-free walk-in shower requires eliminating the standard curb to create a seamless transition from the bathroom floor. This curb-free design often involves recessing the shower floor into the subfloor so water drains properly toward a linear or center drain without spilling into the main room. Remodeling plans can also incorporate sturdy blocking behind drywall for grab bars, non-slip textured floor tiles, built-in seating, and handheld shower wands positioned at reachable heights.",
+        "@type": "Answer",
+        "description": "Accessible walk-in showers require recessing the floor for curbless entry, installing a properly sloped drain, adding structural wall blocking for grab bars, and choosing non-slip flooring."
+      }
+    }
+  ],
+  "description": "Accessible walk-in showers require recessing the floor for curbless entry, installing a properly sloped drain, adding structural wall blocking for grab bars, an"
+}

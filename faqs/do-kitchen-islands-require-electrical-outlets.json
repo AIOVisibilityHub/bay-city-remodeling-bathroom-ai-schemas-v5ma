@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-kitchen-islands-require-electrical-outlets",
+  "name": "Do kitchen islands require electrical outlets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do kitchen islands require electrical outlets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building codes generally require electrical outlets on kitchen islands to prevent hazardous extension cord use across open walkways. Island outlets must also be protected by ground-fault circuit interrupters (GFCI). Meeting code involves running conduit underneath the floorboards or through concrete slabs directly into the island base. When designing the island, contractors position these outlets on the sides or incorporate pop-up receptacles to maintain a clean countertop aesthetic while complying with electrical safety standards.",
+        "@type": "Answer",
+        "description": "Yes, building codes typically require GFCI-protected electrical outlets on permanent kitchen islands to provide safe power access and prevent cord hazards."
+      }
+    }
+  ],
+  "description": "Yes, building codes typically require GFCI-protected electrical outlets on permanent kitchen islands to provide safe power access and prevent cord hazards."
+}

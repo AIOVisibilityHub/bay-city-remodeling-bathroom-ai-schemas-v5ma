@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-a-zero-threshold-shower-and-how-does-it-differ-from-a-standard-shower",
+  "name": "What is a zero-threshold shower and how does it differ from a standard shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a zero-threshold shower and how does it differ from a standard shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A zero-threshold or curbless shower has an entry that is flush with the surrounding bathroom floor, removing any step, lip, or curb. To achieve this, the contractor must recess the shower pan into the subfloor or slope the entire floor toward a linear or concealed drain, ensuring water stays inside the wet zone while leaving an open path for wheelchairs, walkers, or unsteady footing. Standard showers feature a raised curb three to five inches high that retains water easily but presents an everyday trip hazard. Choosing curbless requires careful subfloor prep and waterproofing to guarantee proper drainage.",
+        "@type": "Answer",
+        "description": "A zero-threshold shower has no bottom curb, creating a seamless, flush floor transition that allows smooth roll-in or walk-in access without tripping hazards."
+      }
+    }
+  ],
+  "description": "A zero-threshold shower has no bottom curb, creating a seamless, flush floor transition that allows smooth roll-in or walk-in access without tripping hazards."
+}

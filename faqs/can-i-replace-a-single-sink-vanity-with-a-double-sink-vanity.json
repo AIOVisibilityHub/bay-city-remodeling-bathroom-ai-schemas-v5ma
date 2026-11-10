@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-replace-a-single-sink-vanity-with-a-double-sink-vanity",
+  "name": "Can I replace a single-sink vanity with a double-sink vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a single-sink vanity with a double-sink vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can switch to a double vanity if you have at least 60 inches of wall width and your plumbing can be adapted. A double-sink setup requires splitting or extending existing hot and cold water supplies and tying both sink drains into the waste stack. It also requires sufficient clearance from adjacent fixtures like toilets and showers. While a double basin provides personal space during busy mornings, it reduces drawer storage space underneath compared to a wide single-basin vanity.",
+        "@type": "Answer",
+        "description": "Yes, provided you have roughly 60 inches of wall space and your plumbing lines can be extended to support two separate sinks and drains."
+      }
+    }
+  ],
+  "description": "Yes, provided you have roughly 60 inches of wall space and your plumbing lines can be extended to support two separate sinks and drains."
+}

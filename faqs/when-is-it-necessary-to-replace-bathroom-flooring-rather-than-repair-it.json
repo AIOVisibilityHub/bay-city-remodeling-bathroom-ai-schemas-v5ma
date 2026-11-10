@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-is-it-necessary-to-replace-bathroom-flooring-rather-than-repair-it",
+  "name": "When is it necessary to replace bathroom flooring rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace bathroom flooring rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace bathroom flooring if you notice cracked tiles, soft spots underfoot, persistent loose grout, or water pooling near the shower and toilet. A spongy floor often indicates water has leaked past the surface and softened the subfloor, requiring prompt structural inspection. Lingering musty odors or visible mold around baseboards are also signs of trapped moisture beneath the floor covering. Aesthetic updates or converting a tub to a walk-in shower are common reasons homeowners choose to replace flooring.",
+        "@type": "Answer",
+        "description": "Replace flooring if tiles are cracked across wide areas, the floor feels soft, grout continuously breaks, or subfloor moisture damage is present."
+      }
+    }
+  ],
+  "description": "Replace flooring if tiles are cracked across wide areas, the floor feels soft, grout continuously breaks, or subfloor moisture damage is present."
+}

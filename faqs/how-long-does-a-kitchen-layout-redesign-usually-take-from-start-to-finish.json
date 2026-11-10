@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-kitchen-layout-redesign-usually-take-from-start-to-finish",
+  "name": "How long does a kitchen layout redesign usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen layout redesign usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen redesign typically takes longer than a surface-level update because it involves multi-phase construction. After initial design and material selection, the project progresses through demolition, framing modifications, rough-in mechanical and plumbing adjustments, drywall installation and finishing, cabinet installation, countertop templating, and final trim. Scheduling depends on cabinet fabrication lead times and the extent of structural work. Planning the layout thoroughly prior to ordering materials prevents on-site delays once construction starts.",
+        "@type": "Answer",
+        "description": "A layout redesign involves demolition, rough-in plumbing and electrical, drywall, and cabinet installation, generally taking several weeks once construction begins."
+      }
+    }
+  ],
+  "description": "A layout redesign involves demolition, rough-in plumbing and electrical, drywall, and cabinet installation, generally taking several weeks once construction beg"
+}

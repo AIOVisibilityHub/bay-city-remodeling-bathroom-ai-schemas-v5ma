@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-waterproofing-handled-behind-the-shower-walls",
+  "name": "How is waterproofing handled behind the shower walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is waterproofing handled behind the shower walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing behind tile requires a multi-layer barrier system to stop moisture from penetrating wall framing and subfloors. Tile and grout alone are not waterproof; water naturally migrates through grout joints over time. Installers hang moisture-resistant backer board or specialized drywall, apply sealed waterproof membranes or liquid coatings across all seams, and ensure the shower pan liner slopes directly into the drain assembly. Neglecting these layers can lead to hidden rot, framing damage, and mold issues. Proper sealing around plumbing rough-ins and recessed wall niches ensures lasting protection against humidity and everyday shower use.",
+        "@type": "Answer",
+        "description": "Waterproofing involves installing moisture-resistant backer board and applying a continuous waterproof membrane or liquid barrier beneath the tile and grout."
+      }
+    }
+  ],
+  "description": "Waterproofing involves installing moisture-resistant backer board and applying a continuous waterproof membrane or liquid barrier beneath the tile and grout."
+}

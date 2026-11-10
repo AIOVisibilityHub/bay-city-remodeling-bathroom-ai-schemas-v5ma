@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-quartz-and-granite-countertops-compare-for-busy-kitchens",
+  "name": "How do quartz and granite countertops compare for busy kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do quartz and granite countertops compare for busy kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural granite and engineered quartz both provide high durability, but they differ in maintenance and visual consistency. Granite is a natural stone cut directly from quarries; each slab is unique, but the stone is naturally porous and requires periodic sealing to guard against moisture and stains. Quartz is an engineered surface combining crushed stone with polymer resins. It is non-porous, meaning it resists staining without ever requiring a sealant, and it offers more uniform color patterns across multiple slabs. Homeowners who want one-of-a-kind organic movement often favor granite, while those prioritizing zero-seal maintenance typically choose quartz.",
+        "@type": "Answer",
+        "description": "Granite offers unique natural patterns but requires periodic sealing. Quartz is an engineered, non-porous surface that resists stains and requires no routine sealing."
+      }
+    }
+  ],
+  "description": "Granite offers unique natural patterns but requires periodic sealing. Quartz is an engineered, non-porous surface that resists stains and requires no routine se"
+}

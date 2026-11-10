@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-is-it-time-to-replace-a-shower-instead-of-maintaining-it",
+  "name": "When is it time to replace a shower instead of maintaining it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace a shower instead of maintaining it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your shower when you notice structural warning signs such as persistent leaks around the pan, spongy subflooring, cracked tiles with compromised grout, or recurring mildew beneath the walls. Outdated fixtures that constantly drip or display heavy mineral buildup also indicate internal wear. Beyond physical damage, life changes frequently trigger a replacement. Many homeowners choose to update their shower to eliminate high tub thresholds, adding curbless entries, built-in benches, and secure grab bars to support long-term mobility and independence at home.",
+        "@type": "Answer",
+        "description": "Replace your shower if you discover persistent leaks, soft flooring, mold behind tiles, or if you need an accessible, curbless design to accommodate changing mobility needs."
+      }
+    }
+  ],
+  "description": "Replace your shower if you discover persistent leaks, soft flooring, mold behind tiles, or if you need an accessible, curbless design to accommodate changing mo"
+}

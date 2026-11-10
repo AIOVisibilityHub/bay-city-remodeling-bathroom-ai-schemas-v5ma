@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-practical-tradeoffs-between-keeping-a-bathtub-and-installing-a-walk",
+  "name": "What are the practical tradeoffs between keeping a bathtub and installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the practical tradeoffs between keeping a bathtub and installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower provides easier entry, creates a more open feel, and simplifies daily cleaning. Bathtubs require stepping over an apron of 14 to 20 inches, which presents mobility hurdles for seniors or injured family members. Showers also offer customizable features like corner seats, grab bars, and multiple showerheads. The main tradeoff is losing soaking capability and child-bathing convenience, which is why households often convert the primary suite tub while leaving a standard tub in a secondary hall bathroom.",
+        "@type": "Answer",
+        "description": "Walk-in showers offer superior accessibility and modern design, but you trade away the soaking functionality and child-washing convenience of a standard tub."
+      }
+    }
+  ],
+  "description": "Walk-in showers offer superior accessibility and modern design, but you trade away the soaking functionality and child-washing convenience of a standard tub."
+}

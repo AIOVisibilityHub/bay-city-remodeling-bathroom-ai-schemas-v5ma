@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-should-i-replace-my-bathtub-instead-of-refinishing-or-relining-it",
+  "name": "When should I replace my bathtub instead of refinishing or relining it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my bathtub instead of refinishing or relining it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathtub if you notice persistent leaks, hairline structural cracks, deep chips exposing rusted metal, or recurring mildew beneath the unit that cleaning cannot resolve. Surface refinishing can temporarily mask cosmetic discoloration, but it does not fix structural movement, cracks that flex under weight, or outdated plumbing rough-ins behind the wall. If your tub flexes when stepped on, feels unstable, or the surrounding drywall feels soft from hidden water intrusion, full replacement is the safest and most permanent solution.",
+        "@type": "Answer",
+        "description": "Replace your tub if you have structural cracks, leaks, spongy subflooring, or deep rust. Refinishing only addresses surface discoloration and cannot fix underlying damage."
+      }
+    }
+  ],
+  "description": "Replace your tub if you have structural cracks, leaks, spongy subflooring, or deep rust. Refinishing only addresses surface discoloration and cannot fix underly"
+}

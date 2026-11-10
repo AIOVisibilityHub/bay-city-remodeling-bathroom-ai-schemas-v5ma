@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-countertop-replacement-project-take-from-start-to-finish",
+  "name": "How long does a countertop replacement project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a countertop replacement project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fabrication and installation generally take two to four weeks after templating, but physical installation in your home usually wraps up in one to two days. The lengthiest phase happens off-site, where stone artisans cut, polish, and shape cutouts to exact template dimensions. On-site installation involves removing existing counters, placing new slabs, setting seams, and mounting the sink. If your project involves custom tile backsplashes, drywall repairs, or coordinating new plumbing, Bay City Remodeling & Bathrooms organizes those tasks sequentially to minimize downtime in your home.",
+        "@type": "Answer",
+        "description": "Fabrication usually takes two to four weeks after templating, while physical in-home installation is typically completed in one to two days."
+      }
+    }
+  ],
+  "description": "Fabrication usually takes two to four weeks after templating, while physical in-home installation is typically completed in one to two days."
+}

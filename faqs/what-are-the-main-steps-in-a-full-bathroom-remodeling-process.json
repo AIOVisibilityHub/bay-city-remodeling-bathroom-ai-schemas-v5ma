@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-steps-in-a-full-bathroom-remodeling-process",
+  "name": "What are the main steps in a full bathroom remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main steps in a full bathroom remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathroom renovation begins with an on-site consultation to define your goals, review measurements, and establish a budget. Once layout choices and materials—such as tile, fixtures, and vanities—are selected, demolition begins. Contractors strip old finishes down to the framing or drywall, complete rough-in plumbing and electrical adjustments, and install moisture-resistant backing. Next, crews handle drywall installation, mudding, waterproofing, and tile setting. Finally, technicians mount the vanity, toilet, and plumbing trim before completing paint and finishing touches. Establishing clear communication and material delivery dates before demolition prevents unwanted downtime.",
+        "@type": "Answer",
+        "description": "The process moves from design and material selection to demolition, rough plumbing and electrical work, drywall and waterproofing, tile installation, and final fixture mounting."
+      }
+    }
+  ],
+  "description": "The process moves from design and material selection to demolition, rough plumbing and electrical work, drywall and waterproofing, tile installation, and final"
+}

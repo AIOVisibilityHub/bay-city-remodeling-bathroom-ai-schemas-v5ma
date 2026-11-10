@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-involved-in-a-tub-to-shower-conversion",
+  "name": "What is involved in a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion removes an existing bathtub and installs a walk-in or step-in shower in its footprint. The process typically begins with demolishing the tub, inspecting exposed framing and subfloors for moisture damage, and reconfiguring plumbing lines to fit a standard shower drain. Installers then set up a waterproof backing, apply wall surfaces such as custom tile, and fit fixtures and glass enclosures. This update creates easier access, improves daily functionality, and modernizes the bathroom layout without expanding the room’s physical boundaries.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion replaces an existing bathtub with a walk-in shower by removing the tub, adjusting plumbing, waterproofing the enclosure, and installing new tile and fixtures."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion replaces an existing bathtub with a walk-in shower by removing the tub, adjusting plumbing, waterproofing the enclosure, and installi"
+}

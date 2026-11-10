@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-can-i-make-a-small-kitchen-look-and-feel-bigger-during-a-remodel",
+  "name": "How can I make a small kitchen look and feel bigger during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small kitchen look and feel bigger during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can make a small kitchen feel larger by optimizing vertical storage, improving lighting, and choosing streamlined cabinetry. Installing cabinets that extend to the ceiling eliminates dead space and draws the eye upward. Recessed lighting combined with under-cabinet fixtures removes dark corners that make rooms feel tight. Selecting lighter countertop materials and cohesive backsplashes creates visual continuity across limited counter surface. You can also integrate appliances with cabinet panels to avoid breaking up the sightlines, keeping the working zone uncluttered and functionally efficient.",
+        "@type": "Answer",
+        "description": "Extend cabinets to the ceiling, add layered lighting, and choose cohesive, lighter finishes. Integrating appliances and clearing counters visually expands compact kitchens."
+      }
+    }
+  ],
+  "description": "Extend cabinets to the ceiling, add layered lighting, and choose cohesive, lighter finishes. Integrating appliances and clearing counters visually expands compa"
+}

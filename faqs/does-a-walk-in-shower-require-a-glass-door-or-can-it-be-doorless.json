@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/does-a-walk-in-shower-require-a-glass-door-or-can-it-be-doorless",
+  "name": "Does a walk-in shower require a glass door or can it be doorless?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a walk-in shower require a glass door or can it be doorless?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower can be enclosed with frameless or semi-frameless glass panels, or left completely open as a wet-room style shower. Open walk-in layouts eliminate glass doors altogether, which removes door tracks and cuts down on routine cleaning. However, open designs require a larger footprint, typically at least four to five feet deep, and careful showerhead placement to prevent overspray from reaching dry bathroom zones. Fully enclosed or glass-partitioned walk-ins retain heat better and keep water confined, making them a practical choice for smaller or mid-sized residential bathrooms.",
+        "@type": "Answer",
+        "description": "A walk-in shower can be doorless if the enclosure has enough depth to control overspray; smaller bathrooms generally benefit from glass panels or doors to contain water."
+      }
+    }
+  ],
+  "description": "A walk-in shower can be doorless if the enclosure has enough depth to control overspray; smaller bathrooms generally benefit from glass panels or doors to conta"
+}

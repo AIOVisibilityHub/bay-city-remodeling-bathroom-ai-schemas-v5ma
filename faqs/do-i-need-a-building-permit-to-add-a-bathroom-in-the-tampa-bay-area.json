@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-add-a-bathroom-in-the-tampa-bay-area",
+  "name": "Do I need a building permit to add a bathroom in the Tampa Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to add a bathroom in the Tampa Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom requires building, plumbing, and electrical permits across Tampa and surrounding Hillsborough and Pinellas communities. Because additions alter structural framing, add circuit loads, and introduce new sanitary drainage and venting, local municipal building departments mandate code reviews and on-site inspections. Bay City Remodeling & Bathrooms handles the planning, permitting coordination, and required trade inspections, ensuring the new installation satisfies all regional building and residential plumbing codes from initial rough-ins through final sign-off.",
+        "@type": "Answer",
+        "description": "Yes. Structural changes, new plumbing lines, and added electrical circuits require municipal permits and milestone inspections across the Tampa Bay area."
+      }
+    }
+  ],
+  "description": "Yes. Structural changes, new plumbing lines, and added electrical circuits require municipal permits and milestone inspections across the Tampa Bay area."
+}

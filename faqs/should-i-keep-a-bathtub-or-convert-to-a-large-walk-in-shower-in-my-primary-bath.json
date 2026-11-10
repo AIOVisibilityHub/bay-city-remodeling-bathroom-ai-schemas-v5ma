@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-keep-a-bathtub-or-convert-to-a-large-walk-in-shower-in-my-primary-bath",
+  "name": "Should I keep a bathtub or convert to a large walk-in shower in my primary bath?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep a bathtub or convert to a large walk-in shower in my primary bath?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion replaces an oversized or underused garden bathtub with a spacious walk-in shower enclosure. Deciding between them depends on daily routine, mobility, and household needs. Walk-in showers improve accessibility, eliminate high step-over thresholds, and make everyday routines faster. Retaining a separate soaking tub is beneficial if household members regularly bathe or prefer soaking. Homeowners who remove garden tubs often gain valuable floor space to expand double-sink vanities, add built-in linen storage, or create a larger shower footprint.",
+        "@type": "Answer",
+        "description": "Converting an unused tub to a walk-in shower improves daily accessibility and frees floor space, while keeping a tub suits homeowners who enjoy soaking or have bathing needs."
+      }
+    }
+  ],
+  "description": "Converting an unused tub to a walk-in shower improves daily accessibility and frees floor space, while keeping a tub suits homeowners who enjoy soaking or have"
+}

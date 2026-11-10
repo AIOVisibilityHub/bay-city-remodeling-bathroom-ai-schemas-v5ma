@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-for-replacing-kitchen-or-bathroom-countertops",
+  "name": "What is the step-by-step process for replacing kitchen or bathroom countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process for replacing kitchen or bathroom countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an in-home assessment to review measurements, material samples, and layout goals. Once cabinets are verified as level and stable, precise templates are created to match your wall contours and cabinet footprint. The chosen slab is then cut, edged, and polished off-site. On installation day, the old surfaces and plumbing disconnects occur, new slabs are secured, seams are joined with color-matched epoxy, and cutouts for sinks and cooktops are finalized. Project managers oversee the full workflow to maintain craftsmanship and clear communication from planning to final clean-up.",
+        "@type": "Answer",
+        "description": "The process involves measuring, creating exact templates, off-site fabrication, removing old tops, securing new slabs, and sealing seams and cutouts."
+      }
+    }
+  ],
+  "description": "The process involves measuring, creating exact templates, off-site fabrication, removing old tops, securing new slabs, and sealing seams and cutouts."
+}

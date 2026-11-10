@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/are-building-permits-required-for-a-tub-to-shower-conversion-in-the-tampa-bay-ar",
+  "name": "Are building permits required for a tub-to-shower conversion in the Tampa Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are building permits required for a tub-to-shower conversion in the Tampa Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a conversion requires a permit depends on local municipal building codes across the Tampa Bay area, including Hillsborough and Pinellas counties. When work involves altering structural framing, running new electrical circuits, or reconfiguring drain lines and water pipes beneath slabs, local building departments generally mandate trade permits. Working with a licensed, insured, and bonded remodeling contractor ensures necessary local permits are pulled and trade inspections are passed for code compliance and safety.",
+        "@type": "Answer",
+        "description": "Permits are typically required across Tampa Bay municipalities whenever the conversion involves altering plumbing lines, subfloor drainage, or surrounding structural walls."
+      }
+    }
+  ],
+  "description": "Permits are typically required across Tampa Bay municipalities whenever the conversion involves altering plumbing lines, subfloor drainage, or surrounding struc"
+}

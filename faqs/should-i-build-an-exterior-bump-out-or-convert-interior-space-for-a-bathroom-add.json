@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-build-an-exterior-bump-out-or-convert-interior-space-for-a-bathroom-add",
+  "name": "Should I build an exterior bump-out or convert interior space for a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an exterior bump-out or convert interior space for a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition can either carve out existing interior space or extend your home's exterior footprint. Converting interior square footage—such as a deep walk-in closet, under-stair area, or unused home office nook—typically avoids foundation and roof work. Building an exterior bump-out expands living area while keeping existing storage, but requires foundation framing, tie-ins, and exterior wall siding or stucco. Choosing between them depends on whether your current floor plan has disposable room or if preserving indoor storage takes priority over the broader scope of an exterior structural addition.",
+        "@type": "Answer",
+        "description": "Converting interior space saves exterior structural work, while an exterior addition preserves existing indoor storage but requires new foundation, wall, and roof tie-ins."
+      }
+    }
+  ],
+  "description": "Converting interior space saves exterior structural work, while an exterior addition preserves existing indoor storage but requires new foundation, wall, and ro"
+}

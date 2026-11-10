@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-cabinet-materials-hold-up-best-to-florida-humidity",
+  "name": "What cabinet materials hold up best to Florida humidity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet materials hold up best to Florida humidity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In humid subtropical climates like the Tampa Bay area, kitchen cabinetry must handle ambient moisture and air conditioning cycling. Solid wood door frames paired with high-grade plywood box construction perform well against regional humidity shifts, resisting the swelling, sagging, or delamination common in low-density particleboard. Factory-applied, moisture-resistant finishes and marine-grade or sealed backer panels protect against moisture behind sink bases and exterior-facing walls. Selecting durable hardware with corrosion-resistant coatings also prevents premature tarnishing or hinge binding in coastal and humid environments.",
+        "@type": "Answer",
+        "description": "Plywood boxes with solid hardwood frames and factory-sealed, moisture-resistant finishes handle Florida humidity far better than standard particleboard."
+      }
+    }
+  ],
+  "description": "Plywood boxes with solid hardwood frames and factory-sealed, moisture-resistant finishes handle Florida humidity far better than standard particleboard."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-shower-replacement-project-take",
+  "name": "How long does a typical shower replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower replacement depends on the scope of demolition and chosen finishes. A standard replacement typically takes several days to complete, but custom tile work, layout reconfiguration, or extensive drywall remediation can extend the timeline. The process starts with demolition down to the studs, followed by plumbing updates, shower pan installation, and critical waterproofing inspections. Tile installations require adequate curing time for thin-set mortar and grout before sealing and installing glass doors. If your project involves converting an old bathtub into a walk-in shower or moving existing drain lines, additional time must be factored in for rough-in adjustments.",
+        "@type": "Answer",
+        "description": "A shower replacement usually takes several days, though custom tile, moving plumbing lines, or repairing wall framing can lengthen the timeline to ensure proper curing and waterproofing."
+      }
+    }
+  ],
+  "description": "A shower replacement usually takes several days, though custom tile, moving plumbing lines, or repairing wall framing can lengthen the timeline to ensure proper"
+}

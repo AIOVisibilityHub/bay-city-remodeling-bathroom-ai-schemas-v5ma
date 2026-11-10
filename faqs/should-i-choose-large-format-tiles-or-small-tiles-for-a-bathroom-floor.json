@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-large-format-tiles-or-small-tiles-for-a-bathroom-floor",
+  "name": "Should I choose large-format tiles or small tiles for a bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose large-format tiles or small tiles for a bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles mean fewer grout lines, which gives smaller bathrooms a cleaner, more expansive visual appearance and reduces routine scrubbing. However, larger tiles require an exceptionally flat subfloor to prevent lippage (edges sitting higher than adjacent tiles). Smaller mosaic tiles, on the other hand, provide superior traction and contour easily around sloped shower drains. Many homeowners balance these choices by using large-format porcelain on the main bathroom floor and slip-resistant mosaics inside the shower stall.",
+        "@type": "Answer",
+        "description": "Large tiles make rooms feel bigger and have fewer grout lines, while small mosaic tiles provide greater slip resistance, making them ideal inside showers."
+      }
+    }
+  ],
+  "description": "Large tiles make rooms feel bigger and have fewer grout lines, while small mosaic tiles provide greater slip resistance, making them ideal inside showers."
+}

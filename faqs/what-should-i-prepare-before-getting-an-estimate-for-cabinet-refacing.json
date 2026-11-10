@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-getting-an-estimate-for-cabinet-refacing",
+  "name": "What should I prepare before getting an estimate for cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before getting an estimate for cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an estimate, homeowners should assess their current storage needs, take count of total cabinet doors and drawer fronts, and check the interior boxes for any water damage or warping. It is helpful to decide whether you want to preserve your existing countertops and appliances or replace them at the same time. Having photos of door styles, wood finishes, or color palettes you prefer will help your contractor provide an accurate initial consultation.",
+        "@type": "Answer",
+        "description": "Count your doors and drawers, inspect the interior boxes for damage, determine if countertops will stay, and collect preferred finish styles before your estimate."
+      }
+    }
+  ],
+  "description": "Count your doors and drawers, inspect the interior boxes for damage, determine if countertops will stay, and collect preferred finish styles before your estimat"
+}

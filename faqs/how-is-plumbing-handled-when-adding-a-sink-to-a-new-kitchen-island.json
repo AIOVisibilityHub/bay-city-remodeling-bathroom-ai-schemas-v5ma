@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-is-plumbing-handled-when-adding-a-sink-to-a-new-kitchen-island",
+  "name": "How is plumbing handled when adding a sink to a new kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is plumbing handled when adding a sink to a new kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing lines can be run to a kitchen island, but the installation method depends directly on your home's foundation type. In homes built on a concrete slab, routing new supply and drain pipes requires cutting and trenching the slab, laying pipe, and patching concrete. In homes over a crawl space, routing utilities underneath is generally faster and less invasive. Proper venting is a crucial detail: because an island lacks an adjoining wall for traditional vertical vent stacks, code-compliant air admittance valves or loop vents must be integrated inside the island cabinetry to ensure proper wastewater drainage.",
+        "@type": "Answer",
+        "description": "Plumbing is run through the subfloor or by trenching a concrete slab, using specialized island loop vents or air admittance valves for drainage."
+      }
+    }
+  ],
+  "description": "Plumbing is run through the subfloor or by trenching a concrete slab, using specialized island loop vents or air admittance valves for drainage."
+}

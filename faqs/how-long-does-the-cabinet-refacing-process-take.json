@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-the-cabinet-refacing-process-take",
+  "name": "How long does the cabinet refacing process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the cabinet refacing process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing kitchen cabinets is significantly faster than a full cabinet rebuild, typically taking only a few days once the custom-ordered doors and materials arrive. Because the structural boxes remain anchored to the walls, you do not face extensive drywall patching, electrical rewiring, or countertop removal. Overall project timing depends on material lead times, the overall number of cabinet openings, and whether you are pairing refacing with new countertops or backsplash tile during your kitchen renovation.",
+        "@type": "Answer",
+        "description": "The on-site refacing work usually takes just a few days once materials arrive, far faster than full cabinet tear-outs that require weeks of construction."
+      }
+    }
+  ],
+  "description": "The on-site refacing work usually takes just a few days once materials arrive, far faster than full cabinet tear-outs that require weeks of construction."
+}

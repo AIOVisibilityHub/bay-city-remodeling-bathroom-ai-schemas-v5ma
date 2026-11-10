@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-bathroom-addition-typically-take-to-complete",
+  "name": "How long does a bathroom addition typically take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom addition typically take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bathroom addition projects take between 4 to 10 weeks of active construction after permits are issued, depending on scope. Interior conversions of closets or existing rooms usually move faster because exterior walls, siding, and roofing are already in place. Ground-up structural additions or projects requiring extensive concrete slab trenching take longer due to excavation, slab curing, exterior framing, and weather factors. Each phase also requires coordinated municipal trade inspections before drywall installation and final finishes can proceed.",
+        "@type": "Answer",
+        "description": "Construction usually takes 4 to 10 weeks from permit approval, with interior conversions moving faster than ground-up exterior structural additions."
+      }
+    }
+  ],
+  "description": "Construction usually takes 4 to 10 weeks from permit approval, with interior conversions moving faster than ground-up exterior structural additions."
+}

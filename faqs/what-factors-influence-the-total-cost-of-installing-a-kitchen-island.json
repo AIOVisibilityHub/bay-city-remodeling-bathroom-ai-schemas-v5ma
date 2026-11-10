@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-total-cost-of-installing-a-kitchen-island",
+  "name": "What factors influence the total cost of installing a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of installing a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Running utilities to a new island is often the largest cost factor beyond cabinetry and countertop materials. Adding a prep sink or dishwasher requires running plumbing lines and vents under the floor, which increases labor, particularly on concrete slab foundations common across the Tampa Bay area. Similarly, integrating outlets, wine coolers, or cooktops requires electrical wiring brought up through the subfloor. Custom storage accessories, structural modifications to nearby walls, and high-end stone slabs will also raise total installation costs. Bay City Remodeling & Bathrooms offers negotiable pricing and free quotes to assess these scope factors upfront.",
+        "@type": "Answer",
+        "description": "Key cost factors include running plumbing and electrical lines through the subfloor, custom cabinetry selection, chosen countertop materials, and any required structural layout adjustments."
+      }
+    }
+  ],
+  "description": "Key cost factors include running plumbing and electrical lines through the subfloor, custom cabinetry selection, chosen countertop materials, and any required s"
+}

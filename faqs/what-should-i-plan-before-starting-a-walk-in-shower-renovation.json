@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-plan-before-starting-a-walk-in-shower-renovation",
+  "name": "What should I plan before starting a walk-in shower renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I plan before starting a walk-in shower renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a shower renovation, you should determine your accessibility requirements, storage preferences, fixture positions, and whether your existing bathroom layout remains intact. Consider whether you need grab bars, a built-in bench, or handheld shower wands for long-term comfort. Check if you want recessed wall niches for shampoo bottles, which must be planned around existing wall studs. You will also want to decide if your hot water heater has sufficient capacity if you plan to install luxury multi-spray heads or rain shower systems during your bathroom update.",
+        "@type": "Answer",
+        "description": "Plan your layout, decide on storage niches, benches, and grab bars, and confirm whether you want to keep existing plumbing locations or move fixtures."
+      }
+    }
+  ],
+  "description": "Plan your layout, decide on storage niches, benches, and grab bars, and confirm whether you want to keep existing plumbing locations or move fixtures."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-kitchen-or-bathroom-before-countertop-installation",
+  "name": "How should I prepare my kitchen or bathroom before countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen or bathroom before countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, clear all personal items, small appliances, and decor off your existing countertops and disconnect nearby water and gas lines. It is also wise to empty lower cabinets and drawers, as dust and vibration occur when old tops are lifted and new slabs are positioned. Ensure a direct, unobstructed walking path from the entrance of your home to the kitchen or bathroom for the installation crew. Having your new sink, faucet, and cooktop on site is required so installers can verify exact cutout placements.",
+        "@type": "Answer",
+        "description": "Clear surfaces, empty lower cabinets, clear a walkway for the crew, and have your new sink and appliances on-site for cutout checks."
+      }
+    }
+  ],
+  "description": "Clear surfaces, empty lower cabinets, clear a walkway for the crew, and have your new sink and appliances on-site for cutout checks."
+}

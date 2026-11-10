@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-steps-involved-in-a-professional-bathtub-installation",
+  "name": "What are the steps involved in a professional bathtub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the steps involved in a professional bathtub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process starts with shutting off water supplies, protecting surrounding floors, and disconnecting the drain assembly and supply lines. The installation team removes adjacent tile and wallboard to free the bathtub flange, then carefully pulls the old basin out of the room. Next, crews inspect the exposed framing and subfloor for moisture issues, complete rough-in plumbing updates, and set the new tub into a secure, level base. Finally, installers attach the overflow, run leak checks, repair drywall, and install your chosen tile or surround panels.",
+        "@type": "Answer",
+        "description": "Steps include water shutoff, teardown of old surrounds, tub removal, subfloor inspection, plumbing rough-ins, setting the new basin, leak testing, and wall finishing."
+      }
+    }
+  ],
+  "description": "Steps include water shutoff, teardown of old surrounds, tub removal, subfloor inspection, plumbing rough-ins, setting the new basin, leak testing, and wall fini"
+}

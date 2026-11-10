@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-kitchen-expansion-project-typically-take",
+  "name": "How long does a kitchen expansion project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen expansion project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most full kitchen expansions take between two to four months of active construction, with initial planning and material procurement taking additional weeks beforehand. Simple interior layout reconfigurations with drywall repair and new cabinetry progress faster than structural additions that require poured foundations, framing, exterior wall finishing, and roofing tie-ins. Factors that can extend this schedule include custom cabinet manufacturing lead times, structural beam fabrication, and mandatory local municipal inspections after rough plumbing and electrical rough-ins. Bay City Remodeling & Bathrooms assigns project managers to oversee trade schedules and minimize downtime between phases.",
+        "@type": "Answer",
+        "description": "A typical kitchen expansion takes two to four months for construction, depending on whether it involves interior wall removal or exterior foundation work."
+      }
+    }
+  ],
+  "description": "A typical kitchen expansion takes two to four months for construction, depending on whether it involves interior wall removal or exterior foundation work."
+}

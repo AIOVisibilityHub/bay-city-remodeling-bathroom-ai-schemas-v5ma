@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-the-best-tile-for-my-bathroom-floor-and-shower-walls",
+  "name": "How do I choose the best tile for my bathroom floor and shower walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best tile for my bathroom floor and shower walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting tile, you should consider slip resistance, water absorption ratings, maintenance requirements, and visual scale. Porcelain and ceramic tiles are popular for bathroom floors and shower walls because they resist moisture, withstand heavy cleaning, and come in various textures. Natural stone offers unique aesthetic character but requires routine sealing to prevent staining and water absorption. For shower floors, smaller mosaic tiles or textured surfaces provide better foot grip and fit slopes toward the central drain more cleanly than large-format tiles. Balancing finish preferences with safety ensures your bathroom remains practical for daily use.",
+        "@type": "Answer",
+        "description": "Choose porcelain or ceramic tile for low maintenance and water resistance, and pick textured surfaces or smaller mosaics for shower floors to ensure proper slip resistance."
+      }
+    }
+  ],
+  "description": "Choose porcelain or ceramic tile for low maintenance and water resistance, and pick textured surfaces or smaller mosaics for shower floors to ensure proper slip"
+}

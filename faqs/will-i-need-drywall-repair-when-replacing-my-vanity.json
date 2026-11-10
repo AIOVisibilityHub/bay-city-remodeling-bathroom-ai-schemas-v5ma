@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/will-i-need-drywall-repair-when-replacing-my-vanity",
+  "name": "Will I need drywall repair when replacing my vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need drywall repair when replacing my vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing a vanity often reveals unfinished drywall or plumbing rough-ins that require repair. Old vanities are frequently caulked or glued to drywall, which can tear the paper facing during removal. If the new vanity has a different profile or shorter backsplash, exposed areas will need patching, taping, and texturing. Bay City Remodeling & Bathrooms provides complete drywall installation and repair services, ensuring the wall surface behind and around the new unit is clean, even, and properly sealed against moisture.",
+        "@type": "Answer",
+        "description": "Drywall patching is often needed if the old vanity was glued to the wall or if the new vanity leaves previously hidden, unfinished wall sections exposed."
+      }
+    }
+  ],
+  "description": "Drywall patching is often needed if the old vanity was glued to the wall or if the new vanity leaves previously hidden, unfinished wall sections exposed."
+}

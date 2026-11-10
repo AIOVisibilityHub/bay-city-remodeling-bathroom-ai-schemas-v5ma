@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-expand-my-kitchen",
+  "name": "Do I need a building permit to expand my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to expand my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are required for nearly all kitchen expansions because they involve structural modifications, electrical upgrades, and plumbing work. Expanding a kitchen typically involves adding dedicated circuits for new appliances, relocating water and drain lines, and altering wall framing. If you are building an addition outward into your yard, municipal building departments also require permits for foundation footings, setbacks, and exterior weatherproofing. Professional remodeling contractors handle the permit application process and schedule required phased inspections—such as framing, rough MEPs, and final sign-off—to ensure all work complies with building codes.",
+        "@type": "Answer",
+        "description": "Yes. Kitchen expansions require permits because they involve structural changes, wall modifications, and new electrical or plumbing installations."
+      }
+    }
+  ],
+  "description": "Yes. Kitchen expansions require permits because they involve structural changes, wall modifications, and new electrical or plumbing installations."
+}

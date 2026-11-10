@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-keep-my-existing-countertops-when-replacing-lower-cabinets",
+  "name": "Can I keep my existing countertops when replacing lower cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing countertops when replacing lower cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement typically does not allow you to preserve existing granite, quartz, or solid surface countertops without significant risk. Countertop slabs are heavily bonded to lower cabinet perimeters with strong structural adhesives, and attempting to detach them usually causes stone cracking or total breakage. Additionally, new cabinets may vary slightly in frame level, depth, or support points compared to older units. Planning for new countertops alongside cabinet replacement ensures proper templating, structural support, and a tight, cohesive installation without relying on compromised materials.",
+        "@type": "Answer",
+        "description": "Usually no. Countertops are securely glued to existing cabinet boxes, making removal without cracking rare, and new cabinets require precise level support."
+      }
+    }
+  ],
+  "description": "Usually no. Countertops are securely glued to existing cabinet boxes, making removal without cracking rare, and new cabinets require precise level support."
+}

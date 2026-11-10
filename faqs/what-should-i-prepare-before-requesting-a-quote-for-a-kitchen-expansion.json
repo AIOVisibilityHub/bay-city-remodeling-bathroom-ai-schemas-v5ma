@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-quote-for-a-kitchen-expansion",
+  "name": "What should I prepare before requesting a quote for a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a quote for a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before consulting a remodeling contractor, prepare a clear list of functional priorities, property details, and appliance preferences. Start by taking rough measurements of your current kitchen, noting where exterior windows, doors, and plumbing stacks are located. Next, gather inspiration images and decide on key elements, such as whether you want a larger island, walk-in pantry, or dedicated dining area. It is also beneficial to check if your property has HOA guidelines or boundary surveys available, especially if the expansion extends your home's exterior walls. Bay City Remodeling & Bathrooms uses this information during the free-quote consultation to map out an accurate design scope.",
+        "@type": "Answer",
+        "description": "Prepare rough room measurements, a list of functional goals, appliance preferences, and any HOA guidelines or property surveys if building outward."
+      }
+    }
+  ],
+  "description": "Prepare rough room measurements, a list of functional goals, appliance preferences, and any HOA guidelines or property surveys if building outward."
+}

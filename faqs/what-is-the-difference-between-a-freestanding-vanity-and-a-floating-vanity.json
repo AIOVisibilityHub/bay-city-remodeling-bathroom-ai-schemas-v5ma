@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-freestanding-vanity-and-a-floating-vanity",
+  "name": "What is the difference between a freestanding vanity and a floating vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a freestanding vanity and a floating vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Freestanding vanities rest directly on the floor and offer deep, traditional storage, whereas floating vanities mount to wall studs to create an open, modern look. Floating models make small bathrooms feel larger and simplify floor cleaning, but they require strong structural wall backing and may expose lower plumbing if not planned properly. Freestanding units conceal floor gaps and existing supply lines more easily, though they cover more flooring. Your choice depends on aesthetic preference, wall framing support, and storage volume needs.",
+        "@type": "Answer",
+        "description": "Freestanding vanities rest on the floor for maximum storage, while floating units mount to the wall to create open space, though they require reinforced wall framing."
+      }
+    }
+  ],
+  "description": "Freestanding vanities rest on the floor for maximum storage, while floating units mount to the wall to create open space, though they require reinforced wall fr"
+}

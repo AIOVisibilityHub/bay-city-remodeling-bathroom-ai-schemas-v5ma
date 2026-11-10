@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-home-construction-in-the-tampa-bay-area-affect-walk-in-shower-installat",
+  "name": "How does home construction in the Tampa Bay area affect walk-in shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does home construction in the Tampa Bay area affect walk-in shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling plans for walk-in showers in Tampa Bay homes often depend on whether the bathroom sits on a ground-level concrete slab or wood subflooring. Many homes in Brandon, Tampa, and Riverview are built on concrete slabs, which means installing a true curbless, zero-entry shower requires chipping out concrete to set the drain and sloped pan at the correct depth. Homes with crawl spaces or second-story bathrooms allow plumbers to work beneath the floor joists more easily. Local humidity also makes robust ventilation and continuous waterproof backer board essential to handle moisture loads year-round.",
+        "@type": "Answer",
+        "description": "Many Tampa Bay homes are on concrete slabs, requiring trenching to recess drains for curbless showers, while high regional humidity demands strict waterproofing."
+      }
+    }
+  ],
+  "description": "Many Tampa Bay homes are on concrete slabs, requiring trenching to recess drains for curbless showers, while high regional humidity demands strict waterproofing"
+}

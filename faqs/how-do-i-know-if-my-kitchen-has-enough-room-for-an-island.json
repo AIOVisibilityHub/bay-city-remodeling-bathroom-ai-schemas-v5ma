@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-know-if-my-kitchen-has-enough-room-for-an-island",
+  "name": "How do I know if my kitchen has enough room for an island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen has enough room for an island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A functional kitchen island generally requires at least 36 to 42 inches of clear walkway space on all sides. This clearance allows cabinet doors, dishwashers, and ovens to open fully without blocking movement. If your kitchen is under 13 feet wide, adding a fixed island can crowd the room and restrict traffic. In narrower layouts, a peninsula or a movable work cart often delivers extra counter space and storage without creating tight bottlenecks. Bay City Remodeling & Bathrooms reviews room dimensions during initial consultations to determine if your layout can accommodate an island comfortably.",
+        "@type": "Answer",
+        "description": "Your kitchen typically needs 36 to 42 inches of clearance around all sides of an island. Rooms under 13 feet wide often function better with a peninsula or movable cart."
+      }
+    }
+  ],
+  "description": "Your kitchen typically needs 36 to 42 inches of clearance around all sides of an island. Rooms under 13 feet wide often function better with a peninsula or mova"
+}

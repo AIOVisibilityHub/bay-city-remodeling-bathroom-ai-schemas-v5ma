@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-shower-replacement-quote",
+  "name": "What should I prepare before requesting a shower replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a shower replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling your estimate, document what you dislike about your current shower, such as lack of storage, poor water pressure, or difficult step-over heights. Measure your general bathroom layout and establish a realistic budget range. It is helpful to decide early whether you want custom tile, built-in recessed niches, bench seating, or frameless glass doors. You should also verify contractor credentials; Bay City Remodeling & Bathrooms maintains active insurance, bonding, and workers' compensation coverage, ensuring that your home and property are fully protected throughout the tear-out and rebuilding phases.",
+        "@type": "Answer",
+        "description": "Gather your functional goals, measure your rough space, note desired features like niches or benches, and ensure your contractor carries verified insurance, bonding, and workers' compensation."
+      }
+    }
+  ],
+  "description": "Gather your functional goals, measure your rough space, note desired features like niches or benches, and ensure your contractor carries verified insurance, bon"
+}

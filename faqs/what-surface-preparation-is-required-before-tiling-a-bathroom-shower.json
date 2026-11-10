@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-surface-preparation-is-required-before-tiling-a-bathroom-shower",
+  "name": "What surface preparation is required before tiling a bathroom shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What surface preparation is required before tiling a bathroom shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional tile installation requires a multi-step preparation process to ensure longevity. First, old surfaces are removed down to the wall framing and subfloor. Installers then inspect the underlying structure for plumbing leaks or rot and make required drywall or subfloor repairs. In wet zones, cement backer board or waterproof foam wall panels are installed, followed by liquid or sheet waterproofing membranes. Shower pans are built with pre-sloped mortar beds or waterproof trays to ensure water drains directly toward the drain assembly before any tile or mortar is set.",
+        "@type": "Answer",
+        "description": "Preparation includes stripping to the studs, addressing moisture damage, hanging cement backer boards, and applying continuous waterproof membranes before laying mortar and tile."
+      }
+    }
+  ],
+  "description": "Preparation includes stripping to the studs, addressing moisture damage, hanging cement backer boards, and applying continuous waterproof membranes before layin"
+}

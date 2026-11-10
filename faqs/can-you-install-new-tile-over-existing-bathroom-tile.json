@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-you-install-new-tile-over-existing-bathroom-tile",
+  "name": "Can you install new tile over existing bathroom tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install new tile over existing bathroom tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new tile directly over existing tile is generally discouraged in wet bathroom environments. While it can sometimes be done on dry bathroom floors if the existing tile is firmly bonded and level, it raises the floor height, creating awkward transitions at doorways and vanity bases. In showers and tub surrounds, tiling over old surfaces hides potential moisture damage, mold, or rotting framing behind the wall. Proper installation involves removing the old tile down to the studs or subfloor, repairing compromised framing, and installing a new, dedicated waterproof backer system.",
+        "@type": "Answer",
+        "description": "Tiling over old tile is not recommended in bathrooms. Full removal ensures the subfloor is sound, eliminates hidden mold, and allows proper waterproofing installation."
+      }
+    }
+  ],
+  "description": "Tiling over old tile is not recommended in bathrooms. Full removal ensures the subfloor is sound, eliminates hidden mold, and allows proper waterproofing instal"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-adding-a-half-bath-versus-a-full-bathroom",
+  "name": "What is the difference between adding a half bath versus a full bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between adding a half bath versus a full bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A half bathroom includes a toilet and sink, while a full bathroom includes a toilet, sink, and shower or tub-and-shower combination. A half bath serves primarily day guests and fits into small footprints as compact as 18 to 25 square feet, requiring straightforward plumbing tie-ins. A full bath requires roughly 40 to 60 square feet or more to accommodate a walk-in shower or tub, alongside dedicated moisture ventilation and waterproofing. Choose a half bath for common living spaces and a full bath for expanding guest or multigenerational bedroom suites.",
+        "@type": "Answer",
+        "description": "A half bath includes just a toilet and sink in a compact space, while a full bath adds a shower or tub, requiring more square footage, ventilation, and waterproofing."
+      }
+    }
+  ],
+  "description": "A half bath includes just a toilet and sink in a compact space, while a full bath adds a shower or tub, requiring more square footage, ventilation, and waterpro"
+}

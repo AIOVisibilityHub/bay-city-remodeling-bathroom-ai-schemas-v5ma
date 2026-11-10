@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-add-square-footage-to-an-existing-bathroom",
+  "name": "How do contractors add square footage to an existing bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors add square footage to an existing bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding a bathroom requires either reallocating interior square footage or building an exterior bump-out addition. You can borrow space from an adjacent closet, hallway, or underused bedroom, which avoids altering your home exterior. Alternatively, a small home addition pushes your exterior walls outward to create an entirely new footprint. Your existing floor plan, structural framing, and whether adjacent walls are load-bearing will determine the best path forward. During an initial consultation, a contractor evaluates your layout to see whether shifting interior walls or framing a home addition best fits your property.",
+        "@type": "Answer",
+        "description": "Contractors expand a bathroom by taking space from adjacent closets or rooms, or by building an exterior room addition to push the home's footprint outward."
+      }
+    }
+  ],
+  "description": "Contractors expand a bathroom by taking space from adjacent closets or rooms, or by building an exterior room addition to push the home's footprint outward."
+}

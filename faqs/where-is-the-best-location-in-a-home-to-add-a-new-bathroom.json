@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/where-is-the-best-location-in-a-home-to-add-a-new-bathroom",
+  "name": "Where is the best location in a home to add a new bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where is the best location in a home to add a new bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing runs are easiest and most cost-effective when placed back-to-back or vertically aligned with existing plumbing lines. Positioning the new bathroom adjacent to a kitchen, laundry room, or existing bathroom minimizes the distance necessary to tap into hot and cold water supplies and connects directly to the existing sewer stack. Placing a new bathroom far from existing utilities requires trenching through concrete slab foundations or running long drain slopes beneath subfloors, which adds labor complexity and extends the overall rough-in schedule.",
+        "@type": "Answer",
+        "description": "The best location shares a common wall or plumbing wet wall with an existing bathroom, kitchen, or laundry room to shorten pipe runs and reduce tie-in work."
+      }
+    }
+  ],
+  "description": "The best location shares a common wall or plumbing wet wall with an existing bathroom, kitchen, or laundry room to shorten pipe runs and reduce tie-in work."
+}

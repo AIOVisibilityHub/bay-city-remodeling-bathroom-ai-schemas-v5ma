@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-an-interior-kitchen-expansion-and-an-exterior-bum",
+  "name": "What is the difference between an interior kitchen expansion and an exterior bump-out addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an interior kitchen expansion and an exterior bump-out addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion can be accomplished by reconfiguring interior walls or building an exterior bump-out addition. An interior expansion removes non-load-bearing partitions or takes space from adjacent dining rooms, closets, or pantries to widen the floor plan. In contrast, an exterior addition extends the home's footprint outward, which requires foundation footings, framing, exterior finishes such as full-house stuccoing, and tie-ins to the existing roofline. Your decision factor hinges on available interior square footage versus yard space, setbacks, and budget. Bay City Remodeling & Bathrooms reviews structural layouts and site boundaries to determine whether interior wall removal or extending outward makes practical sense.",
+        "@type": "Answer",
+        "description": "An interior expansion reclaims space from adjacent rooms or walls, while a bump-out physically extends exterior walls, requiring foundation work, framing, and roof tie-ins."
+      }
+    }
+  ],
+  "description": "An interior expansion reclaims space from adjacent rooms or walls, while a bump-out physically extends exterior walls, requiring foundation work, framing, and r"
+}

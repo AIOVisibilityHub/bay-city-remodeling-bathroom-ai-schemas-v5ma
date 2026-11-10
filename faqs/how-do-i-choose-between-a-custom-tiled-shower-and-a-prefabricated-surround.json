@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-between-a-custom-tiled-shower-and-a-prefabricated-surround",
+  "name": "How do I choose between a custom tiled shower and a prefabricated surround?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a custom tiled shower and a prefabricated surround?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile offers unmatched design flexibility, aesthetic luxury, and durability, allowing you to incorporate mosaic accents, custom shelves, and bench seating tailored precisely to your walls. However, tile requires diligent grout maintenance and longer installation periods due to manual mortar setting and drying times. Prefabricated acrylic or composite units offer seamless, easy-to-clean walls with shorter installation windows and fewer grout lines to scrub, but they come in standard shapes and sizes that cannot always accommodate non-standard floor plans or custom bathroom footprints.",
+        "@type": "Answer",
+        "description": "Custom tile provides tailored sizing, premium aesthetics, and long-term durability with regular grout care, whereas prefabricated units install faster and clean easily but lack design versatility."
+      }
+    }
+  ],
+  "description": "Custom tile provides tailored sizing, premium aesthetics, and long-term durability with regular grout care, whereas prefabricated units install faster and clean"
+}

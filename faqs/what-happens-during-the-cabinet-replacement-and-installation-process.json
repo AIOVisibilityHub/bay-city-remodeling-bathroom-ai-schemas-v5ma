@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-happens-during-the-cabinet-replacement-and-installation-process",
+  "name": "What happens during the cabinet replacement and installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the cabinet replacement and installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cabinet replacement process begins with careful measurement of the room, identifying appliance locations, ceiling heights, and utility lines. Once new cabinets arrive, the old cabinetry, trim, and countertops are carefully torn out. Installers inspect the exposed wall framing and drywall, completing any needed patches or leveling before hanging the new upper cabinets securely into wall studs. Lower base cabinets are installed next, shimmed to achieve a perfectly level baseline across uneven floors, fastened together, and completed with doors, drawer adjustments, and trim molding.",
+        "@type": "Answer",
+        "description": "The process involves measuring, demolishing old boxes, prepping drywall, mounting upper cabinets into wall studs, leveling base units, and aligning doors and hardware."
+      }
+    }
+  ],
+  "description": "The process involves measuring, demolishing old boxes, prepping drywall, mounting upper cabinets into wall studs, leveling base units, and aligning doors and ha"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-between-removing-a-whole-wall-or-creating-a-half-wall",
+  "name": "How do I choose between removing a whole wall or creating a half wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between removing a whole wall or creating a half wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a full wall teardown and a half wall depends on your storage, utility, and line-of-sight goals. A full removal maximizes spaciousness and natural light, creating a completely unified living and dining zone. However, it removes all upper and lower perimeter cabinetry on that run and exposes floor transitions. A half wall, or pony wall, preserves structural housing for electrical outlets, plumbing, and lower base cabinets while opening up the sightlines above counter height. It also masks dirty dishes on prep counters from direct view in the living room, providing a functional middle ground.",
+        "@type": "Answer",
+        "description": "Choose full removal for maximum openness and light, or a half wall to preserve lower cabinet storage, hide countertop clutter, and house electrical wiring."
+      }
+    }
+  ],
+  "description": "Choose full removal for maximum openness and light, or a half wall to preserve lower cabinet storage, hide countertop clutter, and house electrical wiring."
+}

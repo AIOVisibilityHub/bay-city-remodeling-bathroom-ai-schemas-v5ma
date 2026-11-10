@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-replace-my-bathtub-with-a-walk-in-shower",
+  "name": "Can I replace my bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion is a specialized replacement where an existing bathtub is removed to build a modern, standalone walk-in shower. This is particularly popular for homeowners seeking easier everyday entry, improved safety, or a sleeker bathroom appearance. The primary practical tradeoff involves your home's functionality: while a walk-in shower improves accessibility and feels significantly more spacious, keeping at least one bathtub elsewhere in the house is often advisable for bathing small children or pets. The conversion requires adapting the existing tub drain and supply lines to match standard walk-in shower plumbing specifications.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a bathtub with a walk-in shower. It improves daily accessibility and room flow, though maintaining at least one tub in the home is recommended for households with pets or kids."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a bathtub with a walk-in shower. It improves daily accessibility and room flow, though maintaining at least one tub in the home is recommen"
+}

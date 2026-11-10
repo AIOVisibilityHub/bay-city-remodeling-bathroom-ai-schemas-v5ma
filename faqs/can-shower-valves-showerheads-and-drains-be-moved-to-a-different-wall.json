@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-shower-valves-showerheads-and-drains-be-moved-to-a-different-wall",
+  "name": "Can shower valves, showerheads, and drains be moved to a different wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can shower valves, showerheads, and drains be moved to a different wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing lines is common during bathroom remodeling, but it increases the project scope and labor. Relocating a shower valve or adding a secondary handheld sprayer within the same wall cavity is straightforward. However, moving the drain pipe to a new position or shifting the shower to an opposite wall requires cutting into subfloors or concrete slabs to run new waste and vent lines. If your home has a concrete slab foundation, rerouting underground pipes requires trenching, which adds time and expense compared to homes with accessible crawl spaces.",
+        "@type": "Answer",
+        "description": "Yes, valves, showerheads, and drains can be relocated, though moving drain lines in concrete slab foundations requires trenching and adds labor."
+      }
+    }
+  ],
+  "description": "Yes, valves, showerheads, and drains can be relocated, though moving drain lines in concrete slab foundations requires trenching and adds labor."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-remove-an-interior-wall-to-expand-my-kitchen-layout",
+  "name": "Can I remove an interior wall to expand my kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove an interior wall to expand my kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, removing a wall to enlarge a kitchen is a common structural modification, provided proper engineering and load support are in place. If the partition is non-load-bearing, the trade-off is relatively straightforward, involving drywall removal, flooring repairs, and minor electrical relocation. When removing a load-bearing wall, a contractor must install temporary shoring, engineer a replacement support beam (such as an LVL or steel beam), and route electrical, plumbing, or venting lines around the new opening. Before finalizing a plan, homeowners must identify where utilities run within the partition to plan relocation expenses and structural approvals accurately.",
+        "@type": "Answer",
+        "description": "Yes, interior walls can be removed to expand your kitchen. Load-bearing walls require temporary shoring, engineered support beams, and utility rerouting."
+      }
+    }
+  ],
+  "description": "Yes, interior walls can be removed to expand your kitchen. Load-bearing walls require temporary shoring, engineered support beams, and utility rerouting."
+}

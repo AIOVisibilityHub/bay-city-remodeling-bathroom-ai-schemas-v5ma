@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-replace-my-cabinet-knobs-and-pulls-when-having-my-cabinets-painted",
+  "name": "Should I replace my cabinet knobs and pulls when having my cabinets painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my cabinet knobs and pulls when having my cabinets painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your existing cabinet hardware is worn, outdated, or does not match your new paint color, swapping it out during the project is the most practical approach. If your new pulls have the exact same center-to-center hole spacing as your old ones, they can simply be screwed on after the final coat dries. However, if you are switching from standard knobs to long bar pulls or a different spacing, the old screw holes must be filled with wood filler, sanded flat, and primed before painting begins to ensure an invisible repair.",
+        "@type": "Answer",
+        "description": "Yes, updating hardware alongside painting is ideal. If new hardware uses different hole spacing, existing holes must be filled and sanded flush before painting starts."
+      }
+    }
+  ],
+  "description": "Yes, updating hardware alongside painting is ideal. If new hardware uses different hole spacing, existing holes must be filled and sanded flush before painting"
+}

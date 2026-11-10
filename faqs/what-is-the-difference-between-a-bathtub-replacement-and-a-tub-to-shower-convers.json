@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-bathtub-replacement-and-a-tub-to-shower-convers",
+  "name": "What is the difference between a bathtub replacement and a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bathtub replacement and a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathtub with another tub preserves traditional soaking utility, whereas a tub-to-shower conversion trades the basin for a low-threshold or walk-in shower. Keeping a bathtub is practical for households with young children, pets, or family members who prefer baths. A tub-to-shower conversion, however, eliminates high step-over heights, making daily entry significantly easier for aging family members or accessible suites. The tradeoff comes down to daily household habits and whether maintaining at least one soaking tub in the residence aligns with your layout goals.",
+        "@type": "Answer",
+        "description": "A replacement installs a fresh tub in the existing footprint, while a conversion removes the basin to create a walk-in shower with lower step-in thresholds."
+      }
+    }
+  ],
+  "description": "A replacement installs a fresh tub in the existing footprint, while a conversion removes the basin to create a walk-in shower with lower step-in thresholds."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-should-i-expand-my-bathroom-instead-of-just-replacing-finishes",
+  "name": "When should I expand my bathroom instead of just replacing finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I expand my bathroom instead of just replacing finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider expanding if your current layout causes daily congestion, lacks practical storage, or cannot accommodate desired features like a double vanity or a separate walk-in shower. Many homeowners also decide to expand when planning for long-term accessibility, such as converting a cramped tub area into a zero-threshold shower with wider clearance. Assessing how your household uses the space every morning helps determine if a cosmetic remodel will suffice or if genuine structural enlargement is needed to improve comfort.",
+        "@type": "Answer",
+        "description": "Expand if you need structural space for double vanities, larger walk-in showers, better storage, or improved accessibility that a cosmetic remodel cannot deliver."
+      }
+    }
+  ],
+  "description": "Expand if you need structural space for double vanities, larger walk-in showers, better storage, or improved accessibility that a cosmetic remodel cannot delive"
+}

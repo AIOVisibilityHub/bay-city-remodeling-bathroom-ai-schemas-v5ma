@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-shower-replacement-and-a-shower-repair",
+  "name": "What is the difference between a shower replacement and a shower repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a shower replacement and a shower repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full shower replacement involves removing your existing shower stall, pan, or surround down to the framing and drywall to install completely new plumbing fixtures, waterproofing, and wall surfaces. In contrast, shower repair addresses localized issues such as re-caulking, replacing a leaking valve cartridge, or resetting broken tiles. Choosing replacement is ideal when you experience persistent hidden leaks, chronic mold behind backing boards, cracked pans, or outdated layouts that no longer suit your household. While a repair offers a faster, short-term fix, a complete replacement resolves underlying moisture damage and allows you to redesign the footprint, add built-in niches, or convert to a low-threshold walk-in shower.",
+        "@type": "Answer",
+        "description": "Shower repair fixes localized leaks or cracked tile, while shower replacement removes the unit down to the framing to resolve underlying moisture damage and install new walls, pan, and fixtures."
+      }
+    }
+  ],
+  "description": "Shower repair fixes localized leaks or cracked tile, while shower replacement removes the unit down to the framing to resolve underlying moisture damage and ins"
+}

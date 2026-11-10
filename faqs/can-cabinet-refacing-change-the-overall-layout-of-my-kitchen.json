@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-cabinet-refacing-change-the-overall-layout-of-my-kitchen",
+  "name": "Can cabinet refacing change the overall layout of my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cabinet refacing change the overall layout of my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing allows you to change door profiles, colors, hardware, and decorative trim, but it does not alter the fundamental footprint or shape of your kitchen. If you want to move the sink, relocate appliances, add an island where space permits, or knock down adjoining walls, refacing alone cannot accomplish those structural goals. In those cases, a broader kitchen remodeling project or full cabinet rebuild is required to accommodate the new room configuration.",
+        "@type": "Answer",
+        "description": "No. Refacing updates the exterior appearance of your existing cabinets but keeps your current kitchen layout, footprint, and appliance locations intact."
+      }
+    }
+  ],
+  "description": "No. Refacing updates the exterior appearance of your existing cabinets but keeps your current kitchen layout, footprint, and appliance locations intact."
+}

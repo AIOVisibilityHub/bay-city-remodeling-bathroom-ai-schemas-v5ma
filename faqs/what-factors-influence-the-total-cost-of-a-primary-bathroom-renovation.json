@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-total-cost-of-a-primary-bathroom-renovation",
+  "name": "What factors influence the total cost of a primary bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a primary bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of remodeling a primary bathroom varies based on layout changes, tile choices, and plumbing relocations. Basic surface updates cost significantly less than full-gut renovations that add double vanities, freestanding tubs, or custom walk-in showers. Upgrading plumbing supply lines, framing curbless shower pans, and installing custom drywall finishes also influence final investment levels. Bay City Remodeling & Bathrooms provides upfront consultations, free written estimates, negotiable pricing options, and dedicated veteran discounts to help homeowners establish a realistic remodeling budget.",
+        "@type": "Answer",
+        "description": "Costs depend on room size, material selections, layout changes, moving plumbing lines, custom tile complexity, and whether structural walls or drywall repairs are involved."
+      }
+    }
+  ],
+  "description": "Costs depend on room size, material selections, layout changes, moving plumbing lines, custom tile complexity, and whether structural walls or drywall repairs a"
+}

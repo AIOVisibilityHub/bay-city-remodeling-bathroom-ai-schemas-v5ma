@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-typical-steps-in-a-cabinet-refacing-project",
+  "name": "What are the typical steps in a cabinet refacing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps in a cabinet refacing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The refacing process follows a sequential order to ensure a clean finish. First, all cabinet doors, drawer fronts, and old hardware are removed. Next, installers inspect, clean, and prep the face frames and exposed exterior end panels. A new veneer or laminate layer matching your selected door style is precisely cut, adhered, and trimmed over the existing framing. Finally, brand-new doors, drawer fronts, soft-close hinges, and pulls are installed and aligned for smooth operation.",
+        "@type": "Answer",
+        "description": "Old doors and hardware are removed, exposed frames are prepped and covered with matching veneer, and new doors, drawer fronts, and hardware are installed."
+      }
+    }
+  ],
+  "description": "Old doors and hardware are removed, exposed frames are prepped and covered with matching veneer, and new doors, drawer fronts, and hardware are installed."
+}

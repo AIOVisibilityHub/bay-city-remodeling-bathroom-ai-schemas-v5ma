@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-keep-my-existing-layout-or-change-the-floor-plan-in-a-small-kitchen-rem",
+  "name": "Should I keep my existing layout or change the floor plan in a small kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my existing layout or change the floor plan in a small kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping your current layout costs significantly less and finishes faster, while changing the layout improves workflow and usable space. A cosmetic update focuses on replacing cabinets, counters, and fixtures in their existing positions, avoiding the expense of altering plumbing runs, gas lines, or electrical connections. However, if your small kitchen has awkward traffic choke points or lacks preparation space, reconfiguring the layout—such as shifting a range or turning a peninsula into a storage bank—can solve daily frustration. The tradeoff is higher labor costs and potential drywall patching.",
+        "@type": "Answer",
+        "description": "Keeping the layout saves money on plumbing and electrical work. Changing the footprint costs more but fixes poor workflow and limited counter preparation zones."
+      }
+    }
+  ],
+  "description": "Keeping the layout saves money on plumbing and electrical work. Changing the footprint costs more but fixes poor workflow and limited counter preparation zones."
+}

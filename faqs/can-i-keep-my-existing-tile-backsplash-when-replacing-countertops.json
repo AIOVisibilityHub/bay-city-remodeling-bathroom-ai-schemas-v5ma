@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-keep-my-existing-tile-backsplash-when-replacing-countertops",
+  "name": "Can I keep my existing tile backsplash when replacing countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing tile backsplash when replacing countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertops can be replaced while keeping existing tile, but some cosmetic drywall or tile damage often occurs along the seam during removal. Old countertops are bonded to backsplashes with silicone or grout, and lifting heavy slabs can pull away bottom tile rows. To address this, homeowners can install a matching stone riser lip to cover small gaps, or hire a contractor to repair drywall and install a fresh tile backsplash. Bay City Remodeling & Bathrooms handles both countertop placement and complete drywall repair or tiling, resolving any wall gaps cleanly.",
+        "@type": "Answer",
+        "description": "You can, but removing old counters often chips bottom tiles. Many owners add a stone riser or install a new tile backsplash to bridge gaps."
+      }
+    }
+  ],
+  "description": "You can, but removing old counters often chips bottom tiles. Many owners add a stone riser or install a new tile backsplash to bridge gaps."
+}

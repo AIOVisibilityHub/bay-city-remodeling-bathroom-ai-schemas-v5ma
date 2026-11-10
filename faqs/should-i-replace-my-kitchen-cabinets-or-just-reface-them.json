@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-replace-my-kitchen-cabinets-or-just-reface-them",
+  "name": "Should I replace my kitchen cabinets or just reface them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my kitchen cabinets or just reface them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full replacement is required when existing cabinet boxes suffer from structural damage, water warping, mold, or sagging shelves, or when you want to change your kitchen layout. Refacing only updates the exterior doors, drawer fronts, and veneer on the existing framework. If you plan to expand storage, configure a new island, or switch appliance positions, refacing will not solve the functional layout issues. Choosing replacement provides structurally sound boxes, full design flexibility, and the ability to tailor cabinet interiors to your specific everyday kitchen storage needs.",
+        "@type": "Answer",
+        "description": "Replace your cabinets if the boxes have water damage or if you want to alter your kitchen layout. Refacing only swaps doors and veneers on structurally sound frames."
+      }
+    }
+  ],
+  "description": "Replace your cabinets if the boxes have water damage or if you want to alter your kitchen layout. Refacing only swaps doors and veneers on structurally sound fr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-simple-shower-replacement-and-expanding-the-sho",
+  "name": "What is the difference between a simple shower replacement and expanding the shower footprint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a simple shower replacement and expanding the shower footprint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard shower replacement typically swaps fixtures and surfaces within the existing boundaries, whereas a custom shower expansion alters the room layout by moving framing, drywall, and plumbing lines. Expanding your shower footprint allows you to incorporate larger benches, dual shower systems, and frameless glass partitions. The tradeoff is that moving supply valves and underground drains requires opening surrounding floors and walls, which increases labor time and material requirements compared to staying within your original footprint.",
+        "@type": "Answer",
+        "description": "A replacement updates finishes in the existing space, while expanding the footprint involves moving walls, drywall, and plumbing to create a larger, custom layout."
+      }
+    }
+  ],
+  "description": "A replacement updates finishes in the existing space, while expanding the footprint involves moving walls, drywall, and plumbing to create a larger, custom layo"
+}

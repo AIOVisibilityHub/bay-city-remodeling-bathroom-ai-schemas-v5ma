@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-meeting-with-a-shower-remodeling-contractor",
+  "name": "What should I prepare before meeting with a shower remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a shower remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an on-site consultation, measure the general footprint of your bathroom and note how your family uses the space daily. Gather photos of shower styles, fixtures, and tile patterns you prefer, and decide whether you want specialty features like built-in niches, corner benches, or dual shower heads. You should also note the age of your plumbing and inspect nearby walls or ceilings below for signs of past leaks. Disclosing these details upfront helps the contractor provide a clear, tailored project scope.",
+        "@type": "Answer",
+        "description": "Prepare rough room measurements, design ideas, your desired features like benches or niches, and note any existing leaks or accessibility needs before your consultation."
+      }
+    }
+  ],
+  "description": "Prepare rough room measurements, design ideas, your desired features like benches or niches, and note any existing leaks or accessibility needs before your cons"
+}

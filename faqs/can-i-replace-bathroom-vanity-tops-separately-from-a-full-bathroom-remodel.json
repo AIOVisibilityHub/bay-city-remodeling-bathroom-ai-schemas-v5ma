@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-replace-bathroom-vanity-tops-separately-from-a-full-bathroom-remodel",
+  "name": "Can I replace bathroom vanity tops separately from a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace bathroom vanity tops separately from a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing bathroom vanity countertops follows the same core process as kitchen surfaces, though with different spatial and plumbing considerations. Bathroom tops are often smaller, making slab remnants a budget-friendly option, but they require precise cutouts for vessel or undermount lavatory bowls and specific faucet hole drillings. Humidity is higher in bathrooms, making non-porous stones like quartz especially advantageous to resist moisture and cosmetic stains. If you are completing a broader bathroom update, vanity tops can be matched with new shower surrounds or walk-in shower tile.",
+        "@type": "Answer",
+        "description": "Yes, vanity countertops can be replaced independently, offering a fast way to refresh the bathroom using durable, moisture-resistant materials."
+      }
+    }
+  ],
+  "description": "Yes, vanity countertops can be replaced independently, offering a fast way to refresh the bathroom using durable, moisture-resistant materials."
+}

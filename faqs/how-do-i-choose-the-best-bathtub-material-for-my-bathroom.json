@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-the-best-bathtub-material-for-my-bathroom",
+  "name": "How do I choose the best bathtub material for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best bathtub material for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Acrylic and fiberglass are the most common lightweight options, offering warm surface temperatures and straightforward installation, though acrylic is more durable and scratch-resistant than basic fiberglass. Enameled steel and cast iron offer exceptional durability and a classic feel, but cast iron is extremely heavy and may require subfloor reinforcement before installation. Stone resin and composite freestanding tubs provide modern, high-end aesthetics but require ample floor clearance and dedicated floor-mounted or wall-mounted filler valves. Your choice depends on aesthetic preference, structural support, and budget.",
+        "@type": "Answer",
+        "description": "Choose acrylic for low maintenance and durability, cast iron for superior heat retention and classic appeal, or composite stone for high-end freestanding styles."
+      }
+    }
+  ],
+  "description": "Choose acrylic for low maintenance and durability, cast iron for superior heat retention and classic appeal, or composite stone for high-end freestanding styles"
+}

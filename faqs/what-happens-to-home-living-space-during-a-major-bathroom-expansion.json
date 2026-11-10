@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-happens-to-home-living-space-during-a-major-bathroom-expansion",
+  "name": "What happens to home living space during a major bathroom expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to home living space during a major bathroom expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To preserve privacy, contractors establish defined work paths and seal off the bathroom remodeling area with plastic zip-walls and floor runners. Because walls will be opened for framing, plumbing, and drywall, dust containment and daily jobsite cleanups are essential to protect adjacent bedrooms and living areas. Contractors also schedule inspections and material staging to minimize general disruption. Bay City Remodeling & Bathrooms coordinates daily work schedules and communicates project steps so homeowners know when water shut-offs or noisy construction activities will take place.",
+        "@type": "Answer",
+        "description": "Contractors seal off the work zone using dust barriers, protect flooring in access pathways, and coordinate utility shut-offs to minimize disruption to your home."
+      }
+    }
+  ],
+  "description": "Contractors seal off the work zone using dust barriers, protect flooring in access pathways, and coordinate utility shut-offs to minimize disruption to your hom"
+}

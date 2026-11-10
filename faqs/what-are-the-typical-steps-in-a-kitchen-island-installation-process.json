@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-typical-steps-in-a-kitchen-island-installation-process",
+  "name": "What are the typical steps in a kitchen island installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps in a kitchen island installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with layout planning and utility mapping, followed by framing, utility rough-ins, cabinet installation, countertop template and placement, and finish work. First, the team marks clearances on the floor and cuts into the subfloor if plumbing or electrical lines are required. Next, base cabinets are securely fastened to cleats anchored into the subfloor. Once the base is level and solid, technicians measure for countertop fabrication. After the stone is installed, final plumbing fixtures, outlets, and decorative panel trim are completed to finish the structure.",
+        "@type": "Answer",
+        "description": "The process includes floor marking, utility rough-ins, anchoring base cabinets, measuring and setting countertops, and completing plumbing, electrical, and trim connections."
+      }
+    }
+  ],
+  "description": "The process includes floor marking, utility rough-ins, anchoring base cabinets, measuring and setting countertops, and completing plumbing, electrical, and trim"
+}

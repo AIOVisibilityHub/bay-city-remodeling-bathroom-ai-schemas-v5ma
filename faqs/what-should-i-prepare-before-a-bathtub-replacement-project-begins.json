@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-a-bathtub-replacement-project-begins",
+  "name": "What should I prepare before a bathtub replacement project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a bathtub replacement project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor arrives, measure the width of your doorways, interior hallways, and stairwells to confirm the new bathtub can physically enter the room. Clear personal toiletries, shower curtains, and wall art from the bathroom, and empty under-sink vanities if shared plumbing lines need shutoff access. You should also decide ahead of time whether you plan to keep your existing shower valve trim and drain location or upgrade the fixtures and relocate plumbing lines, as changing the layout impacts the preparatory work on wall studs and subfloors.",
+        "@type": "Answer",
+        "description": "Measure interior entry pathways to ensure the tub fits through doors, clear personal items from the bathroom, and decide if you want to keep or relocate existing plumbing."
+      }
+    }
+  ],
+  "description": "Measure interior entry pathways to ensure the tub fits through doors, clear personal items from the bathroom, and decide if you want to keep or relocate existin"
+}

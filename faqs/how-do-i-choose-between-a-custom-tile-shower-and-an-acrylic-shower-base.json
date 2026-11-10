@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-between-a-custom-tile-shower-and-an-acrylic-shower-base",
+  "name": "How do I choose between a custom tile shower and an acrylic shower base?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a custom tile shower and an acrylic shower base?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile showers offer complete design customization, premium aesthetics, and flexibility in size, allowing for matching benches and recessed shelving. However, tile requires regular grout sealing and detailed cleaning over time. Prefabricated acrylic or composite shower units cost less, install more quickly, and feature non-porous, grout-free walls that simplify daily maintenance. The choice comes down to prioritizing high-end custom appearance and layout flexibility versus lower material costs and easy maintenance.",
+        "@type": "Answer",
+        "description": "Choose tile for custom sizing, premium aesthetics, and flexible niches; choose acrylic for faster installation, lower total cost, and easier grout-free cleaning."
+      }
+    }
+  ],
+  "description": "Choose tile for custom sizing, premium aesthetics, and flexible niches; choose acrylic for faster installation, lower total cost, and easier grout-free cleaning"
+}

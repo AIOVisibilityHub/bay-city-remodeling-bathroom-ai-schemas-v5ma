@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-bathroom-flooring-replacement-and-a-full-bathroom",
+  "name": "What is the difference between bathroom flooring replacement and a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between bathroom flooring replacement and a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement focuses strictly on tearing out the existing surface, prepping the subfloor, and installing new tile or vinyl. A full bathroom remodel encompasses the entire room, including replacing the vanity, upgrading lighting, rewiring, painting, and undertaking shower remodeling or tub-to-shower conversions. If your plumbing fixtures and cabinetry remain functional and stylish, a floor replacement delivers an updated look with minimal downtime. If layout changes or accessibility upgrades are needed, a comprehensive remodel is more effective.",
+        "@type": "Answer",
+        "description": "Flooring replacement updates only the floor surface and subfloor, whereas a full remodel covers vanities, lighting, showers, tubs, and layout redesigns."
+      }
+    }
+  ],
+  "description": "Flooring replacement updates only the floor surface and subfloor, whereas a full remodel covers vanities, lighting, showers, tubs, and layout redesigns."
+}

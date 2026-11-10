@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-new-bathroom-flooring-be-installed-over-existing-tile",
+  "name": "Can new bathroom flooring be installed over existing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new bathroom flooring be installed over existing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new flooring directly over existing tile is generally not recommended in bathrooms. Adding layers raises the overall floor height, which creates awkward transitions at doorways, interferes with baseboard trim, and can prevent bathroom doors from clearing the floor. More importantly, leaving old tile in place conceals potential moisture damage, rot, or mold in the subfloor. Tearing out old materials allows contractors to examine the subfloor, level uneven spots, and install proper waterproof underlayment.",
+        "@type": "Answer",
+        "description": "It is not recommended. Removing old tile lets contractors inspect the subfloor for moisture damage and avoids awkward floor height changes at doorways."
+      }
+    }
+  ],
+  "description": "It is not recommended. Removing old tile lets contractors inspect the subfloor for moisture damage and avoids awkward floor height changes at doorways."
+}

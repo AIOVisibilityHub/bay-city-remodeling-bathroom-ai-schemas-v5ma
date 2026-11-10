@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-professional-cabinet-painting-project-typically-take",
+  "name": "How long does a professional cabinet painting project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional cabinet painting project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional cabinet painting project generally takes about three to seven business days, depending on the number of openings and the complexity of the cabinetry. During this period, door and drawer faces are removed to be prepped, cleaned, primed, and coated, while cabinet face frames and end panels are finished in place. Curing times between coats can extend the timeline, particularly in humid Florida conditions where moisture levels require careful drying management before hardware reinstallation. You can usually access parts of your kitchen during the project, though full appliance use may be limited while spraying or masking occurs.",
+        "@type": "Answer",
+        "description": "Most cabinet painting projects take three to seven business days. Drying time between coats and the total number of doors and drawer faces directly influence the schedule."
+      }
+    }
+  ],
+  "description": "Most cabinet painting projects take three to seven business days. Drying time between coats and the total number of doors and drawer faces directly influence th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-of-a-small-kitchen-renovation",
+  "name": "What is the step-by-step process of a small kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process of a small kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The remodel begins with an initial consultation and quote, moves through design selection and material procurement, and finishes with installation. After signing off on the layout, the crew demolishes old cabinets, appliances, and surfaces. Trades complete any behind-the-wall electrical, plumbing, and drywall work needed for new layouts or updated lighting. Once walls are finished, base and wall cabinets go in, followed by countertop template and installation. The final phase involves plumbing fixture connections, backsplash tiling, appliance hookups, and a final walkthrough.",
+        "@type": "Answer",
+        "description": "The process includes consultation, demolition, rough-in trades, drywall finishing, cabinet and counter installation, backsplashes, and final fixture connections."
+      }
+    }
+  ],
+  "description": "The process includes consultation, demolition, rough-in trades, drywall finishing, cabinet and counter installation, backsplashes, and final fixture connections"
+}

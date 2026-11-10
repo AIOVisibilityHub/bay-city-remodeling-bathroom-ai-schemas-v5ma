@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-tradeoffs-between-large-format-tiles-and-mosaic-tiles-in-a-bathroom",
+  "name": "What are the tradeoffs between large-format tiles and mosaic tiles in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tradeoffs between large-format tiles and mosaic tiles in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between large-format tiles and mosaic tiles involves balancing cleaning maintenance with slip resistance. Large-format tiles feature fewer grout lines, which minimizes scrubbing and creates an open, seamless look on bathroom walls and main floors. However, they require exceptionally flat, leveled surfaces to avoid uneven edges (lippage). Mosaic tiles require more grout maintenance, but their numerous joint lines provide essential shoe and bare-foot traction, making them the preferred, practical option for wet shower floor pans and curbless shower bases.",
+        "@type": "Answer",
+        "description": "Large-format tiles mean fewer grout lines to scrub but need flat walls; mosaics require more grout cleaning but provide superior slip resistance on shower floors."
+      }
+    }
+  ],
+  "description": "Large-format tiles mean fewer grout lines to scrub but need flat walls; mosaics require more grout cleaning but provide superior slip resistance on shower floor"
+}

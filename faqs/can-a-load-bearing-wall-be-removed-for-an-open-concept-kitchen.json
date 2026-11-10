@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-a-load-bearing-wall-be-removed-for-an-open-concept-kitchen",
+  "name": "Can a load-bearing wall be removed for an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a load-bearing wall be removed for an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can remove a load-bearing wall to create an open-concept kitchen, but it requires installing structural support to carry the load of the roof or upper floors. This is typically done by inserting a recessed or dropped support beam, along with new load-bearing posts and reinforced footings below. The trade-off involves both budget and aesthetics: a flush ceiling beam requires cutting into existing joists and rerouting infrastructure, whereas a dropped beam is simpler to install but remains visible. An assessment is needed before demolition to confirm what lies inside the wall, such as electrical lines, plumbing vents, or ductwork that must also be relocated.",
+        "@type": "Answer",
+        "description": "Yes, a load-bearing wall can be removed, but it requires adding a structural support beam and posts to carry overhead loads safely."
+      }
+    }
+  ],
+  "description": "Yes, a load-bearing wall can be removed, but it requires adding a structural support beam and posts to carry overhead loads safely."
+}
