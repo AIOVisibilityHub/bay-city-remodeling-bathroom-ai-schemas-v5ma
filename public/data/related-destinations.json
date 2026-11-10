@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-10T19:16:38.881Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Bay City Remodeling & Bathroom",
+    "canonicalUrl": "https://baycityremodeling.aiovisibility.net",
+    "primaryWebsiteUrl": "https://baycityremodeling.com",
+    "aiDataHub": "https://baycityremodeling.aiovisibility.net/ai-data.html",
+    "sameAs": []
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Bay City Remodeling & Bathroom — canonical website",
+      "url": "https://baycityremodeling.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Bay City Remodeling & Bathroom — AI Data Hub",
+      "url": "https://baycityremodeling.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
+    }
+  }
+}
