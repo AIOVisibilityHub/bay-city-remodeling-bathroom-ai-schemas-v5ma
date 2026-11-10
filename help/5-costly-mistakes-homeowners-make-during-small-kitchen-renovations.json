@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "5 Costly Mistakes Homeowners Make During Small Kitchen Renovations",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Remodeling a compact kitchen comes with unique spatial hurdles. Because square footage is limited, minor planning errors can create major daily frustrations. Here are five frequent mistakes homeowners make and practical ways to avoid them.\n\nCommon Mistakes to Avoid\n1. Overcrowding with an unnecessary island. Squeezing an island into a tight footprint restricts walking aisles. Ensure you have at least 36 inches of clear circulation on all sides before considering an island; otherwise, stick with perimeter counters or a peninsula.\n2. Overlooking appliance door clearance. Installing a full-depth refrigerator right next to a wall or placing an oven directly opposite a dishwasher often blocks doors from opening fully. Always verify clearance arcs on your layout plan.\n3. Choosing aesthetics over functional counter landing space. Placing a cooktop right against a wall or crowding the sink removes the counter space needed for prep work. Maintain dedicated landing zones beside primary cooking surfaces.\n4. Underutilizing vertical wall space. Stopping wall cabinets well short of the ceiling wastes valuable storage. Running upper cabinets higher or adding deep drawers creates efficient storage for less-used items.\n5. Picking finishes before finalizing the layout. Selecting tile and paint before nailing down mechanical drops and cabinet runs often leads to costly design compromises.\n\nBay City Remodeling & Bathrooms LLC helps homeowners plan efficient, beautiful small kitchens across Brandon and the Tampa Bay area. Call 813-362-0114 to get started.",
+  "datePublished": "2026-11-09"
+}

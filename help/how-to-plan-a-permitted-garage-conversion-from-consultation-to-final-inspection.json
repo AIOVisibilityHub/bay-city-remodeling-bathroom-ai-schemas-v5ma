@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Permitted Garage Conversion from Consultation to Final Inspection",
+  "step": [
+    {
+      "name": "Step 1: Check your zoning rules and setbacks",
+      "text": "Before drawing up floor plans, confirm local property constraints and parking regulations. Look into whether your neighborhood allows living space conversions and whether you must maintain replacement parking on your driveway or lot.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Assess your existing foundation, ceiling height, and slab",
+      "text": "Inspect the garage floor for moisture barrier needs, cracks, and floor level. You need to verify that your existing ceiling height meets living space standards and determine how much insulation or subflooring is necessary.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Design complete architectural and utility layouts",
+      "text": "Work with a qualified designer or contractor to draw detailed plans covering framing, doors, emergency escape windows, plumbing extensions, electrical capacity, and HVAC tie-ins. These blueprints ensure the converted room functions seamlessly with your home.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Submit architectural plans and pull building permits",
+      "text": "Submit your drawings for building, electrical, mechanical, and plumbing reviews. Never start demolition or rough-ins until official permits are approved, as unpermitted conversions cannot be counted as finished living area.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Complete rough framing, insulation, and trade rough-ins",
+      "text": "Frame interior partitions, install code-compliant windows, run electrical wiring, add plumbing lines if including a bathroom, and place thermal insulation. This stage prepares your room for essential city inspections before enclosing the walls.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Hang drywall, finish surfaces, and complete final trim",
+      "text": "Install and finish moisture-resistant drywall, lay down your chosen flooring, connect heating and cooling, install interior doors, and paint. Once the trades finish, schedule your final inspection to certify the new living space. What to Do Next Bay City Remodeling & Bathrooms coordinates every stage of home additions and garage conversions across Brandon and the Tampa Bay area. Call 813-362-0114 to discuss your space and schedule a free quote.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Before drawing up floor plans, confirm local property constraints and parking regulations. Look into whether your neighborhood allows living space conversions and whether you must maintain replacement"
+}

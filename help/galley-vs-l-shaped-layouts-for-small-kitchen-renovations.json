@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Galley vs L-Shaped Layouts for Small Kitchen Renovations",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the right configuration for a compact kitchen remodel often comes down to two proven footprints: the galley layout and the L-shaped layout. Both have distinct functional strengths depending on your room's entry points and daily cooking habits.\n\nHow to Compare Your Options\nA galley layout places counters and cabinetry along two parallel walls, creating an exceptionally efficient cooking corridor. It keeps everything within arm's reach and maximizes counter run, making it ideal for narrow, pass-through spaces. However, it can feel tight if multiple people cook together, and it typically eliminates room for seating or an island.\n\nAn L-shaped layout arranges workspace along two adjoining walls, naturally opening up the center of the room. This design easily accommodates an open-concept transition into a dining or living area and provides comfortable circulation. The trade-off is less continuous base cabinet storage and the challenge of managing corner cabinets, which require pull-out organizers to remain practical.\n\nWhen deciding between the two, measure your usable room width first. A galley requires at least 36 inches of clear aisle space between facing counters, while an L-shaped plan works best when you want to preserve an open floor feel. For a detailed layout review in the Brandon area, reach out to Bay City Remodeling & Bathrooms LLC at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

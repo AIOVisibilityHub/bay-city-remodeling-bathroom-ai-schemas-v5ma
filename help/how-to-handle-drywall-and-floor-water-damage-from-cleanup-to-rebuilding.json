@@ -1,0 +1,119 @@
+{
+  "name": "How to Handle Drywall and Floor Water Damage from Cleanup to Rebuilding",
+  "step": [
+    {
+      "name": "Step 1: Shut off the water source and secure electrical power",
+      "text": "Immediately close the main water shutoff valve or fixture supply line to stop incoming moisture. If standing water approaches wall outlets, baseboard heaters, or appliances, turn off the corresponding circuit breakers at your main panel before stepping into the room.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Document all visible damage for your insurance claim",
+      "text": "Take clear, well-lit photos and video recordings of standing water, soaked drywall, warped baseboards, and ruined flooring. Keep these records ready along with notes on when the leak started to support your insurer's documentation requirements.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Extract standing water and remove soaked porous materials",
+      "text": "Pump or vacuum standing water from the room right away. Cut away saturated carpet padding, buckled laminate, and wet drywall up to at least several inches above the visible water line, since damp gypsum and fiberglass insulation trap moisture inside wall cavities.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Run commercial dehumidifiers and air movers for 48 to 72 hours",
+      "text": "Position heavy-duty air movers and commercial dehumidifiers to pull moisture out of wall studs, subflooring, and concrete slabs. Continue drying until professional moisture meters verify that deep framing readings have returned to normal baseline levels.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Clean, treat, and inspect exposed framing for hidden moisture",
+      "text": "Wipe down and disinfect exposed wood studs with an antimicrobial solution to stop mold growth. Check adjoining wall cavities, subfloor layers, and ceiling joints to ensure no trapped moisture remains before any reconstruction begins.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install fresh drywall, match texture, and reinstall flooring",
+      "text": "Hang moisture-resistant drywall, tape and mud seams, apply matching texture, and prime with mold-resistant primer. Reinstall your baseboards, trim, and flooring so the finished space looks seamless and structurally sound. What to Do Next Bay City Remodeling & Bathrooms provides skilled drywall installation, drywall repair, and interior remodeling across Brandon, Riverview, and Tampa. Call 813-362-0114 to plan your repairs.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Immediately close the main water shutoff valve or fixture supply line to stop incoming moisture. If standing water approaches wall outlets, baseboard heaters, or appliances, turn off the corresponding"
+}

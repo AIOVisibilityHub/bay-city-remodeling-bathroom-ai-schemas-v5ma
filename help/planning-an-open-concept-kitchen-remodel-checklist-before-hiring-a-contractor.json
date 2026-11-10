@@ -1,0 +1,153 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning an Open-Concept Kitchen Remodel: Checklist Before Hiring a Contractor",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning an Open-Concept Kitchen Remodel: Checklist Before Hiring a Contractor",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Attic inspection record — Confirms whether your target wall supports roof trusses or ceiling joists before…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Attic inspection record — Confirms whether your target wall supports roof trusses or ceiling joists before demo starts."
+      },
+      {
+        "name": "Electrical circuit inventory — Identifies how many switches, outlets, and feed lines run through the wall a…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Electrical circuit inventory — Identifies how many switches, outlets, and feed lines run through the wall and require relocation."
+      },
+      {
+        "name": "Plumbing and vent stack verification — Determines if water supply pipes, drain lines, or plumbing vents mus…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Plumbing and vent stack verification — Determines if water supply pipes, drain lines, or plumbing vents must be moved into the floor or adjacent walls."
+      },
+      {
+        "name": "HVAC register and return check — Verifies whether heating and cooling ducts pass through the partition and…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "HVAC register and return check — Verifies whether heating and cooling ducts pass through the partition and need rerouting to balance air circulation."
+      },
+      {
+        "name": "Flooring transition evaluation — Identifies whether existing flooring runs under the wall or if you must pa…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Flooring transition evaluation — Identifies whether existing flooring runs under the wall or if you must patch and replace flooring across adjoining rooms."
+      },
+      {
+        "name": "Range hood venting path — Confirms you have a clear route to vent cooking grease and odors directly outside…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Range hood venting path — Confirms you have a clear route to vent cooking grease and odors directly outside once the wall is gone."
+      },
+      {
+        "name": "Island clearance measurement — Verifies you maintain 42 to 48 inches of walkway between your planned island…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Island clearance measurement — Verifies you maintain 42 to 48 inches of walkway between your planned island and living room furniture."
+      },
+      {
+        "name": "Local permit requirements check — Confirms what plans and trade permits your local building department requ…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Local permit requirements check — Confirms what plans and trade permits your local building department requires before structural demolition begins."
+      },
+      {
+        "name": "Written scope and allowance document — Clarifies contractor responsibilities for structural beams, drywall…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Written scope and allowance document — Clarifies contractor responsibilities for structural beams, drywall finishing, and final inspections."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Attic inspection record — Confirms whether your target wall supports roof trusses or ceiling joists before demo starts.\n- [ ] Electrical circuit inventory — Identifies how many switches, outlets, and feed lines run through the wall and require relocation.\n- [ ] Plumbing and vent stack verification — Determines if water supply pipes, drain lines, or plumbing vents must be moved into the floor or adjacent walls.\n- [ ] HVAC register and return check — Verifies whether heating and cooling ducts pass through the partition and need rerouting to balance air circulation.\n- [ ] Flooring transition evaluation — Identifies whether existing flooring runs under the wall or if you must patch and replace flooring across adjoining rooms.\n- [ ] Range hood venting path — Confirms you have a clear route to vent cooking grease and odors directly outside once the wall is gone.\n- [ ] Island clearance measurement — Verifies you maintain 42 to 48 inches of walkway between your planned island and living room furniture.\n- [ ] Local permit requirements check — Confirms what plans and trade permits your local building department requires before structural demolition begins.\n- [ ] Written scope and allowance document — Clarifies contractor responsibilities for structural beams, drywall finishing, and final inspections.\n\nHow to use this checklist:\nWork through these items with your contractor during your initial home walkthrough. Having answers to each point prevents costly surprise change orders once walls are opened up. For expert guidance on your open-concept remodel in Brandon, Riverview, or Tampa, contact Bay City Remodeling & Bathrooms LLC at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

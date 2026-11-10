@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Planning a Bathroom Flooring Replacement Project",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Planning a Bathroom Flooring Replacement Project",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Subfloor moisture test — Check for hidden dampness or rot around toilets and tubs before selecting materials.",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Subfloor moisture test — Check for hidden dampness or rot around toilets and tubs before selecting materials."
+      },
+      {
+        "name": "Finished floor height measurement — Verify that new flooring and underlayment will align cleanly with adjoi…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Finished floor height measurement — Verify that new flooring and underlayment will align cleanly with adjoining bedroom or hallway flooring."
+      },
+      {
+        "name": "Slip resistance rating check — Pick a wet-area rated surface texture to prevent slip-and-fall hazards when…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Slip resistance rating check — Pick a wet-area rated surface texture to prevent slip-and-fall hazards when stepping out of showers."
+      },
+      {
+        "name": "Toilet shutoff valve inspection — Confirm the supply valve turns off completely so plumbing can be disconne…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Toilet shutoff valve inspection — Confirm the supply valve turns off completely so plumbing can be disconnected without house-wide shutoffs."
+      },
+      {
+        "name": "Replacement wax ring or gasket ready — Secure a new seal to reinstall the toilet properly over the updated…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Replacement wax ring or gasket ready — Secure a new seal to reinstall the toilet properly over the updated floor height."
+      },
+      {
+        "name": "Vanity footprint decision — Decide whether the new floor goes wall-to-wall underneath the vanity or cuts ar…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Vanity footprint decision — Decide whether the new floor goes wall-to-wall underneath the vanity or cuts around existing cabinetry."
+      },
+      {
+        "name": "Baseboard and trim plan — Determine if current baseboards will be lifted and reset or replaced with moistur…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Baseboard and trim plan — Determine if current baseboards will be lifted and reset or replaced with moisture-resistant trim."
+      },
+      {
+        "name": "Written contractor scope of work — Ensure subfloor leveling and trash disposal are documented in writing be…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Written contractor scope of work — Ensure subfloor leveling and trash disposal are documented in writing before demolition begins."
+      }
+    ]
+  },
+  "articleBody": "Replacing your bathroom floor involves more than picking out a surface finish. A successful remodel requires checking the plumbing, prepping the substrate, and coordinating trim. Use this checklist to make sure your project stays on track from start to finish.\n\n- [ ] Subfloor moisture test — Check for hidden dampness or rot around toilets and tubs before selecting materials.\n- [ ] Finished floor height measurement — Verify that new flooring and underlayment will align cleanly with adjoining bedroom or hallway flooring.\n- [ ] Slip resistance rating check — Pick a wet-area rated surface texture to prevent slip-and-fall hazards when stepping out of showers.\n- [ ] Toilet shutoff valve inspection — Confirm the supply valve turns off completely so plumbing can be disconnected without house-wide shutoffs.\n- [ ] Replacement wax ring or gasket ready — Secure a new seal to reinstall the toilet properly over the updated floor height.\n- [ ] Vanity footprint decision — Decide whether the new floor goes wall-to-wall underneath the vanity or cuts around existing cabinetry.\n- [ ] Baseboard and trim plan — Determine if current baseboards will be lifted and reset or replaced with moisture-resistant trim.\n- [ ] Written contractor scope of work — Ensure subfloor leveling and trash disposal are documented in writing before demolition begins.\n\nHow to use this checklist:\nReview these concrete items with your contractor during your initial consultation. Addressing these points early avoids surprise change orders and keeps your renovation running smoothly. \n\nBay City Remodeling & Bathrooms LLC provides transparent, experienced bathroom flooring services throughout Brandon, Valrico, and Fish Hawk. Call 813-362-0114 to schedule your consultation.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "Living Room Wall Removal: How to Prepare Your Space Step by Step",
+  "step": [
+    {
+      "name": "Step 1: Verify whether the wall is load-bearing",
+      "text": "Inspect the attic framing or crawlspace beneath the wall to identify which direction the joists or trusses run. Have a licensed builder or structural engineer evaluate whether the partition carries roof or ceiling loads before making any cuts.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Secure engineering calculations and building permits",
+      "text": "Draft detailed plans showing the proposed opening, point loads, and support posts down to the foundation. Submit these structural drawings to your local building office to obtain the necessary building permit before touching the framing.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Protect surrounding living areas and isolate dust",
+      "text": "Seal off nearby rooms, hallways, and return air vents using plastic sheeting and zip poles to contain drywall dust. Cover finished flooring with heavy protective board to prevent gouges from falling debris and heavy tools during demo.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Erect temporary support shoring",
+      "text": "Build sturdy temporary stud walls on both sides of the target wall to support ceiling joists safely. Make sure these temporary walls rest on solid subflooring and hold the overhead load securely before disturbing any existing studs.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Remove the wall and reroute internal utilities",
+      "text": "Strip away drywall, carefully disconnect any live circuits running through the wall, and reroute HVAC or plumbing lines. Remove existing studs and install the specified structural beam and support posts according to the approved plan.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete trade inspections and close up the space",
+      "text": "Call in municipal inspectors to review the structural connections, fasteners, and relocated wiring while framing is exposed. Once approved, hang new drywall, tape and finish the joints, patch adjoining flooring, and apply final paint. Bay City Remodeling & Bathrooms handles structural wall removals and living room transformations across the Tampa Bay area. Contact our team at 813-362-0114 to request an estimate.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Inspect the attic framing or crawlspace beneath the wall to identify which direction the joists or trusses run. Have a licensed builder or structural engineer evaluate whether the partition carries ro"
+}

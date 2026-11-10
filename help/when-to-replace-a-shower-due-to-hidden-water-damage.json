@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Replace a Shower Due to Hidden Water Damage",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your shower shows cracked grout, soft wallboard, or a persistent musty smell, you are likely facing moisture beneath the surface. In humid Florida communities like Brandon and Riverview, concealed leaks can rot subflooring and framing long before water shows up on the ceiling below. \n\nWhen Professional Guidance Helps:\n- Visible mold re-emerging repeatedly along baseboards or outer drywall corners.\n- A shower pan that flexes or feels spongy underfoot, signaling wood decay or unlevel substrate.\n- Outdated valves that drip continuously behind the finished wall assembly.\n- Needing to pull permits and coordinate inspections for new rough plumbing or relocated drain lines.\n\nDeciding whether to patch or completely replace comes down to underlying structure. Tearing out old tile to find saturated studs means the entire wet area requires proper waterproofing and mold-resistant backer board. Licensed subcontractors should handle any plumbing or electrical shifts, ensuring the shower meets code and includes proper mechanical ventilation.\n\nIf you suspect hidden water damage behind your enclosure, Bay City Remodeling & Bathrooms LLC can evaluate your space. Call 813-362-0114 to discuss your shower replacement options and request a consultation.",
+  "datePublished": "2026-11-09"
+}

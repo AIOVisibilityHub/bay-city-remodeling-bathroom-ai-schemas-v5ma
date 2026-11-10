@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Hiring a Home Remodeling Contractor: What to Verify Before Signing a Contract",
+    "text": "Hiring a Home Remodeling Contractor: What to Verify Before Signing a Contract",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Hiring a contractor for an interior overhaul can feel daunting when you are comparing several bids. The biggest question most homeowners face right before signing is: What exactly should you verify to make sure your project finishes smoothly, on time, and within budget?\n\nQuestions to Ask Before You Decide\n\nFirst, check that your contractor carries active general liability insurance and workers' compensation coverage, alongside proper licensing. In Florida, work that alters load-bearing walls, electrical wiring, or plumbing lines requires permits from your local municipal building department, such as Hillsborough County. Make sure the written agreement explicitly specifies who applies for permits and schedules building inspections.\n\nSecond, review how the contract handles materials and unexpected issues. A reliable contract details clear material allowances, payment milestones tied directly to completed stages, and an established written change-order procedure. Avoid verbal understandings about finish fixtures, cabinet types, or drywall finishing. \n\nWhen you need a cohesive renovation that brings together trades like carpentry, drywall, and fixture installation, working with an experienced team prevents costly delays. Bay City Remodeling & Bathrooms helps homeowners across Brandon and Tampa organize and execute interior renovations with clear communication and veteran discounts. Call 813-362-0114 to request a free quote.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

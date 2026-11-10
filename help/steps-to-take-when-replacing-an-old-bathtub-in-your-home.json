@@ -1,0 +1,119 @@
+{
+  "name": "Steps to Take When Replacing an Old Bathtub in Your Home",
+  "step": [
+    {
+      "name": "Step 1: Verify actual rough-in dimensions and doorway clearances",
+      "text": "Measure the alcove width, depth, and height down to the fraction of an inch, noting whether the drain is left-, right-, or center-oriented. Confirm that the path from your front entrance through hallways and interior doors is wide enough to bring the new tub inside.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Shut off the water supply and safely disconnect fixtures",
+      "text": "Turn off the main or local water supply valves, open nearby faucets to relieve residual pressure, and disconnect the tub drain, overflow assembly, and supply lines. Have buckets and towels ready to catch standing water trapped in the trap assembly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove the wall surround and extract the old bathtub",
+      "text": "Cut through surrounding tile or wall panels to expose the tub's mounting flange and wall studs. Carefully detach the fastening screws or nails along the flange, pry the old unit free from the framing, and slide it out of the alcove without damaging nearby door trim.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Inspect framing, level the subfloor, and rough-in plumbing",
+      "text": "Examine the subfloor and wall framing for any water staining, rot, or insect damage, replacing weakened timber as required. Check that the floor is completely level, adjusting the waste pipe and P-trap to align perfectly with your new tub's drain location.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Set, secure, and leak-test the new tub assembly",
+      "text": "Position the new bathtub into place, setting it in a mortar base if specified by the manufacturer to prevent bottom flexing. Secure the flange to the wall studs, connect the drain and overflow piping, and fill the tub with water to test all joints for leaks before sealing.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install waterproof backer board, wall finish, and sealants",
+      "text": "Install moisture-resistant backer board down to the tub lip, apply approved waterproofing, and finish your tile or wall surround. Apply a high-grade, mold-resistant silicone caulk along all perimeter joints to keep moisture out of the wall cavity. Need help replacing an outdated tub with clean, professional results? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule your project consultation today.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the alcove width, depth, and height down to the fraction of an inch, noting whether the drain is left-, right-, or center-oriented. Confirm that the path from your front entrance through hallw"
+}

@@ -1,0 +1,153 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Whole-House Renovation: A Pre-Construction Checklist for Homeowners",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning a Whole-House Renovation: A Pre-Construction Checklist for Homeowners",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Property boundary survey or existing floor plan sketch — Provides an accurate baseline for room dimensions,…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Property boundary survey or existing floor plan sketch — Provides an accurate baseline for room dimensions, structural walls, and overall project scope."
+      },
+      {
+        "name": "List of non-negotiable functional priorities — Helps your contractor prioritize layout changes, bathroom ad…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "List of non-negotiable functional priorities — Helps your contractor prioritize layout changes, bathroom additions, or open-concept living needs within your budget."
+      },
+      {
+        "name": "Written confirmation of local permitting authority — Identifies whether your home falls under city or count…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Written confirmation of local permitting authority — Identifies whether your home falls under city or county building department jurisdiction for plan reviews and inspections."
+      },
+      {
+        "name": "Finished selection schedule for plumbing and light fixtures — Prevents trade delays by having exact model s…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Finished selection schedule for plumbing and light fixtures — Prevents trade delays by having exact model specifications ready before rough-in work starts."
+      },
+      {
+        "name": "Cabinet and countertop design sign-off — Ensures custom cabinetry fabrication lead times do not stall your…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Cabinet and countertop design sign-off — Ensures custom cabinetry fabrication lead times do not stall your drywall and flooring installation."
+      },
+      {
+        "name": "10% to 20% dedicated contingency budget line — Covers hidden conditions such as outdated wiring, subfloor m…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "10% to 20% dedicated contingency budget line — Covers hidden conditions such as outdated wiring, subfloor moisture, or framing defects discovered after opening walls."
+      },
+      {
+        "name": "Designated temporary living arrangement or off-site rental agreement — Ensures your family has safe, quiet…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Designated temporary living arrangement or off-site rental agreement — Ensures your family has safe, quiet accommodations during utility shutoffs and heavy construction."
+      },
+      {
+        "name": "Secured off-site storage unit or portable container — Protects furniture, electronics, and personal keepsak…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Secured off-site storage unit or portable container — Protects furniture, electronics, and personal keepsakes from airborne construction dust and debris."
+      },
+      {
+        "name": "Proof of contractor's active license, liability, and workers' compensation coverage — Safeguards your prope…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Proof of contractor's active license, liability, and workers' compensation coverage — Safeguards your property and ensures the remodeling team meets state and local business requirements."
+      }
+    ]
+  },
+  "articleBody": "A whole-house renovation requires detailed coordination before any demolition begins. Use this practical preparation checklist to ensure your home and plans are ready for a major transformation.\n\nWhat to Prepare Before You Start\n\n- [ ] Property boundary survey or existing floor plan sketch — Provides an accurate baseline for room dimensions, structural walls, and overall project scope.\n- [ ] List of non-negotiable functional priorities — Helps your contractor prioritize layout changes, bathroom additions, or open-concept living needs within your budget.\n- [ ] Written confirmation of local permitting authority — Identifies whether your home falls under city or county building department jurisdiction for plan reviews and inspections.\n- [ ] Finished selection schedule for plumbing and light fixtures — Prevents trade delays by having exact model specifications ready before rough-in work starts.\n- [ ] Cabinet and countertop design sign-off — Ensures custom cabinetry fabrication lead times do not stall your drywall and flooring installation.\n- [ ] 10% to 20% dedicated contingency budget line — Covers hidden conditions such as outdated wiring, subfloor moisture, or framing defects discovered after opening walls.\n- [ ] Designated temporary living arrangement or off-site rental agreement — Ensures your family has safe, quiet accommodations during utility shutoffs and heavy construction.\n- [ ] Secured off-site storage unit or portable container — Protects furniture, electronics, and personal keepsakes from airborne construction dust and debris.\n- [ ] Proof of contractor's active license, liability, and workers' compensation coverage — Safeguards your property and ensures the remodeling team meets state and local business requirements.\n\nHow to use this checklist:\nWalk through each item systematically during your pre-construction phase before signing a construction contract or issuing a deposit. Checking off these items early ensures your design, finances, and logistics align, preventing mid-project surprises. Bay City Remodeling & Bathrooms helps homeowners across the Tampa Bay area plan and execute seamless whole-home renovations. Call 813-362-0114 to schedule your consultation.",
+  "datePublished": "2026-11-09"
+}

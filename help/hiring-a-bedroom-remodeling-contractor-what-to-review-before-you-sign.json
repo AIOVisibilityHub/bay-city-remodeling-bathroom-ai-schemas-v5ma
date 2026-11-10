@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Bedroom Remodeling Contractor: What to Review Before You Sign",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a bedroom renovation means looking closely at who does the work and how the contract is structured. Before you sign an agreement, check that your contractor details the exact scope in writing, including drawings, material allowances, and clear change-order terms. \n\nWhat to Prepare Before You Start:\n- Review the permit responsibilities: Confirm in writing whether you or the builder secures local building, electrical, and mechanical permits.\n- Verify credentials: Check active licensing, general liability insurance, and workers' compensation coverage for everyone on-site.\n- Clarify inspection schedules: Ensure rough framing, wiring, and insulation inspections are scheduled before any drywall is hung.\n- Examine emergency egress: Check that window sizes comply with local codes for emergency escape before ordering custom units.\n- Account for property utilities: If your home uses a septic system, confirm whether adding or reconfiguring a bedroom triggers health-agency review.\n\nHiring an experienced team ensures that structural framing, airflow, and safety features are addressed correctly. Bay City Remodeling & Bathrooms coordinates renovations across Brandon, Valrico, and the Tampa Bay area. Call 813-362-0114 to discuss your bedroom plans and request a free quote.",
+  "datePublished": "2026-11-09"
+}

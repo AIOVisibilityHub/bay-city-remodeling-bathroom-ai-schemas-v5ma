@@ -1,0 +1,125 @@
+{
+  "name": "Step-by-Step Garage Conversion Process: Turning Storage into Habitable Rooms",
+  "step": [
+    {
+      "name": "Step 1: Check local zoning and parking regulations",
+      "text": "Confirm that converting your garage complies with municipal zoning requirements, setback rules, and deed restrictions. Verify whether local rules mandate replacement covered parking spots elsewhere on your lot before initiating design work.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Draft complete architectural and utility plans",
+      "text": "Create detailed drawings showing existing conditions and proposed floor layouts, including ceiling heights, window placements, electrical switches, and plumbing connections. Include energy efficiency calculations covering wall insulation and window ratings.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure all building and trade permits",
+      "text": "Submit your plans to the local building department to pull structural, electrical, plumbing, and mechanical permits. Never start physical demolition or framing until official permit approvals are in hand.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Seal, elevate, and moisture-proof the slab",
+      "text": "Inspect the concrete slab for moisture vapor emission, settling cracks, and elevation differences relative to the home's primary floor level. Install an approved vapor barrier and subfloor system to keep interior flooring dry and protected against Florida humidity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Frame exterior door opening and interior partitions",
+      "text": "Remove the overhead garage door and frame an exterior-grade wall assembly complete with moisture wrap, compliant exterior finish, and proper window or entry door openings. Frame any closet enclosures or interior room partitions.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Rough in electrical, plumbing, and dedicated cooling",
+      "text": "Run dedicated wiring, lighting circuits, smoke and carbon monoxide alarms, and any required plumbing lines for an added bathroom or wet bar. Install ductwork or a dedicated ductless mini-split system to guarantee adequate heating and cooling.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Pass inspections and complete interior finishes",
+      "text": "Schedule and pass municipal rough framing, electrical, and plumbing inspections before installing wall and ceiling insulation. Hang drywall, apply joint compound, lay down flooring, and schedule your final building inspection to receive your certificate of occupancy. What to Do Next To plan a permitted, comfortable garage conversion in Brandon, Valrico, or Tampa, get in touch with Bay City Remodeling & Bathrooms LLC at 813-362-0114 for a free quote.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Confirm that converting your garage complies with municipal zoning requirements, setback rules, and deed restrictions. Verify whether local rules mandate replacement covered parking spots elsewhere on"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing Your Home for a Walk-In Shower Installation: Essential Pre-Start Checklist",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Preparing Your Home for a Walk-In Shower Installation: Essential Pre-Start Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Clear personal items from the bathroom — Empty all medicine cabinets, vanity drawers, and open shelving so…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Clear personal items from the bathroom — Empty all medicine cabinets, vanity drawers, and open shelving so technicians have immediate, safe room to work."
+      },
+      {
+        "name": "Establish a secondary bathing routine — Set up schedules for using a spare bath or guest suite, especially…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Establish a secondary bathing routine — Set up schedules for using a spare bath or guest suite, especially during the plumbing and tile curing phases."
+      },
+      {
+        "name": "Measure hallway and doorway clearances — Check access paths between your entry door and the bathroom so mat…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Measure hallway and doorway clearances — Check access paths between your entry door and the bathroom so materials, tile boxes, and shower pans move through easily."
+      },
+      {
+        "name": "Finalize your plumbing fixture layout — Confirm the placement of your main showerhead, handheld sprayer, an…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Finalize your plumbing fixture layout — Confirm the placement of your main showerhead, handheld sprayer, and valve heights before wall boards are installed."
+      },
+      {
+        "name": "Mark locations for grab bar reinforcement — Identify where you want solid wood blocking added inside the wa…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Mark locations for grab bar reinforcement — Identify where you want solid wood blocking added inside the walls to support current or future safety rails."
+      },
+      {
+        "name": "Select slip-resistant floor surfaces — Pick mosaic or textured floor tiles that offer dependable grip under…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Select slip-resistant floor surfaces — Pick mosaic or textured floor tiles that offer dependable grip under soapy, wet conditions."
+      },
+      {
+        "name": "Protect path floors and adjacent rooms — Lay down drop cloths and close bedroom doors along the primary pat…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Protect path floors and adjacent rooms — Lay down drop cloths and close bedroom doors along the primary pathway to contain dust from demolition."
+      },
+      {
+        "name": "Review the written contractor scope — Double-check that your quote explicitly lists demolition, disposal, l…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Review the written contractor scope — Double-check that your quote explicitly lists demolition, disposal, licensed plumbing, and waterproofing systems."
+      }
+    ]
+  },
+  "articleBody": "A smooth walk-in shower remodel starts with good preparation before tools arrive. Run through this checklist to keep your home organized and avoid delays:\n\n- [ ] Clear personal items from the bathroom — Empty all medicine cabinets, vanity drawers, and open shelving so technicians have immediate, safe room to work.\n- [ ] Establish a secondary bathing routine — Set up schedules for using a spare bath or guest suite, especially during the plumbing and tile curing phases.\n- [ ] Measure hallway and doorway clearances — Check access paths between your entry door and the bathroom so materials, tile boxes, and shower pans move through easily.\n- [ ] Finalize your plumbing fixture layout — Confirm the placement of your main showerhead, handheld sprayer, and valve heights before wall boards are installed.\n- [ ] Mark locations for grab bar reinforcement — Identify where you want solid wood blocking added inside the walls to support current or future safety rails.\n- [ ] Select slip-resistant floor surfaces — Pick mosaic or textured floor tiles that offer dependable grip under soapy, wet conditions.\n- [ ] Protect path floors and adjacent rooms — Lay down drop cloths and close bedroom doors along the primary pathway to contain dust from demolition.\n- [ ] Review the written contractor scope — Double-check that your quote explicitly lists demolition, disposal, licensed plumbing, and waterproofing systems.\n\n### How to Use This Checklist\nWalk through these items a week before work starts. Getting details settled early prevents work pauses once demolition begins. If you need an experienced partner in Brandon or Fish Hawk, Bay City Remodeling & Bathrooms LLC provides dedicated project management and skilled craftsmanship. Call us at 813-362-0114 to get started.",
+  "datePublished": "2026-11-09"
+}

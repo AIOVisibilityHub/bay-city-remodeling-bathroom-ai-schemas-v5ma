@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Prepare for a Small Bathroom Renovation Project",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Preparing for a small bathroom overhaul requires thoughtful planning because tight quarters leave zero margin for measurement errors or uncoordinated trades. Use this practical preparation list before demolition begins:\n\n- [ ] Measure total room dimensions and ceiling height — Confirms exact square footage so material orders for tile, drywall, and paint are accurate.\n- [ ] Check door swing clearances for the entry and vanity — Ensures the main room door and under-sink cabinets open freely without striking fixtures.\n- [ ] Verify toilet clearance space — Confirms at least fifteen inches from the toilet centerline to adjacent side walls or vanity panels to meet code.\n- [ ] Confirm vanity depth and plumbing rough-in locations — Prevents ordering a cabinet that protrudes into walking paths or blocks existing supply valves.\n- [ ] Inspect existing exhaust fan ducting — Ensures ventilation vents directly to the outdoors rather than discharging humid air into the attic space.\n- [ ] Select and order all primary fixtures in advance — Keeps faucets, valves, and tile on site so construction proceeds without waiting for deliveries.\n- [ ] Confirm permit responsibilities with your contractor — Establishes who pulls building, plumbing, and electrical permits before structural work starts.\n\nHow to use this checklist:\nReview these concrete items with your contractor during your initial on-site consultation. Addressing clearances, ventilation pathways, and fixture deliveries early keeps active construction within the expected four- to six-week timeframe. Bay City Remodeling & Bathrooms LLC manages small bathroom renovations across Brandon, Bloomingdale, and Tampa. Call 813-362-0114 to plan your project today.",
+  "datePublished": "2026-11-09"
+}

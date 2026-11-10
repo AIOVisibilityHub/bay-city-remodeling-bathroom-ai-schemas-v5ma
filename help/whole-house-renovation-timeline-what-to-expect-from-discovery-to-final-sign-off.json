@@ -1,0 +1,113 @@
+{
+  "name": "Whole-House Renovation Timeline: What to Expect from Discovery to Final Sign-Off",
+  "step": [
+    {
+      "name": "Step 1: Discovery and existing condition assessment",
+      "text": "During this initial 2 to 4 week stage, you meet with your remodeling contractor to evaluate existing room configurations, structural elements, and mechanical systems. You discuss functional goals, architectural styles, and budget parameters while documenting current framing and utility locations.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design development and material specifications",
+      "text": "Over the next 6 to 12 weeks, the team creates detailed floor plans, electrical layouts, and finish schedules. You finalize selections for cabinetry, plumbing fixtures, countertops, and flooring so technical construction drawings reflect exact dimensions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit application and municipal review",
+      "text": "Your contractor submits engineering drawings and architectural plans to the local building department for code review. This process typically takes 3 to 8 weeks depending on local agency workloads, and construction cannot begin until official permits are issued.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition, framing, and mechanical rough-ins",
+      "text": "With approvals in hand, crews strip away outdated finishes and reconfigure structural walls over several weeks. Plumbers, electricians, and HVAC technicians then install new rough-in piping, ductwork, and wiring before mandatory municipal rough-in inspections take place.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Drywall, interior finishes, and final punch list",
+      "text": "Once rough-ins pass inspection, insulation and drywall are hung, taped, and finished. Cabinetry, trim, tile, and flooring are installed, followed by final paint, light fixtures, and plumbing trim. A thorough punch list walkthrough resolves minor details before final municipal sign-off. Bay City Remodeling & Bathrooms coordinates every phase of whole-home remodeling throughout Brandon and the Tampa Bay region. Call 813-362-0114 to review your renovation timeline with our team.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "During this initial 2 to 4 week stage, you meet with your remodeling contractor to evaluate existing room configurations, structural elements, and mechanical systems. You discuss functional goals, arc"
+}

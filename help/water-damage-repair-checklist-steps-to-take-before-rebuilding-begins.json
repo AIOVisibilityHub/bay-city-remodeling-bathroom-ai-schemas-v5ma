@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Damage Repair Checklist: Steps to Take Before Rebuilding Begins",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Water Damage Repair Checklist: Steps to Take Before Rebuilding Begins",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Written moisture meter readings below standard dry thresholds — ensures structural framing and subfloors ar…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Written moisture meter readings below standard dry thresholds — ensures structural framing and subfloors are completely dry before being sealed behind new drywall."
+      },
+      {
+        "name": "Confirmed repair of the original plumbing or exterior leak — prevents newly installed drywall and insulatio…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Confirmed repair of the original plumbing or exterior leak — prevents newly installed drywall and insulation from getting ruined by recurring moisture."
+      },
+      {
+        "name": "Removal of water-logged insulation inside exposed wall cavities — wet fiberglass or cellulose insulation wi…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Removal of water-logged insulation inside exposed wall cavities — wet fiberglass or cellulose insulation will not dry properly and must be replaced."
+      },
+      {
+        "name": "Antimicrobial treatment applied to exposed wood studs — eliminates surface mold spores and bacteria left be…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Antimicrobial treatment applied to exposed wood studs — eliminates surface mold spores and bacteria left behind by water intrusion."
+      },
+      {
+        "name": "Inspection of electrical outlets and wiring touched by water — verifies that switches, wiring, and junction…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Inspection of electrical outlets and wiring touched by water — verifies that switches, wiring, and junction boxes are safe and free of corrosion."
+      },
+      {
+        "name": "Complete photo documentation of open studs and drying equipment — gives your insurance adjuster clear evide…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Complete photo documentation of open studs and drying equipment — gives your insurance adjuster clear evidence of proper mitigation before walls close."
+      },
+      {
+        "name": "Selection of mold-resistant drywall for bathrooms or laundry areas — provides added durability against humi…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Selection of mold-resistant drywall for bathrooms or laundry areas — provides added durability against humidity in rooms prone to moisture."
+      },
+      {
+        "name": "Subfloor levelness and fastener check — confirms plywood or concrete subfloors are flat, secured, and ready…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Subfloor levelness and fastener check — confirms plywood or concrete subfloors are flat, secured, and ready for new flooring installation."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Written moisture meter readings below standard dry thresholds — ensures structural framing and subfloors are completely dry before being sealed behind new drywall.\n- [ ] Confirmed repair of the original plumbing or exterior leak — prevents newly installed drywall and insulation from getting ruined by recurring moisture.\n- [ ] Removal of water-logged insulation inside exposed wall cavities — wet fiberglass or cellulose insulation will not dry properly and must be replaced.\n- [ ] Antimicrobial treatment applied to exposed wood studs — eliminates surface mold spores and bacteria left behind by water intrusion.\n- [ ] Inspection of electrical outlets and wiring touched by water — verifies that switches, wiring, and junction boxes are safe and free of corrosion.\n- [ ] Complete photo documentation of open studs and drying equipment — gives your insurance adjuster clear evidence of proper mitigation before walls close.\n- [ ] Selection of mold-resistant drywall for bathrooms or laundry areas — provides added durability against humidity in rooms prone to moisture.\n- [ ] Subfloor levelness and fastener check — confirms plywood or concrete subfloors are flat, secured, and ready for new flooring installation.\n\nHow to use this checklist\nReview these items with your contractor before hanging drywall or laying new flooring. Rebuilding too early over hidden dampness is the primary cause of recurring odors and mold. If you need expert drywall installation and restoration in the Tampa Bay area, Bay City Remodeling & Bathrooms is ready to help. Call 813-362-0114 for an estimate.",
+  "datePublished": "2026-11-09"
+}

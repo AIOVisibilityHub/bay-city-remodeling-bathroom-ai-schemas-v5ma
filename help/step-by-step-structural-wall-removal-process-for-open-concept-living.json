@@ -1,0 +1,125 @@
+{
+  "name": "Step-by-Step Structural Wall Removal Process for Open-Concept Living",
+  "step": [
+    {
+      "name": "Step 1: Determine the wall's structural role",
+      "text": "Have a qualified contractor or engineer inspect the framing from above and below to establish whether it carries floor, ceiling, or roof loads, or acts as a lateral shear wall. Never rely purely on visual layout or assume an interior partition carries no weight.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Map concealed utilities inside the wall cavity",
+      "text": "Identify all electrical wiring, plumbing supply lines, drain stacks, and HVAC ductwork running through the studs. Create a clear relocation route for each mechanical system before any framing is cut or disturbed.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure building permits and engineering documentation",
+      "text": "Submit existing and proposed structural framing plans to your local building department for review. Ensure any required beam sizing, post placements, and foundation pad details are approved before scheduling construction.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Erect temporary shoring and load support",
+      "text": "Install rated temporary support walls on both sides of the target partition to carry the overhead load securely while the existing studs are removed. Verify that the temporary load paths transfer safely down to adequate floor framing or slab supports.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Demolish partition and install the structural beam",
+      "text": "Carefully remove drywall and framing, then lift and seat the engineered replacement beam and bearing posts according to structural specifications. Fasten all hardware, brackets, and hangers securely while the shoring remains locked in position.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete rough mechanical relocations and inspections",
+      "text": "Reroute the wiring, plumbing lines, or ductwork into nearby chases or ceilings, keeping everything clean and code-compliant. Call for required municipal rough building and trade inspections prior to closing up any framing.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Hang drywall, finish surfaces, and paint",
+      "text": "Install new drywall over the opened boundaries, applying tape and mud carefully to blend seams with existing ceilings and adjoining walls. Finish with seamless sanding, texture matching, and paint to create an open room. What to Do Next If you are planning an open-concept renovation in Brandon or the surrounding Tampa Bay area, reach out to Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your wall removal project.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Have a qualified contractor or engineer inspect the framing from above and below to establish whether it carries floor, ceiling, or roof loads, or acts as a lateral shear wall. Never rely purely on vi"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Planning a Small Kitchen Remodel Before Requesting Quotes",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Planning a Small Kitchen Remodel Before Requesting Quotes",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Exact room measurements — Having precise wall lengths, ceiling heights, and window openings prevents orderi…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Exact room measurements — Having precise wall lengths, ceiling heights, and window openings prevents ordering cabinets that crowd doorways."
+      },
+      {
+        "name": "Fixed utility map — Noting current plumbing, gas lines, and electrical outlets helps you decide whether kee…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Fixed utility map — Noting current plumbing, gas lines, and electrical outlets helps you decide whether keeping existing locations will save on trade costs."
+      },
+      {
+        "name": "Appliance specification sheets — Gathering exact exterior dimensions and door clearance requirements ensure…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Appliance specification sheets — Gathering exact exterior dimensions and door clearance requirements ensures chosen appliances fit compact cutouts."
+      },
+      {
+        "name": "Clear circulation check — Confirming at least 36 inches of walking space between opposite counters keeps th…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Clear circulation check — Confirming at least 36 inches of walking space between opposite counters keeps the work area functional and safe."
+      },
+      {
+        "name": "Vertical storage plan — Planning upper cabinets that extend toward the ceiling maximizes storage capacity w…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Vertical storage plan — Planning upper cabinets that extend toward the ceiling maximizes storage capacity without stealing counter workspace."
+      },
+      {
+        "name": "Door and drawer swing clearances — Verifying that open oven, dishwasher, and cabinet doors will not collide…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Door and drawer swing clearances — Verifying that open oven, dishwasher, and cabinet doors will not collide prevents daily bottlenecks."
+      },
+      {
+        "name": "Written project scope — Creating an itemized list of desired materials and finishes ensures contractors giv…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Written project scope — Creating an itemized list of desired materials and finishes ensures contractors give you accurate, comparable estimates."
+      },
+      {
+        "name": "Proof of contractor credentials — Requesting verification of insurance, bonding, and workers' compensation…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Proof of contractor credentials — Requesting verification of insurance, bonding, and workers' compensation coverage ensures your home is protected during construction."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Exact room measurements — Having precise wall lengths, ceiling heights, and window openings prevents ordering cabinets that crowd doorways.\n- [ ] Fixed utility map — Noting current plumbing, gas lines, and electrical outlets helps you decide whether keeping existing locations will save on trade costs.\n- [ ] Appliance specification sheets — Gathering exact exterior dimensions and door clearance requirements ensures chosen appliances fit compact cutouts.\n- [ ] Clear circulation check — Confirming at least 36 inches of walking space between opposite counters keeps the work area functional and safe.\n- [ ] Vertical storage plan — Planning upper cabinets that extend toward the ceiling maximizes storage capacity without stealing counter workspace.\n- [ ] Door and drawer swing clearances — Verifying that open oven, dishwasher, and cabinet doors will not collide prevents daily bottlenecks.\n- [ ] Written project scope — Creating an itemized list of desired materials and finishes ensures contractors give you accurate, comparable estimates.\n- [ ] Proof of contractor credentials — Requesting verification of insurance, bonding, and workers' compensation coverage ensures your home is protected during construction.\n\nHow to use this checklist:\nReview these concrete items before scheduling site estimates for your compact kitchen renovation. Having these dimensions and priorities organized streamlines your consultation and ensures clear bids. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your small kitchen project.",
+  "datePublished": "2026-11-09"
+}

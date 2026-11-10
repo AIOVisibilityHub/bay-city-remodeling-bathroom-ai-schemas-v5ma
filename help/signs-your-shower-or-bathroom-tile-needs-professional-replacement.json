@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Shower or Bathroom Tile Needs Professional Replacement",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tile often shows subtle warning signs long before a full-blown leak causes visible ceiling stains downstairs. Knowing what to watch for helps you intervene before wood rot or structural subfloor damage sets in.\n\nWhen Professional Guidance Helps\n\n- Loose, hollow-sounding, or tenting tiles: If a floor tile clicks, shifts, or sounds hollow underfoot, the thinset bond has broken, often due to subfloor movement or trapped moisture.\n- Persistent cracking through grout lines: Small hairline cracks in corners indicate shifting, but cracking across flat surfaces means the substrate lacks proper stiffness.\n- Crumbling or missing grout in the shower: Grout is not waterproof. Once it erodes, shower water seeps straight into backer boards and wall framing.\n- Discoloration or mold that reappears immediately after cleaning: Mildew that lives behind tiles or inside damp drywall cannot be fixed with surface bleach.\n- Changes in room slope or soft spots near the tub: Softness around the base of the shower or toilet suggests ongoing water intrusion beneath the tile.\n\nWhen these red flags appear, a professional evaluation prevents minor leaks from turning into major structural repairs. Bay City Remodeling & Bathrooms LLC handles complete bathroom tile updates across Brandon, Riverview, and Tampa. Reach out at 813-362-0114 to request your on-site estimate.",
+  "datePublished": "2026-11-09"
+}

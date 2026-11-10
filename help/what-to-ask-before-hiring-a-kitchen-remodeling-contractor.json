@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What to Ask Before Hiring a Kitchen Remodeling Contractor",
+    "text": "What to Ask Before Hiring a Kitchen Remodeling Contractor",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When planning a major kitchen remodel, homeowners often wonder how to verify that a contractor has the depth and accountability to carry the job from concept to completion. You want a crew with proven local project management, proper protection, and clear communication.\n\nQuestions to Ask Before You Decide\nFirst, ask to see proof of active insurance, bonding, and workers' compensation coverage to protect your home. Second, ask for a detailed written scope of work that itemizes labor, cabinetry materials, and specific change-order procedures so there are no surprise costs later. Third, ask how mechanical trades are handled; quality remodelers partner with fully licensed and insured subcontractors for specialized plumbing and electrical work. Finally, ask for references from recent local projects and inquire specifically about schedule adherence and daily communication.\n\nA well-planned renovation should give you confidence at every stage, from initial design concepts to final trim. Bay City Remodeling & Bathrooms LLC brings over 18 years of trade experience to residential projects across Brandon and the greater Tampa Bay area. Call us at 813-362-0114 or visit baycityremodeling.com to schedule your personalized consultation.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

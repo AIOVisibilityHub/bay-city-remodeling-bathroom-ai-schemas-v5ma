@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Removing Walls to Expand Your Kitchen: When to Call a General Contractor",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Expanding a cramped kitchen often sounds simple until you begin planning to knock down a wall or rearrange major utilities. Taking down interior partitions changes how weight travels down to your foundation, and moving plumbing or gas lines introduces building code obligations. Here are clear signals it is time to bring in an experienced remodeling contractor:\n\n- The wall you want to remove carries structural roof or ceiling loads, requiring an engineered header beam.\n- You want to push an exterior wall outward into the yard, which requires foundation excavation and exterior framing.\n- The new kitchen footprint requires relocating water supply lines, sink drains, or gas piping across the room.\n- Your expanded appliance suite exceeds existing electrical circuit capacity, necessitating dedicated lines and service updates.\n- Mechanical ventilation for a central island cooktop needs a dedicated exterior duct path through an existing roof or floor truss system.\n\nWhen Professional Guidance Helps:\nBringing in a qualified remodeling team protects your home from structural sagging, uninspected utility hazards, and permit violations. Professional project managers coordinate structural framing, plumbing, and electrical trades so each phase passes rough inspection before drywall goes up. Bay City Remodeling & Bathrooms LLC handles residential expansions and structural updates across Brandon and the Tampa Bay area. Call 813-362-0114 to schedule an on-site consultation.",
+  "datePublished": "2026-11-09"
+}

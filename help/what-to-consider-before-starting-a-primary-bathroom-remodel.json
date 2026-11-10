@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Starting a Primary Bathroom Remodel",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about upgrading your primary bath into a relaxing retreat? Before picking finishes or tearing out walls, taking time to weigh your everyday routines and structural setup makes all the difference. In Brandon and surrounding communities, local humidity and household demands mean smart planning upfront saves major headaches later.\n\nWhat Can Change the Right Choice\n- Existing layout constraints: Keeping your toilet, vanities, and drains in their current spots keeps costs and schedules tighter. Moving water lines or waste stacks adds significant rough-in work and inspection requirements.\n- Wet area upgrades: Deciding between a walk-in shower or keeping a dedicated soaking tub comes down to how your family actually uses the space every week.\n- Ventilation capacity: A noisy exhaust fan is not proof of good airflow. You need an exhaust system that vents completely outdoors rather than dumping humid Florida air into your attic.\n- Subfloor conditions: Concealed moisture damage under old tile or around pan liners can quickly change your project scope once demolition starts.\n\nReady to explore your options with an experienced local team? Bay City Remodeling & Bathrooms LLC brings over 18 years of remodeling experience to homes across Brandon and Tampa Bay. Call us at 813-362-0114 to discuss your primary bathroom ideas or request a free consultation.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "How to Prepare Your Home for a Primary Bathroom Renovation",
+  "step": [
+    {
+      "name": "Step 1: Define your household priorities and wishlist",
+      "text": "Sit down and list what currently frustrates you, such as insufficient counter space, poor lighting, or an awkward tub layout. Gather design ideas and agree on a realistic overall investment range for finishes, plumbing fixtures, and labor before speaking with contractors.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Confirm fixture dimensions and material lead times",
+      "text": "Measure your available floor area carefully and verify product spec sheets for vanity depths, shower doors, and freestanding tubs. Having all fixture dimensions confirmed and key materials ordered upfront prevents costly installation delays once demolition begins.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear personal items and prepare an alternate routine",
+      "text": "Empty every medicine cabinet, vanity drawer, and linen closet into labeled bins. Since your primary bath will be out of service during renovation, arrange daily routines around a secondary or guest bathroom, or time major phases around planned family travel.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Establish a clean path and protect adjacent rooms",
+      "text": "Clear hallways and remove fragile wall decor between your exterior entry doors and the primary bedroom suite. Ask your remodeling crew about setting up plastic dust barriers and floor protection to keep drywall dust and debris out of living areas.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Verify necessary permits and structural checks",
+      "text": "Ensure all required local permits are pulled before demolition begins, especially if changing electrical circuits or moving plumbing stacks. Make sure your contractor plans to inspect exposed framing and subfloors for hidden moisture damage as soon as surfaces are open.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Review final details with your project manager",
+      "text": "Conduct a pre-construction walkthrough with your lead installer to confirm outlet placements, tile transitions, niche heights, and exhaust duct routing to the exterior. Clear communication on day one sets expectations and keeps your renovation on track. When you are ready to update your master bath with skilled artisans, contact Bay City Remodeling & Bathrooms LLC in Brandon at 813-362-0114 for a comprehensive quote.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Sit down and list what currently frustrates you, such as insufficient counter space, poor lighting, or an awkward tub layout. Gather design ideas and agree on a realistic overall investment range for "
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Questions to Ask Before Hiring a Contractor for a Bathroom Expansion",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Expanding a bathroom often seems simple until you start looking behind the drywall. If you are preparing to hire a remodeling contractor to enlarge your primary bath or guest suite, asking the right questions upfront protects your investment and ensures a seamless build. \n\nWhat to Prepare Before You Start\n\nBefore signing a construction agreement, ask your prospective contractor these critical questions:\n\n- How will you verify whether our target wall is load-bearing? A reputable builder should inspect attic framing or structural plans before suggesting a wall removal, ensuring proper headers are calculated.\n- Are you pulling required building, plumbing, and electrical permits? Expanding a room requires municipal permits and rough-in inspections before walls are closed; skipping these creates safety hazards and resale headaches.\n- How do you handle major drain and waste relocations? Moving a toilet or main stack significantly impacts labor; ask if keeping primary lines nearby can save money while still opening up floor space.\n- Who handles trade-specific connections? Ensure the builder uses qualified, insured specialists for behind-the-wall plumbing and high-draw electrical circuits.\n\nAt Bay City Remodeling & Bathrooms LLC, we bring over 18 years of experience to every Brandon-area project. We coordinate all phases, carry full insurance and workers' compensation, and beat any written bid. Contact our team at 813-362-0114 to discuss your bathroom expansion plans.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Curbless vs Low-Threshold Walk-In Showers: How to Choose the Right Entry Height",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you decide to install a walk-in shower, choosing the right threshold height is one of your biggest decisions. Both curbless entries and low-threshold bases create an airy, modern bathroom, but they involve different construction steps and budget considerations.\n\n### How to Compare Your Options\nA low-threshold shower features a slight curb—usually two to four inches high—that keeps water contained within the pan. This setup installs cleanly into standard bathroom footprints without major floor modifications, making it a fast and budget-friendly choice for most homes. In contrast, a curbless walk-in shower creates a smooth, continuous surface from the main bathroom floor straight into the wet area. This eliminates trip hazards completely and offers seamless accessibility. However, curbless designs require meticulous floor sloping, specialized drain positioning, and sometimes structural subfloor adjustments to ensure water flows directly to the drain rather than across your bathroom floor.\n\n### What Can Change the Right Choice\nIf your household includes members who plan to age in place or use mobility equipment, a curbless installation is worth the extra structural prep. If you want a quick, clean update without altering the subfloor framing, a low-profile curb gives you the walk-in feel with simpler installation.\n\nBay City Remodeling & Bathrooms LLC works with Brandon and Hillsborough County homeowners to design walk-in showers tailored to their routines. Call our team today at 813-362-0114 for an honest consultation.",
+  "datePublished": "2026-11-09"
+}

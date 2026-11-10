@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Converting an Outdated Bathtub into a Modern Shower: Complete Guide for Homeowners",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Stepping over a high tub wall every day gets exhausting, especially when nobody in your household actually takes baths anymore. Trading that clunky tub for a streamlined walk-in shower is one of the most effective ways to make your bathroom feel open, clean, and practical. But before you tear out old cast iron or fiberglass, you need to understand what a full conversion requires.\n\n### What Can Change the Right Choice\nThe overall investment and project timeline depend heavily on whether your existing plumbing stays in place. Bathtub drains are typically an inch and a half wide, whereas dedicated shower drains must be two inches to handle proper water flow. If you plan to move the drain position, rework supply valves, or opt for a flush, zero-threshold floor, framing adjustments will be necessary. Additionally, once the old tub is pulled away, exposed framing should always be inspected for past moisture issues before new moisture-resistant drywall and comprehensive waterproofing membranes go up. Never rely on surface tile or caulk alone to stop water intrusion.\n\n### What to Do Next\nWhen you are ready to discuss your bathroom remodel, Bay City Remodeling & Bathrooms LLC is here to help homeowners across Brandon, Tampa, and surrounding communities. We work with licensed and insured plumbing subcontractors to make sure your conversion is safe, durable, and built to code. Give our team a call at 813-362-0114 to schedule your consultation.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Ask Before Hiring a Contractor for Bathroom Tile Installation",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hiring the right installer for your bathroom tile makes the difference between a durable retreat and hidden water damage down the road. Tile looks simple on the surface, but longevity comes down to what happens underneath.\n\nQuestions to Ask Before You Decide\n\n1. What waterproofing system will you use behind the tile? Grout is porous and not waterproof on its own. Confirm they use a dedicated waterproof membrane in wet areas.\n2. How do you evaluate and level the subfloor? An unlevel floor leads to cracked tiles and uneven edges called lippage.\n3. What adhesive and sealant will you use at corners? Flexible sanitary silicone must be used at changes of plane, like where walls meet floors, rather than rigid grout.\n4. What is the expected curing schedule? Walking on fresh tile or exposing grout to water too early ruins the bond.\n5. Are you insured and working with licensed partners? Check for proper coverage and licensed trade subcontractors.\n\nBay City Remodeling & Bathrooms LLC brings over 18 years of remodeling experience across Brandon, Valrico, and the Tampa Bay area, backed by insurance, bonding, and workers' compensation. Call 813-362-0114 to discuss your tile project or schedule a free quote.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,159 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Garage Conversion Readiness Checklist: What to Verify Before Construction Starts",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Garage Conversion Readiness Checklist: What to Verify Before Construction Starts",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Zoning and parking verification — Confirm your local municipality or HOA allows converting vehicle parking…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Zoning and parking verification — Confirm your local municipality or HOA allows converting vehicle parking into habitable living space."
+      },
+      {
+        "name": "Stamped architectural plans — Prepare scaled layout drawings showing structural framing, window egress dime…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Stamped architectural plans — Prepare scaled layout drawings showing structural framing, window egress dimensions, and electrical layouts."
+      },
+      {
+        "name": "Official building and trade permits — Ensure structural, electrical, mechanical, and plumbing permits are s…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Official building and trade permits — Ensure structural, electrical, mechanical, and plumbing permits are secured before construction starts."
+      },
+      {
+        "name": "Concrete slab moisture test — Test the garage slab for moisture vapor emission to avoid damaged flooring an…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Concrete slab moisture test — Test the garage slab for moisture vapor emission to avoid damaged flooring and interior mold issues."
+      },
+      {
+        "name": "Finished ceiling height measurement — Measure from the slab to the joists to guarantee finished headroom me…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Finished ceiling height measurement — Measure from the slab to the joists to guarantee finished headroom meets the residential minimum."
+      },
+      {
+        "name": "Emergency egress window sizing — Confirm bedroom plans include a window with clear opening dimensions requi…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Emergency egress window sizing — Confirm bedroom plans include a window with clear opening dimensions required for emergency exit."
+      },
+      {
+        "name": "Dedicated HVAC design — Calculate heating and cooling loads to provide independent, properly sized temperat…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Dedicated HVAC design — Calculate heating and cooling loads to provide independent, properly sized temperature and humidity control."
+      },
+      {
+        "name": "Electrical panel capacity review — Verify your main electrical service can handle added circuits, lighting,…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Electrical panel capacity review — Verify your main electrical service can handle added circuits, lighting, and climate systems."
+      },
+      {
+        "name": "Integrated smoke and carbon monoxide alarms — Plan interconnected detection devices wired directly to the h…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Integrated smoke and carbon monoxide alarms — Plan interconnected detection devices wired directly to the home's alarm safety system."
+      },
+      {
+        "name": "Infill wall structural detail — Plan the exterior framing, moisture barrier, and stucco or siding to blend…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Infill wall structural detail — Plan the exterior framing, moisture barrier, and stucco or siding to blend seamlessly with the home."
+      }
+    ]
+  },
+  "articleBody": "Converting a garage into an in-law suite, guest bedroom, or expanded living room is one of the most efficient ways to gain square footage, but skipping essential preparation can stall your project or trigger code violations.\n\n- [ ] Zoning and parking verification — Confirm your local municipality or HOA allows converting vehicle parking into habitable living space.\n- [ ] Stamped architectural plans — Prepare scaled layout drawings showing structural framing, window egress dimensions, and electrical layouts.\n- [ ] Official building and trade permits — Ensure structural, electrical, mechanical, and plumbing permits are secured before construction starts.\n- [ ] Concrete slab moisture test — Test the garage slab for moisture vapor emission to avoid damaged flooring and interior mold issues.\n- [ ] Finished ceiling height measurement — Measure from the slab to the joists to guarantee finished headroom meets the residential minimum.\n- [ ] Emergency egress window sizing — Confirm bedroom plans include a window with clear opening dimensions required for emergency exit.\n- [ ] Dedicated HVAC design — Calculate heating and cooling loads to provide independent, properly sized temperature and humidity control.\n- [ ] Electrical panel capacity review — Verify your main electrical service can handle added circuits, lighting, and climate systems.\n- [ ] Integrated smoke and carbon monoxide alarms — Plan interconnected detection devices wired directly to the home's alarm safety system.\n- [ ] Infill wall structural detail — Plan the exterior framing, moisture barrier, and stucco or siding to blend seamlessly with the home.\n\nHow to use this checklist:\nWork through these items with your general contractor during the planning phase. Addressing these structural, zoning, and moisture details up front prevents costly delays and inspection failures.\n\nReady to start your garage conversion? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your space and schedule a free consultation.",
+  "datePublished": "2026-11-09"
+}

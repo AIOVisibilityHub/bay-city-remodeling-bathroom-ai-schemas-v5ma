@@ -1,0 +1,119 @@
+{
+  "name": "How to Prepare Your Home for Bathroom Tile Installation",
+  "step": [
+    {
+      "name": "Step 1: Clear out all personal items, linens, and accessories",
+      "text": "Empty every cabinet, medicine chest, shower niche, and vanity drawer. Pack everything into labeled plastic bins and store them in an adjacent room so the work zone remains completely clear of clutter.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish a secondary bathroom routine for the household",
+      "text": "Tiling involves demolition, substrate prep, setting, and curing time where the room is entirely off-limits. Plan shower and morning routines around another bathroom in the home or coordinate schedules ahead of time.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear a wide pathway from the entryway to the bathroom",
+      "text": "Remove rugs, decorative furniture, and wall hangings along hallways and stairwells leading to the bathroom. Installers need unobstructed space to carry heavy tile boxes, cement backer boards, and buckets of thinset.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm fixture choices and tile layout details in advance",
+      "text": "Have your tile, grout color selections, and any new plumbing fixtures on-site or confirmed with your installer before work begins. Clarify pattern alignment, niche placement, and transition strips with your project manager.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Provide access to water and electrical outlets",
+      "text": "Ensure technicians have access to an outdoor hose bib or utility sink for mixing thinset and cleaning tools, along with grounded electrical outlets nearby. Discuss staging areas for wet saws in the garage or driveway.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Plan for proper curing time after installation wraps up",
+      "text": "Set expectations with your household to stay off fresh tile for at least 24 hours, and keep water away from new grout for roughly 48 to 72 hours based on manufacturer instructions. Bay City Remodeling & Bathrooms LLC guides homeowners through every phase of bathroom remodeling in Brandon and surrounding communities. Call 813-362-0114 today to plan your project.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Empty every cabinet, medicine chest, shower niche, and vanity drawer. Pack everything into labeled plastic bins and store them in an adjacent room so the work zone remains completely clear of clutter."
+}

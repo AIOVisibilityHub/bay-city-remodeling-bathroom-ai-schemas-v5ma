@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional Contractor for Interior Wall Demolition",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking down a wall sounds exciting when you want an open floor plan, but certain warning signs mean you should stop swinging the hammer and bring in an experienced remodeling contractor right away. \n\nSigns It Is Time to Call a Professional:\n- The wall sits perpendicular to joists: When ceiling or attic floor joists rest on top of the wall plate, that wall is almost certainly carrying weight and requires engineered shoring.\n- Double top plates or stacked walls: A wall built with doubled top plates or directly beneath an upper-story wall or roof strut is designed for structural load distribution.\n- Visible plumbing vents or electrical conduits: Pipes penetrating the top or bottom plates indicate active utility runs that cannot simply be cut and capped without rerouting.\n- Exterior doors or shear locations: Walls located near exterior openings or built as part of the home's engineered wind resistance need proper structural recalculation before alteration.\n- Floor bounce or ceiling sagging nearby: Any movement or deflection in adjacent framing requires professional structural assessment to avoid catastrophic settlement.\n\nWhen Professional Guidance Helps\nAttempting to demo a structural partition without temporary shoring risks sagging ceilings, cracked perimeter drywall, binding doors, or roof movement. A licensed contractor coordinates permits, arranges engineered beam sizing, and completes clean drywall integration. \n\nIf you are planning an open layout in Brandon, Riverview, or across the Tampa area, call Bay City Remodeling & Bathrooms LLC at 813-362-0114 for an on-site consultation.",
+  "datePublished": "2026-11-09"
+}

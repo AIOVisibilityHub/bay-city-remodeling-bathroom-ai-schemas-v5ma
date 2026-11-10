@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Tub-to-Shower Remodel: Critical Mistakes to Avoid Before Demolition",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tearing out a bathtub sounds straightforward, but cutting corners early creates expensive headaches later. If you are preparing to convert your tub, keep these common errors off your renovation site:\n\n1. Leaving the original bathtub drain size intact. Bathtub drains are usually an inch and a half wide, but standard showers require two-inch lines to clear water fast enough and prevent standing pools. Make sure your contractor upgrades the plumbing below the pan.\n\n2. Treating tile and caulk as primary waterproofing. Grout and caulk naturally crack and absorb moisture over time. Skipping a fully bonded waterproof membrane behind wall boards and beneath the floor invites hidden mold and subfloor rot.\n\n3. Picking fixtures before checking wall plumbing locations. Falling in love with an elaborate rain head or multi-jet system before verifying supply pipe positions and water pressure often leads to unexpected rework and budget creep.\n\n4. Overlooking framing repairs during demolition. If an old tub had leaky seals, the underlying wood studs or subfloor may have soft spots. Closing walls back up over rotted framing compromises the whole installation.\n\n5. Forgetting about blocking for future grab bars. Even if you do not want bars right now, placing solid wood blocking between studs before wall panels go up allows easy installation later without opening finished tile.\n\nBay City Remodeling & Bathrooms LLC helps homeowners in Brandon and Riverview plan durable tub conversions with clear scopes and licensed trade partners. Call 813-362-0114 to request your estimate.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Step-by-Step Way to Turn an Attached Garage into Usable Living Space",
+  "step": [
+    {
+      "name": "Step 1: Check zoning rules and on-site parking requirements",
+      "text": "Review municipal guidelines to confirm your property allows converting parking space into habitable quarters. Verify where replacement vehicles will legally park on the driveway or lot. Have your boundary survey and site sketch ready to confirm setback limits before committing to interior designs.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect the concrete slab and exterior framing",
+      "text": "Examine the foundation floor for cracks, levelness, and moisture transmission from below. Garage slabs often lack vapor barriers, meaning you will need a moisture barrier before laying down finished flooring. Confirm the wall studs and roof framing can support added insulation and ceiling drywall.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure building, electrical, and mechanical permits",
+      "text": "Draft accurate architectural plans showing window placements, egress paths, and ceiling heights. Submit applications for structural, electrical, and heating or cooling modifications to your local building department. Approved permits guarantee your new room complies with safety and fire-separation codes.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough in utilities, insulation, and ventilation",
+      "text": "Frame out exterior openings where the garage door once stood and rough in dedicated electrical circuits and ductwork. Add thermal insulation to exterior walls and ceilings to keep the space comfortable year-round. Ensure proper emergency egress windows are framed to size for sleeping areas.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Hang drywall, install flooring, and pass final inspections",
+      "text": "Hang, tape, and finish moisture-resistant drywall, then paint walls and install durable flooring suited for concrete subfloors. Schedule trade and building inspectors to review electrical outlets, mechanical systems, and overall build quality before enjoying your new living room or suite. If you want experienced hands managing trades and code compliance from start to finish in the Tampa Bay area, call Bay City Remodeling & Bathrooms at 813-362-0114 to discuss your garage conversion.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Review municipal guidelines to confirm your property allows converting parking space into habitable quarters. Verify where replacement vehicles will legally park on the driveway or lot. Have your boun"
+}

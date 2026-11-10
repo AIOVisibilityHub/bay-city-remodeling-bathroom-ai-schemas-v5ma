@@ -1,0 +1,119 @@
+{
+  "name": "Converting an Unused Tub into a Walk-In Shower: A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1: Demo and clear the old tub space",
+      "text": "Shut off the primary water supply to your bathroom and carefully disconnect the plumbing fixtures. Pull out the existing tub unit, surrounding tile, and drywall down to the bare wall framing. Check that the area is clean and thoroughly inspect the exposed subfloor for any dampness or rot before doing anything else.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect and reposition the plumbing",
+      "text": "Examine the subfloor and wall studs for hidden moisture damage or framing issues that need reinforcement. Standard tub drains are usually smaller than shower requirements, so map out the new plumbing layout to adapt the drain location and align the hot and cold water supply lines properly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Set and level the shower pan",
+      "text": "Place your chosen prefabricated shower pan or mortar base onto the subfloor, using a level across all directions to ensure water will drain correctly. Secure the pan according to manufacturer guidelines, connect the drain assembly securely, and test with water to confirm there are no leaks before closing up.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install backer board and complete waterproofing",
+      "text": "Fasten cementitious backer board to the wall studs, leaving appropriate expansion gaps around the perimeter. Apply a continuous waterproofing membrane system over all backer board surfaces, corner joints, and pipe penetrations to create an impenetrable barrier that keeps humidity and water spray from reaching your wall framing.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Tile the surround and set fixtures",
+      "text": "Lay your selected wall tile using appropriate thin-set mortar, maintaining clean grout joints across the walls. Once the mortar cures, apply mold-resistant grout, seal all inside corners with flexible silicone caulk, and mount your shower valves, handles, and trim plates to finish the build cleanly.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Test water drainage and add final hardware",
+      "text": "Run the shower system thoroughly to inspect the drain slope, check all fixture seals, and verify complete water containment. Install grab bars, shelves, and glass shower doors to complete the space. If structural adjustments or permit requirements feel overwhelming, Bay City Remodeling & Bathrooms LLC in Brandon can manage every detail safely.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Shut off the primary water supply to your bathroom and carefully disconnect the plumbing fixtures. Pull out the existing tub unit, surrounding tile, and drywall down to the bare wall framing. Check th"
+}

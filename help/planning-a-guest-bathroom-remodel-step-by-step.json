@@ -1,0 +1,119 @@
+{
+  "name": "Planning a Guest Bathroom Remodel Step by Step",
+  "step": [
+    {
+      "name": "Step 1: Establish project scope and verify clearance measurements",
+      "text": "Start by deciding whether your guest bath needs a surface refresh or a full layout reconfiguration, such as a tub-to-shower conversion. Take precise measurements of entry door swings, vanity depths, and toilet clearances to confirm that new fixtures will not collide with walls or linen doors.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Finalize durable materials and check delivery dates",
+      "text": "Select low-maintenance, water-resistant surfaces such as porcelain floor tile, quartz vanity tops, and quality solid-brass shutoff valves. Order all fixtures, shower pans, and trim kits early so every component is inspected and on-site before demolition crews arrive.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Complete clean demolition and inspect framing",
+      "text": "Remove old fixtures, wallboard, and flooring carefully down to the studs and subfloor. Inspect plumbing supply lines, drain traps, and wall framing for any concealed leaks, water stains, or pest damage that must be repaired before closing walls.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Execute rough-in plumbing, electrical, and exterior venting",
+      "text": "Run any necessary new piping, install GFCI outlets, and update lighting fixtures to eliminate dark shadows around the mirror. Install a high-efficiency exhaust fan and verify that ductwork runs entirely outside the building envelope to handle Florida humidity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Apply comprehensive waterproofing and tile finishes",
+      "text": "Install cement backer board and a continuous waterproof membrane across all wet areas and shower curbs. Once moisture barriers cure and pass testing, set your tile with proper expansion joints and stain-resistant grout.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install vanity cabinets, fixtures, and final accessories",
+      "text": "Set the vanity, secure the sink and faucet, connect the toilet, and hang mirrors, towel bars, and paper holders at ergonomic heights. Apply high-grade mildew-resistant silicone caulk along all wet seams and test every drain and supply valve under full water pressure. Ready to transform your guest bath into an inviting space for visiting family? Call Bay City Remodeling & Bathrooms LLC at 813-362-0114 for your free estimate.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Start by deciding whether your guest bath needs a surface refresh or a full layout reconfiguration, such as a tub-to-shower conversion. Take precise measurements of entry door swings, vanity depths, a"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading a Home Workspace: Pre-Construction Checklist for Homeowners",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Upgrading a Home Workspace: Pre-Construction Checklist for Homeowners",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure main desk and credenza dimensions — Accurate measurements prevent blocking outlets, floor vents, or…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure main desk and credenza dimensions — Accurate measurements prevent blocking outlets, floor vents, or window trim."
+      },
+      {
+        "name": "Count total plug-in electronics — Tallies show whether your setup requires a dedicated circuit to avoid tri…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Count total plug-in electronics — Tallies show whether your setup requires a dedicated circuit to avoid tripped breakers."
+      },
+      {
+        "name": "Map window glare against monitor positions — Locating screens away from direct southern or western sunlight…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Map window glare against monitor positions — Locating screens away from direct southern or western sunlight saves you eye strain."
+      },
+      {
+        "name": "Determine data wiring and network switch needs — Hardwired ethernet drops provide steady connections when W…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Determine data wiring and network switch needs — Hardwired ethernet drops provide steady connections when Wi-Fi struggles across the house."
+      },
+      {
+        "name": "Select acoustic insulation for partition walls — Mineral wool or fiberglass batts keep conference calls qui…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Select acoustic insulation for partition walls — Mineral wool or fiberglass batts keep conference calls quiet and private."
+      },
+      {
+        "name": "Identify wall stud locations for heavy wall-mounted shelving — Structural backing must be framed before dry…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Identify wall stud locations for heavy wall-mounted shelving — Structural backing must be framed before drywall is taped and painted."
+      },
+      {
+        "name": "Check local municipal permit thresholds for electrical alterations — Confirming permit requirements early p…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Check local municipal permit thresholds for electrical alterations — Confirming permit requirements early prevents inspection delays on new wiring."
+      },
+      {
+        "name": "Finalize task and ambient lighting locations — Layering overhead recessed lights with desk-level fixtures e…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Finalize task and ambient lighting locations — Layering overhead recessed lights with desk-level fixtures ensures proper camera lighting."
+      }
+    ]
+  },
+  "articleBody": "Planning a home office remodel goes smoother when you organize technical specifications before construction begins. Review this checklist with your remodeling contractor to align expectations and avoid work delays.\n\nWhat to Prepare Before You Start\n- [ ] Measure main desk and credenza dimensions — Accurate measurements prevent blocking outlets, floor vents, or window trim.\n- [ ] Count total plug-in electronics — Tallies show whether your setup requires a dedicated circuit to avoid tripped breakers.\n- [ ] Map window glare against monitor positions — Locating screens away from direct southern or western sunlight saves you eye strain.\n- [ ] Determine data wiring and network switch needs — Hardwired ethernet drops provide steady connections when Wi-Fi struggles across the house.\n- [ ] Select acoustic insulation for partition walls — Mineral wool or fiberglass batts keep conference calls quiet and private.\n- [ ] Identify wall stud locations for heavy wall-mounted shelving — Structural backing must be framed before drywall is taped and painted.\n- [ ] Check local municipal permit thresholds for electrical alterations — Confirming permit requirements early prevents inspection delays on new wiring.\n- [ ] Finalize task and ambient lighting locations — Layering overhead recessed lights with desk-level fixtures ensures proper camera lighting.\n\nHow to use this checklist:\nWalk through your workspace with this list, noting exact equipment sizes and wall measurements. Share these notes during your planning phase so rough mechanical work matches your day-to-day workflow.\n\nWhen your plans call for new framing or added circuits, professional guidance ensures everything stays up to code. Contact Bay City Remodeling & Bathrooms at 813-362-0114 to request a quote for your office project.",
+  "datePublished": "2026-11-09"
+}

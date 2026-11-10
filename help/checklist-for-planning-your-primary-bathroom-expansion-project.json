@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Planning Your Primary Bathroom Expansion Project",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Planning Your Primary Bathroom Expansion Project",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Accurate tape measurements of the current floor plan — Having exact wall-to-wall measurements prevents orde…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Accurate tape measurements of the current floor plan — Having exact wall-to-wall measurements prevents ordering fixtures that crowd your walkways."
+      },
+      {
+        "name": "Identification of load-bearing walls by a qualified professional — Checking whether a partition supports up…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Identification of load-bearing walls by a qualified professional — Checking whether a partition supports upper framing prevents structural sagging or ceiling failure."
+      },
+      {
+        "name": "Evaluation of existing plumbing drain stacks — Knowing where your main waste lines sit helps you balance la…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Evaluation of existing plumbing drain stacks — Knowing where your main waste lines sit helps you balance layout changes against the cost of trenching or rerouting pipes."
+      },
+      {
+        "name": "Dedicated ventilation plan calculated for the larger square footage — Sizing an exhaust fan correctly ensur…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Dedicated ventilation plan calculated for the larger square footage — Sizing an exhaust fan correctly ensures moist air exits the expanded space quickly to prevent mildew."
+      },
+      {
+        "name": "Clear plan for required electrical circuits and GFCI outlets — Planning wiring early prevents overloaded br…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Clear plan for required electrical circuits and GFCI outlets — Planning wiring early prevents overloaded breakers once you add modern vanity lighting or heated features."
+      },
+      {
+        "name": "Building, plumbing, and mechanical permits from your local municipality — Securing permits guarantees that…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Building, plumbing, and mechanical permits from your local municipality — Securing permits guarantees that concealed structural and pipe work passes official code inspections."
+      },
+      {
+        "name": "Written scope of work defining waterproofing systems and finishes — Defining backer boards and moisture mem…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Written scope of work defining waterproofing systems and finishes — Defining backer boards and moisture membranes in writing protects your home against hidden water damage."
+      },
+      {
+        "name": "Written bid comparison from fully insured contractors — Comparing detailed estimates protects your budget a…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Written bid comparison from fully insured contractors — Comparing detailed estimates protects your budget and helps you secure the best overall value for labor."
+      }
+    ]
+  },
+  "articleBody": "Taking square footage from a nearby closet or adjacent bedroom is a proven way to create a spacious bathroom retreat. However, moving plumbing lines, extending electrical circuits, and reconfiguring walls involves many moving parts. Use this straightforward checklist to organize your thoughts and ensure no critical detail gets overlooked before work begins.\n\n- [ ] Accurate tape measurements of the current floor plan — Having exact wall-to-wall measurements prevents ordering fixtures that crowd your walkways.\n- [ ] Identification of load-bearing walls by a qualified professional — Checking whether a partition supports upper framing prevents structural sagging or ceiling failure.\n- [ ] Evaluation of existing plumbing drain stacks — Knowing where your main waste lines sit helps you balance layout changes against the cost of trenching or rerouting pipes.\n- [ ] Dedicated ventilation plan calculated for the larger square footage — Sizing an exhaust fan correctly ensures moist air exits the expanded space quickly to prevent mildew.\n- [ ] Clear plan for required electrical circuits and GFCI outlets — Planning wiring early prevents overloaded breakers once you add modern vanity lighting or heated features.\n- [ ] Building, plumbing, and mechanical permits from your local municipality — Securing permits guarantees that concealed structural and pipe work passes official code inspections.\n- [ ] Written scope of work defining waterproofing systems and finishes — Defining backer boards and moisture membranes in writing protects your home against hidden water damage.\n- [ ] Written bid comparison from fully insured contractors — Comparing detailed estimates protects your budget and helps you secure the best overall value for labor.\n\nHow to use this checklist:\nReview these points during your initial walk-through. Addressing structural walls, drain lines, and permits before demolition keeps your project on schedule. When you are ready to expand your bathroom, call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to review your plans and get an estimate.",
+  "datePublished": "2026-11-09"
+}

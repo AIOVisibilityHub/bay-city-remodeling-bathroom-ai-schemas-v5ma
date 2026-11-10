@@ -1,0 +1,119 @@
+{
+  "name": "What to Expect During a Bathroom Renovation Project",
+  "step": [
+    {
+      "name": "Step 1: Plan the scope and secure necessary building permits",
+      "text": "Meet with your contractor to finalize layout drawings, verify plumbing and electrical upgrades, choose materials, and submit building plans to your local jurisdiction before starting any physical work.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Complete careful demolition and framing inspection",
+      "text": "Crews remove old tile, fixtures, and wallboards down to the studs, allowing builders to inspect the underlying framing and subfloor for concealed water damage or wood rot before proceeding.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Execute rough mechanical, plumbing, and electrical trade work",
+      "text": "Licensed trades reposition drain lines, run new water supplies, set up dedicated circuits for lighting and outlets, and install proper exhaust ducting to meet regional building codes.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install code-compliant waterproofing and wall surfaces",
+      "text": "Install moisture-resistant backer board, apply continuous waterproofing membranes across shower pans and wet areas, and hang drywall across the remaining walls and ceiling.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Lay tile, set primary fixtures, and finish surfaces",
+      "text": "Tile artisans install floor and wall finishes, grout the joints, position the vanity and countertop, and connect the toilet, faucets, and shower fixtures once surfaces cure.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete final testing and walk through the punch list",
+      "text": "Turn on all plumbing fixtures to test drainage and pressure, check electrical switches and ventilation airflow, and review the detailed punch list to confirm every finishing touch is done. Bay City Remodeling & Bathrooms LLC coordinates residential bathroom renovations across Brandon, Valrico, and the Tampa area. Call 813-362-0114 to discuss your upcoming bathroom renovation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Meet with your contractor to finalize layout drawings, verify plumbing and electrical upgrades, choose materials, and submit building plans to your local jurisdiction before starting any physical work"
+}

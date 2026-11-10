@@ -1,0 +1,125 @@
+{
+  "name": "Removing an Interior Wall for Open-Concept Living: Step-by-Step Process",
+  "step": [
+    {
+      "name": "Step 1: Structural and utility evaluation",
+      "text": "Have a qualified contractor or engineer inspect the target wall to determine whether it carries roof or ceiling loads and locate all concealed electrical, plumbing, or HVAC lines running through the framing.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Architectural planning and permit acquisition",
+      "text": "Develop detailed structural plans specifying proper beam dimensions, support posts, and foundation footings, and then submit these drawings to your local building department for required permits before any work starts.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Site protection and dust containment",
+      "text": "Isolate adjacent living spaces with heavy plastic zip-walls, lay durable floor protection along high-traffic routes, and set up negative-air filtration to keep construction dust away from clean areas of the home.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation of temporary shoring",
+      "text": "Erect temporary load-bearing shoring walls on both sides of the target partition to safely support ceiling and roof weights while framing members are systematically cut and extracted.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Structural beam and post placement",
+      "text": "Set the engineered structural beam flush into the ceiling or dropped below, anchor heavy-duty vertical support posts into the frame, and secure everything using approved structural hangers and metal hardware.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Trade rough-ins and utility rerouting",
+      "text": "Reroute all concealed plumbing stacks, branch circuits, switch wiring, and HVAC ducting around the new structural opening, followed by official building department rough-in inspections.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Drywall finishing and seamless surface blending",
+      "text": "Hang, tape, and finish new drywall along the ceiling and walls, blend textures seamlessly, and patch subflooring across the former wall line to ready the unified space for new continuous flooring and paint. To explore wall removal possibilities for your home, call Bay City Remodeling & Bathrooms at 813-362-0114 to arrange an on-site consultation.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Have a qualified contractor or engineer inspect the target wall to determine whether it carries roof or ceiling loads and locate all concealed electrical, plumbing, or HVAC lines running through the f"
+}

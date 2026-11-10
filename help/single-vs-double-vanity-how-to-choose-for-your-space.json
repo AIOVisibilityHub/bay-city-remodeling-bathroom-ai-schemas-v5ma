@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Single vs Double Vanity: How to Choose for Your Space",
+    "text": "Single vs Double Vanity: How to Choose for Your Space",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Should you replace your existing single vanity with a double sink, or stick with a wider single-basin setup? \n\nFor shared primary bathrooms in Bloomingdale or Brandon, two sinks seem like an obvious upgrade for busy mornings. However, the decision involves practical tradeoffs between plumbing work, usable counter space, and daily storage.\n\nWhat Can Change the Right Choice:\nA double vanity requires at least 60 inches of wall width to give two people comfortable elbow room. Squeezing two basins into a 48-inch cabinet sacrifices almost all usable countertop space and splits interior drawer storage in half to clear two drain assemblies. In addition, converting a single-sink bathroom to a double vanity involves opening the drywall to split water supply lines and install an extra drain branch, which requires licensed plumbing support and building permits.\n\nIf your wall space is under 60 inches, a spacious single-sink vanity with generous drawers and wide counter space often functions better for daily routines. If you have the required width and want dual grooming stations, the investment in rough plumbing upgrades delivers long-term convenience.\n\nBay City Remodeling & Bathrooms LLC helps homeowners plan practical bathroom layouts. Call 813-362-0114 to discuss your vanity replacement goals.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

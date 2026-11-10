@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Hiring an Open-Concept Remodeling Contractor: What to Ask Before You Sign",
+    "text": "Hiring an Open-Concept Remodeling Contractor: What to Ask Before You Sign",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When you decide to open up your home by taking down walls between the kitchen, living room, or dining space, selecting the right remodeling contractor is the most critical decision you will make. Structural changes carry genuine safety risks, making it vital to vet candidates thoroughly before signing any contract.\n\nQuestions to ask before you decide:\n- How do you verify whether an interior wall is load-bearing before starting demolition?\n- Who handles drawing the structural plans and obtaining the necessary building permits and inspections from the local municipality?\n- What is your plan for rerouting electrical wiring, plumbing lines, or HVAC vents discovered inside the wall cavity?\n- Will the structural beam be recessed flush into the ceiling joists or dropped below, and how will that affect overall ceiling height?\n- How do your crews handle dust containment and protect surrounding floors during major framing demolition?\n- How are unexpected concealed conditions inside the walls or ceilings documented, priced, and approved?\n\nWhat to look for:\nA reputable remodeling contractor should clearly explain their structural assessment process, carry full licensing and insurance coverage, and provide a clear written contract detailing scopes, payment milestones, and permit responsibilities. They should never suggest skipping official building permits or structural calculations for speed or cost savings.\n\nTo discuss your open-concept goals with a fully insured, experienced team, call Bay City Remodeling & Bathrooms at 813-362-0114 or visit baycityremodeling.com for a free quote.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

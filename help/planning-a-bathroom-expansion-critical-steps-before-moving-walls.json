@@ -1,0 +1,119 @@
+{
+  "name": "Planning a Bathroom Expansion: Critical Steps Before Moving Walls",
+  "step": [
+    {
+      "name": "Step 1: Measure your existing footprint and fixture clearances",
+      "text": "Record the exact dimensions of your current room, including ceiling height, doorway swings, and distances between rough plumbing lines. Check that proposed layouts provide adequate clearance around the toilet, shower entry, and vanity before committing to a floor plan.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Confirm structural walls and hidden utility paths",
+      "text": "Examine whether the partitions you wish to take down are load-bearing supports carrying roof or ceiling loads. Look inside adjacent attic spaces or wall cavities to identify concealed vent stacks, electrical conduits, and water supply lines that will need rerouting.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Draft a scaled layout and pull required municipal permits",
+      "text": "Draw a clear, scaled plan showing the expanded perimeter, fixture locations, and framing details. Submit these documents to your local building department to secure necessary building, electrical, and plumbing permits before any demolition begins.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Complete structural framing, rough plumbing, and wiring",
+      "text": "Remove existing wallboard, frame the new wall perimeters, and run updated supply, waste, and electrical lines. Partner with licensed trade specialists to ensure all concealed piping, ventilation fans, and GFCI circuits meet safety codes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Schedule rough inspections prior to closing the walls",
+      "text": "Have municipal building officials inspect your structural framing, rough plumbing, and electrical rough-in work before hanging drywall. Never conceal piping or wiring behind backer board or insulation until an inspector signs off on the work.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install waterproofing, wall surfaces, and finish fixtures",
+      "text": "Hang moisture-resistant drywall, apply seamless waterproofing membranes across wet areas, and complete your tile work. Set the vanity, toilet, and bathing fixtures, connect all final plumbing fittings, and call for your final building inspection. If you are ready to expand your space with expert coordination, call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule your consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Record the exact dimensions of your current room, including ceiling height, doorway swings, and distances between rough plumbing lines. Check that proposed layouts provide adequate clearance around th"
+}

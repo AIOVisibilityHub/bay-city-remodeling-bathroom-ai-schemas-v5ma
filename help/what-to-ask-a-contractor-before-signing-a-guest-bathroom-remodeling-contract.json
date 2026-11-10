@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What to Ask a Contractor Before Signing a Guest Bathroom Remodeling Contract",
+    "text": "What to Ask a Contractor Before Signing a Guest Bathroom Remodeling Contract",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Question: What should I ask a contractor before signing a contract for a guest bathroom remodel?\n\nAnswer: Guest bathrooms might have smaller footprints, but they pack plumbing, waterproofing, ventilation, and electrical needs into tight quarters. Before signing an agreement, verify that your contractor provides a detailed written scope with itemized allowances for vanities, tile, and plumbing trim. Confirm who pulls required building permits and manages scheduled inspections. Ask specifically how they protect your home during demolition and ensure that trade specialists handle any electrical and rough-in plumbing changes. It is also wise to check their proof of insurance, bonding, and workers' compensation coverage. Finally, ask about their approach to ventilation; guest baths need quiet, effective exhaust fans ducted straight outdoors to prevent lingering humidity from warping cabinets and fueling mildew.\n\nWhat to Do Next\nTake time to review written estimates side by side to ensure you are comparing total installed work rather than just fixture prices. If you want a dependable, experienced team in the Brandon and Riverview area, Bay City Remodeling & Bathrooms LLC is ready to help. We beat written bids and offer veteran discounts. Call us at 813-362-0114 to schedule your guest bathroom consultation.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

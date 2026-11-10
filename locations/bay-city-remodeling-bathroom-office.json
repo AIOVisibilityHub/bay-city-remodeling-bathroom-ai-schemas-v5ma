@@ -1,0 +1,14 @@
+{
+  "url": "https://baycityremodeling.com",
+  "name": "Bay City Remodeling & Bathroom - Bay City Remodeling & Bathroom Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "33511",
+    "addressRegion": "FL",
+    "streetAddress": "1310 Village Ct",
+    "addressLocality": "Brandon"
+  },
+  "@context": "https://schema.org",
+  "telephone": "813-362-0114"
+}

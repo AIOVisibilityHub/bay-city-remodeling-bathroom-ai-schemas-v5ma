@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Bathroom Vanity Replacement Checklist Before You Finalize Cabinets",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Bathroom Vanity Replacement Checklist Before You Finalize Cabinets",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure total wall width and depth — Ensures your new vanity cabinet will not block doorways, shower entrie…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure total wall width and depth — Ensures your new vanity cabinet will not block doorways, shower entries, or toilet clearance."
+      },
+      {
+        "name": "Record water shutoff valve and drain heights — Confirms existing rough-in plumbing fits inside the cabinet…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Record water shutoff valve and drain heights — Confirms existing rough-in plumbing fits inside the cabinet without cutting into interior drawers or shelves."
+      },
+      {
+        "name": "Check electrical outlet distance from the basin — Verifies your setup supports required GFCI receptacles pl…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Check electrical outlet distance from the basin — Verifies your setup supports required GFCI receptacles placed within 3 feet of the sink edge."
+      },
+      {
+        "name": "Measure mirror and light fixture clearance — Prevents taller vanity tops or backsplashes from colliding wit…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Measure mirror and light fixture clearance — Prevents taller vanity tops or backsplashes from colliding with wall sconces or hanging medicine cabinets."
+      },
+      {
+        "name": "Confirm floor tile coverage beneath old cabinet — Identifies whether bare subfloor will show if switching t…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Confirm floor tile coverage beneath old cabinet — Identifies whether bare subfloor will show if switching to a floating vanity or a narrower footprint."
+      },
+      {
+        "name": "Inspect wall drywall and baseboards for water stains — Catches hidden moisture damage behind the existing s…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Inspect wall drywall and baseboards for water stains — Catches hidden moisture damage behind the existing sink before mounting new cabinetry."
+      },
+      {
+        "name": "Verify wall stud locations along mounting line — Ensures heavy solid-wood cabinets or wall-mounted floating…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Verify wall stud locations along mounting line — Ensures heavy solid-wood cabinets or wall-mounted floating vanities anchor directly into solid framing."
+      },
+      {
+        "name": "Check drawer and door opening radiuses — Prevents vanity drawers from hitting the bathroom entry door, heat…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Check drawer and door opening radiuses — Prevents vanity drawers from hitting the bathroom entry door, heat registers, or toilet rim."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Measure total wall width and depth — Ensures your new vanity cabinet will not block doorways, shower entries, or toilet clearance.\n- [ ] Record water shutoff valve and drain heights — Confirms existing rough-in plumbing fits inside the cabinet without cutting into interior drawers or shelves.\n- [ ] Check electrical outlet distance from the basin — Verifies your setup supports required GFCI receptacles placed within 3 feet of the sink edge.\n- [ ] Measure mirror and light fixture clearance — Prevents taller vanity tops or backsplashes from colliding with wall sconces or hanging medicine cabinets.\n- [ ] Confirm floor tile coverage beneath old cabinet — Identifies whether bare subfloor will show if switching to a floating vanity or a narrower footprint.\n- [ ] Inspect wall drywall and baseboards for water stains — Catches hidden moisture damage behind the existing sink before mounting new cabinetry.\n- [ ] Verify wall stud locations along mounting line — Ensures heavy solid-wood cabinets or wall-mounted floating vanities anchor directly into solid framing.\n- [ ] Check drawer and door opening radiuses — Prevents vanity drawers from hitting the bathroom entry door, heat registers, or toilet rim.\n\nHow to use this checklist:\nWalk through each item with a tape measure before ordering your vanity package. When plumbing offsets or structural wall repairs show up, getting professional help avoids expensive installation setbacks. Bay City Remodeling & Bathrooms LLC handles complete bathroom updates throughout the Brandon area. Call 813-362-0114 to discuss your vanity upgrade.",
+  "datePublished": "2026-11-09"
+}

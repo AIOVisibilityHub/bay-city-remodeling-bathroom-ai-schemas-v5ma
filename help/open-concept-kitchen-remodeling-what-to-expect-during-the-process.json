@@ -1,0 +1,113 @@
+{
+  "name": "Open-Concept Kitchen Remodeling: What to Expect During the Process",
+  "step": [
+    {
+      "name": "Step 1: Evaluate structural wall loads and draft engineering plans",
+      "text": "A qualified builder or structural engineer inspects the wall framing, attic space, and foundation to confirm whether the dividing partition supports upper floors, ceiling joists, or roof trusses. If the wall is load-bearing, an engineered beam and post system is calculated to carry the weight. Structural drawings must be completed and submitted to your local building department for proper permitting before any work begins.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Isolate the work zone and disconnect interior utilities",
+      "text": "Crews seal off the surrounding living areas with heavy plastic sheeting and floor protection to keep drywall dust contained. Licensed trades turn off and disconnect any electrical switches, outlets, plumbing pipes, or HVAC ductwork running through the wall being removed. Safe disconnection prevents unexpected damage to your home's central systems and prepares the space for clean removal.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove dividing walls and install structural support beams",
+      "text": "Carpenters construct temporary shoring walls to support ceiling loads while carefully removing the studs and drywall. The specified laminated veneer lumber or steel support beam is lifted into position, securely seated on structural jack studs, and fastened to approved specifications. Once the beam carries the permanent structural weight, temporary support bracing is removed.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Re-route mechanical lines and complete municipal trade inspections",
+      "text": "Plumbing drain lines, gas feeds, and electrical circuits are rerouted into adjoining walls, ceilings, or new island floor boxes. Rough-in work must pass building and trade inspections required by local Hillsborough County or municipal authorities before framing can be closed. This step guarantees that all concealed connections meet safety codes before drywall and finish materials are installed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install drywall, seamless flooring transitions, and kitchen cabinetry",
+      "text": "The new ceiling and surrounding walls receive drywall patching, taping, mudding, and texture blending so the open space looks original to the house. Subflooring is patched and continuous flooring is laid across the unified kitchen and living areas to eliminate awkward breaks. Cabinetry, custom countertops, and stylish fixtures are then installed to finish your open-concept living space. Reach out to Bay City Remodeling & Bathrooms LLC at 813-362-0114 to begin your home transformation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "A qualified builder or structural engineer inspects the wall framing, attic space, and foundation to confirm whether the dividing partition supports upper floors, ceiling joists, or roof trusses. If t"
+}

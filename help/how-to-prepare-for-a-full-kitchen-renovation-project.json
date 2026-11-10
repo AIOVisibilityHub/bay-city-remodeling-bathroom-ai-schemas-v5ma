@@ -1,0 +1,113 @@
+{
+  "name": "How to Prepare for a Full Kitchen Renovation Project",
+  "step": [
+    {
+      "name": "Step 1: Record all permanent dimensions and fixed utility locations",
+      "text": "Measure wall lengths, ceiling height, window openings, and existing plumbing and electrical connection points before looking at product samples. Knowing your baseline dimensions keeps you from falling in love with cabinet sets or double ovens that simply will not fit. Note where shutoff valves and dedicated circuits enter the room.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish your working budget and design priorities",
+      "text": "Decide whether your primary goal is cosmetic updating, better storage, or completely altering the workflow between appliances. Separate essential functional upgrades like cabinet layout and landing space from decorative choices like tile backsplashes. Set aside a contingency reserve for unexpected issues hidden behind old drywall or under flooring.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Select appliances and verify mechanical clearances",
+      "text": "Choose your refrigerator, range, hood, and dishwasher early so cabinetry can be custom-fitted to exact manufacturer specifications. Confirm door swings, required clearances, and landing space next to cooking equipment and the sink. Finalizing appliance dimensions now prevents awkward cabinet modifications later during rough construction.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure required trade permits and coordinate rough-ins",
+      "text": "Work with qualified professionals to confirm whether municipal permits are needed for alterations to plumbing, electrical circuits, or venting. Demolition happens first, followed immediately by rough mechanical, electrical, and plumbing upgrades behind the walls. Never close walls with fresh drywall until all necessary rough trades and municipal checks are completed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install cabinetry, countertops, and final trim",
+      "text": "Hang wall and base cabinets plumb and level before taking precise countertop template measurements. Once countertops are fabricated and set, connect your sink, faucet, and appliances, followed by final paint, drywall patching, and decorative hardware. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your renovation plan and request a quote.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure wall lengths, ceiling height, window openings, and existing plumbing and electrical connection points before looking at product samples. Knowing your baseline dimensions keeps you from falling"
+}

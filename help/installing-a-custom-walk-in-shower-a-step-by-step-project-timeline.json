@@ -1,0 +1,119 @@
+{
+  "name": "Installing a Custom Walk-In Shower: A Step-by-Step Project Timeline",
+  "step": [
+    {
+      "name": "Step 1: Consultation, Measurement, and Design Planning",
+      "text": "A project manager evaluates your existing bathroom, measures the available footprint, and confirms whether you want a low-threshold base or a curbless entry. We review fixture locations, glass door swings, and custom tile layouts to finalize a clear scope of work.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Demolition and Framing Assessment",
+      "text": "Crews carefully remove old fixtures, walls, and flooring back to the bare studs and subfloor. We thoroughly examine the framing for hidden moisture damage or settling issues, making necessary structural repairs before any new construction begins.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Plumbing Upgrades and Electrical Rough-Ins",
+      "text": "Our licensed and insured plumbing partners step in to enlarge drain lines to standard two-inch specifications, set proper drain positioning, and install your new shower valves. If you have selected recessed LED lighting or exhaust fan upgrades, electrical lines are roughed in at this stage.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pan Setting and Complete Waterproofing",
+      "text": "The shower base or sloped mortar bed is established to guarantee correct pitch toward the drain. A continuous waterproofing membrane is applied across the base and up the shower walls, sealing all seams, corners, and fastener points against moisture infiltration.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Tile Setting, Grouting, and Sealant Application",
+      "text": "Artisans install your selected wall tile, accent bands, slip-resistant floor surfaces, and recessed niches. Once the tile is set, grout is applied, wiped clean, and allowed to cure fully before high-performance color-matched silicone seals the perimeter joints.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Fixture Trim, Glass Enclosure, and Final Inspection",
+      "text": "The team mounts your shower trim, handheld wands, grab bars, and custom glass doors. We perform thorough water drainage tests and conduct a final walkthrough with you. Ready to transform your Brandon or Tampa bathroom? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule your project.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "A project manager evaluates your existing bathroom, measures the available footprint, and confirms whether you want a low-threshold base or a curbless entry. We review fixture locations, glass door sw"
+}

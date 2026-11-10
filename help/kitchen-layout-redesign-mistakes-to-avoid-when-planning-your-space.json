@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Layout Redesign: Mistakes to Avoid When Planning Your Space",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you are ready to update your culinary space, a functional floor plan makes all the difference. Missteps during the design phase can lead to daily frustration, extra change orders, and costly rework. \n\nCommon Mistakes to Avoid:\n\n- Forgetting door and appliance clearance: Putting a refrigerator or dishwasher where open doors block main walkways or hit opposing cabinets disrupts the whole room. Ensure there is adequate space to walk past open doors.\n- Ignoring appliance landing zones: Leaving no usable countertop beside the stove, sink, or refrigerator makes prep work clumsy and unsafe. Plan at least 15 to 18 inches of clear counter right next to these stations.\n- Overextending the work triangle: Spreading the sink, fridge, and cooktop too far apart adds unnecessary steps every time you prepare a meal. Keep the total distance along that path within the recommended 26-foot limit.\n- Squeezing walkways too narrow: Designing tight paths between an island and perimeter cabinets creates tight pinches when multiple people cook. Aim for generous aisle clearance, typically 48 inches if multiple family members share duties.\n- Assuming utilities move anywhere cheaply: Relocating plumbing stacks, gas pipes, or heavy electrical circuits can quickly escalate costs if not mapped beforehand. \n\nReady to rework your home's culinary space with experienced planning? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your ideas and request a free quote.",
+  "datePublished": "2026-11-09"
+}

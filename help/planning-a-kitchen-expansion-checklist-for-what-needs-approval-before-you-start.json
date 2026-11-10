@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Kitchen Expansion: Checklist for What Needs Approval Before You Start",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Planning a Kitchen Expansion: Checklist for What Needs Approval Before You Start",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Scaled floor plan showing existing walls and proposed openings — verifies whether removed partitions are lo…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Scaled floor plan showing existing walls and proposed openings — verifies whether removed partitions are load-bearing before construction begins."
+      },
+      {
+        "name": "Documentation of exterior property boundaries and setback limits — required whenever an expansion pushes yo…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Documentation of exterior property boundaries and setback limits — required whenever an expansion pushes your home's footprint outward."
+      },
+      {
+        "name": "Marked locations for sink drains and water lines — plumbing relocations trigger mandatory trade permits and…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Marked locations for sink drains and water lines — plumbing relocations trigger mandatory trade permits and rough-in inspections."
+      },
+      {
+        "name": "Electrical circuit map detailing appliance dedicated runs and countertop outlets — helps avoid overloading…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Electrical circuit map detailing appliance dedicated runs and countertop outlets — helps avoid overloading your main panel when adding new equipment."
+      },
+      {
+        "name": "Gas supply line pathway and shutoff valve location — ensures cooktop relocations comply with local safety c…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Gas supply line pathway and shutoff valve location — ensures cooktop relocations comply with local safety clearances."
+      },
+      {
+        "name": "Mechanical exhaust duct path to the exterior — ventilation must route directly outdoors rather than into ce…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Mechanical exhaust duct path to the exterior — ventilation must route directly outdoors rather than into ceiling cavities."
+      },
+      {
+        "name": "Written schedule of structural headers and support posts — critical for building officials reviewing wall r…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Written schedule of structural headers and support posts — critical for building officials reviewing wall removal safety."
+      },
+      {
+        "name": "Material specification list for new flooring, drywall, and structural framing — establishes clear allowance…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Material specification list for new flooring, drywall, and structural framing — establishes clear allowances and stops scope creep early."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Scaled floor plan showing existing walls and proposed openings — verifies whether removed partitions are load-bearing before construction begins.\n- [ ] Documentation of exterior property boundaries and setback limits — required whenever an expansion pushes your home's footprint outward.\n- [ ] Marked locations for sink drains and water lines — plumbing relocations trigger mandatory trade permits and rough-in inspections.\n- [ ] Electrical circuit map detailing appliance dedicated runs and countertop outlets — helps avoid overloading your main panel when adding new equipment.\n- [ ] Gas supply line pathway and shutoff valve location — ensures cooktop relocations comply with local safety clearances.\n- [ ] Mechanical exhaust duct path to the exterior — ventilation must route directly outdoors rather than into ceiling cavities.\n- [ ] Written schedule of structural headers and support posts — critical for building officials reviewing wall removal safety.\n- [ ] Material specification list for new flooring, drywall, and structural framing — establishes clear allowances and stops scope creep early.\n\nHow to use this checklist:\nWork through these items alongside your designer or contractor before requesting trade permits or purchasing finishes. Confirming these details early prevents unexpected layout compromises, costly change orders, and delayed inspections once framing starts. If your project alters walls, utilities, or structural framing, Bay City Remodeling & Bathrooms LLC can review your floor plan and manage the approvals. Call 813-362-0114 to discuss your kitchen expansion.",
+  "datePublished": "2026-11-09"
+}

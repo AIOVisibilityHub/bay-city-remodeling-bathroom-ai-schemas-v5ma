@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What to Do When Bathroom Flooring Feels Soft or Spongy",
+    "text": "What to Do When Bathroom Flooring Feels Soft or Spongy",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Question: What should I do if my bathroom floor feels soft or spongy underfoot?\n\nAnswer: If your bathroom floor gives way, flexes, or feels soft when you walk on it, stop using that area immediately and treat it as a priority issue. A spongy bathroom floor is almost always a sign of underlying water damage that has compromised the plywood subfloor or supporting joists beneath your finish flooring.\n\nCommon sources include a failed toilet wax ring, slow plumbing leaks behind vanities, cracked grout in an adjoining shower, or condensation seeping under transitions. Ignoring a spongy floor can lead to structural rot, mold growth, or even plumbing separation.\n\nWhat to Do Next\n\nFirst, inspect around the base of the toilet and tub for loose caulking or visible staining. Check the ceiling of any room directly below for watermarks or peeling paint. Next, avoid placing heavy weight on the soft area to prevent puncturing weakened wood. Finally, call an experienced remodeling contractor rather than simply laying new vinyl or tile over the top. The existing floor must be pulled, the source of moisture stopped, and damaged subfloor panels cut out and replaced with sound, level wood.\n\nBay City Remodeling & Bathrooms LLC provides thorough substrate repairs and bathroom remodeling throughout Brandon, Riverview, and the greater Tampa area. Call our team at 813-362-0114 for an honest evaluation and quote.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

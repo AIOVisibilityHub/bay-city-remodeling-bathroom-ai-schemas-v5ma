@@ -1,0 +1,119 @@
+{
+  "name": "Permits and Inspections for Bedroom Renovations: What to Expect During the Process",
+  "step": [
+    {
+      "name": "Step 1: Define the room layout and detailed scope",
+      "text": "Establish the new floor plan, noting proposed walls, doors, closets, and window placements. Gather information on current wiring routes and whether any HVAC ducts need relocating to ensure your plans match your daily routine.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Submit plans and apply for required permits",
+      "text": "Prepare floor plans showing wall assemblies, egress window dimensions, and smoke detector placements. Submit these drawings to your local municipal building department for residential plan review, which typically takes two to three weeks for initial feedback.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Complete framing and mechanical rough-ins",
+      "text": "Carry out demolition carefully, frame new partition walls, and rough in electrical circuits, switches, and ductwork. Leave wall cavities exposed so inspectors can easily view the studs, wiring boxes, and venting assemblies.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pass required rough-in inspections",
+      "text": "Coordinate municipal site visits for building, electrical, and mechanical trades before installing any insulation or drywall. The inspector confirms wire gauges, box depths, framing spans, and safety clearances meet current codes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install insulation, drywall, and interior finishes",
+      "text": "Once rough inspections are signed off, place insulation, hang drywall, and complete mudding, taping, and sanding. Follow with flooring installation, interior trim, paint, doors, and light fixtures.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Schedule and pass the final inspection",
+      "text": "Call for the final building inspection to verify functioning smoke alarms, operating egress windows, finished electrical outlets, and overall code compliance. Once approved, the project is officially closed and ready to enjoy. Bay City Remodeling & Bathrooms manages every phase of bedroom remodeling for homeowners throughout Brandon and surrounding communities. Call 813-362-0114 to get started.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Establish the new floor plan, noting proposed walls, doors, closets, and window placements. Gather information on current wiring routes and whether any HVAC ducts need relocating to ensure your plans "
+}

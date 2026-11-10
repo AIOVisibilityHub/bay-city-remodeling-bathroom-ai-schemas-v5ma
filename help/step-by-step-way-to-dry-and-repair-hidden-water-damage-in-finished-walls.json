@@ -1,0 +1,113 @@
+{
+  "name": "Step-by-Step Way to Dry and Repair Hidden Water Damage in Finished Walls",
+  "step": [
+    {
+      "name": "Step 1: Shut off the source and perform water extraction",
+      "text": "Turn off the supply shutoff valve to stop inbound water immediately. Remove pooled water from floors using wet vacuums and squeegees. Document all standing water and water-line marks on walls with time-stamped photos to show your insurance adjuster exactly how high the water rose.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Remove baseboards and make strategic relief openings",
+      "text": "Pry off baseboard trim carefully to expose the lower drywall edge behind it. Cut small inspection openings or make a clean horizontal flood cut several inches above the visible water line. This allows trapped moisture inside wall cavities to escape rather than soaking upward into higher drywall panels.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Discard saturated insulation and unsalvageable porous materials",
+      "text": "Pull out wet fiberglass or cellulose insulation, as wet insulation matting will not dry effectively inside closed framing. Remove spongy carpet padding and waterlogged particleboard subfloors or vanities. Bag and dispose of saturated porous items that cannot be completely sanitized and dried.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Run dehumidifiers and air movers while taking moisture readings",
+      "text": "Position commercial dehumidifiers to lower relative humidity while air movers circulate warm, dry air into exposed wall cavities. Check stud moisture levels with a calibrated pin moisture meter over several consecutive days. Continue running equipment until wood studs and framing read at normal baseline moisture levels.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Treat framing, install fresh drywall, and finish surfaces",
+      "text": "Apply an antimicrobial wash to exposed framing to treat surface contaminants. Hang new moisture-resistant drywall, tape seams, apply joint compound, and texture surfaces to match existing walls. Prime and paint the repaired wall to blend seamlessly with the rest of the room. If you suspect hidden moisture inside bathroom walls, under kitchen cabinetry, or throughout living areas, call Bay City Remodeling & Bathrooms at 813-362-0114 for thorough drywall repairs and restoration.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Turn off the supply shutoff valve to stop inbound water immediately. Remove pooled water from floors using wet vacuums and squeegees. Document all standing water and water-line marks on walls with tim"
+}

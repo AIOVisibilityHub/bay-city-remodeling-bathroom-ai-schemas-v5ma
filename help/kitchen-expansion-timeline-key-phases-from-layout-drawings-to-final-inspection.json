@@ -1,0 +1,113 @@
+{
+  "name": "Kitchen Expansion Timeline: Key Phases from Layout Drawings to Final Inspection",
+  "step": [
+    {
+      "name": "Step 1: Define the layout and verify existing structural conditions",
+      "text": "Your project team measures the existing room, inspects surrounding framing to identify load-bearing walls, and marks utility runs. You decide on the new floor plan, appliance sizes, and island placements so designers can draft accurate scaled blueprints. This phase establishes the foundation for accurate cost estimating and takes about one to two weeks.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Submit architectural drawings and obtain building permits",
+      "text": "The contractor submits detailed framing, electrical, mechanical, and plumbing drawings to your local municipal building department for plan review. Official approval must be granted before physical demolition begins to keep your property fully compliant with residential building codes. Plan reviews typically take two to four weeks depending on local building department volume.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolish existing finishes and install structural supports",
+      "text": "Crews remove outdated cabinets, flooring, and interior drywall, followed by the careful removal of target walls. If load-bearing framing is altered, carpenters set temporary shoring and install structural headers or support columns to carry overhead weight safely. This heavy structural and prep work usually wraps up in one to two weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-in plumbing, electrical, and mechanical systems",
+      "text": "Trade specialists run new copper or PEX water supply lines, position sink drains, pull dedicated appliance circuits, and vent range hoods to the exterior. Building inspectors then visit the site to review all exposed mechanical, electrical, and structural rough-ins before any insulation or drywall can be hung. Expect this stage to take approximately one to two weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Hang drywall, install new cabinets, and complete final trim",
+      "text": "Once inspectors sign off on the rough work, trades install drywall, lay finish flooring, anchor custom or semi-custom cabinets, and template countertops. Plumbers and electricians set finish fixtures, connect appliances, and schedule the final municipal inspection to officially close the project. This final finish phase generally takes two to three weeks. Bay City Remodeling & Bathrooms LLC guides homeowners through every phase of expanding their kitchens with clear communication and quality craftsmanship. Reach out at 813-362-0114 to start your expansion.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Your project team measures the existing room, inspects surrounding framing to identify load-bearing walls, and marks utility runs. You decide on the new floor plan, appliance sizes, and island placeme"
+}

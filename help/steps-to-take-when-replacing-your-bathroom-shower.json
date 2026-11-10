@@ -1,0 +1,119 @@
+{
+  "name": "Steps to Take When Replacing Your Bathroom Shower",
+  "step": [
+    {
+      "name": "Step 1: Confirm measurements and verify drain placement",
+      "text": "Measure the shower depth, width, and ceiling clearance, noting the exact center of the current drain pipe. Compare these dimensions against your chosen shower base or pan to avoid framing clashes. Done looks like a documented layout sketch matching available floor clearances.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Shut off the water and remove the old enclosure",
+      "text": "Turn off the main water supply or local shutoff valves and disconnect the trim, handles, and showerhead. Carefully tear out old wall panels, tiles, backing boards, and the base down to bare studs. Done looks like clean exposed wall framing and clear subfloor, free of old fasteners and debris.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Inspect framing and subfloor for moisture issues",
+      "text": "Examine exposed wooden studs, sole plates, and subfloor materials for rot, discoloration, or termite damage common in humid climates. Replace weakened framing members and level the subfloor before proceeding. Done looks like solid, level structural surfaces ready to support a watertight shower pan.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough in updated plumbing valves and water lines",
+      "text": "Work with licensed plumbing professionals to replace outdated shower valves, raise showerhead supply heights, or reposition drains. Test supply lines under water pressure to verify there are zero fitting leaks. Done looks like securely anchored, newly installed rough plumbing inspected according to local codes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install the shower pan, waterproofing, and backer board",
+      "text": "Secure the shower base or mortar bed with the correct pitch toward the drain, followed by waterproof backer board on wall assemblies. Seal every seam, screw penetration, and transition with waterproof membrane bands. Done looks like a fully sealed, leak-tested shower receptor ready for finishes.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install wall finishes, fixtures, and enclosures",
+      "text": "Install custom tile or surround panels, apply mildew-resistant silicone along plane changes, and attach the shower trim and glass door. Connect and test mechanical exhaust ventilation to protect the room from condensation. Done looks like a polished, fully functioning shower ready for daily use. Bay City Remodeling & Bathrooms LLC manages every phase of shower installation. Contact our team at 813-362-0114 to plan your project.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the shower depth, width, and ceiling clearance, noting the exact center of the current drain pipe. Compare these dimensions against your chosen shower base or pan to avoid framing clashes. Don"
+}

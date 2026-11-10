@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Mistakes to Avoid During Wheelchair Accessible Bathroom Remodeling",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adapting your home for a family member with limited mobility is a meaningful investment, but small design oversights can create daily frustrations or even safety hazards. Keeping your renovation functional requires looking past surface finishes to address practical clearances and structural support.\n\nCommon Mistakes to Avoid\n- Choosing standard catalog layouts without measuring mobility gear: Off-the-shelf bathroom plans often leave tight choke points. Measure the resident's actual wheelchair or walker dimensions first, ensuring wide turning radiuses and generous approach angles around doors and fixtures.\n- Securing grab bars into hollow drywall: Fastening safety bars with plastic wall anchors invites catastrophic failure under body weight. Always open the walls to fasten solid horizontal wood blocking between wall studs before hanging waterproof board and tile.\n- Overlooking threshold heights between rooms: A high transitional lip between bedroom flooring and bathroom tile creates a serious tripping hazard. Plan level, curbless transitions so rolling walkers and wheelchairs glide across floor borders effortlessly.\n- Skimping on task lighting and glare control: Poorly lit vanity areas and shadows inside shower stalls make steady footing difficult. Incorporate layered, glare-free overhead LED fixtures alongside rocker switches placed at an accessible height.\n- Skipping local building permits: Major layout changes, doorway alterations, and plumbing reconfigurations require municipal permits. Working without official review can lead to code violations or non-compliant ramp slopes that compromise safety.\n\nWhen Professional Guidance Helps\nStructural wall modifications, doorway widening, and curbless shower conversions involve load-bearing assessments and precise plumbing slopes that need experienced hands. If you are planning an accessible renovation in Brandon, Riverview, or Valrico, contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule an on-site consultation.",
+  "datePublished": "2026-11-09"
+}

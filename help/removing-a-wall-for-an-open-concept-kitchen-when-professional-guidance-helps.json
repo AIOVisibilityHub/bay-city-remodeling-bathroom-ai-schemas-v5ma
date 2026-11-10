@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Removing a Wall for an Open-Concept Kitchen: When Professional Guidance Helps",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Opening up an interior partition between your kitchen and living space creates wonderful light and connection, but it also alters the structural and mechanical backbone of your home. Knowing when to involve licensed professionals protects your safety, property value, and renovation budget.\n\nWhen Professional Guidance Helps:\n- Load-bearing framing: If a wall supports roof trusses, ceiling joists, or an upper story, taking it down without engineered temporary shoring and structural beams can cause ceiling sagging or structural failure.\n- Concealed plumbing and electrical: Many interior walls conceal plumbing stacks, gas feeds, electrical home runs, or air return ducts. Moving these systems requires trade permits and code-compliant rerouting.\n- Ventilation requirements: In an open layout, cooking grease, heat, and odors travel freely into adjacent living areas. Sizing a properly ducted range hood requires calculating adequate exterior airflow and makeup air needs.\n- Floor leveling and transitions: Removing a wall often reveals height differences between kitchen slab areas and adjoining living floors. Pros ensure subfloors are properly leveled so your continuous flooring appears seamless.\n- Permitting compliance: Hillsborough County and surrounding municipalities require building permits for structural changes. Licensed contractors handle inspections from rough framing to final sign-off.\n\nReady to open up your kitchen layout safely? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to review your space and get an honest, customized quote.",
+  "datePublished": "2026-11-09"
+}

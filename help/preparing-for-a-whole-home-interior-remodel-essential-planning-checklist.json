@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for a Whole-Home Interior Remodel: Essential Planning Checklist",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Preparing for a Whole-Home Interior Remodel: Essential Planning Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Written project scope — Detail exactly which rooms, fixtures, flooring, and finishes are included to preven…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Written project scope — Detail exactly which rooms, fixtures, flooring, and finishes are included to prevent mid-project confusion."
+      },
+      {
+        "name": "Preliminary renovation budget — Set a realistic financial boundary with built-in allowance reserves for une…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Preliminary renovation budget — Set a realistic financial boundary with built-in allowance reserves for unexpected interior repairs."
+      },
+      {
+        "name": "Existing home sketches or floor plans — Help your contractor assess current traffic flow, room dimensions,…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Existing home sketches or floor plans — Help your contractor assess current traffic flow, room dimensions, and fixture locations."
+      },
+      {
+        "name": "Long-lead finish and fixture selections — Order custom cabinetry, tile, and plumbing fixtures early to prev…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Long-lead finish and fixture selections — Order custom cabinetry, tile, and plumbing fixtures early to prevent installation standstills."
+      },
+      {
+        "name": "Confirmed municipal permit responsibility — Verify in writing that your licensed contractor submits drawing…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Confirmed municipal permit responsibility — Verify in writing that your licensed contractor submits drawings and handles local building inspections."
+      },
+      {
+        "name": "Temporary living arrangement plan — Decide early how your family will cook, shower, and manage daily routin…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Temporary living arrangement plan — Decide early how your family will cook, shower, and manage daily routines around construction zones."
+      },
+      {
+        "name": "Designated staging and storage space — Clear out the rooms being remodeled and identify a secure spot for d…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Designated staging and storage space — Clear out the rooms being remodeled and identify a secure spot for delivered building materials."
+      },
+      {
+        "name": "Written change-order agreement — Establish how unexpected field conditions or scope adjustments get documen…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Written change-order agreement — Establish how unexpected field conditions or scope adjustments get documented and priced."
+      }
+    ]
+  },
+  "articleBody": "Getting ready for a full interior renovation requires getting your logistics in order well before demolition begins. A smooth project comes down to clear scopes, early material decisions, and proper approvals.\n\n- [ ] Written project scope — Detail exactly which rooms, fixtures, flooring, and finishes are included to prevent mid-project confusion.\n- [ ] Preliminary renovation budget — Set a realistic financial boundary with built-in allowance reserves for unexpected interior repairs.\n- [ ] Existing home sketches or floor plans — Help your contractor assess current traffic flow, room dimensions, and fixture locations.\n- [ ] Long-lead finish and fixture selections — Order custom cabinetry, tile, and plumbing fixtures early to prevent installation standstills.\n- [ ] Confirmed municipal permit responsibility — Verify in writing that your licensed contractor submits drawings and handles local building inspections.\n- [ ] Temporary living arrangement plan — Decide early how your family will cook, shower, and manage daily routines around construction zones.\n- [ ] Designated staging and storage space — Clear out the rooms being remodeled and identify a secure spot for delivered building materials.\n- [ ] Written change-order agreement — Establish how unexpected field conditions or scope adjustments get documented and priced.\n\nHow to use this checklist:\nWork through these items with your general contractor during your planning meetings. Preparing these details early keeps your timeline intact and minimizes disruption. To discuss your project and request a free quote, call Bay City Remodeling & Bathrooms at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

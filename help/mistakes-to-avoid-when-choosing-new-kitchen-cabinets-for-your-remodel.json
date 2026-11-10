@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Choosing New Kitchen Cabinets for Your Remodel",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ordering new kitchen cabinets is an exciting milestone, but small oversights during planning can create major headaches once installation begins. Here are five frequent mistakes homeowners make and how you can sidestep them:\n\n- Ordering before verifying appliance dimensions: Buying cabinetry using manufacturer estimates rather than exact appliance specification sheets often leaves gaps too tight for your fridge or range. Always confirm finished appliance dimensions first.\n- Ignoring door swing and filler strip clearances: Cabinets installed flush against walls or adjacent corner units without proper filler strips will bang their hardware against moldings or trap drawers. Plan adequate filler spacing on all corners.\n- Overlooking floor level and wall plumb: Old drywall is rarely flat and subfloors frequently slope. Assuming square walls leads to crooked cabinet faces; experienced installers always map out high spots and use shims underneath base boxes.\n- Forgetting about outlet and plumbing locations: Moving a cabinet bank without coordinating electrical boxes can leave vital kitchen outlets buried behind solid backing panels. Mark utilities on your layout drawings before placing your order.\n- Disconnecting utilities without licensed help: Unhooking dishwashers, disposals, or nearby gas lines casually can lead to slow leaks behind new base units. Hire qualified trades to handle disconnects and reconnections.\n\nCommon Mistakes to Avoid:\nFocusing purely on exterior door styles while neglecting internal storage accessories often leaves you with disorganized deep base cabinets. Invest in roll-out trays and sturdy drawer glides early in your design. Bay City Remodeling & Bathrooms LLC helps you choose, measure, and install durable kitchen cabinets that fit your lifestyle. Call 813-362-0114 today for a free quote.",
+  "datePublished": "2026-11-09"
+}

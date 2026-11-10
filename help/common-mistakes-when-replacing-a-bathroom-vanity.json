@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes When Replacing a Bathroom Vanity",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a bathroom vanity seems simple until the new cabinet lands in the room and the pipes do not line up. Here are the most frequent mistakes Brandon homeowners face and how to avoid them.\n\nCommon Mistakes to Avoid:\n1. Measuring only cabinet width: Overlooking depth and height can crowd toilet clearance or block bathroom entry doors. Always check the full swing radius of cabinet doors and slide-out drawers.\n2. Ignoring plumbing rough-in locations: Many modern vanities feature interior drawers that collide directly with existing drain traps or supply valves. Check internal cabinet cutouts before buying.\n3. Overlooking wall-mount support: Floating vanities put immense strain on wall framing. Hanging them without solid wood blocking between wall studs leads to sagging and ruined drywall.\n4. Skipping inspection of the floor underneath: Older vanities often hide missing floor tiles or water-damaged subflooring. Plan for flooring patching if your new cabinet has a smaller footprint or open legs.\n5. Forgetting nearby electrical rules: Swapping or moving vanities often requires adjusting outlets. Sinks require nearby GFCI-protected receptacles, which need licensed electrical handling.\n\nBay City Remodeling & Bathrooms LLC can ensure your vanity fits seamlessly. Call 813-362-0114 for an estimate.",
+  "datePublished": "2026-11-09"
+}

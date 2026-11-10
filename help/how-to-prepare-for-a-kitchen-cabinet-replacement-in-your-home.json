@@ -1,0 +1,113 @@
+{
+  "name": "How to Prepare for a Kitchen Cabinet Replacement in Your Home",
+  "step": [
+    {
+      "name": "Step 1: Empty every cabinet and sort your kitchenware",
+      "text": "Clear all dishware, pantry items, pots, and small appliances out of your current cabinets and drawers into labeled storage bins. Use this opportunity to donate unused items so you only move essentials back into your new cabinetry. Have your temporary dining setup established in an adjacent room with basic essentials before work starts.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Finalize your appliance specs and verify cabinet clearances",
+      "text": "Gather exact specification sheets for your refrigerator, range, microwave, and dishwasher, noting required ventilation gaps and door swing paths. Double-check that your cabinet supplier has these exact model numbers on file so opening clearances and filler strips line up properly. Completed verification gives your installer confidence that every appliance will slide cleanly into place.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Shut down and safely disconnect existing utilities",
+      "text": "Turn off the water supply valves under the sink and shut off the dedicated electrical breaker controlling the disposal, dishwasher, and countertop outlets. If you have gas appliances nearby, ensure line shutoffs are fully secured before pulling out surrounding base units. Having utilities safely disconnected allows demolition crews to remove existing cabinetry without damaging underlying pipework or wires.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Remove old cabinet boxes and evaluate underlying wall conditions",
+      "text": "Carefully unscrew existing wall and base units, haul them away, and inspect the exposed drywall and subfloor for level, plumb, and hidden moisture damage. Repair any damaged drywall and mark your wall stud locations clearly across the entire perimeter. Smooth, level surfaces ensure your new upper and lower boxes hang securely without sagging or twisting over time.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Secure ledger rails, anchor new units, and schedule rough checks",
+      "text": "Fasten sturdy support ledger boards along your reference chalk line and mount the upper cabinets first, anchoring directly into structural wall studs. Level and fasten the base units with proper shims, attach fillers and decorative end panels, and ensure plumbing cutouts match your sink base precisely. Once boxes are anchored and checked for squareness, your countertop fabricator can complete templates. Bay City Remodeling & Bathrooms LLC delivers professional cabinet installation and complete kitchen overhauls throughout the Brandon area. Call us at 813-362-0114 to schedule your project consultation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Clear all dishware, pantry items, pots, and small appliances out of your current cabinets and drawers into labeled storage bins. Use this opportunity to donate unused items so you only move essentials"
+}

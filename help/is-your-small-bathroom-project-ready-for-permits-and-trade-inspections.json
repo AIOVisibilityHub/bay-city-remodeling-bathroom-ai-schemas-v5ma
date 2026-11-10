@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Your Small Bathroom Project Ready for Permits and Trade Inspections?",
+    "text": "Is Your Small Bathroom Project Ready for Permits and Trade Inspections?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Does a small bathroom renovation really require building permits and trade inspections?\n\nYes, compact dimensions do not exempt a renovation from municipal building codes. If your project simply involves swapping out a mirror or repainting walls, permits are typically unnecessary. However, as soon as you move plumbing fixtures, convert a tub into a walk-in shower, alter supply and drain pipes, add electrical outlets, or install new ventilation fans, local jurisdictions across the Tampa Bay area require building permits and verified trade inspections.\n\nWhat to Expect During the Process\nBuilding codes establish strict guidelines even for the smallest half-bath or guest suite. Regulations dictate minimum clearances around toilets, proper placement for ground-fault circuit interrupter (GFCI) receptacles, dedicated exhaust ventilation, and approved waterproofing assemblies behind wet walls. Licensed trades must complete the rough-in plumbing and electrical runs so county or city building inspectors can sign off on the work before walls are closed up with moisture-resistant drywall and tile.\n\nHiring a licensed, insured remodeling company ensures your project satisfies regional building requirements and passes every required inspection smoothly. Bay City Remodeling & Bathrooms LLC handles residential bathroom remodeling throughout Brandon, Apollo Beach, and surrounding Hillsborough County areas. Reach out to our team at 813-362-0114 or visit baycityremodeling.com to start your project.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

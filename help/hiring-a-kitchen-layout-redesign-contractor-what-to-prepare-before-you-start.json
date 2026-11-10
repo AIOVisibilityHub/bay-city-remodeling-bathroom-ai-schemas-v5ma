@@ -1,0 +1,113 @@
+{
+  "name": "Hiring a Kitchen Layout Redesign Contractor: What to Prepare Before You Start",
+  "step": [
+    {
+      "name": "Step 1: Measure your full room perimeter and note existing utility connections",
+      "text": "Measure every wall from corner to corner at baseboard and counter height, recording exact distances to window trims and door frames. Mark the exact current locations of your sink drain, gas line connection, range outlet, and overhead venting. Having these base numbers ready gives your contractor a reliable foundation for an accurate project estimate.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Track your household traffic flow and storage bottlenecks",
+      "text": "Write down how your family currently uses the space, noting where traffic jams happen during breakfast or dinner prep. List items that lack designated storage, such as oversized countertop appliances, baking sheets, or pantry goods. A clear list of pain points ensures your new floor plan addresses daily living habits rather than just aesthetic updates.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Document your desired appliance sizes and clearances",
+      "text": "Select or measure the dimensions of the specific refrigerator, cooktop, wall ovens, and dishwasher you plan to install. Account for door swing paths, ventilation hood widths, and manufacturer-required breathing clearances on all sides. Knowing your equipment specs early prevents unexpected cabinet modifications after materials arrive on site.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Establish your layout priorities and trade-offs",
+      "text": "Decide whether your priority is expanding continuous prep countertops, adding casual bar seating, or separating the cleanup zone from cooking stations. Compare the benefit of moving major plumbing or electrical lines against keeping utilities in place to invest more in custom cabinetry. Clear priorities keep your redesign project focused on what improves daily living the most.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Schedule an on-site design consultation and review permit requirements",
+      "text": "Meet with an experienced remodeling professional to review your measurements, structural walls, and local permitting requirements. Discuss construction drawings, mechanical rough-ins, and trade coordination needed before any demolition begins. To start planning your updated kitchen floor plan in the Brandon or Tampa Bay area, call Bay City Remodeling & Bathrooms LLC at 813-362-0114 for a personalized consultation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure every wall from corner to corner at baseboard and counter height, recording exact distances to window trims and door frames. Mark the exact current locations of your sink drain, gas line conne"
+}

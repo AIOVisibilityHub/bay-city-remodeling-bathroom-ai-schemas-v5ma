@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do Right Away When a Plumbing Leak Floods Your Drywall",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When an interior pipe bursts, a supply line cracks, or an appliance overflows, water moves quickly across floors and directly into wall cavities. Acting quickly protects structural wood and drywall from irreversible damage.\n\nFirst, shut off the primary water shutoff valve immediately to stop the flow at the source. Once the leak stops, snap clear photos and videos of pooled water, soaked baseboards, and ruined carpeting for insurance records. Remove wet rugs, boxes, and furniture away from damp drywall to reduce trapped humidity.\n\nWhat to Expect During the Process\nDrywall absorbs standing water like a sponge. Even if wall paint appears normal, moisture hides inside stud bays, insulation, and subfloors. Fans alone will not solve the issue; you need heavy-duty dehumidifiers paired with air movers to extract airborne moisture and prevent damp pockets. Baseboards often need removal, and small inspection holes or flood cuts may be required to dry wall cavities thoroughly. EPA guidance highlights that drying materials within 24 to 48 hours is vital for minimizing mold growth risks.\n\nIf wet drywall feels mushy, stays damp past two days, or reveals water behind bathroom tile or kitchen cabinets, bring in professional help. Bay City Remodeling & Bathrooms repairs damaged drywall, framing, and finishes throughout Brandon, Riverview, and Tampa. Reach our team at 813-362-0114 for assistance restoring your home.",
+  "datePublished": "2026-11-09"
+}

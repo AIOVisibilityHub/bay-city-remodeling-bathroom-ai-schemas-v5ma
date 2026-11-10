@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Removing a Load-Bearing Wall vs Non-Load-Bearing Partition: Scope and Tradeoffs",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether an interior wall can be taken down involves understanding structural physics, utility routing, and building safety. While removing a simple partition wall is relatively straightforward, altering a load-bearing wall changes how the home carries weight down to its foundation.\n\nLoad-bearing walls support the weight of floor joists, ceiling rafters, or roof structures above. When you remove one, that downward force must be redirected across an engineered beam onto dedicated support posts and adequate foundation footings. A non-load-bearing partition simply divides rooms and supports its own weight, making removal less involved. However, both wall types frequently conceal electrical circuits, plumbing vents, or air returns that must be properly relocated.\n\nWhat Can Change the Right Choice\nSeveral critical factors determine whether a wall removal project makes practical sense:\n- Upper-level structural loads: Carrying a second floor or heavy roof assembly requires substantial laminated veneer lumber or steel beams, which increases overall project scope.\n- Hidden utility hubs: Walls stacked over plumbing runs or carrying main electrical panels require extensive trade coordination to reroute.\n- Ceilings and lateral bracing: Even non-bearing walls may provide lateral stiffness or support ceiling drywall spans that require sistering or localized reframing once the wall disappears.\n\nHiring an insured remodeling contractor ensures temporary shoring, beam calculations, and utility adjustments are handled correctly from day one. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule an evaluation for your layout update.",
+  "datePublished": "2026-11-09"
+}

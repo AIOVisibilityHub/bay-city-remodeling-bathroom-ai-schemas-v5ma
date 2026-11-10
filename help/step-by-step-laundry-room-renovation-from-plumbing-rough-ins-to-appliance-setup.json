@@ -1,0 +1,119 @@
+{
+  "name": "Step-by-Step Laundry Room Renovation: From Plumbing Rough-Ins to Appliance Setup",
+  "step": [
+    {
+      "name": "Step 1: Disconnect old units and survey utility paths",
+      "text": "Shut off water supplies and circuit breakers before pulling existing appliances. Inspect the subfloor for moisture damage or rot around old valves and standpipes. Complete this step by mapping your desired appliance locations and confirming clear paths to exterior walls for the dryer exhaust.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Obtain building permits and frame new layouts",
+      "text": "Submit plans to your local building office for required plumbing, mechanical, and electrical permits. Reframe walls if you are adding utility closets, soundproofing, or recessing an outlet box. Done looks like having signed permit cards posted on-site with open stud bays ready for utility rough-ins.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Run plumbing supply lines, drains, and utility sink rough-ins",
+      "text": "Plumb new hot and cold supply lines, install a recessed washer outlet box with water hammer arrestors, and run a proper two-inch drain standpipe. If adding a soaking sink, rough in the drain and vent pipes now. This step concludes when pipes pass pressure tests and receive municipal rough plumbing sign-off.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install dedicated wiring and dryer ducting",
+      "text": "Run dedicated home-run circuits for your washer and dryer, including GFCI protection near sinks. Route rigid metal ductwork to an exterior vent hood, keeping the total run well under residential length caps. Finish this stage by securing electrical rough-in approval before covering wall studs.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Hang moisture-resistant drywall, tile floors, and fit cabinets",
+      "text": "Install moisture-resistant drywall boards, tape joints, and apply water-resistant flooring like porcelain tile over a sound underlayment. Mount upper cabinetry and solid countertops with clearance around utility boxes. This step ends when grout is sealed and cabinet doors are aligned.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Hook up appliances and perform leak and exhaust checks",
+      "text": "Slide your washer and dryer into place using reinforced braided hoses and secure duct clamps. Turn on water supplies, run a full cycle to check for drain leaks, and verify strong airflow at the exterior exhaust hood. Your upgraded laundry room is ready for everyday use. For skilled laundry room renovations throughout Tampa, Brandon, and Riverview, call Bay City Remodeling & Bathrooms at 813-362-0114.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Shut off water supplies and circuit breakers before pulling existing appliances. Inspect the subfloor for moisture damage or rot around old valves and standpipes. Complete this step by mapping your de"
+}

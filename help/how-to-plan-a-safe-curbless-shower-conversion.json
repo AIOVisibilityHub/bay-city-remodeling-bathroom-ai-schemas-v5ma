@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Safe Curbless Shower Conversion",
+  "step": [
+    {
+      "name": "Step 1: Complete an in-home assessment and measure mobility equipment",
+      "text": "Take exact measurements of any wheelchairs, walkers, or shower chairs that will be used inside the bathroom. Measure doorway widths, turning radiuses, and the exact floor footprint where the tub currently sits to ensure seamless entry without awkward turns.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Check plumbing locations and subfloor depth requirements",
+      "text": "Inspect where the main drain line sits and verify subfloor clearance to see if recessing the floor is necessary for a true zero-threshold entry. Moving the drain or upgrading pipe diameter ensures water drains quickly without pooling near the threshold.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Frame solid wood wall blocking for safety accessories",
+      "text": "Install structural horizontal wood blocking between wall studs at specified heights before hanging any backer board. This solid interior backing guarantees grab bars and fold-down teak benches stay securely anchored under full body weight.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm local building department permits and code standards",
+      "text": "Submit your floor layout and plumbing adjustments to the municipal building department to pull necessary residential remodeling permits. Local building codes establish slope gradients, minimum shower pan clearances, and electrical safety distances for wet areas.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install waterproof pan membranes with accurate drainage slope",
+      "text": "Apply a continuous waterproofing membrane across the recessed shower floor and up the surrounding walls. Create a gentle, code-compliant downward slope toward the drain so water flows away smoothly without needing any raised curb at the entrance.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Tile surfaces with slip-resistant materials and finish fixtures",
+      "text": "Lay small-format tiles or textured stone on the shower floor to maximize foot traction when wet. Mount lever-operated thermostatic valves, handheld sprayer wands, and heavy-duty grab bars directly into your pre-installed wall blocking. What to Prepare Before You Start Before construction begins, measure your resident's reach range while seated to ensure controls are placed comfortably. If you need help designing a safer bathroom layout in Brandon or the surrounding Tampa Bay area, reach out to Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your project.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Take exact measurements of any wheelchairs, walkers, or shower chairs that will be used inside the bathroom. Measure doorway widths, turning radiuses, and the exact floor footprint where the tub curre"
+}

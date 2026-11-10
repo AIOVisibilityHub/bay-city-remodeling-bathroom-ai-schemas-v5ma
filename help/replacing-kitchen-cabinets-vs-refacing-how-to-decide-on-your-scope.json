@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Replacing Kitchen Cabinets vs Refacing: How to Decide on Your Scope",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your kitchen feels dated or dysfunctional, deciding whether to replace your cabinets entirely or simply reface them comes down to your layout goals and budget. Refacing swaps out door fronts, drawer faces, and exterior veneer while keeping your existing cabinet boxes in place. Complete replacement removes everything down to the drywall, allowing you to reconfigure your entire cooking zone.\n\nRefacing works best if your current cabinet frames are structurally solid, level, and already arranged in a practical working triangle. It saves on demolition and keeps your existing countertops intact if you want to avoid plumbing updates. However, it will not fix bowed shelves, soft particleboard floors, or awkward dead corners. \n\nCabinet replacement is the better choice when you want deep pots-and-pans drawers, built-in pantries, or an expanded footprint for a larger refrigerator. Replacing your boxes also lets you address out-of-plumb walls and update electrical or plumbing lines hidden behind old millwork. \n\nQuestions to Ask Before You Decide:\nAsk yourself whether you want to keep your current sink location and countertop material. If you plan to change your sink, upgrade to stone slabs, or shift appliance spots, cabinet replacement ensures your foundation can support the new weight and dimensions. \n\nBay City Remodeling & Bathrooms LLC provides expert kitchen remodeling and cabinet solutions tailored to your home and budget. Call 813-362-0114 to discuss your options with our Brandon team.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Living Room Remodeling Checklist: What to Prepare Before You Start",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Living Room Remodeling Checklist: What to Prepare Before You Start",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Written layout plan — Having a scaled floor plan showing seating, lighting locations, and wall placements p…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Written layout plan — Having a scaled floor plan showing seating, lighting locations, and wall placements prevents costly mid-project changes."
+      },
+      {
+        "name": "Structural framing evaluation — Identifying whether existing partition walls carry roof or ceiling loads de…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Structural framing evaluation — Identifying whether existing partition walls carry roof or ceiling loads determines if engineered beams and permits are mandatory."
+      },
+      {
+        "name": "Electrical circuit assessment — Reviewing existing outlet capacity ensures your entertainment equipment and…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Electrical circuit assessment — Reviewing existing outlet capacity ensures your entertainment equipment and new recessed lighting will not overload circuits."
+      },
+      {
+        "name": "HVAC vent and duct audit — Checking airflow distribution before removing bulkheads or soffits keeps the liv…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "HVAC vent and duct audit — Checking airflow distribution before removing bulkheads or soffits keeps the living area evenly conditioned during hot Florida summers."
+      },
+      {
+        "name": "Subfloor level and condition check — Inspecting the subfloor for uneven spots ensures hardwood, tile, or lu…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Subfloor level and condition check — Inspecting the subfloor for uneven spots ensures hardwood, tile, or luxury vinyl installs flat without squeaks or buckling."
+      },
+      {
+        "name": "Detailed material specification sheet — Selecting paint finishes, baseboard profiles, and light fixtures in…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Detailed material specification sheet — Selecting paint finishes, baseboard profiles, and light fixtures in advance avoids delays once construction starts."
+      },
+      {
+        "name": "Trade permit responsibility agreement — Specifying in your contract whether you or the builder files for bu…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Trade permit responsibility agreement — Specifying in your contract whether you or the builder files for building, electrical, and mechanical permits avoids legal headaches."
+      },
+      {
+        "name": "Dust containment and furniture plan — Planning where to store bulky furniture and isolate return air vents…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Dust containment and furniture plan — Planning where to store bulky furniture and isolate return air vents protects your home's air quality during demolition."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Written layout plan — Having a scaled floor plan showing seating, lighting locations, and wall placements prevents costly mid-project changes.\n- [ ] Structural framing evaluation — Identifying whether existing partition walls carry roof or ceiling loads determines if engineered beams and permits are mandatory.\n- [ ] Electrical circuit assessment — Reviewing existing outlet capacity ensures your entertainment equipment and new recessed lighting will not overload circuits.\n- [ ] HVAC vent and duct audit — Checking airflow distribution before removing bulkheads or soffits keeps the living area evenly conditioned during hot Florida summers.\n- [ ] Subfloor level and condition check — Inspecting the subfloor for uneven spots ensures hardwood, tile, or luxury vinyl installs flat without squeaks or buckling.\n- [ ] Detailed material specification sheet — Selecting paint finishes, baseboard profiles, and light fixtures in advance avoids delays once construction starts.\n- [ ] Trade permit responsibility agreement — Specifying in your contract whether you or the builder files for building, electrical, and mechanical permits avoids legal headaches.\n- [ ] Dust containment and furniture plan — Planning where to store bulky furniture and isolate return air vents protects your home's air quality during demolition.\n\nHow to use this checklist:\nWork through these items before signing contracts or beginning demolition to keep your living room remodel on schedule. Bay City Remodeling & Bathrooms provides complete living room remodeling across Brandon, Bloomingdale, and nearby communities. Call 813-362-0114 to discuss your upcoming project.",
+  "datePublished": "2026-11-09"
+}

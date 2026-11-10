@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Sourcing a Bathtub Replacement",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your bathtub seems like a straightforward cosmetic task, but small measurement oversights or rushed installations can trigger hidden water leaks and structural strain. Here are common bathtub replacement mistakes homeowners make and how to sidestep them.\n\nCommon Mistakes to Avoid\n\n1. Ordering by nominal size instead of exact measurements. Tubs that appear standard can differ by an inch or two once old tile is pulled away. Always measure down to the bare framing before purchasing.\n2. Overlooking drain orientation and P-trap alignment. Purchasing a right-hand drain tub for a left-hand drain alcove leads to costly plumbing reconfigurations. Always verify your existing waste stack position before ordering.\n3. Ignoring subfloor condition and structural support. Large soaking tubs hold hundreds of pounds of water. Failing to inspect the subfloor for previous rot or failing to provide a solid mortar bed can lead to creaking, cracking, and eventual failure.\n4. Skipping leak tests before closing surrounding walls. Never install your final wall surround until you have filled the tub, run water through the overflow, and inspected all plumbing joints underneath for moisture.\n5. Using standard caulk instead of 100% silicone in wet seams. Standard latex caulking breaks down rapidly in damp conditions; use a premium mold-resistant silicone sealant to keep moisture out of the framing.\n\nBay City Remodeling & Bathrooms LLC brings 18 years of remodeling experience to ensure every tub installation is plumb, level, and watertight. Call us at 813-362-0114 for an estimate on your bathtub replacement.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "How to Handle Drywall and Subfloor Repairs After a Household Plumbing Leak",
+  "step": [
+    {
+      "name": "Step 1: Shut off the water supply and verify electrical safety",
+      "text": "Turn off the main household water valve immediately to stop incoming flow. Before stepping into standing water, turn off circuit breakers connected to the flooded room to prevent electrocution hazards from wet outlets or baseboard heaters.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Document all visible damage with clear photographs",
+      "text": "Take detailed, wide-angle photos and close-up videos of warped baseboards, soaked drywall, ruined flooring, and saturated trim. Keep these records organized for your property insurance adjuster before removing any damaged construction materials from the room.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove standing water and strip unsalvageable sheetrock",
+      "text": "Extract pooled water using wet extraction equipment or pumps right away. Cut away swollen drywall at least twelve inches above the highest visible moisture line, and discard soaked insulation and damaged tack strips that cannot be completely sanitized.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Run commercial dehumidification and monitor structural drying",
+      "text": "Position industrial air movers and dehumidifiers throughout the space to draw deep moisture out of wall studs and wood subflooring. The EPA recommends drying water-damaged areas within 24 to 48 hours to help prevent unwanted microbial growth.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Verify moisture levels with calibrated diagnostic meters",
+      "text": "Test wall studs, sill plates, and subfloor materials with a pin-type moisture meter to confirm structural lumber has returned to dry baseline readings. Never hang fresh drywall or install underlayment over framing that still holds excess humidity.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install fresh moisture-resistant drywall, tape, and trim",
+      "text": "Hang new drywall panels, apply joint compound, and feather out seams for a smooth, uniform wall plane. Reinstall matched baseboards, prime with stain-blocking primer, and apply finished paint to blend the repair seamlessly with your room. What to Prepare Before You Start Keep safety gear on hand, including rubber boots and gloves, and secure your insurance policy paperwork early. If you need dependable drywall repairs and structural restoration in Brandon, Seffner, or Tampa, contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to request a quote.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Turn off the main household water valve immediately to stop incoming flow. Before stepping into standing water, turn off circuit breakers connected to the flooded room to prevent electrocution hazards"
+}

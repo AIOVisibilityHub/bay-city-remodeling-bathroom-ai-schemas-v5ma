@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Custom Home Office Remodel From Rough Wiring to Final Finishes",
+  "step": [
+    {
+      "name": "Step 1: Inventory hardware and power requirements",
+      "text": "List every device you plan to operate, including monitors, desktop towers, printers, shredders, and task lighting. Measure your furniture clearances and establish exact placement for monitors relative to windows to avoid glare. Having your equipment dimensions finalized ensures your electrical drops are placed behind furniture rather than across walking paths.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish layout plans and verify local permits",
+      "text": "Draft your room layout to confirm desk swing space, storage access, and door swings. If your project involves moving partition walls, framing closets, or altering HVAC runs, confirm local municipal permit requirements before swinging a hammer. Done looks like having an approved plan and necessary permits secured before demolition starts.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Complete rough electrical, cabling, and framing changes",
+      "text": "Open relevant wall sections to run dedicated 20-amp circuits, in-wall HDMI or ethernet conduits, and recessed ceiling lighting boxes. Add extra wall blocking where heavy floating shelves or monitor arms will mount. This phase is finished once all rough wiring and structural framing pass required municipal inspections.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Close walls, hang drywall, and prep surfaces",
+      "text": "Install sound-dampening insulation around interior stud cavities if household noise is an issue, then hang and tape drywall. Apply compound, sand smooth, and prime the walls and ceiling for a uniform surface finish. Complete this step by inspecting walls under work lights to ensure no joint imperfections show through.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Install custom cabinetry, trim, and lighting fixtures",
+      "text": "Mount built-in bookshelves, storage credenzas, baseboards, and window trim before laying final flooring. Wire up dimmer switches, task pendants, and outlet cover plates. The step concludes when cabinet doors are adjusted level and all outlets test positive for correct polarity.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Paint finishes, install flooring, and test systems",
+      "text": "Apply final wall coats and lay your selected flooring material so rolling chairs move smoothly. Hook up your computers, verify data cabling speeds, test lighting circuits under full load, and confirm heating and cooling airflow. Your office is officially ready for daily work. Bay City Remodeling & Bathrooms coordinates home office renovations across Brandon, Bloomingdale, and Valrico. Call 813-362-0114 to discuss your home workspace layout today.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "List every device you plan to operate, including monitors, desktop towers, printers, shredders, and task lighting. Measure your furniture clearances and establish exact placement for monitors relative"
+}

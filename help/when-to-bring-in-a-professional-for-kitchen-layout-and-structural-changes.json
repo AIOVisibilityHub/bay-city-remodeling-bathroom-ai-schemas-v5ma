@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Bring in a Professional for Kitchen Layout and Structural Changes",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Cosmetic kitchen updates like painting cabinets or swapping drawer pulls can often be handled without extensive oversight. However, significant renovations that change the room's core footprint require technical expertise to protect your home's safety and structural stability.\n\nWhen Professional Guidance Helps\n- Removing or altering walls: Taking out interior partitions to create an open concept requires determining whether walls are load-bearing and installing proper structural headers.\n- Shifting plumbing and gas connections: Relocating a sink, dishwasher, or gas cooktop involves venting, pipe slope, and code compliance that require licensed trade professionals.\n- Upgrading electrical circuits: Modern kitchen appliances demand dedicated circuits and updated panel capacity that require licensed electricians to prevent fire hazards.\n- Reconfiguring the work triangle: If you are expanding aisle pathways to meet recommended 36-inch clearance guidelines, experienced project managers ensure doors and drawers do not collide.\n\nTackling these changes without seasoned support can lead to failed municipal inspections and expensive rework. Bay City Remodeling & Bathrooms LLC manages residential renovations throughout Brandon, Valrico, and Riverview, working with licensed trade partners for mechanical systems. Call 813-362-0114 to review your kitchen plans with our team.",
+  "datePublished": "2026-11-09"
+}

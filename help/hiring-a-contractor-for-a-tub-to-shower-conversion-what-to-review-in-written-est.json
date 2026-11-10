@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Contractor for a Tub-to-Shower Conversion: What to Review in Written Estimates",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When comparing bids to replace an old tub with a shower, looking only at the bottom line can lead to surprise change orders. A cheap quote often leaves out crucial preparation work that protects your home from water damage. Here is what to verify in every written bid:\n\n- Demolition and haul-away: Does the estimate include carting away heavy cast iron, acrylic surrounds, and tile debris, or will you be left with a dumpster fee?\n- Subfloor and wall inspection: Make sure the scope mentions checking the subfloor for hidden rot once the tub comes out, rather than assuming everything behind the walls is pristine.\n- Plumbing upgrades: Converting a tub requires upgrading the drain line from 1.5 inches to 2 inches, adjusting valve rough-ins, and using licensed plumbing professionals to keep your plumbing fully compliant.\n- Waterproofing method: Verify that a continuous waterproofing system is listed, not just cement board and surface caulking.\n- Fixtures and finish details: Look for clear notes on threshold heights, glass enclosure specs, slip-resistant flooring, and integrated shower niches.\n\nBay City Remodeling & Bathrooms LLC brings 18 years of remodeling experience to Brandon, Valrico, and the Tampa Bay region. We are fully insured, bonded, carry workers' compensation, and offer a price match guarantee to beat any written bid. Call 813-362-0114 to discuss your tub conversion.",
+  "datePublished": "2026-11-09"
+}
