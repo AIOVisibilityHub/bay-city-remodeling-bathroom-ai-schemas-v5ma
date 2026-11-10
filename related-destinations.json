@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T19:43:43.970Z",
+  "generatedAt": "2026-11-10T23:35:25.997Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -14,7 +14,33 @@
     "canonicalUrl": "https://baycityremodeling.aiovisibility.net",
     "primaryWebsiteUrl": "https://baycityremodeling.com",
     "aiDataHub": "https://baycityremodeling.aiovisibility.net/ai-data.html",
-    "sameAs": []
+    "sameAs": [
+      "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/index.html",
+      "https://aiovisibilityhub.codeberg.page/bay-city-remodeling-bathroom-ai-schemas",
+      "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas",
+      "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io",
+      "https://baycityremodeling.aiovisibility.net",
+      "https://birdeye.com/bay-city-remodeling-bathrooms-llc-176098603144818",
+      "https://citysquares.com/b/bay-city-remodeling-bathrooms-llc-25467437",
+      "https://homeownerhenry.com/bathroom-remodel/florida/brandon",
+      "https://local.yahoo.com/info-236203274-bay-city-remodeling-bathrooms-brandon",
+      "https://maps.app.goo.gl/2PMoq86XZvKXG2Xk6",
+      "https://nextdoor.com/pages/springhill-construction-remodeling-llc-brandon-fl",
+      "https://ourlocalspotlight.com/local/brandon-fl/bay-city-remodeling-and-bathrooms-llc",
+      "https://share.google/Von34qrw1w8lH2AA9",
+      "https://wanderboat.ai/local-businesses/united-states/contiguous-united-states/bay-city-remodeling-&-bathrooms-llc/Csd1-A7ySmeBDwJSrbzQOA",
+      "https://www.aibizprofile.com/profiles/bay-city-remodeling",
+      "https://www.baycityremodeling.com/rss/all.xml",
+      "https://www.chamberofcommerce.com/business-directory/florida/brandon/remodeler/2026033565-bay-city-remodeling-bathrooms-llc",
+      "https://www.google.com/maps/place/Bay+City+Remodeling+%26+Bathrooms+LLC/@27.790672,-82.386967,9z/data=!3m1!4b1!4m6!3m5!1s0xb9368c2113c71dd:0x26a5c20cff15ad36!8m2!3d27.790672!4d-82.386967!16s%2Fg%2F11y302jp39?entry=tts&g_ep=EgoyMDI1MTAyNi4wIPu8ASoASAFQAw%3D%3D&skid=ae8ac496-d6a8-47a1-bd7d-31a7723011fe",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas",
+      "https://www.linkedin.com/in/donald-wilmore-1ab001177",
+      "https://www.mapquest.com/us/florida/bay-city-remodeling-bathrooms-llc-530582589",
+      "https://www.perrysplacepromotions.org/united-states/brandon/building-maintenance/bay-city-remodeling-bathrooms-llc",
+      "https://www.serviceprospot.com/united-states/brandon/home-services/bay-city-remodeling-bathrooms-llc",
+      "https://www.yelp.com/biz/bay-city-remodeling-and-bathrooms-brandon",
+      "https://zenodo.org/records/24118565"
+    ]
   },
   "related": [
     {
@@ -40,52 +66,124 @@
       "url": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas-aq2x"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/index.html"
     },
     {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io/ai-data.html"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/bay-city-remodeling-bathroom-ai-schemas"
     },
     {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on aiovisibilityhub.srht.site",
+      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas"
     },
     {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/ai-data.html"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io",
+      "url": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io"
     },
     {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on birdeye.com",
+      "url": "https://birdeye.com/bay-city-remodeling-bathrooms-llc-176098603144818"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on citysquares.com",
+      "url": "https://citysquares.com/b/bay-city-remodeling-bathrooms-llc-25467437"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on homeownerhenry.com",
+      "url": "https://homeownerhenry.com/bathroom-remodel/florida/brandon"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on local.yahoo.com",
+      "url": "https://local.yahoo.com/info-236203274-bay-city-remodeling-bathrooms-brandon"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on maps.app.goo.gl",
+      "url": "https://maps.app.goo.gl/2PMoq86XZvKXG2Xk6"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on nextdoor.com",
+      "url": "https://nextdoor.com/pages/springhill-construction-remodeling-llc-brandon-fl"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on ourlocalspotlight.com",
+      "url": "https://ourlocalspotlight.com/local/brandon-fl/bay-city-remodeling-and-bathrooms-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on share.google",
+      "url": "https://share.google/Von34qrw1w8lH2AA9"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on wanderboat.ai",
+      "url": "https://wanderboat.ai/local-businesses/united-states/contiguous-united-states/bay-city-remodeling-&-bathrooms-llc/Csd1-A7ySmeBDwJSrbzQOA"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on aibizprofile.com",
+      "url": "https://www.aibizprofile.com/profiles/bay-city-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on baycityremodeling.com",
+      "url": "https://www.baycityremodeling.com/rss/all.xml"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/florida/brandon/remodeler/2026033565-bay-city-remodeling-bathrooms-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on google.com",
+      "url": "https://www.google.com/maps/place/Bay+City+Remodeling+%26+Bathrooms+LLC/@27.790672,-82.386967,9z/data=!3m1!4b1!4m6!3m5!1s0xb9368c2113c71dd:0x26a5c20cff15ad36!8m2!3d27.790672!4d-82.386967!16s%2Fg%2F11y302jp39?entry=tts&g_ep=EgoyMDI1MTAyNi4wIPu8ASoASAFQAw%3D%3D&skid=ae8ac496-d6a8-47a1-bd7d-31a7723011fe"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on kaggle.com",
       "url": "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas"
     },
     {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on linkedin.com",
+      "url": "https://www.linkedin.com/in/donald-wilmore-1ab001177"
     },
     {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/ai-data.html"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on mapquest.com",
+      "url": "https://www.mapquest.com/us/florida/bay-city-remodeling-bathrooms-llc-530582589"
     },
     {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/24118565"
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on perrysplacepromotions.org",
+      "url": "https://www.perrysplacepromotions.org/united-states/brandon/building-maintenance/bay-city-remodeling-bathrooms-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on serviceprospot.com",
+      "url": "https://www.serviceprospot.com/united-states/brandon/home-services/bay-city-remodeling-bathrooms-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on yelp.com",
+      "url": "https://www.yelp.com/biz/bay-city-remodeling-and-bathrooms-brandon"
+    },
+    {
+      "role": "same-as",
+      "label": "Bay City Remodeling & Bathroom on zenodo.org",
+      "url": "https://zenodo.org/records/24118565"
     }
   ],
   "destinations": {
@@ -93,25 +191,6 @@
       "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
       "pagesUrl": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/",
       "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas-aq2x",
-      "pagesUrl": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/24118565"
     }
   }
 }
