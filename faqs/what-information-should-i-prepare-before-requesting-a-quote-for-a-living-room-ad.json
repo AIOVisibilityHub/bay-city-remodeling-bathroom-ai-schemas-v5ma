@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I prepare before requesting a quote for a living room addition?",
+  "description": "Gather your property survey, HOA guidelines, target budget, and a clear list of must-have features, such as ceiling heights, window styles, and room dimensions.",
+  "url": "https://baycityremodeling.com/faq/what-information-should-i-prepare-before-requesting-a-quote-for-a-living-room-ad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I prepare before requesting a quote for a living room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a general contractor, gather your property survey, home deed or plot plan, and any HOA architectural guidelines. Identify your primary functional priorities, such as whether the room will host home theater equipment, oversized windows, or access to an adjoining patio or outdoor kitchen. Having a defined budget range and a list of design preferences—such as vaulted ceilings or integrated drywall niches—helps your contractor produce realistic drawings and an accurate scope of work during the initial consultation.",
+        "description": "Gather your property survey, HOA guidelines, target budget, and a clear list of must-have features, such as ceiling heights, window styles, and room dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

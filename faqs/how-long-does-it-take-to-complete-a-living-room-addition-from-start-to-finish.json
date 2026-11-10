@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a living room addition from start to finish?",
+  "description": "A living room addition typically takes several months, starting with architectural planning and permitting, followed by foundation work, framing, rough-ins, dry",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-complete-a-living-room-addition-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a living room addition from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project timelines depend directly on square footage, architectural complexity, and municipal permitting review periods. The planning, design, and permitting phase typically takes several weeks to complete before physical work starts. Once construction begins, the process involves site preparation, foundation pouring, framing, running electrical and HVAC ductwork, drywall installation, exterior finishing like siding or stucco, and interior trim. Weather events and custom material deliveries can occasionally adjust schedules. During your initial consultation and estimating phase, your project manager will establish an estimated construction schedule reflecting your exact scope.",
+        "description": "A living room addition typically takes several months, starting with architectural planning and permitting, followed by foundation work, framing, rough-ins, drywall, and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

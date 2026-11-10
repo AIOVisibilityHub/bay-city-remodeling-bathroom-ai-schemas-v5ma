@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home while a room extension is being built?",
+  "description": "Yes, you can often stay home during ground-floor extensions if the work area can be isolated, though major structural or kitchen work may cause disruptions.",
+  "url": "https://baycityremodeling.com/faq/can-i-stay-in-my-home-while-a-room-extension-is-being-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home while a room extension is being built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many ground-floor room extensions, homeowners can remain in the home, provided the active work zone can be safely sealed off from the main living quarters. Contractors typically construct temporary plastic dust barriers and keep exterior access points clear to minimize indoor foot traffic. However, if the project involves removing primary structural walls, replacing central electrical panels, or extending a kitchen or main bathroom, temporary relocation may be more practical. Safety and daily convenience should be evaluated when the construction schedule is established.",
+        "description": "Yes, you can often stay home during ground-floor extensions if the work area can be isolated, though major structural or kitchen work may cause disruptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

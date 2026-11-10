@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of drywall is required inside a bathroom or kitchen bump-out?",
+  "description": "Bathrooms and kitchens require moisture-resistant drywall boards, while direct wet areas planned for tile require cement backer board rather than standard sheet",
+  "url": "https://baycityremodeling.com/faq/what-type-of-drywall-is-required-inside-a-bathroom-or-kitchen-bump-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of drywall is required inside a bathroom or kitchen bump-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard sheetrock is adequate for general living areas, but kitchens and bathrooms require moisture-resistant drywall, commonly known as green board or purple board. In wet areas, like behind sinks or near showers, moisture-resistant boards prevent mold and moisture absorption caused by high humidity. For walls supporting tiled surfaces, cement backer board must be used instead of regular gypsum board. When planning your bump-out, identifying the room’s moisture exposure beforehand determines the appropriate board grade and joint compound combination.",
+        "description": "Bathrooms and kitchens require moisture-resistant drywall boards, while direct wet areas planned for tile require cement backer board rather than standard sheetrock."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

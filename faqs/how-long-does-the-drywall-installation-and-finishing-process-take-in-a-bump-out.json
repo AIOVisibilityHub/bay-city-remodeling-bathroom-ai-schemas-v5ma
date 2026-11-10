@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the drywall installation and finishing process take in a bump-out?",
+  "description": "Drywall hanging and multi-coat finishing typically takes 3 to 5 days, primarily to allow proper drying time between each coat of joint compound.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-the-drywall-installation-and-finishing-process-take-in-a-bump-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the drywall installation and finishing process take in a bump-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hanging and finishing drywall in a typical bump-out generally takes three to five business days. Hanging the drywall sheets usually takes a single day, but the taping, mudding, and finishing process requires several days because each coat of joint compound must dry completely before sanding and recoating. In Florida’s humid environment, drying times between coats can take longer unless humidity levels are actively controlled. After the final sand, surfaces are ready for priming and final paint coats.",
+        "description": "Drywall hanging and multi-coat finishing typically takes 3 to 5 days, primarily to allow proper drying time between each coat of joint compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

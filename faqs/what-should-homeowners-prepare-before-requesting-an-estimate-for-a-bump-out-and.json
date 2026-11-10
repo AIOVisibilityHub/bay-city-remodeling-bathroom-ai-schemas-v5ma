@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should homeowners prepare before requesting an estimate for a bump-out and drywall project?",
+  "description": "Identify your layout goals, check exterior clearance and property setbacks, note wall texture types, and gather any existing floor plans for the contractor.",
+  "url": "https://baycityremodeling.com/faq/what-should-homeowners-prepare-before-requesting-an-estimate-for-a-bump-out-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should homeowners prepare before requesting an estimate for a bump-out and drywall project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before consulting with a contractor, clearly define what functional feature you want the space to solve, such as fitting a double vanity, adding kitchen cabinets, or creating a bay seating area. Measure the exterior clearance outside that wall to ensure you are not encroaching on property setbacks or utility lines. It is also helpful to locate your electrical panel to check capacity for new lighting, and identify whether the existing interior wall has textured finishes that will need matching. Sharing these details early streamlines the initial design and estimating process.",
+        "description": "Identify your layout goals, check exterior clearance and property setbacks, note wall texture types, and gather any existing floor plans for the contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

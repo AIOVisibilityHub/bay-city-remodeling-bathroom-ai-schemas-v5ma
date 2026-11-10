@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do cracks appear where a bump-out meets the original wall, and how are they repaired?",
+  "description": "Cracks typically stem from building settlement or movement between different framing structures. Repairs involve securing loose boards, applying fiberglass tape",
+  "url": "https://baycityremodeling.com/faq/why-do-cracks-appear-where-a-bump-out-meets-the-original-wall-and-how-are-they-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do cracks appear where a bump-out meets the original wall, and how are they repaired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cracks along the joint between a bump-out and the main structure usually indicate foundation movement, structural deflection, or improper framing connections between old and new assemblies. Temperature fluctuations, humidity changes, and house settling can also cause minor hairline cracks. To repair them effectively, contractors open the crack, assess whether structural movement is ongoing, refasten any loose drywall sheets to framing studs, apply high-strength fiberglass mesh or elastomeric compounds, and blend the finish. Simply applying spackle over a moving joint will result in recurring cracks.",
+        "description": "Cracks typically stem from building settlement or movement between different framing structures. Repairs involve securing loose boards, applying fiberglass tape, and re-mudding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

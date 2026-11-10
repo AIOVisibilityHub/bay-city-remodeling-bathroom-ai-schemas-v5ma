@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits to build a room extension?",
+  "description": "Yes, expanding your home's footprint requires building permits, engineered plans, and structural inspections from your local municipal building department.",
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-build-a-room-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits to build a room extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, expanding the footprint of your home requires structural, electrical, and building permits across municipalities in the Tampa Bay area, including Hillsborough and Pinellas counties. The process begins with drafting architectural plans that detail foundation tie-ins, wall framing, roof structure, and energy efficiency. Construction cannot proceed until local building departments review and approve the engineering drawings. As a licensed, bonded, and insured construction contractor, Bay City Remodeling coordinates drafting, plan submissions, and required structural inspections through project completion.",
+        "description": "Yes, expanding your home's footprint requires building permits, engineered plans, and structural inspections from your local municipal building department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

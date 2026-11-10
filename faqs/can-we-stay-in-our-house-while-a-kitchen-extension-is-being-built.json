@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can we stay in our house while a kitchen extension is being built?",
+  "description": "Yes, but you will need a temporary cooking area away from the construction zone, as the kitchen itself will be unusable for several weeks during structural work",
+  "url": "https://baycityremodeling.com/faq/can-we-stay-in-our-house-while-a-kitchen-extension-is-being-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can we stay in our house while a kitchen extension is being built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Living at home is possible, but you must be prepared to live without a functioning kitchen for several weeks while walls are opened and utilities are moved. Once plumbing, electrical circuits, and exterior framing are disconnected, cooking inside the workspace is not safe or practical. Many homeowners set up a temporary station in a dining room or garage with a microwave, refrigerator, and small appliances. If your household cannot handle dust, noise, and utility shutoffs, arranging short-term accommodations during heavy structural work is a sensible option.",
+        "description": "Yes, but you will need a temporary cooking area away from the construction zone, as the kitchen itself will be unusable for several weeks during structural work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

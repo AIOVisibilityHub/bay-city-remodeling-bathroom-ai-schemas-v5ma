@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "approved": [
+    {
+      "path": "webpages/home-remodeling-hub.html",
+      "title": "Home Remodeling",
+      "summary": "Transform your living space with professional home remodeling. We handle everything from structural changes to modern finishes for homes throughout the Tampa Bay area."
+    },
+    {
+      "path": "webpages/whole-house-renovation-hub.html",
+      "title": "Whole-House Renovation",
+      "summary": "Transform your entire property with a cohesive renovation plan. We manage structural changes and aesthetic updates to create a unified, functional home."
+    },
+    {
+      "path": "webpages/open-concept-remodeling-hub.html",
+      "title": "Open-Concept Remodeling",
+      "summary": "Modernize your home layout by removing restrictive walls. We specialize in open-concept designs that integrate your kitchen and living areas seamlessly."
+    },
+    {
+      "path": "webpages/wall-removal-hub.html",
+      "title": "Wall Removal",
+      "summary": "Safely remove interior walls to expand your rooms. Our team manages structural assessments and provides flawless drywall finishing for a seamless look."
+    }
+  ],
+  "noindex": [
+    {
+      "path": "webpages/interior-remodeling-hub.html",
+      "status": "merged"
+    }
+  ]
+}

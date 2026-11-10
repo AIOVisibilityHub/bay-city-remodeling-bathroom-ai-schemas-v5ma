@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical bonus room addition take from planning to completion?",
+  "description": "Most additions take several months, depending on design approvals, local municipal permitting, structural scope, drywall installation, and exterior finishes.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-bonus-room-addition-take-from-planning-to-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical bonus room addition take from planning to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for constructing a bonus room addition generally spans several months, influenced by project complexity, permitting, and material procurement. The initial phase involves design planning, site evaluation, and obtaining the required local municipal building permits. Physical construction follows, including foundation work or framing, roof tying, exterior cladding like full-house stuccoing, rough-in electrical and insulation, drywall installation, and final interior trims. Weather conditions in the Tampa Bay area and the speed of municipal inspections can also impact overall completion schedules, so discussing timelines early helps set realistic expectations.",
+        "description": "Most additions take several months, depending on design approvals, local municipal permitting, structural scope, drywall installation, and exterior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

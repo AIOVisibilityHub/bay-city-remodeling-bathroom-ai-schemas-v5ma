@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose a small room bump-out over a full living room addition?",
+  "description": "Choose a bump-out to expand existing floor area by a few feet for seating; choose a full addition when you need an entirely distinct, newly framed living area.",
+  "url": "https://baycityremodeling.com/faq/when-should-i-choose-a-small-room-bump-out-over-a-full-living-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose a small room bump-out over a full living room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bump-out extends an existing wall outward by a few feet to add usable floor area without constructing an entirely separate, fully partitioned room. A full living room addition involves pouring a dedicated foundation, framing new exterior perimeter walls, and constructing an independent or tied-in roofline. Choose a bump-out if you only need room for a larger sofa arrangement, built-in entertainment center, or bay window. Choose a full addition when your household needs an entirely distinct living space, such as an expanded family room, formal den, or guest lounge.",
+        "description": "Choose a bump-out to expand existing floor area by a few feet for seating; choose a full addition when you need an entirely distinct, newly framed living area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

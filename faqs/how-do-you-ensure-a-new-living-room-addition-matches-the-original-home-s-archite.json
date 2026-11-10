@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure a new living room addition matches the original home's architecture?",
+  "description": "Contractors match rooflines, window styles, exterior cladding, interior drywall textures, and continuous flooring so the new space flows naturally from the orig",
+  "url": "https://baycityremodeling.com/faq/how-do-you-ensure-a-new-living-room-addition-matches-the-original-home-s-archite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure a new living room addition matches the original home's architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure seamless integration, design professionals closely match the new addition's roof pitch, eave details, exterior cladding, and window proportions to the original house. If your home has an exterior masonry finish, applying full-house stuccoing or carefully blending new stucco texture creates a uniform exterior surface across old and new sections. Inside, continuous flooring, aligned ceiling heights, and matching drywall textures, baseboards, and casing help the added space feel like it was part of the original floor plan rather than an afterthought.",
+        "description": "Contractors match rooflines, window styles, exterior cladding, interior drywall textures, and continuous flooring so the new space flows naturally from the original home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

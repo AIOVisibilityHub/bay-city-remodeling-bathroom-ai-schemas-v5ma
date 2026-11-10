@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does a kitchen extension increase home property value?",
+  "description": "Yes. It increases your home's total square footage and delivers an updated, functional layout that strongly appeals to appraisers and prospective buyers.",
+  "url": "https://baycityremodeling.com/faq/does-a-kitchen-extension-increase-home-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a kitchen extension increase home property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A kitchen extension typically adds strong appraisal appeal because modern buyers prioritize large, functional cooking areas with ample storage and open dining layouts. Extending the ground-floor footprint directly increases your home's total air-conditioned square footage, which is a primary metric used in real estate valuations. The return on investment depends on keeping the quality of finishes consistent with your neighborhood's standard. Pairing an expanded kitchen with an adjoining patio, deck, or outdoor kitchen can further enhance property value by linking indoor and outdoor living zones.",
+        "description": "Yes. It increases your home's total square footage and delivers an updated, functional layout that strongly appeals to appraisers and prospective buyers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

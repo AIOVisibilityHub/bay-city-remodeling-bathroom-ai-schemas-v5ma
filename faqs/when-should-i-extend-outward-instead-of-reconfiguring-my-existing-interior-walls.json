@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I extend outward instead of reconfiguring my existing interior walls?",
+  "description": "Extend outward when you need more physical square footage and cannot sacrifice adjacent interior rooms, provided you have sufficient lot space to build into you",
+  "url": "https://baycityremodeling.com/faq/when-should-i-extend-outward-instead-of-reconfiguring-my-existing-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I extend outward instead of reconfiguring my existing interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should choose an outward extension if your current home's interior cannot spare space from adjacent rooms or if you want to expand outward into an outdoor living area. A bump-out or full rear extension allows you to add substantial square footage without sacrificing an existing dining room, living area, or garage. However, the tradeoff is losing a portion of your yard or patio. If your home has underutilized adjacent rooms, knocking down an interior dividing wall may achieve an open-concept kitchen without the expense of foundation work.",
+        "description": "Extend outward when you need more physical square footage and cannot sacrifice adjacent interior rooms, provided you have sufficient lot space to build into your yard."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

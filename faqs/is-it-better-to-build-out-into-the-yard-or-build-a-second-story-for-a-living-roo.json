@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build out into the yard or build a second story for a living room addition?",
+  "description": "Building out expands your home's ground footprint with less interior disruption, while building up preserves outdoor yard space but requires reinforcing existin",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-out-into-the-yard-or-build-a-second-story-for-a-living-roo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build out into the yard or build a second story for a living room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building out into your yard requires setting up a new foundation, exterior framing, and roofing, which expands your home's total footprint without altering your second-floor layout. In contrast, building up creates a second-story living area without sacrificing yard or patio space, but it often demands structural reinforcement of the existing ground-level walls and foundation. A ground-floor bump-out also minimizes disruption to existing ceiling drywall and everyday routines downstairs during construction. Your available lot boundaries, zoning setbacks, and daily living preferences dictate which direction provides the most practical construction path.",
+        "description": "Building out expands your home's ground footprint with less interior disruption, while building up preserves outdoor yard space but requires reinforcing existing lower-level framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

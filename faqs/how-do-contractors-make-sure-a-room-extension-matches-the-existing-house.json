@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors make sure a room extension matches the existing house?",
+  "description": "Contractors match existing rooflines, window profiles, exterior textures like stucco, and continuous interior flooring and trim across the transition.",
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-make-sure-a-room-extension-matches-the-existing-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors make sure a room extension matches the existing house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure a room extension looks original, the addition must carefully mirror existing roof slopes, overhangs, window styles, and exterior wall cladding. Tying a new roofline into an existing structure requires skilled framing to prevent awkward pitches and water intrusion. Exterior treatments like full-house stuccoing, matching siding, and continuous paint finishes help eliminate obvious seam lines between the original build and new construction. Interior consistency is achieved by carrying identical drywall textures, baseboards, and flooring across the threshold.",
+        "description": "Contractors match existing rooflines, window profiles, exterior textures like stucco, and continuous interior flooring and trim across the transition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

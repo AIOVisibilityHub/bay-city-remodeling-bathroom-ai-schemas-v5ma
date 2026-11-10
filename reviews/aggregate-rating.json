@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bay City Remodeling & Bathroom",
+  "url": "https://baycityremodeling.aiovisibility.net",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "bestRating": 5,
+    "reviewCount": 15
+  }
+}

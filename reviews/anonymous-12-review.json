@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "We have hired Bay City Remodeling & Bathrooms LLC for multiple jobs. We had ceiling repairs in several homes and after using a couple different companies that could not get it right, we found Donald and gave him the jobs and the home owners were very pleased to finally have someone that could do the repairs and make the ceiling texture match correctly. They do great work! He also does painting and carpentry. Give him a shot, you will not be disappointed!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Bay City Remodeling & Bathroom",
+    "url": "https://baycityremodeling.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Ceiling repair, texture matching, painting, and carpentry"
+      }
+    }
+  }
+}

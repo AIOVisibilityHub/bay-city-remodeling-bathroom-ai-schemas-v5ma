@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of adding a living room to an existing home?",
+  "description": "Cost depends on total square footage, foundation requirements, roofline tie-ins, window selections, HVAC extension needs, and the specific interior and exterior",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-adding-a-living-room-to-an-existing-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of adding a living room to an existing home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost of a living room addition is influenced by its size, foundation type, roofline integration, and the level of interior and exterior finishes you select. Tie-ins to existing electrical and HVAC systems, along with window and door selections, also drive total investment. Bay City Remodeling & Bathrooms offers free estimates and discusses negotiable pricing options during planning to align project parameters with realistic budgets. Qualified military veterans can also apply advertised veteran discounts to help manage total project expenditures. An on-site consultation will outline exact material specifications and structural requirements for an itemized quote.",
+        "description": "Cost depends on total square footage, foundation requirements, roofline tie-ins, window selections, HVAC extension needs, and the specific interior and exterior finishes chosen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "I recently had my master bathroom remodeled by Bay City Remodeling, and I couldn’t be happier with the results. From the initial consultation to the final touches, their team was professional and attentive. They helped me choose the perfect tiles, fixtures, and layout, transforming my outdated bathroom into a luxurious retreat. The craftsmanship is top-notch, and the project was completed on time and within budget. Highly recommend them for anyone looking to upgrade their space!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Bay City Remodeling & Bathroom",
+    "url": "https://baycityremodeling.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Primary/master bathroom remodeling"
+      }
+    }
+  }
+}

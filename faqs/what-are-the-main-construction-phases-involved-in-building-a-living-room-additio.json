@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main construction phases involved in building a living room addition?",
+  "description": "The process moves from design and permitting to foundation pouring, structural framing, utility rough-ins, drywall, exterior cladding, interior finishes, and fi",
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-construction-phases-involved-in-building-a-living-room-additio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main construction phases involved in building a living room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an on-site consultation to discuss space objectives, take preliminary measurements, and evaluate your property boundaries. Once you approve an initial design and budget, comprehensive architectural plans are prepared for municipal building permits. Construction follows in clear phases: grading and foundation pouring, structural framing, exterior sheathing, roof tie-in, rough electrical installation, insulation, and drywall. After drywall finishing, the team installs trim, flooring, paint, and exterior stucco or siding to blend the addition with the original home, concluding with final municipal building inspections.",
+        "description": "The process moves from design and permitting to foundation pouring, structural framing, utility rough-ins, drywall, exterior cladding, interior finishes, and final inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

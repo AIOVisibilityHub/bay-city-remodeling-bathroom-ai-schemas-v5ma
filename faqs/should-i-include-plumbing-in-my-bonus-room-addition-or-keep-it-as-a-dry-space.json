@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I include plumbing in my bonus room addition, or keep it as a dry space?",
+  "description": "Keeping it dry reduces costs for basic offices or media rooms, while adding plumbing creates flexible future guest suites or functional wet bars.",
+  "url": "https://baycityremodeling.com/faq/should-i-include-plumbing-in-my-bonus-room-addition-or-keep-it-as-a-dry-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I include plumbing in my bonus room addition, or keep it as a dry space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding plumbing introduces distinct cost and utility tradeoffs that depend on how you intend to use the bonus room. Leaving the room dry keeps the budget focused purely on framing, drywall, electrical work, and flooring, which works well for home theaters, craft rooms, or quiet workspaces. However, running water lines and drains to include a powder room, full bathroom, or wet bar significantly increases utility and makes the room suitable as an in-law suite or future guest apartment. Deciding this before foundation or framing work begins avoids the substantial expense of cutting into finished slabs later.",
+        "description": "Keeping it dry reduces costs for basic offices or media rooms, while adding plumbing creates flexible future guest suites or functional wet bars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

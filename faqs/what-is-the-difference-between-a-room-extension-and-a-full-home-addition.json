@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a room extension and a full home addition?",
+  "description": "A room extension expands an existing room by pushing outward, while a full addition builds an entirely new space or separate multi-room structure.",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-room-extension-and-a-full-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a room extension and a full home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room extension involves building out an existing footprint, such as pushing out an exterior wall to lengthen a master bedroom or expand a kitchen. A full home addition usually refers to constructing an entirely new standalone space, such as a detached guest suite, accessory dwelling unit (ADU), or an added multi-room wing. Choosing an extension keeps your layout connected and often requires tying directly into existing framing, roofing, and flooring. A full addition requires independent framing and foundation work from the ground up, making the overall scope and permitting footprint broader.",
+        "description": "A room extension expands an existing room by pushing outward, while a full addition builds an entirely new space or separate multi-room structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

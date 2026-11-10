@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do bump-out additions require permits and inspections in the Tampa Bay area?",
+  "description": "Yes, structural alterations to exterior walls require building permits and inspections to comply with local building and wind-load codes across Tampa Bay munici",
+  "url": "https://baycityremodeling.com/faq/do-bump-out-additions-require-permits-and-inspections-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do bump-out additions require permits and inspections in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, because a bump-out alters exterior walls and structural framing, residential building permits are required by local jurisdictions throughout Hillsborough, Pinellas, and surrounding Tampa Bay counties. In coastal and wind-borne debris regions, plans must meet regional wind-load requirements, setback restrictions, and structural tie-down codes before work begins. Working with a licensed and insured contractor ensures your framing, insulation, electrical additions, and drywall installations are submitted, inspected, and closed out in full compliance with local municipal codes.",
+        "description": "Yes, structural alterations to exterior walls require building permits and inspections to comply with local building and wind-load codes across Tampa Bay municipalities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

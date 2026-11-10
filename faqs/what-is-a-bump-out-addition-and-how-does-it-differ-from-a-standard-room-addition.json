@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a bump-out addition and how does it differ from a standard room addition?",
+  "description": "A bump-out extends an exterior wall by a few feet without adding an entire full-sized room, providing targeted interior space for kitchens or bathrooms at a sma",
+  "url": "https://baycityremodeling.com/faq/what-is-a-bump-out-addition-and-how-does-it-differ-from-a-standard-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a bump-out addition and how does it differ from a standard room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bump-out addition is a micro-addition that extends an exterior wall outward, typically by two to three feet, to expand an existing room without building a full-foundation room addition. Common applications include creating space for a kitchen island, adding a soaking tub or double vanity in a bathroom, or building a breakfast nook. Because bump-outs are often cantilevered or set on simple piers, they require less framing and foundation work than a traditional ground-up room. However, they still require structural framing adjustments, exterior modifications, and complete interior drywall finishing. The right approach depends on floor joist direction and setback boundaries.",
+        "description": "A bump-out extends an exterior wall by a few feet without adding an entire full-sized room, providing targeted interior space for kitchens or bathrooms at a smaller structural scale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
