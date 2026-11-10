@@ -16,6 +16,7 @@ Bay City Remodeling & Bathroom publishes structured AI-readable data for discove
 - [canonical] Bay City Remodeling & Bathroom — canonical website — https://baycityremodeling.aiovisibility.net
 - [ai-data-hub] Bay City Remodeling & Bathroom — AI Data Hub — https://baycityremodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
