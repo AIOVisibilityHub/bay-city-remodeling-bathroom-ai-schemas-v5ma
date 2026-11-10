@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes Homeowners Make When Painting Kitchen Cabinets",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Painting kitchen cabinets might sound like a simple weekend DIY project, but it is one of the easiest tasks to get wrong if you cut corners. Here are the most frequent mistakes we see homeowners encounter:\n\n1. Skipping the degreasing step: Cooking oils cling to cabinet surfaces, and painting over them causes flaking, bubbling, and poor paint adhesion.\n2. Forgetting to label doors and hardware: Cabinet hinges and doors settle into specific alignments; mixing them up makes reinstallation a frustrating puzzle.\n3. Bypassing bonding primer: Standard wall primer will not bond well to slick factory clears, resulting in chipped edges within weeks.\n4. Sanding through delicate veneers: Being too aggressive with coarse sandpaper can ruin the thin wood veneer layer on cabinet door panels.\n5. Confusing dry time with cure time: Just because paint feels dry to the touch does not mean it has hardened. Putting doors back in service too early causes dents and sticking.\n6. Over-applying heavy coats: Thick paint leads to noticeable drips, runs, and a soft finish that scratches easily.\n\nCommon Mistakes to Avoid:\nThe secret to durable cabinets is thorough surface preparation, correct product selection, and patience during curing. In older properties, especially homes built prior to 1978, paint disturbance may also require lead-safe protocols. When you want a smooth, factory-grade finish without the headache, Bay City Remodeling & Bathrooms LLC in Brandon brings the experience and tools to transform your kitchen cabinets properly.",
+  "datePublished": "2026-11-09"
+}

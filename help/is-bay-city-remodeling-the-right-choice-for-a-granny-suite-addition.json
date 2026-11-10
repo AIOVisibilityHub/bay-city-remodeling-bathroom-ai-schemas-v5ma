@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Bay City Remodeling the Right Choice for a Granny Suite Addition?",
+    "text": "Is Bay City Remodeling the Right Choice for a Granny Suite Addition?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Is Bay City Remodeling & Bathrooms the right choice for adding a granny suite to your home?\n\nYes, if you want an experienced residential contractor that manages both full structural additions and customized interior renovations under one roof. Creating an in-law or granny suite involves far more than simply converting a spare bedroom; it requires proper wall framing, dedicated bathroom plumbing, drywall finishing, and accessibility upgrades. \n\nWhat to Expect During the Process\nOur team handles the full scope of your project, starting with an in-depth conversation about your family's daily lifestyle, mobility requirements, and space parameters. We adapt existing layouts or build fresh additions that match your home's original architecture. Because we specialize in bathroom remodeling, including ADA-compliant walk-in showers, tub-to-shower conversions, and safety fixtures, your suite will feature safe, comfortable plumbing amenities. Our project managers and artisans maintain clear, open communication from initial plans through final paint and trim, keeping your home clean and functional throughout the build.\n\nWhen Professional Guidance Helps\nSecondary suites require careful load calculations for plumbing drains, dedicated electrical circuits, and proper ventilation. Handling these elements without professional oversight risks building code issues, sewer backups, or costly electrical overloads. Working with our licensed, bonded, and insured team ensures your addition is built safely and meets all local standards.\n\nCall Bay City Remodeling & Bathrooms at 813-362-0114 or contact us through our website today to request a free quote for your custom granny suite project.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

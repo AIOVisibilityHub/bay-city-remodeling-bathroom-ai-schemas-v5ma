@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Ground Floor vs Second Story: Where Should Your Primary Suite Go?",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you need a spacious primary bedroom retreat, deciding between extending your ground floor footprint or building upward is one of the biggest architectural decisions you will make. Each direction has practical tradeoffs regarding site impact, daily lifestyle, and engineering complexity.\n\nA ground-floor addition extends outward into your yard. This approach makes daily life easy with zero stairs to climb, which is ideal for aging in place or multigenerational households. Ground-level builds also keep construction largely isolated from your main living quarters until it is time to tie the doorway through an existing wall. However, this option eats into your outdoor yard space, and your property must have enough setback clearance to stay within municipal lot-coverage regulations.\n\nA second-story addition builds over your existing structure, preserving your yard and patio areas. It can also capture better neighborhood views and natural light. The tradeoff is structural intensity: your existing ground-floor walls and foundation must be evaluated and often reinforced to carry the weight of an upper story. In addition, roof removal means your home is temporarily vulnerable to weather, and staircase placement consumes valuable square footage on the main floor.\n\nHow to Compare Your Options:\nEvaluate your lot boundary lines, your long-term mobility goals, and your family's tolerance for disruption. If yard space is tight, going up works well; if you want easy access and simpler structural tie-ins, building out is usually the winner.\n\nBay City Remodeling & Bathrooms LLC handles home additions, interior renovations, and structural remodeling across Brandon, Valrico, and Tampa. Reach our team at 813-362-0114 to explore the best path for your property.",
+  "datePublished": "2026-11-09"
+}

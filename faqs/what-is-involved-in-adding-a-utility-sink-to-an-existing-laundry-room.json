@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-involved-in-adding-a-utility-sink-to-an-existing-laundry-room",
+  "name": "What is involved in adding a utility sink to an existing laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adding a utility sink to an existing laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A utility sink requires dedicated hot and cold water supply lines along with a direct connection to your home’s drainage and vent stack. If your existing laundry room does not already have nearby rough-in plumbing, adding a sink involves opening drywall and running new piping from adjacent wet walls. This addition increases plumbing labor and material requirements, but it delivers significant everyday value for soaking clothes, cleaning household items, and washing hands without tracking dirt into other living spaces.",
+        "@type": "Answer",
+        "description": "Adding a utility sink requires extending hot and cold water lines and tying into your drain-waste-vent system, which involves drywall and plumbing work."
+      }
+    }
+  ],
+  "description": "Adding a utility sink requires extending hot and cold water lines and tying into your drain-waste-vent system, which involves drywall and plumbing work."
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Running Out of Living Space: Expanding Your House Without Moving",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your household outgrows its footprint, moving to a larger property is not your only path. A residential home addition lets you gain square footage, whether you need a private in-law suite, an expanded primary bedroom, a dedicated home office, or a larger open-concept living area.\n\n### What to Expect During the Process\n- Zoning and lot constraints: Every residential property has defined setback lines, maximum lot coverage allowances, and easements that govern where an expansion can physically sit.\n- Architectural and engineering plans: Structural drawings specify how new foundations, framing, and roofing integrate with the existing structure to maintain structural balance and resist local weather forces.\n- Trade permits and inspections: Foundation pours, rough framing, plumbing, electrical, and insulation require staged municipal permits and inspections before walls are closed up with drywall.\n- Structural tie-ins: Professional roofline integration and siding transitions prevent future leaks and keep the addition looking original rather than tacked on.\n\nBecause room additions alter your home's foundation, exterior envelope, and mechanical systems, using a seasoned general contractor is critical to avoid costly permitting violations or structural issues. Bay City Remodeling & Bathrooms delivers custom additions, guest suites, and multigenerational spaces throughout Brandon, Riverview, and the greater Tampa Bay area. Contact us at 813-362-0114 to discuss expanding your home.",
+  "datePublished": "2026-11-09"
+}

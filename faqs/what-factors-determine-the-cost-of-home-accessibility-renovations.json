@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-home-accessibility-renovations",
+  "name": "What factors determine the cost of home accessibility renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of home accessibility renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of accessibility remodeling varies widely depending on whether you are updating a single bathroom or altering structural walls. Targeted updates, such as replacing a tub with a walk-in shower and adding safety bars, require less investment than whole-home adjustments. Major projects—like building an accessible in-law suite, expanding exterior doorways, or widening hallways through structural drywall and framing work—involve engineering, permits, and more labor. Bay City Remodeling & Bathrooms evaluates your specific layout during a free-quote consultation to provide realistic estimates and negotiable pricing options.",
+        "@type": "Answer",
+        "description": "Project cost depends on the scope of work, plumbing relocations, material choices, and whether structural framing or room additions are required."
+      }
+    }
+  ],
+  "description": "Project cost depends on the scope of work, plumbing relocations, material choices, and whether structural framing or room additions are required."
+}

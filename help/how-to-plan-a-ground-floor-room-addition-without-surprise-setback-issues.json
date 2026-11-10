@@ -1,0 +1,113 @@
+{
+  "name": "How to Plan a Ground-Floor Room Addition Without Surprise Setback Issues",
+  "step": [
+    {
+      "name": "Step 1: Check your property boundaries and setback limits",
+      "text": "Pull your boundary survey or obtain a copy from your local records to identify exact lot lines. Check your local zoning standards to confirm minimum front, rear, and side setbacks, as well as total lot-coverage caps. Doing this early prevents costly design revisions before any drawings are completed.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Determine your structural connection and foundation needs",
+      "text": "Evaluate where the new room will tie into your existing exterior walls and rooflines. A professional contractor inspects the current slab or foundation, tests soil conditions, and determines whether continuous footings or specialized tie-ins are required. Knowing the structural plan ensures seamless structural integration.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Map out mechanical, electrical, and plumbing runs",
+      "text": "Assess whether your current electrical panel has sufficient open breaker capacity or if an upgrade is needed for the extra square footage. If you are adding a bathroom or laundry space, determine where supply and sewer lines tie into the existing plumbing network. Complete rough mechanical sketches before drawing final blueprints.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Prepare construction drawings and submit permit applications",
+      "text": "Have comprehensive architectural plans created, including site plans, floor layouts, elevation drawings, and energy calculations. Submit these blueprints to your municipal building department for formal plan review. Keep all project documentation organized in case plan reviewers request minor revisions.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Pass staged inspections before wrapping up finishes",
+      "text": "Schedule the necessary rough inspections for framing, plumbing, electrical, and mechanical components once work begins. Once city inspectors sign off on the rough-in phase, close up the walls with drywall, complete exterior finishes like stucco or siding, and schedule final inspections. Bay City Remodeling & Bathrooms handles the entire build process across Brandon and Hillsborough County—call 813-362-0114 to discuss your addition plans.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Pull your boundary survey or obtain a copy from your local records to identify exact lot lines. Check your local zoning standards to confirm minimum front, rear, and side setbacks, as well as total lo"
+}

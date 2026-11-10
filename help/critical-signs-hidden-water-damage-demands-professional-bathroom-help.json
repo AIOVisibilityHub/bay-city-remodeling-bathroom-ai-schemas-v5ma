@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Critical Signs Hidden Water Damage Demands Professional Bathroom Help",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Taking out an old tub to install a walk-in shower is an exciting upgrade, but certain issues behind the walls require an experienced hand. If you spot any of the following warning signs, it is time to call in a professional:\n\n- Spongy or soft subflooring around the tub edge, pointing to long-term subfloor moisture damage.\n- Persistent mildew or mold odors behind tile panels that do not clear up with standard cleaning.\n- The drain line needs to be expanded or relocated to meet modern shower drainage requirements.\n- Wall framing studs show dark staining, decay, or rot once the old enclosure is removed.\n- You need accessibility upgrades like reinforced backing for grab bars and zero-threshold entry.\n- Plumbing valves or supply pipes are corroded, outdated, or leaking behind the wall cavity.\n\nWhen Professional Guidance Helps:\nPlumbing connections, proper drain slope, and continuous waterproofing systems must be done right to prevent future structural issues. At Bay City Remodeling & Bathrooms LLC, our team brings over 18 years of remodeling experience to Brandon and Tampa Bay homes. We partner with licensed trades for plumbing and electrical work so your conversion meets local codes and lasts for years to come. Give us a call at 813-362-0114 to discuss your renovation safely.",
+  "datePublished": "2026-11-09"
+}

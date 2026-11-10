@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-a-zero-threshold-shower-differ-from-a-standard-walk-in-shower-conversio",
+  "name": "How does a zero-threshold shower differ from a standard walk-in shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a zero-threshold shower differ from a standard walk-in shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion replaces an existing high-sided bathtub with a walk-in or roll-in shower. A standard conversion typically installs a low-profile curb that still requires stepping up an inch or two, making it ideal for general aging-in-place. A zero-threshold shower eliminates the curb entirely, creating a flush transition with the bathroom floor. While zero-threshold designs provide seamless wheelchair roll-in access, they require specialized subfloor preparation and sloped drainage to ensure water does not spill into the main bathroom area.",
+        "@type": "Answer",
+        "description": "Zero-threshold showers sit completely flush with the floor for seamless roll-in access, while standard walk-in showers retain a low step-over curb."
+      }
+    }
+  ],
+  "description": "Zero-threshold showers sit completely flush with the floor for seamless roll-in access, while standard walk-in showers retain a low step-over curb."
+}

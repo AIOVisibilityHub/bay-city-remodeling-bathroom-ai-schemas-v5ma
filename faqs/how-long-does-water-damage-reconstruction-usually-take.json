@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-water-damage-reconstruction-usually-take",
+  "name": "How long does water-damage reconstruction usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water-damage reconstruction usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair timelines depend on the extent of saturation, drying duration, and structural scope. Basic repairs involving minor drywall patches, mudding, and repainting often take two to three days after the site is thoroughly dry. Larger projects involving subfloor damage, cabinetry replacement, or framing repairs in bathrooms or kitchens can take a week or more. The most critical factor is ensuring zero trapped moisture remains before hanging new drywall or installing flooring.",
+        "@type": "Answer",
+        "description": "Small drywall repairs take two to three days once dry, while major room rebuilds involving subfloors or cabinets can take a week or more."
+      }
+    }
+  ],
+  "description": "Small drywall repairs take two to three days once dry, while major room rebuilds involving subfloors or cabinets can take a week or more."
+}

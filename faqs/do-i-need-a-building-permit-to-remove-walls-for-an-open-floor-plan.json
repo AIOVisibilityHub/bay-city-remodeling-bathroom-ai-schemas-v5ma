@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-remove-walls-for-an-open-floor-plan",
+  "name": "Do I need a building permit to remove walls for an open floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remove walls for an open floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes. Removing any wall that supports ceiling joists, roof rafters, or a second story requires a structural alteration permit from your local county or city building department. Permitting ensures that the replacement header beam and support footings meet structural safety codes. Even for non-load-bearing walls, permits are generally required if electrical circuits, plumbing pipes, or HVAC vents inside the wall are altered or relocated. Licensed contractors pull these permits and schedule mandatory rough-in and final inspections.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for removing load-bearing walls and for any project that involves relocating electrical, plumbing, or mechanical lines."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for removing load-bearing walls and for any project that involves relocating electrical, plumbing, or mechanical lines."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-build-a-home-addition-or-convert-existing-space-like-a-garage",
+  "name": "Should I build a home addition or convert existing space like a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a home addition or convert existing space like a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home addition expands your home footprint outward to create new living areas, whereas a conversion repurposes existing interior space like an attached garage. Building an addition preserves vehicle storage and interior layout while adding square footage, but it requires new foundation and framing work. Converting an existing space uses the current exterior structure, making it a faster way to gain guest suites or home offices, though you give up designated garage or utility space.",
+        "@type": "Answer",
+        "description": "Building an addition preserves existing storage while adding ground-up square footage. A garage conversion repurposes existing structure faster but sacrifices parking."
+      }
+    }
+  ],
+  "description": "Building an addition preserves existing storage while adding ground-up square footage. A garage conversion repurposes existing structure faster but sacrifices p"
+}

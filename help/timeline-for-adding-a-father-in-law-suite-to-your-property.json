@@ -1,0 +1,119 @@
+{
+  "name": "Timeline for Adding a Father-in-Law Suite to Your Property",
+  "step": [
+    {
+      "name": "Step 1: Property feasibility and zoning review",
+      "text": "Check your local municipal zoning district guidelines, required boundary setbacks, maximum allowable square footage, and HOA covenants. This review clarifies whether your property qualifies for an accessory dwelling unit or an attached suite before you invest in architectural blueprints. Expect this initial assessment phase to take two to four weeks.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Architectural design and engineering calculations",
+      "text": "Work with a residential designer to draw architectural floor plans, structural framing details, and foundation layouts tailored to your loved one’s daily living needs. Engineers calculate structural loads, roof ties, and energy compliance reports during this stage. Developing clean drawings usually spans four to eight weeks depending on plan revisions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit application and regulatory agency review",
+      "text": "Submit completed architectural plans, site layouts, plumbing schematics, and mechanical plans to your local building department for review. City or county plan examiners verify structural code safety, fire separation, and utility connection points before stamping approval. Permitting reviews commonly take between four and twelve weeks depending on municipal backlog.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Foundation, framing, and rough utility installation",
+      "text": "Once permits are in hand, site crews pour concrete slabs or footings, frame exterior walls, and run electrical circuits, plumbing lines, and HVAC ductwork. City inspectors review framing, rough plumbing, and electrical installations before any insulation or wallboard goes up. This core structural build phase typically takes six to ten weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Insulation, drywall, and interior finish carpentry",
+      "text": "Install insulation, hang and finish drywall, lay durable flooring, and fit cabinetry, trim, and doors. Bathroom fixtures, such as zero-threshold showers or custom vanities, are secured alongside kitchenettes or kitchen countertops. Interior finishing typically spans four to six weeks of detailed trade work.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final building inspections and move-in approval",
+      "text": "Schedule final building, electrical, plumbing, and mechanical inspections with local code officials to receive a formal certificate of occupancy or final inspection sign-off. Once utility meters are activated and punch-list details are resolved, the suite is ready for your family member to settle in. Final approvals generally take one to two weeks. When you are ready to explore additions in Brandon, Valrico, or Tampa, reach out to Bay City Remodeling & Bathrooms at 813-362-0114 to request a free quote.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Check your local municipal zoning district guidelines, required boundary setbacks, maximum allowable square footage, and HOA covenants. This review clarifies whether your property qualifies for an acc"
+}

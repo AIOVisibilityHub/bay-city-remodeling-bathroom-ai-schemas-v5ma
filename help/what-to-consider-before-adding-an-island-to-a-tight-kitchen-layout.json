@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Adding an Island to a Tight Kitchen Layout",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A center island can transform how your home functions, but squeezing one into a space that cannot comfortably handle it creates daily headaches. Before committing to cabinetry, check these practical spatial and mechanical factors.\n\nWhat Can Change the Right Choice:\n- Work aisle clearances: You need at least 42 inches of clear walking space between the counter edge and surrounding cabinetry for a solo cook, and 48 inches if multiple people use the kitchen together. Passageways outside the primary work triangle should maintain at least 36 inches.\n- Door and drawer clearance: Measure the full swing of your refrigerator doors, oven door, and dishwasher rack. If opening the dishwasher blocks the walkway completely or bangs into the island cabinets, your layout will feel cramped.\n- Utility access in the floor: Adding a sink, disposal, or cooktop means running water supply lines, drain venting, gas, or electrical lines through your slab or subfloor. If cutting the floor is impractical or cost-prohibitive, keeping the island purely for prep and storage might be the smarter play.\n- Seating and legroom depth: Barstools need roughly 12 to 15 inches of knee clearance beneath the counter overhang, plus space behind seated guests so people can walk past without squeezing.\n\nWhen Professional Guidance Helps:\nA professional remodeling contractor can evaluate your structural floor support, lay out realistic traffic zones, and coordinate the necessary electrical and plumbing trades cleanly. If you are ready to explore island possibilities in Brandon, Riverview, or Tampa, contact Bay City Remodeling & Bathrooms at 813-362-0114 to schedule a project consultation.",
+  "datePublished": "2026-11-09"
+}

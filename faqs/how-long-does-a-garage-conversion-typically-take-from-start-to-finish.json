@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-garage-conversion-typically-take-from-start-to-finish",
+  "name": "How long does a garage conversion typically take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage conversion typically take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard garage conversion generally takes between 4 to 8 weeks of active construction once permits are approved and materials arrive. Pre-construction planning—including architectural drafting, engineering reviews, and local permit approval—typically adds an additional 2 to 6 weeks. The overall project duration varies based on the intended use. Creating a basic home office or playroom with drywall, flooring, and electrical updates moves relatively quickly. If your plans include an in-law suite or ADU requiring plumbing rough-ins for a bathroom or kitchenette, expect extra time for sub-slab trenching, fixture inspections, and detailed finish work.",
+        "@type": "Answer",
+        "description": "Construction typically takes 4 to 8 weeks after permits are issued, though adding complex plumbing for bathrooms or kitchenettes can extend the timeline."
+      }
+    }
+  ],
+  "description": "Construction typically takes 4 to 8 weeks after permits are issued, though adding complex plumbing for bathrooms or kitchenettes can extend the timeline."
+}

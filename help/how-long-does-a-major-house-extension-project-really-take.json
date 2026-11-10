@@ -1,0 +1,119 @@
+{
+  "name": "How Long Does a Major House Extension Project Really Take?",
+  "step": [
+    {
+      "name": "Step 1: Feasibility review and architectural design",
+      "text": "During this initial phase, the project team evaluates your lot, boundary lines, and structural layout to confirm buildable limits. Designers draft conceptual floor plans, specify room dimensions, and revise layouts with you, which usually takes anywhere from three to six weeks depending on revisions.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Engineering checks and municipal permit reviews",
+      "text": "Structural engineers calculate foundation loads, roof connections, and wind-resistance needs to satisfy local building codes. Complete plans are submitted to municipal building departments for structural, electrical, and plumbing approvals, a process that typically requires three to eight weeks depending on local agency workloads.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Site preparation, excavation, and foundation work",
+      "text": "Crews clear the building zone, manage soil grading, and dig foundation footings. Plumbing lines running under the slab are roughed in, followed by soil compaction, moisture barriers, and poured concrete, which takes about one to three weeks including proper concrete curing time.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Framing, roof tie-in, and weatherproofing",
+      "text": "Carpenters frame exterior walls, set ceiling joists, and tie new roof trusses into your home's existing roofline. Plywood sheathing, roofing underlayment, shingles, and exterior windows are installed to make the entire new structure weather-tight, usually wrapping up in two to four weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Rough mechanicals, insulation, and drywall",
+      "text": "Electricians, plumbers, and HVAC technicians pull wiring, pipes, and ductwork through the studs. Once municipal rough-in inspections pass, crews install wall insulation, hang drywall, and apply smooth finishing coats over a period of two to three weeks.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Interior trim, surfaces, and final sign-off",
+      "text": "Artisans install interior doors, trim, flooring, wall paint, and lighting fixtures. Once the final plumbing and electrical devices are live, municipal inspectors conduct final walk-throughs to verify code compliance, taking about two to three weeks before you start using the room. To map out a clear, dependable schedule for your house extension in Valrico or Tampa, contact Bay City Remodeling & Bathrooms at 813-362-0114.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "During this initial phase, the project team evaluates your lot, boundary lines, and structural layout to confirm buildable limits. Designers draft conceptual floor plans, specify room dimensions, and "
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide: Dealing with Saturated Soil and Drainage Behind Retaining Walls",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Retaining walls hold back tons of earth, but their biggest hidden enemy is water. When moisture gathers behind the structure without an outlet, hydrostatic pressure builds up rapidly.\n\nKey Benefits of Addressing Drainage: Fixing water buildup preserves the wall's structural integrity, stops soil erosion across your landscape, and protects adjacent foundations from shifting ground.\n\nProcess Breakdown: A proper fix starts with inspecting existing weep holes, soil saturation, and surface runoff. Technicians check whether roof downspouts discharge directly into backfill. If clogged, drainage lines are flushed or re-excavated. Effective drainage uses clean angular stone, perforated pipe, and non-woven filter fabric to let water escape without carrying away supporting soil.\n\nWhen Professional Guidance Helps: If your wall shows visible cracks, leans forward, or bulges, clearing an outlet with a hand tool is no longer enough. Saturated soils exert intense load, and excavating behind an unstable wall without proper bracing creates collapse risks. A qualified contractor evaluates total height, surcharge loads, and soil conditions to rebuild a safe drainage system.\n\nGet Started: Spotting water pooling or wet faces after storms means it is time to act. Call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to assess your Brandon property and restore proper drainage.",
+  "datePublished": "2026-11-09"
+}

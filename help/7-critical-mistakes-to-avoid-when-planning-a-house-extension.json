@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "7 Critical Mistakes to Avoid When Planning a House Extension",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding substantial square footage to your house should be an exciting upgrade, but simple oversights early on can derail both your budget and timeline. When planning a major house extension, keeping a few common pitfalls in mind will save you time, stress, and costly rework.\n\nCommon Mistakes to Avoid\n- Choosing quotes solely on bottom-line numbers: Low estimates often exclude crucial line items like architectural drawings, waste haul-away, or tie-in stucco work. Always compare detailed, written scopes.\n- Overlooking earlier additions: If your home had prior expansions or patio enclosures, they count toward overall lot coverage limits and stormwater allowances.\n- Altering layouts after framing starts: Moving a door, window, or plumbing drop mid-build triggers change orders, extra permit inspections, and avoidable delays.\n- Forgetting your outdoor drainage: An expanded roofline dumps rainwater in new spots; failing to plan downspouts and yard grading can flood flowerbeds or foundation edges.\n- Ignoring roofline aesthetics: A poorly matched roof slope makes an extension look like an awkward afterthought rather than a seamless part of your original architecture.\n\nWhen Professional Guidance Helps\nConnecting brand-new foundations and load-bearing framing into an established house requires careful structural planning. If you are ready to design an extension that blends effortlessly with your home in Brandon or Apollo Beach, call the team at Bay City Remodeling & Bathrooms at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

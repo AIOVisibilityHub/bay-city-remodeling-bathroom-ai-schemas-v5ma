@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Permitting and Building a Mother-in-Law Apartment: Common Mistakes to Avoid",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding a mother-in-law apartment is an excellent way to expand your home's usable space, but overlooking local building standards can lead to costly delays and rework. Knowing what pitfalls to watch for keeps your project moving smoothly.\n\nCommon Mistakes to Avoid\n\n1. Starting construction without pulling permits: Assuming family use exempts an addition from standard municipal permitting is a common error. Unpermitted builds can trigger stop-work orders and complicate future property sales.\n2. Underestimating electrical and plumbing loads: Adding a second bathroom, water heater, and kitchen appliances often pushes older panels to capacity. Overlooking utility upgrades early leads to circuit overloads and unexpected budget increases.\n3. Ignoring fire separation between units: Building codes typically mandate fire-rated drywall assemblies and self-closing doors between separate living areas to ensure occupant safety. Skipping proper fire barriers will cause failed rough-in inspections.\n4. Skimping on emergency egress: Bedrooms inside the apartment require windows that meet specific opening width, height, and sill-clearance standards for emergency exit. Standard decorative windows often fail these checks.\n5. Forgetting soundproofing between shared walls: Failing to install acoustic insulation or resilient channels between living zones leads to persistent noise complaints between households.\n\nPlanning ahead with licensed remodeling professionals helps you avoid these issues. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to request a free quote for your project.",
+  "datePublished": "2026-11-09"
+}

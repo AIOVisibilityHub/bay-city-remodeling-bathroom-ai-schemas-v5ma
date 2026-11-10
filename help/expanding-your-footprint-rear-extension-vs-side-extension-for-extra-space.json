@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Expanding Your Footprint: Rear Extension vs Side Extension for Extra Space",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding where to add square footage often comes down to choosing between a rear extension and a side extension. Both options add valuable living area, but each interacts differently with your home's layout and outdoor yard space.\n\nHow to Compare Your Options\nA rear extension expands out toward your back garden, making it the premier choice for expanding kitchens, building large open-plan living rooms, or adding a patio-facing primary bedroom. The trade-off is giving up private backyard space. In contrast, a side extension utilizes dead space along the side of the house, preserving your main lawn. However, side additions are often narrower, constrained by property lines and utility easements, making them better suited for utility rooms, home offices, or extended hallways.\n\nPractical Tradeoffs\nRear builds generally offer more flexible floor plans but require careful consideration of natural light in the existing central rooms. Side additions preserve garden depth but may limit exterior access pathways to your rear yard.\n\nWhen Professional Guidance Helps\nA qualified contractor can assess your lot's specific shape, roofline tie-in feasibility, and structural demands to determine which orientation creates the best functional flow.\n\nTo find the right footprint for your property, contact Bay City Remodeling & Bathroom at 813-362-0114 to review your options.",
+  "datePublished": "2026-11-09"
+}

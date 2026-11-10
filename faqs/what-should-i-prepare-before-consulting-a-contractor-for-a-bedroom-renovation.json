@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-for-a-bedroom-renovation",
+  "name": "What should I prepare before consulting a contractor for a bedroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting a contractor for a bedroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before beginning a bedroom remodel, determine how the room must function and whether you need integrated storage or accessibility improvements. Measure your large furniture to ensure new layout ideas leave comfortable walking paths. If you plan to convert an adjacent space into a walk-in closet or en-suite bathroom, identify where existing plumbing and electrical lines run nearby. Gathering reference photos and establishing a firm list of priorities helps the team provide an accurate estimate and tailor the design to your daily routine.",
+        "@type": "Answer",
+        "description": "Define your room goals, list must-have features like extra storage or lighting, measure your furniture, and identify adjacent spaces you might want to reconfigure."
+      }
+    }
+  ],
+  "description": "Define your room goals, list must-have features like extra storage or lighting, measure your furniture, and identify adjacent spaces you might want to reconfigu"
+}

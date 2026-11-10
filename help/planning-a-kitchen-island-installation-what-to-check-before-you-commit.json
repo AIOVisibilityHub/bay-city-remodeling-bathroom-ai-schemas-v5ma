@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Kitchen Island Installation: What to Check Before You Commit",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding an island is often the centerpiece of a kitchen renovation, but fitting one into an existing layout requires careful spatial planning. Before committing to cabinetry and stone slabs, you need to verify that your kitchen floor plan can actually support the addition without cramping daily routines.\n\nWhat to Prepare Before You Start\n\nThe most critical factor is clearance around the perimeter. As a rule of thumb, you need at least 36 inches of clear walkway around all sides of the island for open passage. In high-traffic zones—such as between the island, the refrigerator, and the cooktop—aiming for 42 to 48 inches ensures two people can work comfortably without colliding. You also must account for open appliance doors; an open dishwasher or oven door should never completely block your walkway or bang against island cabinet faces.\n\nNext, decide whether you want seating or utility lines. Countertop overhangs for barstools require sufficient knee clearance and support brackets, plus ample room behind seated guests so walkways remain open. If you want a prep sink, dishwasher, or electrical outlets, subfloor access for plumbing and wiring must be evaluated early.\n\nWhen Professional Guidance Helps\n\nAnchoring permanent cabinetry, running electrical lines to meet code requirements, and leveling heavy quartz or granite surfaces require experienced hands. Bay City Remodeling & Bathrooms LLC coordinates layout planning, cabinet setting, and utility trades for homeowners throughout Brandon and Tampa. Call 813-362-0114 to discuss your kitchen island plans.",
+  "datePublished": "2026-11-09"
+}

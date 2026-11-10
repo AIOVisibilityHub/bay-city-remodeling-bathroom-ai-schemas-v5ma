@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Contractor for a Tub-to-Shower Conversion: What to Ask Before You Sign",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping out an unused bathtub for a sleek walk-in shower is one of the most effective ways to modernize your bathroom and improve daily accessibility. However, before you sign a contract with a remodeling contractor in Brandon or the Tampa Bay area, you need clear answers about what the project actually entails. \n\nQuestions to Ask Before You Decide\n\nFirst, ask how the contractor plans to handle your drain. Bathtubs usually utilize smaller drain lines, whereas walk-in showers frequently require larger waste pipes and a centered position to prevent standing water. Moving the drain requires subfloor access and plumbing adjustments, so confirm whether their proposal includes modifying existing rough-in plumbing. Second, inquire about structural backing for accessibility accessories. Even if you do not want grab bars or built-in shower seats right away, installing solid wood blocking inside the framing before wall panels or tile go up saves huge expenses later. Third, clarify the permit process and waterproofing system. Municipalities often require plumbing and building permits for fixture conversions, and durable waterproofing behind tile is vital in Florida's humid climate.\n\nWhen Professional Guidance Helps\n\nHidden water damage behind old tub surrounds or beneath framing is common in older homes across Hillsborough County. Bay City Remodeling & Bathrooms LLC coordinates design, tear-out, and installations with licensed plumbing partners. Contact us at 813-362-0114 to discuss your tub conversion.",
+  "datePublished": "2026-11-09"
+}

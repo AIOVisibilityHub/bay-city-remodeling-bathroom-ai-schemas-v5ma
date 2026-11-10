@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-recessed-beam-and-a-dropped-beam",
+  "name": "What is the difference between a recessed beam and a dropped beam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a recessed beam and a dropped beam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hidden beam is recessed directly into the ceiling joists for a flat, seamless ceiling, while a dropped beam hangs below the ceiling surface. A flush, recessed beam creates an uninterrupted sightline across the room, which is ideal for modern open-concept renovations. However, recessing requires cutting existing ceiling joists, hanging them from the new beam with joist hangers, and ensuring clear attic or joist clearance above. A dropped beam is installed directly underneath the existing joists, which makes installation simpler and less labor-intensive, but leaves a visible, boxed-in header running across the ceiling.",
+        "@type": "Answer",
+        "description": "A recessed beam sits flush inside the ceiling for a seamless look, while a dropped beam rests below ceiling level and remains visible as a finished header."
+      }
+    }
+  ],
+  "description": "A recessed beam sits flush inside the ceiling for a seamless look, while a dropped beam rests below ceiling level and remains visible as a finished header."
+}

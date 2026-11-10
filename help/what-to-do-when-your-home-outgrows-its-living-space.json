@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Home Outgrows Its Living Space",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a family room addition means matching your vision with local zoning and building codes. Before you order materials or start knocking down exterior walls, you need to ensure your property can legally and structurally handle the extra footprint.\n\nStart by reviewing your property survey. Local jurisdictions enforce specific setback distances from side and rear property lines, as well as strict lot-coverage maximums. If your proposed family room pushes past those limits, you could face denied permits or costly redesigns. \n\nNext, examine how your mechanical systems will handle the extra square footage. Tying into an existing air conditioning system might seem easy, but an undersized unit will struggle to cool an open living room. You may need dedicated ductwork or an auxiliary unit. Similarly, opening up an exterior wall to connect the addition almost always involves modifying a load-bearing wall, which requires engineered headers to maintain the home’s structural balance.\n\nQuestions to Ask Before You Decide\nAsk yourself whether your current electrical panel has room for new circuits, how water runoff from the new roofline will drain away from the foundation, and who is pulling the building permits. Reputable builders always secure permits directly and schedule mandatory staged inspections.\n\nWhen Professional Guidance Helps\nConnecting foundations, tying into existing roof trusses, and modifying load-bearing exterior walls require licensed trade skills and careful coordination. Bay City Remodeling & Bathrooms LLC brings 18 years of residential experience to ensure your new family room blends naturally with your original architecture. Call us at 813-362-0114 to discuss your space.",
+  "datePublished": "2026-11-09"
+}

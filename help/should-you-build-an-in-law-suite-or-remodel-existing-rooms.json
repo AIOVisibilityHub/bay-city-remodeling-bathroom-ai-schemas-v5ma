@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Should You Build an In-Law Suite or Remodel Existing Rooms?",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Many homeowners hit a crossroads when extended family moves in or kids get older: do you reconfigure rooms you already have, or build an outward extension like an in-law suite or ADU? Both paths create valuable space, but they solve different problems.\n\nInterior reconfigurations take existing space—like unused formal dining rooms, oversized dens, or attached garages—and turn them into functional living areas. This path often requires less exterior ground prep, leaving your backyard intact. However, you are stealing square footage from other zones, which might make the main home feel more congested overall.\n\nA ground-up extension, on the other hand, adds brand-new square footage without shrinking your original layout. This approach is ideal for multigenerational suites requiring private exterior entries, dedicated bathrooms, and independent living zones. You keep your existing living room and closets untouched, though you will invest more in foundation work, roof extensions, and exterior stucco finishing.\n\nHow to Compare Your Options\nLook closely at your yard dimensions, long-term privacy needs, and daily routines. If having sound separation and independent plumbing matters most, an addition usually wins out over simple interior wall moves.\n\nWhen you need professional help assessing roof lines, yard space, and foundation connections, reach out to Bay City Remodeling & Bathrooms at 813-362-0114 to plan your project.",
+  "datePublished": "2026-11-09"
+}

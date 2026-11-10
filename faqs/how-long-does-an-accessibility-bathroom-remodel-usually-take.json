@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-an-accessibility-bathroom-remodel-usually-take",
+  "name": "How long does an accessibility bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessibility bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom accessibility project, like a tub-to-shower conversion, typically takes one to two weeks once materials arrive and work begins. Larger renovations, such as full accessible bathroom reconfigurations, kitchen adjustments, or mother-in-law suite additions, take longer due to framing, plumbing relocation, drywall work, and permitting. Planning ahead is vital: selecting specialized fixtures early and scheduling an on-site evaluation helps prevent project delays and ensures the space is adapted to your household's schedule.",
+        "@type": "Answer",
+        "description": "A focused bathroom conversion usually takes one to two weeks, while extensive layout reconfigurations or home additions require several weeks."
+      }
+    }
+  ],
+  "description": "A focused bathroom conversion usually takes one to two weeks, while extensive layout reconfigurations or home additions require several weeks."
+}

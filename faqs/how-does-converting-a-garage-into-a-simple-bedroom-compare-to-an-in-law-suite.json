@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-converting-a-garage-into-a-simple-bedroom-compare-to-an-in-law-suite",
+  "name": "How does converting a garage into a simple bedroom compare to an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does converting a garage into a simple bedroom compare to an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bedroom conversion requires standard interior framing, insulation, drywall, closet construction, electrical outlets, and a building-code-compliant egress window for fire safety. An in-law suite or accessory dwelling unit involves a significantly larger scope. An ADU typically includes a private full or three-quarter bathroom, a dedicated kitchenette or wet bar, independent climate control, and often a private exterior entrance. Adding these amenities requires cutting concrete for underground sewer drains, running new hot and cold supply lines, venting through the roof, and adding multiple dedicated electrical circuits.",
+        "@type": "Answer",
+        "description": "A basic bedroom focuses on framing, drywall, and egress windows, while an in-law suite requires trenching plumbing for a bathroom, kitchenette, and independent entry."
+      }
+    }
+  ],
+  "description": "A basic bedroom focuses on framing, drywall, and egress windows, while an in-law suite requires trenching plumbing for a bathroom, kitchenette, and independent"
+}

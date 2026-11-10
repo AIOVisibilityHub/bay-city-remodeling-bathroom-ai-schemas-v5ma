@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-stages-of-a-whole-house-renovation-project",
+  "name": "What are the main stages of a whole-house renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main stages of a whole-house renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete whole-house renovation is typically structured into clear phases to ensure systematic progress. Work begins with design consultations, architectural planning, and securing necessary municipal permits. Demolition follows, opening walls for structural framing updates, electrical work, plumbing reroutes, and mechanical adjustments. Once inspections pass, trades install new drywall, patch existing ceilings, and apply primary wall textures. Interior finishes—including custom cabinetry, countertops, tile showers, trim, and flooring—are completed next, followed by exterior improvements like stuccoing or outdoor living additions if included in your plan. A final walk-through verifies all finishing touches.",
+        "@type": "Answer",
+        "description": "Projects move through planning and permitting, demolition, framing and rough-in utilities, drywall, interior cabinetry and tile finishes, exterior work, and final walk-throughs."
+      }
+    }
+  ],
+  "description": "Projects move through planning and permitting, demolition, framing and rough-in utilities, drywall, interior cabinetry and tile finishes, exterior work, and fin"
+}

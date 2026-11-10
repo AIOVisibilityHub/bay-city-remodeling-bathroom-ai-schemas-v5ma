@@ -1,0 +1,153 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist: Crucial Details to Verify Before Adding a Primary Suite",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: Crucial Details to Verify Before Adding a Primary Suite",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Property boundary survey — Confirms your exact legal lot lines so your new bedroom suite does not violate l…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Property boundary survey — Confirms your exact legal lot lines so your new bedroom suite does not violate local zoning setbacks or maximum lot-coverage caps."
+      },
+      {
+        "name": "Existing home foundation assessment — Ensures your current foundation and soil conditions can tie into a ne…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Existing home foundation assessment — Ensures your current foundation and soil conditions can tie into a new slab or support second-story framing loads."
+      },
+      {
+        "name": "HOA architectural guidelines and approvals — Prevents costly redesigns by establishing approved exterior fi…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "HOA architectural guidelines and approvals — Prevents costly redesigns by establishing approved exterior finish materials, window styles, and roofline profiles beforehand."
+      },
+      {
+        "name": "Bedroom egress window specifications — Confirms planned windows meet building code requirements for emergen…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Bedroom egress window specifications — Confirms planned windows meet building code requirements for emergency escape openings, minimum glass area, and sill heights."
+      },
+      {
+        "name": "Bathroom fixture clearance diagram — Verifies required spacing in front of and between the vanity, toilet,…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Bathroom fixture clearance diagram — Verifies required spacing in front of and between the vanity, toilet, and walk-in shower for daily comfort and local code compliance."
+      },
+      {
+        "name": "HVAC load calculation — Checks whether your current air conditioning unit can condition the added square fo…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "HVAC load calculation — Checks whether your current air conditioning unit can condition the added square footage or if a dedicated heat pump zone is necessary."
+      },
+      {
+        "name": "Electrical panel capacity check — Ensures your main service panel has available breaker space for added lig…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Electrical panel capacity check — Ensures your main service panel has available breaker space for added lighting circuits, bathroom heaters, and modern bedroom outlets."
+      },
+      {
+        "name": "Plumbing sewer tie-in plan — Determines the slope, drain venting, and tie-in route to your main sewer pipe…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Plumbing sewer tie-in plan — Determines the slope, drain venting, and tie-in route to your main sewer pipe before foundation work commences."
+      },
+      {
+        "name": "Temporary living arrangements plan — Establishes how your household will manage noise, dust, and potential…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Temporary living arrangements plan — Establishes how your household will manage noise, dust, and potential utility shutoffs while active construction takes place."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Property boundary survey — Confirms your exact legal lot lines so your new bedroom suite does not violate local zoning setbacks or maximum lot-coverage caps.\n- [ ] Existing home foundation assessment — Ensures your current foundation and soil conditions can tie into a new slab or support second-story framing loads.\n- [ ] HOA architectural guidelines and approvals — Prevents costly redesigns by establishing approved exterior finish materials, window styles, and roofline profiles beforehand.\n- [ ] Bedroom egress window specifications — Confirms planned windows meet building code requirements for emergency escape openings, minimum glass area, and sill heights.\n- [ ] Bathroom fixture clearance diagram — Verifies required spacing in front of and between the vanity, toilet, and walk-in shower for daily comfort and local code compliance.\n- [ ] HVAC load calculation — Checks whether your current air conditioning unit can condition the added square footage or if a dedicated heat pump zone is necessary.\n- [ ] Electrical panel capacity check — Ensures your main service panel has available breaker space for added lighting circuits, bathroom heaters, and modern bedroom outlets.\n- [ ] Plumbing sewer tie-in plan — Determines the slope, drain venting, and tie-in route to your main sewer pipe before foundation work commences.\n- [ ] Temporary living arrangements plan — Establishes how your household will manage noise, dust, and potential utility shutoffs while active construction takes place.\n\nHow to use this checklist:\nWork through these items sequentially during your early planning phase before finalizing architectural drawings or ordering materials. Addressing zoning, structural tie-ins, and mechanical capacity early protects your budget from sudden change orders. \n\nWhat to Do Next:\nBecause primary suite additions impact foundations, framing, rooflines, and mechanical systems, working with an experienced licensed contractor ensures drawings, permits, and inspections stay properly aligned. Bay City Remodeling & Bathrooms LLC guides homeowners through comprehensive home additions across Brandon and the greater Tampa area. Call 813-362-0114 to discuss your home addition plans.",
+  "datePublished": "2026-11-09"
+}

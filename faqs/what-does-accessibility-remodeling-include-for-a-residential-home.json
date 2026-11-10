@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-does-accessibility-remodeling-include-for-a-residential-home",
+  "name": "What does accessibility remodeling include for a residential home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does accessibility remodeling include for a residential home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessibility remodeling focuses on adapting spaces so people of all ages and physical capabilities can live safely and independently. In homes across Brandon and the Tampa Bay area, common modifications include tub-to-shower conversions, zero-threshold roll-in showers, grab bars with reinforced wall backing, widened doorways, and open floor plans. It can also encompass multi-generational living updates such as dedicated in-law suites or ground-floor bedroom additions. The goal is to remove physical barriers and eliminate slip hazards without sacrificing style or comfort.",
+        "@type": "Answer",
+        "description": "Accessibility remodeling involves updating living spaces with barrier-free showers, grab bars, wider doors, and functional layouts to support safe, independent living."
+      }
+    }
+  ],
+  "description": "Accessibility remodeling involves updating living spaces with barrier-free showers, grab bars, wider doors, and functional layouts to support safe, independent"
+}

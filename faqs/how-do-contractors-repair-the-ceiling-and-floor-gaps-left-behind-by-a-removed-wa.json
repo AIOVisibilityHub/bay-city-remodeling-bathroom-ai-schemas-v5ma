@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-repair-the-ceiling-and-floor-gaps-left-behind-by-a-removed-wa",
+  "name": "How do contractors repair the ceiling and floor gaps left behind by a removed wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors repair the ceiling and floor gaps left behind by a removed wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a wall leaves an open gap in the ceiling and floor that requires careful patching and blending. On ceilings, new drywall is hung in the opening, taped, and finished with compound, followed by texturing to match adjacent drywall surfaces. For flooring, how you address the exposed subfloor depends on your existing material. If you have continuous hardwood or tile, you may be able to weave in matching planks or tiles. However, if discontinued materials prevent a seamless repair, homeowners often choose to install new unified flooring or lay a contrasting threshold runner across the boundary.",
+        "@type": "Answer",
+        "description": "Drywall patches and texture blending close the ceiling gap, while flooring is repaired by weaving in matching material or installing a transitional threshold."
+      }
+    }
+  ],
+  "description": "Drywall patches and texture blending close the ceiling gap, while flooring is repaired by weaving in matching material or installing a transitional threshold."
+}

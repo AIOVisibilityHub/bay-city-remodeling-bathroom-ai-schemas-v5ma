@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-decide-if-my-home-office-needs-extra-soundproofing",
+  "name": "How do I decide if my home office needs extra soundproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide if my home office needs extra soundproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soundproofing needs depend on household noise levels, daily video calls, and the confidentiality of your work. Standard interior hollow-core doors and uninsulated drywall partitions allow sound to pass easily between rooms. If your home office sits near a busy kitchen or living area, upgrading to solid-core doors, adding mineral wool insulation within the wall cavities, or installing specialized sound-dampening drywall makes a noticeable difference. Evaluating whether you take frequent client calls or share the home during business hours helps determine how much acoustic isolation is worth including in your remodel.",
+        "@type": "Answer",
+        "description": "Add soundproofing if you host frequent video calls, require confidential conversations, or work near active household spaces like living rooms and kitchens."
+      }
+    }
+  ],
+  "description": "Add soundproofing if you host frequent video calls, require confidential conversations, or work near active household spaces like living rooms and kitchens."
+}

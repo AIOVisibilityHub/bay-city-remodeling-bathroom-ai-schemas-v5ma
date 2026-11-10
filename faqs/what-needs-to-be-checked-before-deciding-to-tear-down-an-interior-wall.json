@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-needs-to-be-checked-before-deciding-to-tear-down-an-interior-wall",
+  "name": "What needs to be checked before deciding to tear down an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be checked before deciding to tear down an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting construction, verify structural load points, locate active utilities, and confirm how local building codes treat structural modifications. In Hillsborough and surrounding Tampa Bay municipalities, removing structural walls requires detailed building permits and engineering sign-offs. You should also inspect the attic or ceiling space above the wall to see which direction joists run and check whether vertical plumbing vents or return-air ducts pass through the partition. Finally, plan how your existing flooring will be patched or replaced once wall plates are removed.",
+        "@type": "Answer",
+        "description": "You must identify if the wall is load-bearing, map out hidden electrical, plumbing, or HVAC lines, and secure required structural building permits."
+      }
+    }
+  ],
+  "description": "You must identify if the wall is load-bearing, map out hidden electrical, plumbing, or HVAC lines, and secure required structural building permits."
+}

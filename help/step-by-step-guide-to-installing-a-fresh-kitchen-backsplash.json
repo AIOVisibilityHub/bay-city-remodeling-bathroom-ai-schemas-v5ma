@@ -1,0 +1,125 @@
+{
+  "name": "Step-by-Step Guide to Installing a Fresh Kitchen Backsplash",
+  "step": [
+    {
+      "name": "Step 1: Clear and clean the wall surface",
+      "text": "Pull your countertop appliances away, shut off power to nearby outlets, and scrub grease off the drywall. Wipe down residue so your adhesive bonds tightly to a clean, dry surface.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish a level reference line",
+      "text": "Do not assume your countertops are perfectly flat. Measure and mark a level reference line along the wall using a bubble level or laser level to keep every tile row straight.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Spread adhesive and set the first row",
+      "text": "Apply thinset or tile adhesive evenly with the proper notched trowel, working in small sections so it does not skin over. Press your tiles firmly into place and insert spacers between them.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Plan cuts and fit tiles around electrical boxes",
+      "text": "Measure around your outlets, switches, and cabinet corners before placing cut pieces. Use a tile cutter or wet saw, and sponge away any adhesive that squeezes onto the tile faces before it hardens.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Allow full curing before applying grout",
+      "text": "Let the adhesive dry undisturbed for 12 to 24 hours depending on the manufacturer's directions. Once set, pull out your spacers and wipe away any remaining stray dust from the joints.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Force grout into joints and clean the haze",
+      "text": "Mix your grout to the correct ratio and press it diagonally across the joints with a rubber float. After about 15 to 30 minutes, gently wipe the face with a damp sponge, rinsing often.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Seal your grout and caulk the countertop seam",
+      "text": "After the grout cures per the package instructions, apply a quality sealer to resist cooking splatters. Always finish the bottom joint along the countertop with flexible color-matched caulk rather than hard grout. What to Expect During the Process A standard kitchen backsplash usually takes two to three days from initial layout to final caulk curing. If your drywall has deep holes or you have complicated electrical adjustments, you can contact Bay City Remodeling & Bathrooms LLC in Brandon at 813-362-0114 to discuss professional installation.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Pull your countertop appliances away, shut off power to nearby outlets, and scrub grease off the drywall. Wipe down residue so your adhesive bonds tightly to a clean, dry surface."
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide: Diagnosing Bulging Retaining Walls and Soil Runoff Issues",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Bulging or shifting blocks in a retaining wall indicate that trapped moisture has overwhelmed the structure's footing and backfill zone.\n\nKey Benefits of Timely Drainage Repairs: Addressing drainage before total failure saves you from having to demolish and replace the entire wall. It restores safe grade levels and keeps your outdoor living space usable.\n\nProcess Breakdown: Repairing this issue involves examining upper and lower grades, checking whether runoff flows toward the wall, and identifying where soil has settled. Remodeling contractors expose the backfill zone in controlled sections, place clean crushed stone, wrap perforated collector pipes in geotextile fabric, and establish proper discharge points away from structures.\n\nWhat Can Change the Right Choice: The height of the wall, the slope of the hill behind it, and whether vehicles or structures sit atop the terrace dictate how aggressive repairs must be. Taller walls or terraces supporting driveways demand specialized engineering review, whereas low garden borders might simply need redirected downspouts and refreshed gravel pockets.\n\nGet Started: Don't wait until a bulging wall gives way entirely. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to review your retaining wall drainage and plan a durable, long-term repair.",
+  "datePublished": "2026-11-09"
+}

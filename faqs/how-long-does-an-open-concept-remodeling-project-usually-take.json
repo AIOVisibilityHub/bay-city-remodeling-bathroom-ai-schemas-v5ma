@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-an-open-concept-remodeling-project-usually-take",
+  "name": "How long does an open-concept remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most open-concept home renovations take between six to sixteen weeks, depending on the scope of work and the rooms involved. A project that simply removes non-structural walls and repairs drywall finishes moves faster. When an open floor plan involves a complete kitchen overhaul, structural beam installations, moving plumbing lines, and installing new continuous flooring throughout the main level, the schedule lengthens. Inspection milestones for framing, electrical, and plumbing also shape the overall construction timeline before drywall and finish work can begin.",
+        "@type": "Answer",
+        "description": "An open-concept remodel typically takes between six and sixteen weeks, depending on structural changes, utility relocations, and kitchen renovation scope."
+      }
+    }
+  ],
+  "description": "An open-concept remodel typically takes between six and sixteen weeks, depending on structural changes, utility relocations, and kitchen renovation scope."
+}

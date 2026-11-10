@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-a-load-bearing-wall-be-removed-for-an-open-concept-layout",
+  "name": "Can a load-bearing wall be removed for an open-concept layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a load-bearing wall be removed for an open-concept layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, load-bearing walls can be removed, but they cannot simply be knocked down without replacing their structural support. To remove a load-bearing wall, a structural assessment must determine the required support, which usually involves installing a recessed or dropped steel or engineered wood beam alongside new support posts. This modification requires structural plans and local building permits. The process also includes safely shoring up the ceiling and roof weight with temporary walls while the new permanent beam is secured into the home framing.",
+        "@type": "Answer",
+        "description": "Yes, a load-bearing wall can be removed by installing an engineered beam and support posts to carry the weight of the structure safely."
+      }
+    }
+  ],
+  "description": "Yes, a load-bearing wall can be removed by installing an engineered beam and support posts to carry the weight of the structure safely."
+}

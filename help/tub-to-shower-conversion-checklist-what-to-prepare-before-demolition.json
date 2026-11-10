@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tub-to-Shower Conversion Checklist: What to Prepare Before Demolition",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Tub-to-Shower Conversion Checklist: What to Prepare Before Demolition",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure existing alcove width and depth — Ensures your new shower pan or custom base matches the existing w…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure existing alcove width and depth — Ensures your new shower pan or custom base matches the existing wall envelope without requiring unexpected framing alterations."
+      },
+      {
+        "name": "Verify subfloor condition around the tub base — Uncovers soft spots, past leaks, or rotting wood that must…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Verify subfloor condition around the tub base — Uncovers soft spots, past leaks, or rotting wood that must be addressed before installing new tile or mortar."
+      },
+      {
+        "name": "Confirm drain pipe diameter and location — Determines if your plumbing lines need to be enlarged or shifted…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Confirm drain pipe diameter and location — Determines if your plumbing lines need to be enlarged or shifted to meet local building codes for standalone showers."
+      },
+      {
+        "name": "Determine curb preference versus curbless transition — Dictates whether your installer needs to recess subf…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Determine curb preference versus curbless transition — Dictates whether your installer needs to recess subfloor joists to create a zero-barrier walk-in entry."
+      },
+      {
+        "name": "Plan in-wall blocking for future grab bars — Secures solid structural framing points behind the wall substr…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Plan in-wall blocking for future grab bars — Secures solid structural framing points behind the wall substrate before tile installation so safety bars can be added safely anytime."
+      },
+      {
+        "name": "Select shower control and valve heights — Adapts the rough-in plumbing to your household's height preferenc…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Select shower control and valve heights — Adapts the rough-in plumbing to your household's height preferences and ensures handheld wands are easily reachable."
+      },
+      {
+        "name": "Verify local permit requirements with Hillsborough County — Confirms whether building and plumbing permits…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Verify local permit requirements with Hillsborough County — Confirms whether building and plumbing permits are needed before work starts to maintain code compliance."
+      },
+      {
+        "name": "Select moisture-resistant wall backing and waterproofing membranes — Protects interior framing against humi…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Select moisture-resistant wall backing and waterproofing membranes — Protects interior framing against humidity and moisture intrusion in high-use Florida bathrooms."
+      }
+    ]
+  },
+  "articleBody": "Before starting demolition on your bathroom, going through a comprehensive checklist helps avoid unexpected delays, surprise plumbing adjustments, or water damage headaches down the road.\n\n- [ ] Measure existing alcove width and depth — Ensures your new shower pan or custom base matches the existing wall envelope without requiring unexpected framing alterations.\n- [ ] Verify subfloor condition around the tub base — Uncovers soft spots, past leaks, or rotting wood that must be addressed before installing new tile or mortar.\n- [ ] Confirm drain pipe diameter and location — Determines if your plumbing lines need to be enlarged or shifted to meet local building codes for standalone showers.\n- [ ] Determine curb preference versus curbless transition — Dictates whether your installer needs to recess subfloor joists to create a zero-barrier walk-in entry.\n- [ ] Plan in-wall blocking for future grab bars — Secures solid structural framing points behind the wall substrate before tile installation so safety bars can be added safely anytime.\n- [ ] Select shower control and valve heights — Adapts the rough-in plumbing to your household's height preferences and ensures handheld wands are easily reachable.\n- [ ] Verify local permit requirements with Hillsborough County — Confirms whether building and plumbing permits are needed before work starts to maintain code compliance.\n- [ ] Select moisture-resistant wall backing and waterproofing membranes — Protects interior framing against humidity and moisture intrusion in high-use Florida bathrooms.\n\nHow to use this checklist:\nWalk through each item with your project estimator before ordering materials or pulling out fixtures. Bay City Remodeling & Bathrooms LLC helps homeowners across Brandon, Riverview, and Valrico plan clean conversions. Call 813-362-0114 to schedule an on-site visit.",
+  "datePublished": "2026-11-09"
+}

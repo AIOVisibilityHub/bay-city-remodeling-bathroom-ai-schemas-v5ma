@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide: Restoring Blocked Weep Holes and Relieving Wall Pressure",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Weep holes are small outlets built into retaining walls to relieve trapped moisture. When mud, debris, or roots block them, water gets trapped and creates dangerous pressure behind the face.\n\nKey Benefits of Early Maintenance: Clearing or re-engineering blocked weep holes prevents wall displacement, eliminates unsightly mineral staining, and prevents costly structural blowouts.\n\nProcess Breakdown: Inspect each weep hole to see if it is dry while the soil behind remains muddy. Clearing the opening of surface silt is the first step, but ongoing blockages often reveal missing filter fabric or disintegrated aggregate behind the wall. In those cases, crews install new gravel drainage pockets or insert dedicated drainage sleeves to give water a clean pathway out.\n\nCommon Mistakes to Avoid: Never seal or patch over leaking weep holes or weeping face cracks. Trapping moisture inside accelerates structural failure. Another frequent mistake is re-grading flowerbeds directly over outlet pipes or pointing garden sprinklers and downspouts right at the wall crest.\n\nGet Started: When weep holes remain dry during heavy rain while the surrounding soil turns spongy, your wall needs expert attention. The team at Bay City Remodeling & Bathrooms LLC handles complete outdoor living repairs across Brandon. Call 813-362-0114 to discuss your wall's drainage requirements today.",
+  "datePublished": "2026-11-09"
+}

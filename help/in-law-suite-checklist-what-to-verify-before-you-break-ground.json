@@ -1,0 +1,159 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "In-Law Suite Checklist: What to Verify Before You Break Ground",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "In-Law Suite Checklist: What to Verify Before You Break Ground",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Certified boundary survey — Shows setbacks, property lines, and available building envelope for the addition.",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Certified boundary survey — Shows setbacks, property lines, and available building envelope for the addition."
+      },
+      {
+        "name": "Zoning classification check — Verifies whether local rules allow detached suites, attached additions, or fu…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Zoning classification check — Verifies whether local rules allow detached suites, attached additions, or full accessory dwelling units."
+      },
+      {
+        "name": "Kitchen equipment guidelines — Confirms whether your municipality permits full cooking appliances or only w…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Kitchen equipment guidelines — Confirms whether your municipality permits full cooking appliances or only wet bars in secondary suites."
+      },
+      {
+        "name": "Electrical panel load calculation — Determines if your current service can support additional heating, air…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Electrical panel load calculation — Determines if your current service can support additional heating, air conditioning, and appliances."
+      },
+      {
+        "name": "Septic or sewer capacity letter — Verifies that your sanitary waste system can handle another bathroom and…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Septic or sewer capacity letter — Verifies that your sanitary waste system can handle another bathroom and bedroom."
+      },
+      {
+        "name": "Accessible bathroom layout plan — Ensures zero-threshold walk-in showers and wide doorways fit comfortably…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Accessible bathroom layout plan — Ensures zero-threshold walk-in showers and wide doorways fit comfortably into the design."
+      },
+      {
+        "name": "Fire separation specifications — Identifies required fire-rated drywall between the new suite and the exist…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Fire separation specifications — Identifies required fire-rated drywall between the new suite and the existing home structure."
+      },
+      {
+        "name": "Egress window dimensions — Confirms bedroom windows meet minimum opening sizes for emergency exit requireme…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Egress window dimensions — Confirms bedroom windows meet minimum opening sizes for emergency exit requirements."
+      },
+      {
+        "name": "Independent temperature control plan — Specifies whether a mini-split heat pump will handle heating and coo…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Independent temperature control plan — Specifies whether a mini-split heat pump will handle heating and cooling for the suite."
+      },
+      {
+        "name": "Written contractor agreement — Details the exact scope of work, payment schedule, and responsibility for mu…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Written contractor agreement — Details the exact scope of work, payment schedule, and responsibility for municipal inspections."
+      }
+    ]
+  },
+  "articleBody": "Building an in-law suite involves complex zoning, structural, and utility considerations. Use this checklist to confirm your site, layout, and paperwork are fully prepared before construction starts.\n\n- [ ] Certified boundary survey — Shows setbacks, property lines, and available building envelope for the addition.\n- [ ] Zoning classification check — Verifies whether local rules allow detached suites, attached additions, or full accessory dwelling units.\n- [ ] Kitchen equipment guidelines — Confirms whether your municipality permits full cooking appliances or only wet bars in secondary suites.\n- [ ] Electrical panel load calculation — Determines if your current service can support additional heating, air conditioning, and appliances.\n- [ ] Septic or sewer capacity letter — Verifies that your sanitary waste system can handle another bathroom and bedroom.\n- [ ] Accessible bathroom layout plan — Ensures zero-threshold walk-in showers and wide doorways fit comfortably into the design.\n- [ ] Fire separation specifications — Identifies required fire-rated drywall between the new suite and the existing home structure.\n- [ ] Egress window dimensions — Confirms bedroom windows meet minimum opening sizes for emergency exit requirements.\n- [ ] Independent temperature control plan — Specifies whether a mini-split heat pump will handle heating and cooling for the suite.\n- [ ] Written contractor agreement — Details the exact scope of work, payment schedule, and responsibility for municipal inspections.\n\nHow to Use This Checklist\n\nWork through these items sequentially during your initial planning phase. Addressing zoning rules, utility limits, and accessibility before completing your architectural plans prevents expensive revisions and inspection failures during construction.\n\nWhen you want expert help designing and building an in-law suite tailored to your home, Bay City Remodeling & Bathrooms LLC is here to help. Call 813-362-0114 today to get your project moving forward.",
+  "datePublished": "2026-11-09"
+}

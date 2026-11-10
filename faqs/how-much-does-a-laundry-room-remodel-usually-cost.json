@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-much-does-a-laundry-room-remodel-usually-cost",
+  "name": "How much does a laundry room remodel usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a laundry room remodel usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a laundry room remodel depends on whether you keep the existing layout or relocate plumbing, electrical, and venting lines. Cosmetic updates like new cabinetry, tile flooring, and laminate countertops cost significantly less than structural changes. Adding a utility sink, running dedicated 240-volt circuits for a dryer, or altering walls increases total labor and material expenses. Bay City Remodeling & Bathrooms reviews your goals during an on-site consultation to provide custom quotes, with negotiable pricing options and discounts available for military veterans.",
+        "@type": "Answer",
+        "description": "Laundry room remodel costs vary based on cabinetry, fixtures, and whether plumbing or electrical lines need to be moved. Bay City Remodeling & Bathrooms provides custom quotes."
+      }
+    }
+  ],
+  "description": "Laundry room remodel costs vary based on cabinetry, fixtures, and whether plumbing or electrical lines need to be moved. Bay City Remodeling & Bathrooms provide"
+}

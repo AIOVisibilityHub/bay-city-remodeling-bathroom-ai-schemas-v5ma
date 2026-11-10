@@ -1,0 +1,113 @@
+{
+  "name": "Planning a Home Addition: 5 Essential Steps Before Construction Starts",
+  "step": [
+    {
+      "name": "Step 1: Check property boundaries, setbacks, and local zoning",
+      "text": "Review your property survey to pinpoint underground easements, property boundaries, and municipal building setback lines. Confirm your local zoning rules regarding maximum allowable lot coverage and building heights so you know the exact allowable footprint for an expansion.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Define your functional needs and scope of work",
+      "text": "Determine the exact purpose of the new space, whether you are planning a master suite, a larger family room, an in-law suite, or a multi-room wing. List required features such as en-suite plumbing, dedicated electrical circuits, heating and cooling tie-ins, and direct exterior entries.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop architectural and structural engineering plans",
+      "text": "Hire an experienced professional to produce detailed construction drawings showing foundation specs, wall framing, roofline tie-ins, and mechanical runs. These plans ensure the new build matches the existing home's structural integrity and provides the documentation needed for code compliance.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure all municipal building, trade, and development permits",
+      "text": "Submit your architectural drawings and contractor credentials to the local building department to obtain necessary building, electrical, plumbing, and mechanical permits. Never let demolition or excavation begin until all required approvals are officially posted on the jobsite.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prepare your living space and establish project staging",
+      "text": "Clear out adjacent interior areas that will be affected by structural openings and establish dedicated dust barriers between living quarters and the jobsite. Coordinate clear driveway access and outdoor staging space for dumpsters, equipment, and material deliveries. Bay City Remodeling & Bathrooms manages the complete addition process for homeowners across Brandon, Bloomingdale, and nearby communities, bringing over 18 years of residential construction experience to every expansion. Call our team today at 813-362-0114 to schedule your initial consultation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Review your property survey to pinpoint underground easements, property boundaries, and municipal building setback lines. Confirm your local zoning rules regarding maximum allowable lot coverage and b"
+}

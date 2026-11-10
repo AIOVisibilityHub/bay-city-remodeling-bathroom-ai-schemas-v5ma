@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-happens-to-the-overhead-garage-door-during-a-conversion",
+  "name": "What happens to the overhead garage door during a conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the overhead garage door during a conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The existing overhead door and tracks are removed, and a new load-bearing or infill wall is framed into the structural opening. This new exterior wall is sheathed, wrapped in weather barrier, and insulated to meet residential standards. On the exterior, finishes are blended into the rest of the house using matching materials such as full stucco, siding, or brick. Most homeowners install energy-efficient windows or entry doors in this opening to bring natural light into the living space while making the front facade look like an intentional part of the home rather than a closed-off garage.",
+        "@type": "Answer",
+        "description": "The overhead door is removed and replaced with framed, insulated exterior walls, matching stucco or siding, and standard residential windows or doors."
+      }
+    }
+  ],
+  "description": "The overhead door is removed and replaced with framed, insulated exterior walls, matching stucco or siding, and standard residential windows or doors."
+}

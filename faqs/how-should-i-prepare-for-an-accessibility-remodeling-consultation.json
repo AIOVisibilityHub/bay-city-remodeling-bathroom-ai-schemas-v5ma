@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-for-an-accessibility-remodeling-consultation",
+  "name": "How should I prepare for an accessibility remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for an accessibility remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a contractor, document the specific physical challenges and equipment used by household members, including walkers, wheelchairs, or transfer chairs. Measure turning areas in narrow corridors and list daily routines that feel difficult or unsafe. It also helps to decide on long-term priorities: are you adapting solely for current recovery, or planning ahead for permanent aging in place? Sharing these details upfront allows your remodeling team to recommend appropriate doorway widths, lighting improvements, and plumbing fixture heights.",
+        "@type": "Answer",
+        "description": "List specific mobility challenges, note any mobility equipment in use, identify problem areas, and determine whether your goals are short-term or permanent aging-in-place."
+      }
+    }
+  ],
+  "description": "List specific mobility challenges, note any mobility equipment in use, identify problem areas, and determine whether your goals are short-term or permanent agin"
+}

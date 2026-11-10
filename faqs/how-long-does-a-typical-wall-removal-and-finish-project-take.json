@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-wall-removal-and-finish-project-take",
+  "name": "How long does a typical wall removal and finish project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wall removal and finish project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most interior wall removals take between three days and two weeks, depending on structural demands and finish work. A straightforward non-load-bearing partition wall can often be removed, with basic electrical capped and drywall patched, in two to four days. However, removing a load-bearing wall to open up a kitchen or living area requires installing temporary shoring, placing a heavy load-bearing beam, rerouting utilities, passing local building inspections, and applying drywall compound with drying times between coats. Integrating new flooring or matching existing ceiling textures can also add several days to the overall schedule.",
+        "@type": "Answer",
+        "description": "A non-load-bearing wall takes about 2 to 4 days, while a load-bearing removal with new structural beams and inspections typically takes 1 to 2 weeks."
+      }
+    }
+  ],
+  "description": "A non-load-bearing wall takes about 2 to 4 days, while a load-bearing removal with new structural beams and inspections typically takes 1 to 2 weeks."
+}

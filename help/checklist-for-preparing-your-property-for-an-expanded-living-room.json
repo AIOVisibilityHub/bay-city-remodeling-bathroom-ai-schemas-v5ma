@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Preparing Your Property for an Expanded Living Room",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Preparing Your Property for an Expanded Living Room",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Current boundary survey — confirms exact setback lines, lot coverage allowances, and utility easements befo…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Current boundary survey — confirms exact setback lines, lot coverage allowances, and utility easements before design work starts."
+      },
+      {
+        "name": "Detailed functional layout sketch — identifies planned furniture groupings, TV placement, and exterior door…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Detailed functional layout sketch — identifies planned furniture groupings, TV placement, and exterior door openings for natural foot traffic."
+      },
+      {
+        "name": "HVAC system capacity evaluation — checks whether your current heating and cooling unit can handle the addit…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "HVAC system capacity evaluation — checks whether your current heating and cooling unit can handle the additional conditioned air volume."
+      },
+      {
+        "name": "Electrical panel load inspection — verifies available breaker slots for new lighting, ceiling fans, and hom…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Electrical panel load inspection — verifies available breaker slots for new lighting, ceiling fans, and home entertainment circuits."
+      },
+      {
+        "name": "Underground utility marking request — ensures water lines, electrical feeds, and irrigation pipes are flagg…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Underground utility marking request — ensures water lines, electrical feeds, and irrigation pipes are flagged before digging the foundation."
+      },
+      {
+        "name": "Roofline elevation assessment — determines how new valley flashing and shingles will tie into your existing…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Roofline elevation assessment — determines how new valley flashing and shingles will tie into your existing roof plane without causing leaks."
+      },
+      {
+        "name": "Written contractor scope of work — spells out construction materials, structural drawings, payment schedule…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Written contractor scope of work — spells out construction materials, structural drawings, payment schedules, and permit responsibilities clearly."
+      },
+      {
+        "name": "Staging area plan for materials — establishes where concrete trucks, framing lumber, and waste dumpsters wi…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Staging area plan for materials — establishes where concrete trucks, framing lumber, and waste dumpsters will sit on your driveway or lawn."
+      }
+    ]
+  },
+  "articleBody": "Getting ready for a family room addition takes more than picking paint colors. Preparing your property and paperwork beforehand keeps the construction schedule moving smoothly and prevents unexpected site delays.\n\n- [ ] Current boundary survey — confirms exact setback lines, lot coverage allowances, and utility easements before design work starts.\n- [ ] Detailed functional layout sketch — identifies planned furniture groupings, TV placement, and exterior door openings for natural foot traffic.\n- [ ] HVAC system capacity evaluation — checks whether your current heating and cooling unit can handle the additional conditioned air volume.\n- [ ] Electrical panel load inspection — verifies available breaker slots for new lighting, ceiling fans, and home entertainment circuits.\n- [ ] Underground utility marking request — ensures water lines, electrical feeds, and irrigation pipes are flagged before digging the foundation.\n- [ ] Roofline elevation assessment — determines how new valley flashing and shingles will tie into your existing roof plane without causing leaks.\n- [ ] Written contractor scope of work — spells out construction materials, structural drawings, payment schedules, and permit responsibilities clearly.\n- [ ] Staging area plan for materials — establishes where concrete trucks, framing lumber, and waste dumpsters will sit on your driveway or lawn.\n\nHow to use this checklist\nGo through these items during your initial planning phase before signing off on final construction drawings. Having clear answers for each item protects your budget and prevents mid-build surprises once construction crews arrive on site.\n\nWhen you need an experienced partner to oversee your family room build, Bay City Remodeling & Bathrooms LLC provides clear communication and complete project supervision. Call 813-362-0114 today to schedule your free in-home estimate.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-remodel-a-bedroom",
+  "name": "Do I need a building permit to remodel a bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel a bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom remodel requires a building permit whenever the project involves structural modifications, moving load-bearing walls, adding new windows, or altering electrical and plumbing systems. Cosmetic updates such as replacing flooring, hanging drywall patches, repainting, or swapping standard light fixtures generally do not need permitting. However, expanding a closet into a full bathroom or building a private suite requires proper building department approvals and inspections. Licensed and insured contractors coordinate necessary permits before construction begins.",
+        "@type": "Answer",
+        "description": "Permits are required for structural alterations, new window framing, or new electrical and plumbing work. Purely cosmetic updates like paint and flooring typically do not require permits."
+      }
+    }
+  ],
+  "description": "Permits are required for structural alterations, new window framing, or new electrical and plumbing work. Purely cosmetic updates like paint and flooring typica"
+}

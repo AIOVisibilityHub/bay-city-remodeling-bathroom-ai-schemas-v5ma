@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-are-costs-determined-for-a-full-home-renovation",
+  "name": "How are costs determined for a full-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are costs determined for a full-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-house renovation pricing is established on a customized basis depending on square footage, architectural changes, and the finishes you choose. Projects that require moving load-bearing walls, rerouting electrical panels, or reconfiguring plumbing stacks for relocated bathrooms involve more labor and trade coordination than purely surface updates. Bay City Remodeling & Bathrooms provides free quote consultations and negotiable pricing to match specific client goals. Preparing an itemized list of your must-have layout changes versus optional decorative upgrades helps your contractor tailor the initial proposal to your target budget while identifying potential cost-saving tradeoffs early.",
+        "@type": "Answer",
+        "description": "Costs are customized based on overall square footage, layout reconfigurations, structural work, and material grades. Free estimates help define scopes that align with your budget goals."
+      }
+    }
+  ],
+  "description": "Costs are customized based on overall square footage, layout reconfigurations, structural work, and material grades. Free estimates help define scopes that alig"
+}

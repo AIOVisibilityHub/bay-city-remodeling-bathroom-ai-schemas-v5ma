@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-remove-a-wall-in-brandon-or-tampa",
+  "name": "Do I need a building permit to remove a wall in Brandon or Tampa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remove a wall in Brandon or Tampa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a load-bearing wall almost always requires a building permit, whereas non-load-bearing demolition may not, depending on local municipal rules. In communities across Hillsborough and Pinellas counties, any work altering structural integrity requires reviewed plans, an approved building permit, and official inspections to verify proper beam sizing and load transfers. In contrast, minor non-structural wall demolition might only require electrical or plumbing trade permits if outlets or pipes are shifted. Working with a licensed contractor ensures that required permit paperwork is submitted and local building code standards are satisfied.",
+        "@type": "Answer",
+        "description": "Yes, removing a load-bearing wall requires a building permit and inspections. Non-load-bearing walls may only need permits if plumbing or wiring is modified."
+      }
+    }
+  ],
+  "description": "Yes, removing a load-bearing wall requires a building permit and inspections. Non-load-bearing walls may only need permits if plumbing or wiring is modified."
+}

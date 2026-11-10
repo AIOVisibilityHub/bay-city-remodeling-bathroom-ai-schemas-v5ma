@@ -1,0 +1,125 @@
+{
+  "name": "Refreshing Kitchen Cabinets with Paint: The Complete Step-by-Step Process",
+  "step": [
+    {
+      "name": "Step 1: Remove and catalog all doors, drawers, and hardware",
+      "text": "Carefully detach all cabinet doors, drawer fronts, and hardware pulls from the frames. Number each door and matching opening with labeled painter's tape so every piece returns to its exact original location during reassembly, preventing alignment headaches later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Deep clean and degrease every surface",
+      "text": "Wash the cabinet boxes, doors, and drawer faces thoroughly using a heavy-duty degreasing cleaner to eliminate cooking oils, grease, and fingerprints. Rinse the surfaces with clean water and let them dry completely, as leftover residue prevents paint from bonding properly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Repair surface flaws and scuff-sand",
+      "text": "Fill gouges, dents, and unwanted hardware holes with durable wood filler, allowing it to dry before sanding smooth. Lightly scuff-sand all exterior surfaces with medium-to-fine grit sandpaper to break the factory sheen, then vacuum up all dust and wipe down with a tack cloth.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Mask the kitchen and seal adjacent areas",
+      "text": "Cover countertops, appliances, floors, and open cabinet interiors with plastic sheeting and professional masking tape. Ensure proper room ventilation to manage fumes and control airborne dust while working inside the home.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Apply a dedicated bonding primer",
+      "text": "Apply an even coat of stain-blocking, bonding primer to all prepared cabinet boxes, doors, and drawer fronts using a fine spray rig or high-density foam roller. Allow the primer to dry fully according to product instructions, then gently sand flat to remove any raised grain.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Spray or brush durable finish coats",
+      "text": "Apply two thin, uniform coats of premium cabinet enamel, allowing appropriate dry time between applications. Avoid rushing this stage; consistent coverage and proper drying build a tough, washable surface that holds up to daily kitchen demands.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Allow proper cure time before reassembly",
+      "text": "Let the finish cure past initial dryness so the coating develops true working hardness before reattaching hinges and hardware. Rehang all doors in their labeled positions and fine-tune hinges for level margins. For flawless results, Bay City Remodeling & Bathrooms LLC handles cabinet updates with expert care.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Carefully detach all cabinet doors, drawer fronts, and hardware pulls from the frames. Number each door and matching opening with labeled painter's tape so every piece returns to its exact original lo"
+}

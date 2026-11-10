@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-design-a-remodeled-bedroom-suite-for-aging-parents-or-multi-generationa",
+  "name": "How do I design a remodeled bedroom suite for aging parents or multi-generational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I design a remodeled bedroom suite for aging parents or multi-generational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accommodating aging parents or multi-generational living requires prioritizing single-level accessibility, wider door frames, and zero-threshold transitions between the bedroom and attached bath. Wide entryways allow easy use of mobility aids, while curbless walk-in showers with slip-resistant tile and reinforced backing for grab bars improve long-term safety. Positioning outlets and switches at reachable heights and incorporating layered, glare-free lighting also enhances independence. Consulting on these details early allows structural blocking and wiring to be installed inside the walls before finishing work begins.",
+        "@type": "Answer",
+        "description": "Incorporate zero-threshold flooring, wider doorways, lever door handles, curbless walk-in showers, reinforced walls for future grab bars, and accessible electrical controls."
+      }
+    }
+  ],
+  "description": "Incorporate zero-threshold flooring, wider doorways, lever door handles, curbless walk-in showers, reinforced walls for future grab bars, and accessible electri"
+}

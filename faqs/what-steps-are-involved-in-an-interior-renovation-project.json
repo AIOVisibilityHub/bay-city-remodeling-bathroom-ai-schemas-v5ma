@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-steps-are-involved-in-an-interior-renovation-project",
+  "name": "What steps are involved in an interior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in an interior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and quote request to review your aesthetic goals, followed by planning, design, and physical construction. Project managers and artisans first help finalize cabinet choices, tile selections, and layout updates. Once demolition begins, trades complete structural changes, electrical work, plumbing modifications, and drywall installation or finishing. The renovation concludes with installing trim, fixtures, paint, and conducting a final review to ensure quality craftsmanship.",
+        "@type": "Answer",
+        "description": "The process starts with consultation and planning, followed by demolition, framing, utility updates, drywall installation, finish carpentry, fixture setting, and a final review."
+      }
+    }
+  ],
+  "description": "The process starts with consultation and planning, followed by demolition, framing, utility updates, drywall installation, finish carpentry, fixture setting, an"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Converting Space into an In-Law Suite",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Converting Space into an In-Law Suite",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Zoning designation and accessory unit rules — Confirms your parcel allows secondary living units or attache…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Zoning designation and accessory unit rules — Confirms your parcel allows secondary living units or attached guest suites."
+      },
+      {
+        "name": "Emergency egress window specifications — Ensures sleeping quarters meet strict dimension standards for safe…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Emergency egress window specifications — Ensures sleeping quarters meet strict dimension standards for safe emergency exits."
+      },
+      {
+        "name": "Minimum ceiling height verification — Checks that finished ceilings throughout the suite meet code standard…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Minimum ceiling height verification — Checks that finished ceilings throughout the suite meet code standards after drywall installation."
+      },
+      {
+        "name": "Dedicated smoke and carbon monoxide alarms — Required in all sleeping rooms and adjoining hallways for life…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Dedicated smoke and carbon monoxide alarms — Required in all sleeping rooms and adjoining hallways for life-safety compliance."
+      },
+      {
+        "name": "Electrical panel load calculation — Determines whether an auxiliary subpanel or main service upgrade is nee…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Electrical panel load calculation — Determines whether an auxiliary subpanel or main service upgrade is needed for kitchen appliances and HVAC."
+      },
+      {
+        "name": "Plumbing sewer tie-in path — Maps out how bathroom and kitchenette waste lines will connect to your main ho…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Plumbing sewer tie-in path — Maps out how bathroom and kitchenette waste lines will connect to your main home sewer connection."
+      },
+      {
+        "name": "Independent heating and cooling plan — Specifies how the suite will maintain comfortable temperatures witho…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Independent heating and cooling plan — Specifies how the suite will maintain comfortable temperatures without overtaxing the primary AC."
+      },
+      {
+        "name": "Accessible doorway and walkway clearances — Guarantees wider doorways and level thresholds for comfortable…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Accessible doorway and walkway clearances — Guarantees wider doorways and level thresholds for comfortable long-term mobility."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Zoning designation and accessory unit rules — Confirms your parcel allows secondary living units or attached guest suites.\n- [ ] Emergency egress window specifications — Ensures sleeping quarters meet strict dimension standards for safe emergency exits.\n- [ ] Minimum ceiling height verification — Checks that finished ceilings throughout the suite meet code standards after drywall installation.\n- [ ] Dedicated smoke and carbon monoxide alarms — Required in all sleeping rooms and adjoining hallways for life-safety compliance.\n- [ ] Electrical panel load calculation — Determines whether an auxiliary subpanel or main service upgrade is needed for kitchen appliances and HVAC.\n- [ ] Plumbing sewer tie-in path — Maps out how bathroom and kitchenette waste lines will connect to your main home sewer connection.\n- [ ] Independent heating and cooling plan — Specifies how the suite will maintain comfortable temperatures without overtaxing the primary AC.\n- [ ] Accessible doorway and walkway clearances — Guarantees wider doorways and level thresholds for comfortable long-term mobility.\n\nHow to use this checklist:\nGather these details before drawing construction layouts or hiring subcontractors. Verifying life-safety regulations, plumbing tie-ins, and zoning allowances upfront prevents costly teardowns or permit delays. When you are ready to design a compliant, comfortable suite in the Tampa Bay area, reach out to Bay City Remodeling & Bathrooms at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

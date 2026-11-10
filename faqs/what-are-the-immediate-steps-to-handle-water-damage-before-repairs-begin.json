@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-immediate-steps-to-handle-water-damage-before-repairs-begin",
+  "name": "What are the immediate steps to handle water damage before repairs begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the immediate steps to handle water damage before repairs begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must first identify and stop the moisture source, whether that stems from a failed plumbing fixture, a roof leak, or exterior intrusion. Once the area is completely dried out, structural repairs can begin. Starting reconstruction over damp materials traps moisture behind new finishes, leading to recurring damage. A contractor assesses the full depth of the impact, cuts away deteriorated drywall, and evaluates underlying framing or subfloors before hanging new boards and refinishing walls.",
+        "@type": "Answer",
+        "description": "Stop the moisture source and dry out the affected area completely before beginning structural reconstruction or drywall repairs."
+      }
+    }
+  ],
+  "description": "Stop the moisture source and dry out the affected area completely before beginning structural reconstruction or drywall repairs."
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Father-in-Law Suite: What to Review Before Hiring a Builder",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a secondary living addition involves more than picking paint colors and accessible fixtures. Before hiring a remodeling contractor or signing an addition agreement, make sure you address these vital design and zoning items.\n\nQuestions to Ask Before You Decide\nFirst, determine how your municipality classifies the planned structure. An attached room addition has different code requirements than an independent accessory dwelling unit with full cooking capabilities. Ask potential builders about their experience handling local building permits, setback restrictions, and utility capacity assessments in your specific neighborhood. You should also confirm whether your existing electrical panel and water supply lines can handle additional everyday demand without costly service upgrades.\n\nNext, focus on daily living accessibility. Incorporating zero-threshold showers, wider doorways, and slip-resistant flooring early in the design prevents costly structural modifications down the road. It is just as important to review how your builder manages trade coordination—such as drywall finishing, plumbing rough-ins, and exterior integration—so the new space matches your existing home's architectural style seamlessly.\n\nIf you are planning an addition in Brandon, Riverview, or surrounding Tampa Bay communities, contact Bay City Remodeling & Bathrooms at 813-362-0114 for experienced guidance and a free estimate.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-best-flooring-material-for-a-remodeled-laundry-room",
+  "name": "What is the best flooring material for a remodeled laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best flooring material for a remodeled laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile, particularly porcelain or ceramic, and luxury vinyl plank are the most durable options for laundry rooms because they resist moisture and spills. Choosing luxury vinyl plank offers a warmer, softer surface underfoot at a lower material cost, while porcelain tile delivers superior longevity and water resistance against washer overflows. If you select tile, proper underlayment and professional installation help protect subfloors and drywall from moisture intrusion common in high-humidity Florida homes.",
+        "@type": "Answer",
+        "description": "Porcelain tile and luxury vinyl plank are top choices because both resist moisture, handle heavy appliances, and clean up easily."
+      }
+    }
+  ],
+  "description": "Porcelain tile and luxury vinyl plank are top choices because both resist moisture, handle heavy appliances, and clean up easily."
+}

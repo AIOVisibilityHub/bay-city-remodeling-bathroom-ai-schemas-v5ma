@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-an-open-concept-remodel-and-what-spaces-are-typically-combined",
+  "name": "What is an open-concept remodel and what spaces are typically combined?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an open-concept remodel and what spaces are typically combined?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept remodel removes interior partition walls to merge separate rooms—most commonly the kitchen, dining, and living rooms—into one shared living area. This layout improves sightlines, enhances natural light, and creates a functional layout for entertaining and modern living. During the planning phase, you must evaluate whether the target walls are load-bearing, as structural supports will require engineered beams. You also need to plan how utilities, such as electrical wiring, plumbing, or air ducts hidden inside those partitions, will be rerouted.",
+        "@type": "Answer",
+        "description": "An open-concept remodel removes interior walls to combine separate spaces—often the kitchen, living, and dining rooms—into one open, connected floor plan."
+      }
+    }
+  ],
+  "description": "An open-concept remodel removes interior walls to combine separate spaces—often the kitchen, living, and dining rooms—into one open, connected floor plan."
+}

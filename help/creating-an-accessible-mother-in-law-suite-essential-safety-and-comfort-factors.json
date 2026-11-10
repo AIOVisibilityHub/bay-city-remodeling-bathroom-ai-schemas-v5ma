@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Creating an Accessible Mother-in-Law Suite: Essential Safety and Comfort Factors",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Creating a comfortable mother-in-law suite requires balancing immediate living needs with long-term accessibility. Many homeowners build these spaces for aging parents who value their independence but may develop mobility challenges down the road. \n\nWhat Can Change the Right Choice\n\nDesigning for comfort begins in the bathroom. Stepping over a high tub wall creates an unnecessary fall risk, so converting to a curbless walk-in shower with sturdy blocking for grab bars is a smart early upgrade. Slip-resistant tile flooring, comfort-height toilets, and lever-style faucets make everyday routines safer and easier to manage without drawing attention to clinical fixtures.\n\nBeyond the bathroom, room circulation matters. Doorways should offer generous clear widths to accommodate walkers or wheelchairs, and transitions between hard flooring and carpet must remain flush. Placing electrical outlets slightly higher and light switches slightly lower helps reduce repetitive bending or reaching. Proper lighting along hallways and near entry doors also prevents nighttime trips.\n\nWhen planning changes that alter framing, plumbing lines, or primary room access, working with an experienced remodeling contractor ensures every detail meets current building codes and residential standards. Call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your suite design and schedule a consultation.",
+  "datePublished": "2026-11-09"
+}

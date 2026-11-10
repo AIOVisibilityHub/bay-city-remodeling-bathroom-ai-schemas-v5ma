@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-live-in-my-home-during-a-whole-house-renovation",
+  "name": "Can I live in my home during a whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home depends directly on the scope of demolition, utility interruptions, and which rooms are being updated. If your whole-home remodel involves simultaneously gutting your primary kitchen and all functional bathrooms, temporary relocation is often necessary because running water and cooking facilities will be offline. However, if the project is phased across different sections of the house, staying on-site may be manageable. The practical tradeoff comes down to living through daily construction dust, noise, and disrupted routines versus budgeting for temporary rental lodging. Outlining room access priorities early in the planning process helps determine a realistic living arrangement.",
+        "@type": "Answer",
+        "description": "It depends on project scope. If key kitchens and bathrooms are under construction simultaneously, temporary relocation is usually necessary due to utility shutoffs, dust, and daily noise."
+      }
+    }
+  ],
+  "description": "It depends on project scope. If key kitchens and bathrooms are under construction simultaneously, temporary relocation is usually necessary due to utility shuto"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-home-water-damage-repairs",
+  "name": "What factors influence the cost of home water-damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of home water-damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair costs vary based on square footage, the materials affected, and whether finishes like tile, vanities, or custom textures need rebuilding. A targeted drywall ceiling or wall patch costs significantly less than rebuilding a flooded bathroom that requires new subflooring, waterproofing membranes, and vanity installation. Taking clear photos, noting the water source, and securing a detailed written scope of work during an on-site consultation ensures all framing, insulation, and finish labor are accounted for.",
+        "@type": "Answer",
+        "description": "Costs depend on square footage, depth of water penetration, structural framing repairs, and the specific finishes or fixtures that must be rebuilt."
+      }
+    }
+  ],
+  "description": "Costs depend on square footage, depth of water penetration, structural framing repairs, and the specific finishes or fixtures that must be rebuilt."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-a-cosmetic-update-or-a-full-structural-living-room-remodel",
+  "name": "Should I choose a cosmetic update or a full structural living room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a cosmetic update or a full structural living room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a cosmetic refresh and a structural remodel comes down to whether your living room's layout currently functions well for your household. If your space feels dark or worn but has a practical shape, new flooring, fresh paint, drywall repairs, and updated lighting will achieve your goals at a lower investment. If your room feels cramped, lacks traffic flow, or is disconnected from the kitchen, structural changes—or even a room addition—are necessary. Bay City Remodeling & Bathrooms evaluates your floor plan to help you decide whether simple finish updates or layout modifications make practical sense.",
+        "@type": "Answer",
+        "description": "Choose cosmetic updates if your layout works but looks dated. Opt for structural remodeling if traffic flow is poor, rooms are closed off, or you need to expand your usable footprint."
+      }
+    }
+  ],
+  "description": "Choose cosmetic updates if your layout works but looks dated. Opt for structural remodeling if traffic flow is poor, rooms are closed off, or you need to expand"
+}

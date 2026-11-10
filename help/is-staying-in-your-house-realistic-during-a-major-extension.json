@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Staying in Your House Realistic During a Major Extension?",
+    "text": "Is Staying in Your House Realistic During a Major Extension?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Is it realistic to keep living in your home while adding a major house extension?\n\nYes, in many situations homeowners can remain in their residence during a house extension, but success depends on which parts of the home are affected. Because an addition primarily takes place outside your existing exterior walls during initial excavation, foundation pours, and rough framing, your daily routine inside the main house can proceed with minimal disruption for the first few phases.\n\nThe real challenge begins when contractors break through your home's exterior envelope to connect interior hallways, open up load-bearing walls, or tie in ductwork, plumbing, and electrical panels. If the project expands an existing kitchen or removes primary exterior walls, noise, dust, and temporary utility interruptions increase significantly. \n\nWhat to Prepare Before You Start\n- Set up sealed dust barriers between the main living quarters and the active construction zone.\n- Designate safe exterior pathways so work crews never have to track building materials through your family rooms.\n- Coordinate ahead of time for brief electrical or water shutoffs needed when tying in mechanical lines.\n\nWhen an addition involves complex structural wall removals or main living disruptions, professional coordination is essential to keep daily life orderly. Contact Bay City Remodeling & Bathrooms at 813-362-0114 to review your space.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

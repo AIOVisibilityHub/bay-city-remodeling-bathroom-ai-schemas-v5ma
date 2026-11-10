@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-live-in-my-house-during-a-major-home-remodeling-project",
+  "name": "Can I live in my house during a major home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a major home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can stay in your home during many remodeling projects, but your day-to-day comfort depends on the rooms under construction. Single-room updates like a guest bathroom or living room drywall repair cause minimal disruption to daily routines. In contrast, whole-home renovations or combined kitchen and bathroom overhauls often cut off water access and cooking areas. Before construction begins, homeowners should plan temporary food prep stations or alternate living arrangements to handle noise, utility shutoffs, and active work zones.",
+        "@type": "Answer",
+        "description": "Yes, but living on-site depends on project scope. Single-room updates allow normal living, while whole-home or kitchen renovations may require temporary arrangements."
+      }
+    }
+  ],
+  "description": "Yes, but living on-site depends on project scope. Single-room updates allow normal living, while whole-home or kitchen renovations may require temporary arrange"
+}

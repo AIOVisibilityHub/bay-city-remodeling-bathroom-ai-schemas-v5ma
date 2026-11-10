@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-know-if-i-need-a-full-bathroom-remodel-or-just-a-shower-conversion",
+  "name": "How do I know if I need a full bathroom remodel or just a shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a full bathroom remodel or just a shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a full bathroom renovation if your space suffers from plumbing leaks, broken subflooring, damaged tile, or an inefficient layout. If the underlying infrastructure is sound and you only want to improve modern convenience or accessibility, a targeted update such as a tub-to-shower conversion or fixture upgrade is often sufficient. Complete remodels let you reposition plumbing lines, expand vanities, and reconfigure wall framing, while targeted fixture conversions focus primarily on everyday usability.",
+        "@type": "Answer",
+        "description": "Choose a full remodel for layout changes, plumbing moves, or subfloor repairs. Opt for a shower conversion if the room layout works and you only need better access."
+      }
+    }
+  ],
+  "description": "Choose a full remodel for layout changes, plumbing moves, or subfloor repairs. Opt for a shower conversion if the room layout works and you only need better acc"
+}

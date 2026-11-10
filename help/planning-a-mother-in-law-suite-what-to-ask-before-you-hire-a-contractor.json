@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Planning a Mother-in-Law Suite: What to Ask Before You Hire a Contractor",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a mother-in-law suite for an aging parent or returning family member brings up immediate questions about layout, privacy, and budget. Before you sign an agreement with a remodeling contractor, it pays to ask the right questions to make sure your addition fits your daily life and meets local building standards.\n\nQuestions to Ask Before You Decide\n\nFirst, ask how the builder handles local zoning guidelines and building permits. Whether your suite is an attached bedroom addition or an accessory space, building permits, setback limits, and egress requirements must be sorted out before construction starts. Second, ask how existing home utilities will support the addition. Tying into your home's water lines, sewer connections, and electrical panel often requires upgrades to handle the new load, especially if you plan to add a private bathroom or kitchenette. Third, ask how the project team incorporates accessibility features like walk-in showers, wider doorways, and level thresholds. \n\nA trusted remodeling team coordinates every phase, from drafting plans and rough-in work to drywall and final trim. When you are ready to explore your options in Brandon or the greater Tampa Bay area, reach out to Bay City Remodeling & Bathrooms LLC at 813-362-0114 to request a free quote.",
+  "datePublished": "2026-11-09"
+}

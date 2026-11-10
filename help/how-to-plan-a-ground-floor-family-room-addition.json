@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Ground-Floor Family Room Addition",
+  "step": [
+    {
+      "name": "Step 1: Check your property boundaries and setback lines",
+      "text": "Dig up your property survey to see where your lot lines, utility easements, and setback boundaries sit. Knowing these limits right away prevents you from designing a room that encroaches on local zoning restrictions or neighborhood buffers.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish the room layout and daily functions",
+      "text": "Sketch out how you plan to use the space, including entertainment areas, window placement, and foot traffic flow into the existing house. Consider how natural light enters the room and ensure the interior doorway connects seamlessly without cutting off existing rooms.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Evaluate your existing roofline and foundation",
+      "text": "Look at how the new roof will tie into your existing rafters and determine whether a concrete slab or raised foundation matches your home's structure. You will want clean structural integration so the addition looks original rather than tacked on.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Have complete architectural and structural plans drawn",
+      "text": "Work with a qualified designer or contractor to draft scaled construction plans that account for load-bearing walls, electrical runs, and HVAC duct extensions. These detailed drawings are necessary for accurate pricing and submitting for municipal building permits.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Secure your building and zoning permits",
+      "text": "Submit your scaled plans and current site survey to your local building department for review. Do not break ground or order custom materials until the county or city formally issues your building, electrical, and structural permits.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Coordinate staged inspections through final trim",
+      "text": "Schedule official building inspections as milestones are completed, including the foundation pour, rough framing, rough mechanicals, and final walkthrough. Staged sign-offs ensure every structural connection meets building codes before you move in the furniture. What to Expect During the Process A room addition involves major site work that affects your yard and daily routine. You will experience heavy machinery, framing noise, and temporary dust barriers where the new space joins your main living area. Working with Bay City Remodeling & Bathrooms LLC gives you a single point of contact and dedicated on-site supervision throughout the build. If you are ready to expand your living area in Brandon, call our team at 813-362-0114 for a consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Dig up your property survey to see where your lot lines, utility easements, and setback boundaries sit. Knowing these limits right away prevents you from designing a room that encroaches on local zoni"
+}

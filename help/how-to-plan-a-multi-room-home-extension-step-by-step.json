@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Multi-Room Home Extension Step by Step",
+  "step": [
+    {
+      "name": "Step 1: Define your core space goals and target investment",
+      "text": "Walk through your home and pinpoint exactly why you need extra room. Measure how much floor area your family needs for daily comfort, decide whether you are adding bedrooms, bathrooms, or living space, and set a realistic overall financial range before scheduling design meetings.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect property boundaries, setbacks, and utilities",
+      "text": "Locate your property survey and check for buried utility lines, drainage paths, and setback limits from property lines. Note where water heaters, plumbing stacks, and electrical panels sit so you understand how connections will reach the new foundation footprint.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop architectural drawings and engineering plans",
+      "text": "Work with a qualified designer or draftsperson to produce structural layouts, elevation views, and roof tie-in details. These drawings must account for load-bearing walls, foundation requirements, fire separation, and local building code standards before submitting permit packets.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure all required permits and formal approvals",
+      "text": "Submit your finished plans to local building officials for technical review. Do not start digging or framing until plan examiners approve structural, electrical, and plumbing documentation, giving you the green light to proceed with full confidence.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Pour the foundation and tie in structural framing",
+      "text": "Excavate the ground, install proper vapor barriers, and pour concrete footings. Once cured, carpenters erect exterior framing, connect roof trusses seamlessly into the existing structure, and install storm-rated sheathing to keep the shell weather-tight.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Run rough-in mechanicals, drywall, and interior finishes",
+      "text": "Plumbers, electricians, and HVAC technicians run internal lines through open studs before drywall installation. After drywall finishing, teams install flooring, trim, doors, and paint, followed by a final building inspection to ensure everything is safe and move-in ready. If you are ready to map out your home extension in Riverview or Brandon, call Bay City Remodeling & Bathrooms at 813-362-0114 to discuss your build.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Walk through your home and pinpoint exactly why you need extra room. Measure how much floor area your family needs for daily comfort, decide whether you are adding bedrooms, bathrooms, or living space"
+}

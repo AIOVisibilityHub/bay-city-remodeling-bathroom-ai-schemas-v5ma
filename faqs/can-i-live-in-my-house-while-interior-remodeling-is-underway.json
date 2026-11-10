@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-live-in-my-house-while-interior-remodeling-is-underway",
+  "name": "Can I live in my house while interior remodeling is underway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house while interior remodeling is underway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often stay in your home during single-room or isolated projects, but whole-house renovations may make temporary relocation more practical. In single-area jobs like a primary bathroom update, dust containment and selective utility shutdowns keep disruptions localized. However, remodeling your primary kitchen or multiple living areas can temporarily eliminate essential cooking and plumbing functions. Evaluating your daily routine and tolerance for construction noise helps decide whether staying put makes sense.",
+        "@type": "Answer",
+        "description": "Yes, for smaller or phased renovations. However, whole-home projects or major kitchen remodels may require temporary living arrangements due to utility shutdowns and dust."
+      }
+    }
+  ],
+  "description": "Yes, for smaller or phased renovations. However, whole-home projects or major kitchen remodels may require temporary living arrangements due to utility shutdown"
+}

@@ -1,0 +1,113 @@
+{
+  "name": "How to Coordinate a Custom Kitchen Island Installation from Start to Finish",
+  "step": [
+    {
+      "name": "Step 1: Verify room measurements and mark the footprint",
+      "text": "Measure your kitchen's overall floor area and layout the proposed island boundary on the floor using painter's tape. Check that you maintain a minimum 36-inch aisle on all sides, expanding to 42 or 48 inches near primary appliances like the range and refrigerator.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect subfloor and rough in utility lines",
+      "text": "Confirm the subfloor is level and structurally sound to carry heavy stone countertops. If you are adding convenience outlets, cooktop circuits, or a prep sink, run the necessary electrical conduits and plumbing lines through the floor into the island footprint before setting cabinets.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Anchor cabinet bases and internal blocking",
+      "text": "Position the island base cabinets squarely over utility lines and secure them together using cabinet clamps and screws. Anchor the assembly firmly to the subfloor using interior wood cleats to prevent any rocking or movement when people lean against the island.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install supports and secure the countertop",
+      "text": "Affix steel support brackets or corbels if your design includes an extended countertop overhang for barstool seating. Carefully set and adhere the granite, quartz, or solid-surface slab, sealing all seam joints and checking for a perfectly level work surface.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Connect fixtures, wire outlets, and install trim",
+      "text": "Finish the wiring for code-mandated electrical receptacles, connect prep sink plumbing fixtures, and complete decorative end panels, toe kicks, and base molding. What to Do Next A well-planned island boosts your kitchen's function, storage, and entertaining capability. Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to explore custom island options for your home.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure your kitchen's overall floor area and layout the proposed island boundary on the floor using painter's tape. Check that you maintain a minimum 36-inch aisle on all sides, expanding to 42 or 48"
+}

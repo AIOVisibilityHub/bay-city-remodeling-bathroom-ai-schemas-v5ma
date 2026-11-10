@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-i-know-if-water-damaged-drywall-can-be-patched-or-needs-total-replacement",
+  "name": "How do I know if water-damaged drywall can be patched or needs total replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if water-damaged drywall can be patched or needs total replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall must be replaced whenever it becomes soft, bowed, spongy, or discolored from prolonged exposure. While minor surface moisture might dry out, drywall cores lose structural integrity and harbor hidden deterioration once saturated. During repair, technicians cut away damaged sections at least a few inches above the highest water mark back to clean framing studs. This allows proper drying and creates a solid, secure base for new drywall installation and smooth finishing.",
+        "@type": "Answer",
+        "description": "If the drywall is soft, sagging, or water-soaked through the core, it must be cut out and replaced rather than patched."
+      }
+    }
+  ],
+  "description": "If the drywall is soft, sagging, or water-soaked through the core, it must be cut out and replaced rather than patched."
+}

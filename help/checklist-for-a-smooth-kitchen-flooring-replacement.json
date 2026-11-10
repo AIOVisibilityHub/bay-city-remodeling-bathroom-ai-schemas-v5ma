@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for a Smooth Kitchen Flooring Replacement",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for a Smooth Kitchen Flooring Replacement",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure exact square footage plus 10% to 15% extra — this ensures you have enough material to cover cut was…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure exact square footage plus 10% to 15% extra — this ensures you have enough material to cover cut waste, pattern matching, and future repairs."
+      },
+      {
+        "name": "Inspect the subfloor for squeaks, dips, or soft spots — damaged wood or crumbling concrete will cause new f…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Inspect the subfloor for squeaks, dips, or soft spots — damaged wood or crumbling concrete will cause new floors to buckle or crack over time."
+      },
+      {
+        "name": "Test the concrete slab or crawlspace for excess moisture — high humidity or damp slabs require a designated…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Test the concrete slab or crawlspace for excess moisture — high humidity or damp slabs require a designated moisture barrier or specialized underlayment."
+      },
+      {
+        "name": "Measure appliance clearances under existing countertops — thicker replacement materials can trap dishwasher…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Measure appliance clearances under existing countertops — thicker replacement materials can trap dishwashers or block slide-in ranges from fitting smoothly."
+      },
+      {
+        "name": "Check door swings and pantry thresholds — adding height to the floor may require trimming the bottom of int…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Check door swings and pantry thresholds — adding height to the floor may require trimming the bottom of interior doors and pantry casing."
+      },
+      {
+        "name": "Acclimate hardwood or vinyl planks in the kitchen — allowing materials to sit in the home's climate control…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Acclimate hardwood or vinyl planks in the kitchen — allowing materials to sit in the home's climate controls prevents post-installation gaps and buckling."
+      },
+      {
+        "name": "Choose transition strips between the kitchen and adjacent rooms — coordinating flush joints prevents trip h…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Choose transition strips between the kitchen and adjacent rooms — coordinating flush joints prevents trip hazards between different flooring heights."
+      },
+      {
+        "name": "Empty out base cabinets or clear floor-level kickplates — clearing out fragile dishware protects items from…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Empty out base cabinets or clear floor-level kickplates — clearing out fragile dishware protects items from accidental vibration during tear-out."
+      }
+    ]
+  },
+  "articleBody": "Replacing your kitchen floor transforms the entire room, but the secret to a floor that stays quiet and level for decades happens before the first plank or tile is laid. Here is your essential checklist to make sure your space is ready for installation day.\n\n- [ ] Measure exact square footage plus 10% to 15% extra — this ensures you have enough material to cover cut waste, pattern matching, and future repairs.\n- [ ] Inspect the subfloor for squeaks, dips, or soft spots — damaged wood or crumbling concrete will cause new floors to buckle or crack over time.\n- [ ] Test the concrete slab or crawlspace for excess moisture — high humidity or damp slabs require a designated moisture barrier or specialized underlayment.\n- [ ] Measure appliance clearances under existing countertops — thicker replacement materials can trap dishwashers or block slide-in ranges from fitting smoothly.\n- [ ] Check door swings and pantry thresholds — adding height to the floor may require trimming the bottom of interior doors and pantry casing.\n- [ ] Acclimate hardwood or vinyl planks in the kitchen — allowing materials to sit in the home's climate controls prevents post-installation gaps and buckling.\n- [ ] Choose transition strips between the kitchen and adjacent rooms — coordinating flush joints prevents trip hazards between different flooring heights.\n- [ ] Empty out base cabinets or clear floor-level kickplates — clearing out fragile dishware protects items from accidental vibration during tear-out.\n\nHow to use this checklist:\nReview these points during your initial planning phase so there are no surprises when demolition starts. If checking your subfloor or measuring finished heights feels daunting, Bay City Remodeling & Bathrooms LLC can assess your kitchen and handle your flooring project. Call 813-362-0114 to set up a consultation.",
+  "datePublished": "2026-11-09"
+}

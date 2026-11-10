@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-does-a-typical-living-room-remodeling-project-include",
+  "name": "What does a typical living room remodeling project include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a typical living room remodeling project include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living room remodel can encompass cosmetic updates or structural transformations. Common upgrades include reconfiguring the layout to create an open concept, installing new flooring, updating lighting, adding built-in cabinetry, and repairing or replacing drywall on walls and ceilings. Homeowners also frequently tie living room updates into adjacent kitchen renovations or home additions to create a cohesive flow across main living spaces. The specific scope depends on whether your priority is refreshing dated finishes or expanding usable space. Bay City Remodeling & Bathrooms reviews existing layouts and goals during an initial consultation to determine the appropriate structural and aesthetic plan.",
+        "@type": "Answer",
+        "description": "Living room remodeling includes layout changes, flooring, lighting, drywall repair, and built-ins. Projects can range from simple surface updates to full open-concept structural renovations."
+      }
+    }
+  ],
+  "description": "Living room remodeling includes layout changes, flooring, lighting, drywall repair, and built-ins. Projects can range from simple surface updates to full open-c"
+}

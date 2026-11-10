@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-laundry-room-remodel-take-from-start-to-finish",
+  "name": "How long does a laundry room remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a laundry room remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard laundry room renovation typically takes between one and three weeks once work begins, depending on the project scope. Projects that involve only replacing cabinets, drywall patching, and installing new tile flooring move quickly. Timelines extend if your plan requires rerouting plumbing for a new utility sink, moving dryer vents, reconfiguring partition walls, or waiting on custom-ordered storage cabinetry. Our project managers coordinate trade schedules and inspections to keep the installation moving without unnecessary delays.",
+        "@type": "Answer",
+        "description": "Most laundry room remodels take one to three weeks of active construction, depending on plumbing adjustments, custom cabinetry, and electrical work."
+      }
+    }
+  ],
+  "description": "Most laundry room remodels take one to three weeks of active construction, depending on plumbing adjustments, custom cabinetry, and electrical work."
+}

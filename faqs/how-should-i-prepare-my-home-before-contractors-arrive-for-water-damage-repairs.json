@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-home-before-contractors-arrive-for-water-damage-repairs",
+  "name": "How should I prepare my home before contractors arrive for water-damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before contractors arrive for water-damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a repair team arrives, turn off the water supply if the leak is active and clear personal items, rugs, and furniture from the work zone. Photograph the damage thoroughly for your personal records or insurance files before materials are removed. Ensure pets are secured and identify a clear pathway from the home entry to the damaged room so technicians can transport materials, drywall sheets, and tools safely.",
+        "@type": "Answer",
+        "description": "Shut off the water, document the area with photos, clear furniture from the room, and secure a clean pathway for the construction crew."
+      }
+    }
+  ],
+  "description": "Shut off the water, document the area with photos, clear furniture from the room, and secure a clean pathway for the construction crew."
+}

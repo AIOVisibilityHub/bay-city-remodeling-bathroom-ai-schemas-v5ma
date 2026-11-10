@@ -1,0 +1,119 @@
+{
+  "name": "How to Move Through a Full Home Expansion from Survey to Framing",
+  "step": [
+    {
+      "name": "Step 1: Complete the site survey and verify zoning limits",
+      "text": "Order an updated property survey to map out your exact property boundaries, building setbacks, and current lot coverage percentages. This confirms your proposed square footage fits within your municipality's residential development rules before you spend money on custom design.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Create comprehensive architectural and structural blueprints",
+      "text": "Hire a qualified drafting professional or contractor to produce detailed blueprints that specify foundation depths, wall framing sizes, roof tie-in details, and window schedules. Having thorough construction documents ensures accurate subcontract pricing and smooth municipal reviews.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Submit permit applications and clear technical plan reviews",
+      "text": "Provide your building plans, site survey, and energy calculations to the local building department for review. Expect examiners to verify zoning compliance, storm drainage, and structural tie-ins, and prepare to submit any requested plan corrections promptly.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Excavate the site and pour the concrete foundation",
+      "text": "Clear the building footprint, trench for footers, install required underground plumbing or moisture barriers, and pour the concrete foundation slab. Ensure the concrete cures properly and passes its initial municipal inspection before framing lumber arrives on your property.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Frame the structural envelope and dry in the roof",
+      "text": "Erect exterior load-bearing walls, install ceiling joists or roof trusses, and secure exterior wall sheathing. Once the roof decking is installed and sealed with weather barrier underlayment, the addition is dried in and protected against sudden rain.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Run rough mechanicals and pass pre-drywall inspections",
+      "text": "Route electrical wiring, HVAC ducting, and rough plumbing through open wall studs before adding insulation and drywall. Schedule county or municipal trade inspectors to review the rough mechanical work and framing connections before closing up the walls. What Can Change the Right Choice Soil conditions, existing roof angles, and the location of underground utilities can alter your expansion layout or require specialized foundation footings. Bay City Remodeling & Bathrooms LLC manages every phase of home expansions across the Tampa Bay area with neat jobsites and regular updates. Call us at 813-362-0114 to discuss your home expansion.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Order an updated property survey to map out your exact property boundaries, building setbacks, and current lot coverage percentages. This confirms your proposed square footage fits within your municip"
+}

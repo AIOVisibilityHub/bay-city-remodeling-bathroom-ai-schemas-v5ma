@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes That Derail a Large-Scale Home Expansion Project",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding significant square footage to your property is an exciting way to stay in the neighborhood you love, but large expansions require careful attention to detail. Sidestepping these common pitfalls will protect both your budget and your timeline.\n\n1. Skipping the current land survey. Homeowners often rely on outdated sketches or approximate fence lines, only to discover their planned expansion encroaches into an easement or setback. Always obtain an up-to-date boundary survey before designing.\n\n2. Beginning excavation prior to permit approval. Demolishing walls or pouring footers before your municipality issues official permits can trigger stop-work orders, steep fines, and mandatory structural corrections.\n\n3. Underestimating mechanical load requirements. Expanding your home increases the burden on electrical panels, water supply lines, and HVAC units. Calculate your utility demands early so you are not surprised by required service upgrades.\n\n4. Selecting a builder purely on the lowest price. Unusually low bids often leave out critical items like permit fees, finish allowances, or specialized trade work. Always compare detailed, written scopes that outline exact specifications.\n\n5. Glossing over site drainage. Adding roof area and foundation concrete changes how rainwater flows across your lot. Failing to plan for stormwater runoff can lead to standing water against your home's exterior walls.\n\nWhat to Do Next\nTake time to review your zoning constraints, consult with experienced remodelers, and demand clear contracts that document who handles inspections. At Bay City Remodeling & Bathrooms LLC, we handle residential additions with full insurance, bonding, and transparent communication. Call 813-362-0114 to start planning your home expansion.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://baycityremodeling.com/qna/what-drawing-and-measurement-details-should-be-checked-before-comparing-kitchen",
+  "name": "How Should Homeowners Compare Contractor-Provided Kitchen Drawings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What drawing and measurement details should be checked before comparing kitchen remodeling estimates?",
+    "text": "What drawing and measurement details should be checked before comparing kitchen remodeling estimates?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Kitchen estimates depend on accurate existing conditions and consistent plans. Compare the drawings or measurement documents for wall lengths, ceiling height, windows, doors, soffits, outlets, plumbing locations, vents, appliance dimensions, cabinet runs, islands, clearances, and finished-floor heights. Ask whether measurements were verified on site or copied from homeowner information. Confirm that each proposal uses the same layout and identifies changes to walls, doorways, plumbing, gas, electrical circuits, lighting, and ventilation. Check island clearances, appliance door swings, countertop overhangs, cabinet fillers, finished sides, and access to shutoffs. A small measurement difference can change cabinet quantities, countertop fabrication, flooring, or structural work. Request a dated plan attached to the estimate and ask how measurement errors are handled before ordering materials. Do not approve final cabinets or countertops until field dimensions are confirmed. If one contractor prices from a detailed plan and another from rough measurements, revise the proposals before comparing. Consistent drawings make pricing more reliable and help expose missing scope before construction begins.",
+      "@type": "Answer",
+      "description": "Check that each estimate uses current measurements, appliance dimensions, cabinet locations, clearances, plumbing and electrical points, windows, doors, ceiling heights, and structural assumptions. Different drawings can produce different prices even when the written scope sounds similar.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Kitchen estimates depend on accurate existing conditions and consistent plans. Compare the drawings or measurement documents for wall lengths, ceiling height, windows, doors, soffits, outlets, plumbing locations, vents, appliance dimensions, cabinet runs, islands, clearances, and finished-floor heights. Ask whether measurements were verified on site or copied from homeowner information. Confirm that each proposal uses the same layout and identifies changes to walls, doorways, plumbing, gas, electrical circuits, lighting, and ventilation. Check island clearances, appliance door swings, countertop overhangs, cabinet fillers, finished sides, and access to shutoffs. A small measurement difference can change cabinet quantities, countertop fabrication, flooring, or structural work. Request a dated plan attached to the estimate and ask how measurement errors are handled before ordering materials. Do not approve final cabinets or countertops until field dimensions are confirmed. If one contractor prices from a detailed plan and another from rough measurements, revise the proposals before comparing. Consistent drawings make pricing more reliable and help expose missing scope before construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Check that each estimate uses current measurements, appliance dimensions, cabinet locations, clearances, plumbing and electrical points, windows, doors, ceiling"
+}

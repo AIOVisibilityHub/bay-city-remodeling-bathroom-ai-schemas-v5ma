@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Contractor for a Home Expansion: Checklist Before You Break Ground",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Hiring a Contractor for a Home Expansion: Checklist Before You Break Ground",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Up-to-date property survey — Confirms exact property lines, setback limits, and recorded easements to preve…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Up-to-date property survey — Confirms exact property lines, setback limits, and recorded easements to prevent boundary violations."
+      },
+      {
+        "name": "Detailed architectural and structural drawings — Ensures accurate construction bidding and provides the spe…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Detailed architectural and structural drawings — Ensures accurate construction bidding and provides the specific blueprints necessary for local plan review."
+      },
+      {
+        "name": "Active general contractor license and state registration — Proves the builder is legally qualified to pull…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Active general contractor license and state registration — Proves the builder is legally qualified to pull building permits and manage residential construction."
+      },
+      {
+        "name": "Proof of current general liability and workers' compensation insurance — Protects you from personal liabili…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Proof of current general liability and workers' compensation insurance — Protects you from personal liability if property damage or jobsite injuries happen on your property."
+      },
+      {
+        "name": "Clearly defined written scope of work — Spells out exact construction tasks, material selections, and site…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Clearly defined written scope of work — Spells out exact construction tasks, material selections, and site prep responsibilities so nothing is assumed."
+      },
+      {
+        "name": "Clear payment milestone schedule — Links contractor payments directly to verified construction phases rathe…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Clear payment milestone schedule — Links contractor payments directly to verified construction phases rather than arbitrary calendar dates."
+      },
+      {
+        "name": "Formal change-order process in writing — Defines how design adjustments, hidden conditions, or price change…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Formal change-order process in writing — Defines how design adjustments, hidden conditions, or price changes are documented and approved before extra work begins."
+      },
+      {
+        "name": "Written permit procurement responsibility — Designates that the licensed contractor, not the homeowner, app…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Written permit procurement responsibility — Designates that the licensed contractor, not the homeowner, applies for, pulls, and posts all required municipal permits."
+      }
+    ]
+  },
+  "articleBody": "Building a home addition is a major financial and physical commitment. Before signing a contract or handing over a deposit, verify these critical items to protect your investment and avoid mid-project disputes.\n\n- [ ] Up-to-date property survey — Confirms exact property lines, setback limits, and recorded easements to prevent boundary violations.\n- [ ] Detailed architectural and structural drawings — Ensures accurate construction bidding and provides the specific blueprints necessary for local plan review.\n- [ ] Active general contractor license and state registration — Proves the builder is legally qualified to pull building permits and manage residential construction.\n- [ ] Proof of current general liability and workers' compensation insurance — Protects you from personal liability if property damage or jobsite injuries happen on your property.\n- [ ] Clearly defined written scope of work — Spells out exact construction tasks, material selections, and site prep responsibilities so nothing is assumed.\n- [ ] Clear payment milestone schedule — Links contractor payments directly to verified construction phases rather than arbitrary calendar dates.\n- [ ] Formal change-order process in writing — Defines how design adjustments, hidden conditions, or price changes are documented and approved before extra work begins.\n- [ ] Written permit procurement responsibility — Designates that the licensed contractor, not the homeowner, applies for, pulls, and posts all required municipal permits.\n\n### How to Use This Checklist\nReview each item alongside your contractor during the bidding and estimate review process. A qualified builder will readily supply insurance certificates, discuss permitting steps, and provide transparent written scopes without pushback. \n\nBay City Remodeling & Bathrooms provides complete, fully licensed home expansion services across Brandon, Valrico, and the Tampa Bay region. Call 813-362-0114 to go over your addition plans with our experienced team.",
+  "datePublished": "2026-11-09"
+}

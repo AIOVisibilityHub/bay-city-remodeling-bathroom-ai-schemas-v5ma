@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-install-a-structural-beam-for-an-open-layout-or-keep-a-half-wall-instea",
+  "name": "Should I install a structural beam for an open layout or keep a half-wall instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install a structural beam for an open layout or keep a half-wall instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners should choose an engineered support beam when they need to remove an entire load-bearing wall, but a partial wall or pass-through opening is better when keeping some separation or utility runs. A full beam opens up the floor plan completely, improving sightlines and natural light between kitchens and living areas, but it requires temporary shoring and structural modifications. A pass-through or half-wall (knee wall) offers a practical tradeoff: it creates an open, connected feel while preserving wall space for electrical outlets, plumbing, base cabinetry, or kitchen island placement without requiring full-span beam reconstruction.",
+        "@type": "Answer",
+        "description": "A structural beam provides a completely open floor plan, whereas a half-wall retains electrical and plumbing runs while still enhancing light and sightlines."
+      }
+    }
+  ],
+  "description": "A structural beam provides a completely open floor plan, whereas a half-wall retains electrical and plumbing runs while still enhancing light and sightlines."
+}

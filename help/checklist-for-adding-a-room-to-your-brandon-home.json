@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Adding a Room to Your Brandon Home",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Adding a Room to Your Brandon Home",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Recent property survey — Ensures you know exact boundary lines and easements before drawing expansion plans.",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Recent property survey — Ensures you know exact boundary lines and easements before drawing expansion plans."
+      },
+      {
+        "name": "Local setback and lot-coverage calculations — Confirms the planned footprint leaves required buffer space f…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Local setback and lot-coverage calculations — Confirms the planned footprint leaves required buffer space from property lines."
+      },
+      {
+        "name": "Existing home electrical panel rating — Verifies whether your current service can support additional lighti…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Existing home electrical panel rating — Verifies whether your current service can support additional lighting, HVAC, and power outlets."
+      },
+      {
+        "name": "Roofline and drainage tie-in assessment — Prevents rainwater runoff from backing up into the junction betwe…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Roofline and drainage tie-in assessment — Prevents rainwater runoff from backing up into the junction between old and new roofs."
+      },
+      {
+        "name": "HVAC load calculation for new square footage — Determines whether your central unit can cool the space or i…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "HVAC load calculation for new square footage — Determines whether your central unit can cool the space or if a dedicated system is required."
+      },
+      {
+        "name": "Building permit application documents — Required by local building departments before starting any foundati…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Building permit application documents — Required by local building departments before starting any foundation, framing, or mechanical work."
+      },
+      {
+        "name": "Written itemized contractor agreement — Specifies material allowances, scope of work, warranty coverage, an…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Written itemized contractor agreement — Specifies material allowances, scope of work, warranty coverage, and staged payment schedules."
+      },
+      {
+        "name": "Neighboring property buffer review — Makes sure scaffolding, equipment, and material staging stay within yo…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Neighboring property buffer review — Makes sure scaffolding, equipment, and material staging stay within your legal property boundaries."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Recent property survey — Ensures you know exact boundary lines and easements before drawing expansion plans.\n- [ ] Local setback and lot-coverage calculations — Confirms the planned footprint leaves required buffer space from property lines.\n- [ ] Existing home electrical panel rating — Verifies whether your current service can support additional lighting, HVAC, and power outlets.\n- [ ] Roofline and drainage tie-in assessment — Prevents rainwater runoff from backing up into the junction between old and new roofs.\n- [ ] HVAC load calculation for new square footage — Determines whether your central unit can cool the space or if a dedicated system is required.\n- [ ] Building permit application documents — Required by local building departments before starting any foundation, framing, or mechanical work.\n- [ ] Written itemized contractor agreement — Specifies material allowances, scope of work, warranty coverage, and staged payment schedules.\n- [ ] Neighboring property buffer review — Makes sure scaffolding, equipment, and material staging stay within your legal property boundaries.\n\nHow to use this checklist:\nWalk through each item with your project team before finalizing contracts or ordering materials. Confirming zoning, structural ties, and power capacity early keeps your build on track and within budget. For expert planning in Brandon and nearby communities, contact Bay City Remodeling & Bathrooms at 813-362-0114.",
+  "datePublished": "2026-11-09"
+}

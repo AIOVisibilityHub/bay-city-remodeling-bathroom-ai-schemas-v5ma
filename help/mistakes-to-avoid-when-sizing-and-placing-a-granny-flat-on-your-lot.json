@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Sizing and Placing a Granny Flat on Your Lot",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Homeowners frequently run into surprises when adding a detached or attached secondary dwelling because site conditions vary dramatically between parcels. Knowing what to watch for helps you budget accurately and avoid costly project delays.\n\nCommon Mistakes to Avoid:\n\n1. Assuming small additions skip permitting: Many owners believe compact footprints are exempt from standard building codes. Every habitable secondary space requires documented engineering, local permits, and routine inspections to remain fully compliant and insurable.\n\n2. Overlooking underground utility capacity: Adding a kitchen, bathroom, and air conditioning places extra load on your electrical panel, sewer line, or septic system. Forgetting to verify your main panel amperage or sewer tie-in depths can require surprise utility upgrades mid-project.\n\n3. Ignoring setback and lot coverage maximums: Even if your yard looks spacious, municipal setbacks from fences, property lines, and easements dictate where framing can occur. Building over an easement or into a rear setback invites stop-work orders.\n\n4. Neglecting natural site drainage: Roof runoff and newly added concrete footprints change how rainwater flows across your yard. Failing to grade away from the new foundation can pool water against the building.\n\n5. Planning only for immediate physical needs: Designing solely for a healthy occupant can make future mobility tough. Skipping wide doorways or level thresholds creates expensive renovation needs later.\n\nWhat to Do Next:\nTake time to review your property survey and map out where lines run before finalizing any architectural plans. When you need help planning an addition that fits your property parameters, contact Bay City Remodeling & Bathrooms at 813-362-0114 for experienced guidance.",
+  "datePublished": "2026-11-09"
+}

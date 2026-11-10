@@ -1,0 +1,153 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Garage Conversion Checklist: What to Verify Before You Hire a Contractor",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Garage Conversion Checklist: What to Verify Before You Hire a Contractor",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Property survey and plot plan — verify boundary setbacks and confirm where required off-street parking can…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Property survey and plot plan — verify boundary setbacks and confirm where required off-street parking can be relocated on site."
+      },
+      {
+        "name": "Written confirmation of local zoning rules — ensure your municipality permits converting vehicle storage in…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Written confirmation of local zoning rules — ensure your municipality permits converting vehicle storage into livable residential square footage."
+      },
+      {
+        "name": "Moisture test of the concrete slab — establish whether a specialized vapor barrier or leveling compound is…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Moisture test of the concrete slab — establish whether a specialized vapor barrier or leveling compound is needed to protect finished flooring."
+      },
+      {
+        "name": "Dedicated HVAC load calculation — ensure the existing home heating and cooling system or a new ductless uni…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Dedicated HVAC load calculation — ensure the existing home heating and cooling system or a new ductless unit can adequately condition the space."
+      },
+      {
+        "name": "Electrical service panel capacity check — confirm your breaker panel has sufficient open slots to support n…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Electrical service panel capacity check — confirm your breaker panel has sufficient open slots to support new lighting, outlets, and equipment."
+      },
+      {
+        "name": "Wall and ceiling insulation plan — check that specified insulation meets current thermal envelope standards…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Wall and ceiling insulation plan — check that specified insulation meets current thermal envelope standards for conditioned residential spaces."
+      },
+      {
+        "name": "Window and egress specifications — verify that proposed windows provide sufficient square footage for emerg…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Window and egress specifications — verify that proposed windows provide sufficient square footage for emergency escape and natural illumination."
+      },
+      {
+        "name": "Infill wall framing and exterior finish detail — confirm the plan details how the old overhead door opening…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Infill wall framing and exterior finish detail — confirm the plan details how the old overhead door opening will be tied into siding or stucco."
+      },
+      {
+        "name": "Itemized contractor scope of work — verify who handles drawing preparation, building permit applications, a…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Itemized contractor scope of work — verify who handles drawing preparation, building permit applications, and required rough and final inspections."
+      }
+    ]
+  },
+  "articleBody": "Before converting an attached or detached garage into finished living quarters, reviewing your plans against structural and jurisdictional realities keeps your remodel on track. Use this practical preparation list to verify essential requirements before signing a contract.\n\n- [ ] Property survey and plot plan — verify boundary setbacks and confirm where required off-street parking can be relocated on site.\n- [ ] Written confirmation of local zoning rules — ensure your municipality permits converting vehicle storage into livable residential square footage.\n- [ ] Moisture test of the concrete slab — establish whether a specialized vapor barrier or leveling compound is needed to protect finished flooring.\n- [ ] Dedicated HVAC load calculation — ensure the existing home heating and cooling system or a new ductless unit can adequately condition the space.\n- [ ] Electrical service panel capacity check — confirm your breaker panel has sufficient open slots to support new lighting, outlets, and equipment.\n- [ ] Wall and ceiling insulation plan — check that specified insulation meets current thermal envelope standards for conditioned residential spaces.\n- [ ] Window and egress specifications — verify that proposed windows provide sufficient square footage for emergency escape and natural illumination.\n- [ ] Infill wall framing and exterior finish detail — confirm the plan details how the old overhead door opening will be tied into siding or stucco.\n- [ ] Itemized contractor scope of work — verify who handles drawing preparation, building permit applications, and required rough and final inspections.\n\nHow to use this checklist: Gather your initial site notes and take these items into your consultation. Clear answers on each point prevent surprise change orders and unpermitted work. Bay City Remodeling & Bathrooms provides expert design, permitting assistance, and complete construction services in Brandon and nearby communities. Call 813-362-0114 to review your conversion plans today.",
+  "datePublished": "2026-11-09"
+}

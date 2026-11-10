@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-overall-cost-of-converting-a-garage",
+  "name": "What factors influence the overall cost of converting a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the overall cost of converting a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost depends on your intended layout, existing infrastructure, and whether you are adding plumbing. A straightforward dry conversion—such as a home gym, recreation room, or private office—requires framing the garage door opening, adding drywall, leveling the slab, upgrading insulation, and installing flooring and electrical work. Costs increase significantly if you design an accessory dwelling unit or guest suite with a private bathroom and kitchenette. Trenching concrete for waste lines, installing a dedicated water heater, upgrading the main electrical panel, and adding a mini-split HVAC system all expand the overall scope and budget.",
+        "@type": "Answer",
+        "description": "Costs vary based on structural framing, insulation, electrical needs, and whether you add dedicated plumbing for a bathroom or kitchenette."
+      }
+    }
+  ],
+  "description": "Costs vary based on structural framing, insulation, electrical needs, and whether you add dedicated plumbing for a bathroom or kitchenette."
+}

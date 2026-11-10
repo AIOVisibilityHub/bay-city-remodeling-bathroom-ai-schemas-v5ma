@@ -1,0 +1,119 @@
+{
+  "name": "Step-by-Step Timeline for Installing a Custom Kitchen Island with Power and Plumbing",
+  "step": [
+    {
+      "name": "Step 1: Layout planning and aisle verification",
+      "text": "Start by measuring your kitchen walkways to confirm your space accommodates an island. Standard planning calls for at least 42 inches of clearance for a single cook and 48 inches for multiple cooks, with minimum 36-inch walkways, making sure open dishwasher and refrigerator doors do not block movement.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Subfloor prep and rough-in utility runs",
+      "text": "Once dimensions are set, cut into the flooring to bring up dedicated electrical circuits and any water or drain lines. Kitchen islands require GFCI-protected outlets per local building standards, and venting or plumbing drops must be secured in the floor framing before any cabinetry arrives.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Base cabinet anchoring and leveling",
+      "text": "Set the base cabinetry onto the subfloor, using blocking to anchor the structure firmly so it cannot shift under weight. Level the boxes carefully in both directions, shimming beneath the bases to create a perfectly flat plane that will support stone countertops without flexing.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Countertop templating and fabrication",
+      "text": "With cabinets locked into place, measure and create templates for your island top, accounting for decorative end panels and overhang depth. Fabricators cut the stone over the course of 5 to 10 business days, cutting out any openings needed for prep sinks, cooktops, or pop-up receptacles.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Surface setting and overhang reinforcement",
+      "text": "Install heavy-duty steel support brackets across knee walls or seating overhangs to carry the counter's weight safely. Technicians then place the stone, align and epoxy any seams, and seal all edges against the cabinet structure.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Fixture installation and final connections",
+      "text": "Wrap up the installation by wiring in the island outlets, installing your chosen pendant lighting overhead, and connecting the faucet, disposal, or dishwasher lines. Once finishes are cleaned and tested, your new central hub is ready for daily cooking and gathering. Planning a kitchen renovation in Brandon or nearby communities? Call Bay City Remodeling & Bathrooms at 813-362-0114 to design and build an island tailored to your home.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Start by measuring your kitchen walkways to confirm your space accommodates an island. Standard planning calls for at least 42 inches of clearance for a single cook and 48 inches for multiple cooks, w"
+}

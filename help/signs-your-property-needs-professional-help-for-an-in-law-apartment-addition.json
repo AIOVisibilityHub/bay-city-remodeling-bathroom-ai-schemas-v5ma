@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Property Needs Professional Help for an In-Law Apartment Addition",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building or converting an apartment on your property involves structural changes, safety regulations, and specialized trade coordination. While simple cosmetic updates are straightforward, creating a functional living unit quickly exceeds regular DIY capabilities.\n\nWhen Professional Guidance Helps\n\n- You need to add a full bathroom or cooking space: Running new drain stacks, water supply pipes, and dedicated electrical circuits requires pulling permits and adhering to residential plumbing and electrical codes.\n- Your property has tight setback or zoning limits: Verifying whether your lot supports detached construction or an expanded footprint requires careful site assessment and permit planning.\n- The project involves altering load-bearing framing: Removing exterior walls, cutting new doorways, or modifying roof lines demands structural verification to protect your home's integrity.\n- You need accessible bathing and zero-threshold entries: Custom walk-in showers, ADA-compliant shower pans, and widened entries require precise waterproofing and carpentry skills to prevent water damage and hazards.\n- You must establish proper fire separation and emergency exits: Creating an apartment often requires continuous fire-rated drywall assemblies and specific egress window dimensions.\n\nBringing in a seasoned team prevents expensive structural mistakes and inspection failures. Bay City Remodeling & Bathrooms LLC handles home additions and major renovations across Brandon and surrounding communities. Call 813-362-0114 to set up a consultation.",
+  "datePublished": "2026-11-09"
+}

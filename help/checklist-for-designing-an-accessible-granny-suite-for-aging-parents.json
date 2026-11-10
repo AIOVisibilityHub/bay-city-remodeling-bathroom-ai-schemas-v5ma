@@ -1,0 +1,153 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Designing an Accessible Granny Suite for Aging Parents",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Designing an Accessible Granny Suite for Aging Parents",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Zero-threshold exterior and interior entryways — eliminating raised doorway sills prevents tripping hazards…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Zero-threshold exterior and interior entryways — eliminating raised doorway sills prevents tripping hazards for walkers and wheelchairs."
+      },
+      {
+        "name": "Minimum 36-inch wide interior doorways — wide passage frames allow easy movement between rooms without scra…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Minimum 36-inch wide interior doorways — wide passage frames allow easy movement between rooms without scraping knuckles or bumping equipment."
+      },
+      {
+        "name": "Reinforced bathroom wall blocking — hidden wooden backing behind drywall allows secure installation of grab…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Reinforced bathroom wall blocking — hidden wooden backing behind drywall allows secure installation of grab bars near toilets and showers either now or later."
+      },
+      {
+        "name": "Curbless walk-in shower with bench seating — a roll-in, lip-free shower pan eliminates the dangerous step o…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Curbless walk-in shower with bench seating — a roll-in, lip-free shower pan eliminates the dangerous step over a tub edge."
+      },
+      {
+        "name": "Lever-style handles on all doors and plumbing fixtures — levers are much easier to turn for hands dealing w…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Lever-style handles on all doors and plumbing fixtures — levers are much easier to turn for hands dealing with arthritis compared to round knobs."
+      },
+      {
+        "name": "Slip-resistant tile flooring with tight grout lines — smooth, matte surfaces reduce slip potential while su…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Slip-resistant tile flooring with tight grout lines — smooth, matte surfaces reduce slip potential while supporting steady foot traction."
+      },
+      {
+        "name": "Raised electrical outlets and rocker light switches — placing outlets slightly higher reduces deep bending,…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Raised electrical outlets and rocker light switches — placing outlets slightly higher reduces deep bending, while large rockers are simple to tap."
+      },
+      {
+        "name": "Dedicated mini-split temperature controls — personal climate management keeps the suite comfortable without…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Dedicated mini-split temperature controls — personal climate management keeps the suite comfortable without forcing household-wide thermostat battles."
+      },
+      {
+        "name": "Accessible galley kitchenette with low-profile counters — lower prep areas and shallow sinks make light mea…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Accessible galley kitchenette with low-profile counters — lower prep areas and shallow sinks make light meal prep safe and independent."
+      }
+    ]
+  },
+  "articleBody": "Creating a comfortable secondary living suite for an aging parent requires balancing personal autonomy with safety and accessibility. A thoughtful layout avoids common mobility hazards while blending seamlessly into the home.\n\n- [ ] Zero-threshold exterior and interior entryways — eliminating raised doorway sills prevents tripping hazards for walkers and wheelchairs.\n- [ ] Minimum 36-inch wide interior doorways — wide passage frames allow easy movement between rooms without scraping knuckles or bumping equipment.\n- [ ] Reinforced bathroom wall blocking — hidden wooden backing behind drywall allows secure installation of grab bars near toilets and showers either now or later.\n- [ ] Curbless walk-in shower with bench seating — a roll-in, lip-free shower pan eliminates the dangerous step over a tub edge.\n- [ ] Lever-style handles on all doors and plumbing fixtures — levers are much easier to turn for hands dealing with arthritis compared to round knobs.\n- [ ] Slip-resistant tile flooring with tight grout lines — smooth, matte surfaces reduce slip potential while supporting steady foot traction.\n- [ ] Raised electrical outlets and rocker light switches — placing outlets slightly higher reduces deep bending, while large rockers are simple to tap.\n- [ ] Dedicated mini-split temperature controls — personal climate management keeps the suite comfortable without forcing household-wide thermostat battles.\n- [ ] Accessible galley kitchenette with low-profile counters — lower prep areas and shallow sinks make light meal prep safe and independent.\n\nHow to use this checklist:\nWalk through your proposed living space with this list in hand before framing or rough plumbing begins. Verifying structural blocking, doorway openings, and plumbing rough-ins during early construction avoids costly tear-outs after the drywall is finished. \n\nIf you are planning an accessible granny suite in Brandon or the surrounding Tampa Bay communities, contact Bay City Remodeling & Bathrooms at 813-362-0114 to review your space.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-you-prepare-a-sloped-garage-concrete-floor-for-finished-flooring",
+  "name": "How do you prepare a sloped garage concrete floor for finished flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prepare a sloped garage concrete floor for finished flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete garage floors are usually built on an uninsulated slab that slopes slightly toward the driveway to channel fluids and water outside. To make the floor suitable for interior living, contractors must correct the slope using self-leveling underlayments, sleepers, or raised subflooring. Because concrete slabs are porous and can pull moisture from the ground, installing a heavy-duty vapor barrier is essential before laying down finish materials. Once leveled and sealed against moisture, you can install luxury vinyl plank, tile, engineered hardwood, or carpet that matches the transition height of adjacent rooms.",
+        "@type": "Answer",
+        "description": "The slab must be sealed with a vapor barrier and leveled using self-leveling compounds or subflooring before installing finished materials like tile or vinyl plank."
+      }
+    }
+  ],
+  "description": "The slab must be sealed with a vapor barrier and leveled using self-leveling compounds or subflooring before installing finished materials like tile or vinyl pl"
+}

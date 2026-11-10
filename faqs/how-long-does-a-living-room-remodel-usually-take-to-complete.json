@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-living-room-remodel-usually-take-to-complete",
+  "name": "How long does a living room remodel usually take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a living room remodel usually take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard living room update with minor drywall repairs, flooring replacement, and painting typically takes two to four weeks once materials arrive. A comprehensive renovation involving structural wall alterations, major electrical rewiring, or built-in cabinetry can extend beyond a month. Timelines depend heavily on permit approvals from local building departments, lead times for custom materials, and the extent of subfloor preparation. Working with a dedicated project manager helps keep trades coordinated, ensuring drywall finishers, painters, and floor installers proceed in sequence without unnecessary delays.",
+        "@type": "Answer",
+        "description": "A cosmetic update usually takes two to four weeks. Full renovations involving structural wall removal, custom carpentry, or new lighting layouts can take a month or more to finish."
+      }
+    }
+  ],
+  "description": "A cosmetic update usually takes two to four weeks. Full renovations involving structural wall removal, custom carpentry, or new lighting layouts can take a mont"
+}

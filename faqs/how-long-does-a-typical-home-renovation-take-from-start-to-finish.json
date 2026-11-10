@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-home-renovation-take-from-start-to-finish",
+  "name": "How long does a typical home renovation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home renovation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Overall project duration depends on project scope, permitting requirements, material procurement, and unexpected discoveries behind walls or under subfloors. Single-room updates like a drywall patch or standalone bathroom refresh take far less time than whole-home remodeling or building detached guest suites. Delays frequently stem from custom cabinet fabrication, specialty tile deliveries, or structural adjustments discovered after opening existing drywall. Clear scheduling and dedicated project management help keep each trade sequence moving forward without unnecessary downtime.",
+        "@type": "Answer",
+        "description": "Timelines vary from a few weeks for focused room updates to several months for multi-room renovations, additions, or full structural reconfigurations."
+      }
+    }
+  ],
+  "description": "Timelines vary from a few weeks for focused room updates to several months for multi-room renovations, additions, or full structural reconfigurations."
+}

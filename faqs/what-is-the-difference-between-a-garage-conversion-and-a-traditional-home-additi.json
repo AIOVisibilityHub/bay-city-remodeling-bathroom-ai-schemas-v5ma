@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-garage-conversion-and-a-traditional-home-additi",
+  "name": "What is the difference between a garage conversion and a traditional home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a garage conversion and a traditional home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion uses an existing roof, foundation, and exterior walls, which lowers overall construction complexity compared to building a home addition from the ground up. However, the tradeoff is losing covered vehicle parking, lawn equipment storage, or workshop space. A full home addition preserves your garage and allows you to expand the home’s exterior footprint, but it requires foundation excavation, concrete footings, new exterior framing, and extensive roof tie-ins. If your lot lacks setback space or you want to expand living space without expanding the home footprint, a garage conversion provides a practical alternative.",
+        "@type": "Answer",
+        "description": "A conversion reuses the existing structure and foundation to save time, whereas a home addition preserves your garage while building a brand-new exterior footprint."
+      }
+    }
+  ],
+  "description": "A conversion reuses the existing structure and foundation to save time, whereas a home addition preserves your garage while building a brand-new exterior footpr"
+}

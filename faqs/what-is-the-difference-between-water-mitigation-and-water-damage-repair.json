@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-water-mitigation-and-water-damage-repair",
+  "name": "What is the difference between water mitigation and water-damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water mitigation and water-damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation companies focus on immediate containment, extracting standing water, and deploying heavy industrial dehumidifiers to dry the structure. Once moisture levels return to safe baselines, a remodeling contractor steps in to handle the actual rebuild. This includes framing repairs, insulation replacement, drywall hanging, taping, texturing, trim carpentry, and painting. Remodeling teams also reinstall cabinets, vanities, and flooring to restore your living space to pre-loss condition.",
+        "@type": "Answer",
+        "description": "Mitigation extracts water and dries the structure, while repair contractors rebuild damaged framing, drywall, cabinets, and flooring."
+      }
+    }
+  ],
+  "description": "Mitigation extracts water and dries the structure, while repair contractors rebuild damaged framing, drywall, cabinets, and flooring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-remodeling-quote",
+  "name": "What should I prepare before contacting a contractor for a remodeling quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for a remodeling quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an initial consultation, collect functional priorities, desired layout ideas, and a rough working budget. Make a list of everyday problems you want to fix, such as poor kitchen workflow, lack of bathroom storage, or missing space for aging relatives. If you are exploring an in-law suite, home addition, or patio expansion, identify where on the property you envision the change. Clear measurements are not necessary upfront, but clear priorities help contractors provide accurate estimates.",
+        "@type": "Answer",
+        "description": "List your project goals, preferred materials, functional pain points, and target budget. Knowing what problems you need to solve helps streamline your estimate."
+      }
+    }
+  ],
+  "description": "List your project goals, preferred materials, functional pain points, and target budget. Knowing what problems you need to solve helps streamline your estimate."
+}

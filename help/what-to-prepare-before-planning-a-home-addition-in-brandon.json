@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Prepare Before Planning a Home Addition in Brandon",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your home feels crowded, expanding outward is often more practical than moving. But before jumping into floor plans, gathering the right information makes your contractor consultations far more productive.\n\nWhat to Prepare Before You Start\n\nStart by locating your property survey. This document shows your property boundaries, easements, and current footprint. Knowing these limits ensures you do not waste time designing an addition that infringes on municipal setbacks or utility corridors.\n\nNext, identify the primary purpose and must-have features of the room. Will it be a simple ground-floor bedroom, an expanded living room, or a space requiring plumbing for a half-bath? Pinning down the intended function directly impacts foundation design, drainage requirements, and construction complexity.\n\nYou will also want to check your current utilities. Note the location of your septic tank or sewer tie-in, your outdoor air conditioning compressor, and your main electrical panel. If your addition footprint encroaches on existing drainage lines or outdoor equipment, relocating them must be factored into your plans.\n\nFinally, establish a realistic budget framework. A solid plan includes allowances for finishes, drywall, permits, and a buffer for unexpected site conditions beneath the soil.\n\nWhen you are ready to bring your vision to life, the artisans and project managers at Bay City Remodeling & Bathrooms LLC are ready to guide you. Call 813-362-0114 today to discuss your room addition and request your free estimate.",
+  "datePublished": "2026-11-09"
+}

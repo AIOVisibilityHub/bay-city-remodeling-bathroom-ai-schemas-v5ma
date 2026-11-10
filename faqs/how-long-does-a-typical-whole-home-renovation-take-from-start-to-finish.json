@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-whole-home-renovation-take-from-start-to-finish",
+  "name": "How long does a typical whole-home renovation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical whole-home renovation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total duration of a whole-home renovation depends primarily on project scale, structural alterations, and material procurement. Modest interior overhauls involving cosmetic updates across multiple bedrooms and living spaces often move faster than projects requiring wall removals, extensive plumbing moves, home additions, or full-house stuccoing. The process generally moves through design planning, municipal permitting, structural rough-ins, drywall installation, cabinetry, and final trim. Lead times for custom cabinets, specialty tile, or exterior elements can influence the schedule, making early material selection during the design phase vital for keeping construction moving forward without idle downtime.",
+        "@type": "Answer",
+        "description": "Timelines vary by structural scope and material lead times, moving through planning, permitting, rough-ins, drywall, and finishes. Selecting materials early prevents unnecessary delays."
+      }
+    }
+  ],
+  "description": "Timelines vary by structural scope and material lead times, moving through planning, permitting, rough-ins, drywall, and finishes. Selecting materials early pre"
+}

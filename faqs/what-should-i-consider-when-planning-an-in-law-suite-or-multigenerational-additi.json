@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-consider-when-planning-an-in-law-suite-or-multigenerational-additi",
+  "name": "What should I consider when planning an in-law suite or multigenerational addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning an in-law suite or multigenerational addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning an addition for extended family requires balancing privacy, independent living features, and property layout. Homeowners must decide whether the new living area should be an attached suite within the existing home structure or a distinct addition like an accessory dwelling unit. Key considerations include dedicated bathroom accessibility, private exterior entrances, separate heating and cooling controls, and safe walk-in showers. The exact scope is determined during initial project planning based on your family needs and yard boundaries.",
+        "@type": "Answer",
+        "description": "Consider accessibility features like zero-threshold showers, private exterior entrances, independent temperature controls, and whether the space should attach to the main house."
+      }
+    }
+  ],
+  "description": "Consider accessibility features like zero-threshold showers, private exterior entrances, independent temperature controls, and whether the space should attach t"
+}

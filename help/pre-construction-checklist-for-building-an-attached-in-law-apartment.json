@@ -1,0 +1,159 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Pre-Construction Checklist for Building an Attached In-Law Apartment",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Pre-Construction Checklist for Building an Attached In-Law Apartment",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Recorded boundary survey — Confirms exact property corners, boundary lines, and recorded utility easements…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Recorded boundary survey — Confirms exact property corners, boundary lines, and recorded utility easements before laying footings or planning exterior entries."
+      },
+      {
+        "name": "Municipal zoning confirmation — Identifies local rules regarding accessory living spaces, separate kitchen…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Municipal zoning confirmation — Identifies local rules regarding accessory living spaces, separate kitchen cooking appliances, and maximum allowed residential square footage."
+      },
+      {
+        "name": "Electrical service panel load calculation — Determines if your existing breaker panel has sufficient ampera…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Electrical service panel load calculation — Determines if your existing breaker panel has sufficient amperage to support added HVAC equipment, water heaters, and daily appliances."
+      },
+      {
+        "name": "Emergency egress window measurements — Ensures sleeping rooms feature minimum clear opening heights, widths…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Emergency egress window measurements — Ensures sleeping rooms feature minimum clear opening heights, widths, and sill elevations required by current residential building codes."
+      },
+      {
+        "name": "Fire separation wall specification — Verifies rated drywall assemblies between the secondary apartment and…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Fire separation wall specification — Verifies rated drywall assemblies between the secondary apartment and primary living quarters to prevent smoke and flame spread."
+      },
+      {
+        "name": "Water heater capacity check — Establishes whether your current hot water tank or tankless system can supply…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Water heater capacity check — Establishes whether your current hot water tank or tankless system can supply simultaneous showers and laundry loads."
+      },
+      {
+        "name": "HVAC load calculation worksheet — Clarifies whether an independent mini-split system or ductwork extension…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "HVAC load calculation worksheet — Clarifies whether an independent mini-split system or ductwork extension is best suited for temperature regulation and humidity control."
+      },
+      {
+        "name": "Walk-in shower plumbing layout — Confirms drain lines, supply rough-ins, and subfloor clearances accommodat…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Walk-in shower plumbing layout — Confirms drain lines, supply rough-ins, and subfloor clearances accommodate low-barrier or curbless accessibility showers."
+      },
+      {
+        "name": "Soundproofing insulation plan — Identifies high-density mineral wool insulation and resilient channels need…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Soundproofing insulation plan — Identifies high-density mineral wool insulation and resilient channels needed in shared partition walls to maintain family privacy."
+      },
+      {
+        "name": "Written HOA architectural guidelines — Secures pre-approval paperwork covering exterior finish matching, ro…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Written HOA architectural guidelines — Secures pre-approval paperwork covering exterior finish matching, rooflines, and guest parking allocations if applicable."
+      }
+    ]
+  },
+  "articleBody": "Setting up an attached in-law apartment requires solid preparation before any demolition or framing begins. Use this practical preparation checklist to ensure your home addition or interior conversion stays code-compliant, comfortable, and well-organized.\n\n- [ ] Recorded boundary survey — Confirms exact property corners, boundary lines, and recorded utility easements before laying footings or planning exterior entries.\n- [ ] Municipal zoning confirmation — Identifies local rules regarding accessory living spaces, separate kitchen cooking appliances, and maximum allowed residential square footage.\n- [ ] Electrical service panel load calculation — Determines if your existing breaker panel has sufficient amperage to support added HVAC equipment, water heaters, and daily appliances.\n- [ ] Emergency egress window measurements — Ensures sleeping rooms feature minimum clear opening heights, widths, and sill elevations required by current residential building codes.\n- [ ] Fire separation wall specification — Verifies rated drywall assemblies between the secondary apartment and primary living quarters to prevent smoke and flame spread.\n- [ ] Water heater capacity check — Establishes whether your current hot water tank or tankless system can supply simultaneous showers and laundry loads.\n- [ ] HVAC load calculation worksheet — Clarifies whether an independent mini-split system or ductwork extension is best suited for temperature regulation and humidity control.\n- [ ] Walk-in shower plumbing layout — Confirms drain lines, supply rough-ins, and subfloor clearances accommodate low-barrier or curbless accessibility showers.\n- [ ] Soundproofing insulation plan — Identifies high-density mineral wool insulation and resilient channels needed in shared partition walls to maintain family privacy.\n- [ ] Written HOA architectural guidelines — Secures pre-approval paperwork covering exterior finish matching, rooflines, and guest parking allocations if applicable.\n\nHow to use this checklist:\nWork through these items alongside your designer or remodeling contractor before finalizing your construction contract. Verifying system capacities and code rules early keeps your project on schedule and avoids surprise change orders.\n\nReady to get started on an in-law suite in Brandon, Bloomingdale, or Apollo Beach? Call Bay City Remodeling & Bathrooms at 813-362-0114 to discuss your project.",
+  "datePublished": "2026-11-09"
+}

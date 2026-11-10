@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Prepare Before Planning a Ground-Floor Home Extension",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "- [ ] Current property boundary survey — shows setback lines, easements, and buildable area.\n- [ ] List of must-have room functions — defines whether you need plumbing, extra power, or specific ceiling heights.\n- [ ] Existing home floor plans — helps designers understand load-bearing walls and roofline intersections.\n- [ ] Drainage and utility locations — identifies underground pipes, septic lines, or meters that might need moving.\n- [ ] Target overall budget with contingency — accounts for unexpected ground conditions or framing adjustments.\n- [ ] HOA guidelines and restriction documents — outlines exterior aesthetic rules, roof pitches, or finish requirements.\n- [ ] Insurance and licensing verification list — ensures your prospective contractor carries proper coverage and credentials.\n- [ ] Temporary living and storage plan — clarifies where furniture and daily activities move during active construction.\n\nHow to use this checklist:\nWork through these items before inviting contractors out for estimates. Having clear boundary dimensions, functional goals, and budget boundaries organized up front prevents miscommunication and keeps project planning on track. When you have your site details gathered, Bay City Remodeling & Bathroom can review your property and provide clear guidance. Call our team at 813-362-0114 or visit baycityremodeling.com to get started.",
+  "datePublished": "2026-11-09"
+}

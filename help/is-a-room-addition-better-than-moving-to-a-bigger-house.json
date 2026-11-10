@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Room Addition Better Than Moving to a Bigger House?",
+    "text": "Is a Room Addition Better Than Moving to a Bigger House?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When your family starts running out of space, deciding whether to pack up and move or expand your current house is one of the biggest questions you will face. Moving involves major transactional fees, real estate commissions, closing expenses, and the hassle of uprooting your daily routine. On the other hand, adding a bedroom or expanding a family room lets you stay in the neighborhood and school district you love while tailoring the new space to your exact routines.\n\nWhat to Expect During the Process:\nAdding a room involves designing architectural plans, pulling municipal permits, pouring a proper foundation, and carefully blending the new exterior with your home's existing roofline and siding. You also need to confirm that your current air conditioning and electrical panel can support the added volume. \n\nThe choice usually comes down to your property layout. If your yard allows for expansion without violating setback rules or wiping out outdoor living areas, building on is frequently the smarter financial move. However, if your lot coverage is already at its legal maximum, moving might be your only path. \n\nWhen you want an objective evaluation of your home's layout and lot potential, Bay City Remodeling & Bathrooms can walk you through realistic design options. Call our Brandon team at 813-362-0114 to explore whether an addition makes sense for your property.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

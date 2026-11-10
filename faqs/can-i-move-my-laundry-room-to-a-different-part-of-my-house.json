@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-move-my-laundry-room-to-a-different-part-of-my-house",
+  "name": "Can I move my laundry room to a different part of my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my laundry room to a different part of my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating a laundry room involves verifying access to water supply lines, drainage pipes, exterior venting paths, and sufficient electrical capacity. A practical tradeoff is convenience versus construction complexity. Moving the setup closer to second-floor bedrooms or into a master suite adds everyday accessibility, but it requires routing new waste stacks and venting through exterior walls or the roof. It also requires floor reinforcement or containment pans to manage accidental leaks, which can expand the overall project scope.",
+        "@type": "Answer",
+        "description": "Yes, but moving a laundry room requires access to exterior venting, adequate electrical circuits, and proper water supply and drain lines."
+      }
+    }
+  ],
+  "description": "Yes, but moving a laundry room requires access to exterior venting, adequate electrical circuits, and proper water supply and drain lines."
+}

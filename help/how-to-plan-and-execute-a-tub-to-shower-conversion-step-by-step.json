@@ -1,0 +1,113 @@
+{
+  "name": "How to Plan and Execute a Tub-to-Shower Conversion Step by Step",
+  "step": [
+    {
+      "name": "Step 1: Confirm layout and accessibility requirements",
+      "text": "Map out your fixture placement, entry clearance, and any built-in seating or niche shelving. Decide early whether you want a curbless transition or a standard low-profile curb, as this dictates how the subfloor and drainage slope must be prepared.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect existing plumbing and remove the bathtub",
+      "text": "Shut off the main water supply and carefully extract the old bathtub, wall finishes, and exposed trim without compromising nearby framing. Inspect the exposed subfloor and studs thoroughly for hidden mold, wood rot, or past leak damage that must be repaired.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Relocate drainage and modify supply lines",
+      "text": "Upgrade the drain assembly and route supply pipes to match your new valve and showerhead heights. A shower typically requires a larger drain line than a standard tub, and the rough-in plumbing must align with your new shower pan's outlet.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install backing, shower base, and waterproofing",
+      "text": "Fasten solid wood blocking between studs for secure grab-bar mounting, then set the pre-formed or custom mortar shower pan to achieve proper drainage pitch. Apply a continuous waterproofing membrane across the floor and wall substrate to keep moisture from entering wall cavities.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Lay tile, set trim, and seal fixtures",
+      "text": "Install your chosen wall tile or surround panels, grout all joints, and hang glass doors or enclosure panels. Mount the valve trim, handheld sprayers, and shower accessories, followed by silicone sealing and water testing. What to Do Next A solid conversion keeps your home safe from water leaks while elevating everyday comfort. Call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to review your space and plan your shower renovation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Map out your fixture placement, entry clearance, and any built-in seating or niche shelving. Decide early whether you want a curbless transition or a standard low-profile curb, as this dictates how th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-for-planning-an-accessible-remodel",
+  "name": "What is the step-by-step process for planning an accessible remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process for planning an accessible remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The accessibility remodeling process begins with an in-home consultation to assess current physical needs, layout challenges, and daily routines. From there, designers develop a tailored layout addressing door clearances, turning radiuses, fixture heights, and slip resistance. Once plans and finishes are finalized, project managers handle the construction—from demolition and plumbing updates to reinforced drywall installation, waterproofing, and fixture mounting. Clear communication throughout the build ensures the finished space meets both mobility requirements and aesthetic goals.",
+        "@type": "Answer",
+        "description": "The process starts with an in-home needs assessment, followed by layout design, material selection, permitting, demolition, plumbing and drywall work, and final fixture installation."
+      }
+    }
+  ],
+  "description": "The process starts with an in-home needs assessment, followed by layout design, material selection, permitting, demolition, plumbing and drywall work, and final"
+}

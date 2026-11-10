@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-are-unexpected-structural-or-plumbing-issues-handled-during-demolition",
+  "name": "How are unexpected structural or plumbing issues handled during demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are unexpected structural or plumbing issues handled during demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many older homes in communities across Brandon, Tampa, and St. Petersburg present hidden structural or mechanical issues once interior walls are opened. Common discoveries include outdated electrical wiring, corroded plumbing lines, uneven framing, or past moisture and termite intrusion behind drywall. Experienced remodelers plan for these variables by performing thorough structural evaluations during initial walk-throughs and building contingency allowances into the project plan. If an unexpected condition arises, the project manager documents the finding, explains the corrective options, and presents adjustments for approval before proceeding with interior finishes.",
+        "@type": "Answer",
+        "description": "Unexpected wiring, plumbing, or framing issues behind walls are assessed immediately, documented, and reviewed with the homeowner to approve practical repairs before finishing work begins."
+      }
+    }
+  ],
+  "description": "Unexpected wiring, plumbing, or framing issues behind walls are assessed immediately, documented, and reviewed with the homeowner to approve practical repairs b"
+}

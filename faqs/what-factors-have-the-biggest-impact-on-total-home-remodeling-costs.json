@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-total-home-remodeling-costs",
+  "name": "What factors have the biggest impact on total home remodeling costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on total home remodeling costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Overall remodeling expenses are determined by structural changes, square footage, material selections, and underlying infrastructure updates. Cosmetic renovations focusing on drywall repair, paint, and surface-level fixture replacements sit at the lower end of remodeling budgets. Extensive projects involving layout changes, custom cabinetry, structural framing, or full exterior stucco require more labor and coordination. Bay City Remodeling & Bathrooms reviews specific project goals during the estimating consultation to provide itemized, negotiable pricing based on your chosen scope.",
+        "@type": "Answer",
+        "description": "Costs depend heavily on project size, whether walls or plumbing move, material grades like custom cabinets, and structural requirements like framing or stuccoing."
+      }
+    }
+  ],
+  "description": "Costs depend heavily on project size, whether walls or plumbing move, material grades like custom cabinets, and structural requirements like framing or stuccoin"
+}

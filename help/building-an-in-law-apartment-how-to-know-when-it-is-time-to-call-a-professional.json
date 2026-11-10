@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Building an In-Law Apartment: How to Know When It Is Time to Call a Professional",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Many homeowners start planning an in-law suite thinking it is just a weekend partition project, only to run into complex building requirements. Knowing when to bring in a licensed remodeling contractor saves you from code violations, safety hazards, and costly rework.\n\nWhen Professional Guidance Helps\nLook for these key indicators that your project requires professional construction expertise:\n- Modifying structural walls: Cutting into load-bearing frames, shifting exterior door locations, or altering roof trusses demands engineered plans and proper temporary shoring.\n- Expanding electrical and plumbing systems: Tying new showers, sinks, and dedicated kitchen circuits into existing service panels without causing overloads requires licensed trades.\n- Complying with emergency egress and fire codes: Creating a safe living suite requires specific window opening dimensions, continuous ventilation, and fire-rated drywall barriers between shared dwellings.\n- Handling local permits and inspections: Managing architectural filings, energy calculations, and mandatory municipal site inspections is best handled by experienced project managers.\n- Addressing aging-in-place accessibility: Designing curbless walk-in showers, wider passageways, and secure backing for grab bars requires skilled trades who understand functional layouts.\n\nIf you are planning an in-law apartment renovation anywhere in Brandon, Fish Hawk, or surrounding communities, call Bay City Remodeling & Bathrooms at 813-362-0114 to get started with an initial quote.",
+  "datePublished": "2026-11-09"
+}

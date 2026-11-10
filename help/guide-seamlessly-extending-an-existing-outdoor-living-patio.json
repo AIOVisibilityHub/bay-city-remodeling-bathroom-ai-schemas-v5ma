@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide: Seamlessly Extending an Existing Outdoor Living Patio",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Adding new square footage to an existing concrete or paver patio requires careful alignment so the transition feels natural rather than pieced together.\n\nKey Benefits of Cohesive Design: A well-matched patio extension boosts property value, prevents tripping hazards along seam lines, and gives your yard an intentional, polished outdoor living space.\n\nProcess Breakdown: The process begins by evaluating the elevation and condition of the current patio. If extending with pavers, contractors source matching or complementary pavers, lay an evenly compacted base, and lock the old and new sections together with border edging. When blending new concrete with old slabs, control joints, surface finishes, or decorative overlays help disguise natural color variations between old and new pours.\n\nPractical Tradeoffs to Weigh: Choosing exact-match materials can be tough if your existing pavers are weathered or discontinued. Rather than settling for a near-miss shade, using a contrasting border or a distinct complementary accent pattern often creates a much cleaner, purposeful look while keeping the foundation height consistent.\n\nGet Started: From layout planning to final finishing touches, Bay City Remodeling & Bathrooms LLC delivers complete patio extensions throughout Brandon and surrounding communities. Call 813-362-0114 to plan your backyard project.",
+  "datePublished": "2026-11-09"
+}

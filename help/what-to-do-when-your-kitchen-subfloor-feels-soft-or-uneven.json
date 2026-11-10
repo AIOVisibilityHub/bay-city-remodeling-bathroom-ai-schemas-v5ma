@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Kitchen Subfloor Feels Soft or Uneven",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Stepping across your kitchen and feeling a noticeable bounce, dip, or soft spot underfoot is an unnerving feeling. In high-traffic spaces like kitchens, that sensation almost always points to an issue with the subfloor underneath your visible flooring. Ignoring it will eventually ruin whatever new surface you place on top.\n\nWhy Kitchen Subfloors Fail\nKitchens face constant plumbing connections, dishwasher cycles, refrigerator ice lines, and sink splashes. Even a slow, undetected supply-line drip can seep beneath your flooring, rotting plywood subfloors over time. In homes built on concrete slabs across the Tampa area, settling soil or moisture vapor pushing through the foundation can create dips or unbonded patches. If someone previously installed heavy tile over an inadequate, flexible wood subfloor without proper underlayment, the subfloor will flex, causing grout to crumble and tiles to snap.\n\nCommon Mistakes to Avoid\n- Laying new flooring directly over the soft spot: Floating planks will separate at the seams, and new tile will crack within months.\n- Patching with self-leveler over rotted wood: Leveling compound only works on structurally sound surfaces, not degraded subflooring.\n- Overlooking the leak source: Always inspect nearby water shutoffs, dishwashers, and drains before beginning any repair work.\n\nWhen Professional Guidance Helps\nFixing a bad subfloor means cutting away rotted joist sections or leveling uneven concrete with the correct moisture membrane. If your kitchen floor feels spongy or uneven, Bay City Remodeling & Bathrooms LLC can inspect the damage and rebuild a solid foundation. Call 813-362-0114 to discuss your options.",
+  "datePublished": "2026-11-09"
+}

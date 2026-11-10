@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "5 Mistakes to Avoid When Planning a Kitchen Countertop Upgrade",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Swapping out kitchen counters seems straightforward, but small oversights can lead to noticeable delays, uneven seams, or extra costs. If you are planning an upgrade, keep these common missteps on your radar so your project finishes smoothly.\n\n- Ordering stone from a tiny two-inch sample: Natural stone varies dramatically across a single slab. Always view the full slab in person so you see the actual veining, natural fissures, and undertones before cutting starts.\n- Forgetting appliance and sink model numbers early: Fabricators need exact cutout templates for your specific cooktop, sink basin, and faucet set before they cut. Guessing measurements almost always results in a sloppy fit.\n- Placing seams in high-stress layout areas: Avoid running stone seams directly through cutouts for sinks, cooktops, or unsupported corners. Seams hold up best across supported, low-stress spans.\n- Overlooking structural support for deep overhangs: If you want bar seating extending past your cabinets, long overhangs require concealed steel brackets to prevent tipping or snapping.\n- Reconnecting plumbing too quickly: Rushing to hook up the drain and faucet before adhesives and caulking fully cure can break the watertight seal on an undermount sink.\n\nHow to Compare Your Options:\nBalancing durability against daily maintenance is key when comparing quartz, granite, and other surfaces. When you want expert assistance coordinating templating, fabrication, and clean installation, reach out to Bay City Remodeling & Bathrooms at 813-362-0114 for a free consultation.",
+  "datePublished": "2026-11-09"
+}

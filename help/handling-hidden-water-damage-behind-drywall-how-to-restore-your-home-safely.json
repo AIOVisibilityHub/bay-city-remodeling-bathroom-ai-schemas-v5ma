@@ -1,0 +1,119 @@
+{
+  "name": "Handling Hidden Water Damage Behind Drywall: How to Restore Your Home Safely",
+  "step": [
+    {
+      "name": "Step 1: Shut off the water source and secure electrical safety",
+      "text": "Turn off the main water shut-off valve immediately to stop incoming flow, and cut electrical power at the circuit breaker for any wet rooms. Never step into standing water or touch damp electrical devices until power is completely cut off.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Document all damaged materials for insurance",
+      "text": "Take clear photos and video of standing water, soaked drywall, ruined personal belongings, and water lines on walls before moving items. Note moisture readings and preserve damaged plumbing components so your insurance adjuster has clear evidence for your claim.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Extract standing water and expose trapped moisture",
+      "text": "Pump out standing surface water, pull back wet carpets, and unscrew soaked baseboards. Carefully cut away saturated drywall at least a few inches above the visible water line to expose interior framing studs and wall cavities.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Run commercial dehumidification and air movers",
+      "text": "Position heavy-duty air movers and commercial dehumidifiers to blow warm air directly into open wall cavities and across exposed subfloors. Keep equipment running continuously until moisture meters show structural lumber has returned to normal dry baselines.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Clean framing and treat for mold prevention",
+      "text": "Scrub exposed wooden framing and concrete surfaces with appropriate antimicrobial solutions to prevent bacterial spread and mold colonization. Allow framing studs to dry out entirely, as closing wet wood inside walls will trigger structural rot.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Reconstruct drywall, trim, and finished surfaces",
+      "text": "Hang new moisture-resistant drywall, apply taping compound, texture the surface to match adjoining walls, and install replacement baseboards. Prime and paint the room with quality coatings, and replace flooring to return the living space to pre-loss condition. Bay City Remodeling & Bathrooms delivers expert drywall repair, flooring, and interior reconstruction across Brandon and the greater Tampa area. Call 813-362-0114 to schedule an evaluation of your home repairs.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Turn off the main water shut-off valve immediately to stop incoming flow, and cut electrical power at the circuit breaker for any wet rooms. Never step into standing water or touch damp electrical dev"
+}

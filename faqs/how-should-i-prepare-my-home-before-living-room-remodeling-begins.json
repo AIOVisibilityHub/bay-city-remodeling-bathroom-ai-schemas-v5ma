@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-home-before-living-room-remodeling-begins",
+  "name": "How should I prepare my home before living room remodeling begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before living room remodeling begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor begins, establish a dedicated staging area and protect your belongings. Clear out all furniture, electronics, wall art, and decor from the living room, as drywall installation, sanding, and demolition generate airborne dust. If the work affects the main entrance, plan temporary walking paths through your home for family and pets. Gathering inspiration photos, listing must-have features, and deciding where you want focal points—such as media walls or specific lighting arrangements—will help streamline initial project discussions and avoid mid-project design changes.",
+        "@type": "Answer",
+        "description": "Empty the room of all furniture, decor, and electronics to protect them from dust. Plan alternate pathways through the house and gather your design ideas before work starts."
+      }
+    }
+  ],
+  "description": "Empty the room of all furniture, decor, and electronics to protect them from dust. Plan alternate pathways through the house and gather your design ideas before"
+}

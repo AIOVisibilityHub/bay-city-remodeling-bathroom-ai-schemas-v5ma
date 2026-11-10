@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-considered-a-whole-house-renovation-compared-to-a-single-room-remodel",
+  "name": "What is considered a whole-house renovation compared to a single-room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a whole-house renovation compared to a single-room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-house renovation involves updating multiple living areas simultaneously or overhauling an entire residential property inside and out. Unlike a single-room update, such as replacing a vanity or retiling a kitchen backsplash, whole-home remodeling coordinates structural changes, drywall, flooring, layout reconfigurations, kitchens, bathrooms, and exterior finishes into one cohesive plan. A key decision factor is overall scope: when multiple rooms need modernization or plumbing and layout changes cross between rooms, handling everything as one unified project prevents disjointed transitions and conflicting finishes. Bay City Remodeling & Bathrooms coordinates these elements from initial concepts to final trim so the entire house functions together.",
+        "@type": "Answer",
+        "description": "A whole-house renovation updates multiple rooms or the entire home at once, coordinating structural layout, finishes, and utilities across spaces rather than focusing on just one room."
+      }
+    }
+  ],
+  "description": "A whole-house renovation updates multiple rooms or the entire home at once, coordinating structural layout, finishes, and utilities across spaces rather than fo"
+}

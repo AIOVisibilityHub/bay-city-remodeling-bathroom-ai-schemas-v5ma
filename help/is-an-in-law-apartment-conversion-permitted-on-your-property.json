@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is an In-Law Apartment Conversion Permitted on Your Property?",
+    "text": "Is an In-Law Apartment Conversion Permitted on Your Property?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Many homeowners assume converting an existing garage, bonus room, or basement into an in-law apartment simply requires adding partition walls and plumbing lines. In reality, whether your property permits an in-law apartment depends on zoning definitions, property setbacks, utility setups, and building codes.\n\nWhat Can Change the Right Choice\nLocal jurisdictions handle secondary suites differently. Some areas allow full accessory dwelling units with private cooking appliances, while others restrict second kitchens on single-family parcels unless specific zoning variances or secondary unit standards are met. If your neighborhood is governed by a homeowners association, deed restrictions might limit multi-family arrangements, exterior door additions, or street parking, regardless of municipal zoning allowances.\n\nWhat to Expect During the Process\nA code-compliant in-law apartment requires certified building permits covering structural alterations, electrical branch circuits, plumbing lines, ventilation, and emergency exits. Bedrooms must meet precise ceiling height and window egress requirements for safety. Walls separating the apartment from the main residence typically require rated fire separation assemblies to comply with building standards.\n\nWhen you need clear guidance on adding living space to your home, Bay City Remodeling & Bathrooms is here to help. Call 813-362-0114 to schedule an on-site consultation and request a detailed project estimate.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

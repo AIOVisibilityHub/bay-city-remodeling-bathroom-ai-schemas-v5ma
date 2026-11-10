@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-hidden-damage-commonly-occurs-behind-walls-and-beneath-bathroom-floors",
+  "name": "What hidden damage commonly occurs behind walls and beneath bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden damage commonly occurs behind walls and beneath bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in bathrooms frequently penetrates beneath tiles and around baseboards, saturating subflooring, wall studs, and insulation behind shower enclosures. Moisture often seeps into adjoining rooms or lower levels before surface signs appear. During repair, technicians pull damaged baseboards, inspect structural joists, and check cabinetry bases for swelling. Addressing hidden structural rot before tiling or closing walls ensures your bathroom remodel remains structurally stable and leak-free long-term.",
+        "@type": "Answer",
+        "description": "Saturated insulation, warped wall studs, rotted subfloors, and weakened joists often hide behind bathroom tile and drywall."
+      }
+    }
+  ],
+  "description": "Saturated insulation, warped wall studs, rotted subfloors, and weakened joists often hide behind bathroom tile and drywall."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-you-handle-heating-cooling-and-humidity-in-a-converted-garage",
+  "name": "How do you handle heating, cooling, and humidity in a converted garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle heating, cooling, and humidity in a converted garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garages are unconditioned spaces that absorb substantial heat through uninsulated ceilings, exterior masonry, and concrete slabs. In Florida, standard residential building codes require conditioned living spaces to maintain controlled indoor temperatures and humidity. Options include tying into your existing central HVAC unit if your ductwork and air handler have sufficient spare tonnage, or installing an independent ductless mini-split system. Mini-splits provide direct zone control, allowing you to cool or heat the new living area independently without placing an unexpected cooling load on your home’s main system.",
+        "@type": "Answer",
+        "description": "You can extend existing central ductwork if capacity allows, or install an independent ductless mini-split system for dedicated climate and humidity control."
+      }
+    }
+  ],
+  "description": "You can extend existing central ductwork if capacity allows, or install an independent ductless mini-split system for dedicated climate and humidity control."
+}

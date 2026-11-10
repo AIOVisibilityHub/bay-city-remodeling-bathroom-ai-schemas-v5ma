@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-home-office-renovation-take-to-complete",
+  "name": "How long does a typical home office renovation take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home office renovation take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home office remodel generally takes anywhere from one to several weeks depending on the complexity of the project. A straightforward room update involving fresh drywall finishing, painting, flooring, and basic lighting changes can often wrap up within one to two weeks. If your remodel requires reconfiguring walls, adding dedicated electrical circuits for heavy computer setups, or installing custom cabinetry, the timeline extends accordingly. Projects that involve building a full room addition require multiple weeks to handle framing, exterior integration, and interior finishes. An initial project schedule helps clarify milestones before construction starts.",
+        "@type": "Answer",
+        "description": "Basic updates take one to two weeks, while projects requiring wall removals, new electrical circuits, or custom built-ins take several weeks depending on scope."
+      }
+    }
+  ],
+  "description": "Basic updates take one to two weeks, while projects requiring wall removals, new electrical circuits, or custom built-ins take several weeks depending on scope."
+}

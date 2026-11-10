@@ -1,0 +1,125 @@
+{
+  "name": "Step-by-Step Garage Conversion: How to Turn Unused Vehicle Space into Habitable Rooms",
+  "step": [
+    {
+      "name": "Step 1: Confirm zoning and local parking rules",
+      "text": "Review local zoning allowances and determine if your municipality requires replacement off-street parking spots elsewhere on your lot before you eliminate vehicle storage. Have your property survey ready to confirm exterior boundaries and setback restrictions.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Prepare architectural and site plans",
+      "text": "Draft existing and proposed floor plans that specify wall framing, window placements, ceiling heights, and door locations. Ensure drawings clearly document required natural lighting, egress routes, and energy insulation values before submitting for plan review.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure building and specialty trade permits",
+      "text": "Submit your plans to the local building authority to obtain master building permits alongside separate trade permits for electrical, plumbing, and mechanical additions. Work should never begin on site until all required approvals are officially granted.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Inspect and prepare the existing concrete slab",
+      "text": "Check the foundation slab for cracks, levelness, and ground-moisture transmission. Seal the concrete, apply suitable vapor barriers, and level uneven slopes so newly installed finished flooring will not buckle or trap dampness over time.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Frame exterior openings and infill the garage door",
+      "text": "Remove the overhead tracks and garage door, then frame a permanent exterior wall with appropriate structural headers and weatherproofing. Install energy-efficient windows and exterior sheathing that blend seamlessly with the home's exterior finish.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete rough mechanical, electrical, and plumbing runs",
+      "text": "Install required electrical circuits, outlets, lighting, and any needed plumbing lines for an en-suite bathroom or kitchenette. Rough in dedicated heating and air conditioning systems, such as a ductless mini-split, before scheduling official rough-in inspections.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Insulate, hang drywall, and complete final finishes",
+      "text": "Place thermal insulation in walls and ceilings, install drywall with smooth tape and mud finishes, and lay durable interior flooring. Complete paint, trim, and fixture installations, then schedule your final building inspection to receive approval for residential occupancy. Bay City Remodeling & Bathrooms coordinates every phase of garage conversions and home additions throughout the Tampa Bay area. Call 813-362-0114 to request a free quote for your project.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Review local zoning allowances and determine if your municipality requires replacement off-street parking spots elsewhere on your lot before you eliminate vehicle storage. Have your property survey re"
+}

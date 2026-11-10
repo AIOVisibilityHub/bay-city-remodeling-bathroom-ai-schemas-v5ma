@@ -1,0 +1,113 @@
+{
+  "name": "How to Plan and Build a Backyard Granny Flat from Permitting to Occupancy",
+  "step": [
+    {
+      "name": "Step 1: Check your zoning and property survey",
+      "text": "Pull your property boundaries, existing site plan, and utility easements before drafting plans. Review local setback rules and lot coverage limits to ensure your parcel accommodates a secondary structure or footprint expansion. Having your survey verified early confirms you have adequate buildable area.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish the floor plan and living requirements",
+      "text": "Outline exactly what the occupant needs for day-to-day comfort, including private bedroom areas, bathroom fixtures, and kitchenette or full kitchen amenities. Consider mobility needs, entry steps, and doorway widths early so you do not have to redraw architectural plans later. A finished conceptual sketch helps align expectations with practical site limits.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure building permits and engineering documentation",
+      "text": "Work with your builder and design team to submit structural plans, electrical layouts, and plumbing schematics to your local building department. Address any environmental or drainage conditions, and wait for official permit approvals before ground disturbance or framing begins. Starting without valid permits can halt work and trigger costly revisions.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Complete rough framing, plumbing, and electrical rough-ins",
+      "text": "Once foundation footings or slab work passes initial inspection, framing proceeds alongside rough mechanical installations. Trenching water, sewer, and electrical lines out from the main home or meter requires precision to maintain proper fall and capacity. Building inspectors will review framing, wiring, and rough plumbing before walls are closed up.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finish drywall, interior fixtures, and final occupancy",
+      "text": "Hang drywall, complete taping, install durable flooring, and trim out bathroom and kitchen fixtures. After final electrical, plumbing, and structural inspections clear, your building department issues the occupancy certificate. Ready to plan your secondary dwelling? Reach out to Bay City Remodeling & Bathrooms at 813-362-0114 to discuss your project layout and get a free quote.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Pull your property boundaries, existing site plan, and utility easements before drafting plans. Review local setback rules and lot coverage limits to ensure your parcel accommodates a secondary struct"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Key Steps to Build a Seamless Room Addition",
+  "step": [
+    {
+      "name": "Step 1: Check your property boundaries and setback requirements.",
+      "text": "Pull your boundary survey and consult local building officials to measure setback lines, easements, and lot coverage limits. Having an accurate plot plan ready ensures you do not design a structure over buried utilities or past legal build lines. Complete this step when you know the exact footprint boundary your yard can accommodate.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Assess existing electrical and HVAC capacities.",
+      "text": "Review your main electrical panel amperage and evaluate whether your current heating and cooling equipment can support extra conditioned living space. Bring in a licensed contractor or technician to calculate heating loads and inspect breaker space. You are ready for the next phase once you decide whether to upsize systems or add dedicated ductless units.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Draft architectural floor plans and structural drawings.",
+      "text": "Work with a qualified designer or remodeling team to draft dimensioned floor plans, wall sections, roof ties, and foundation details. Ensure the design preserves emergency egress windows and seamlessly blends exterior rooflines with your existing architecture. This step is complete when you have buildable, coordinated blueprints ready for structural review.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Submit applications for building and trade permits.",
+      "text": "Package your plot plan, engineered drawings, and contractor documentation to submit to your local building department. Track plan reviews for building, structural, electrical, mechanical, and stormwater compliance. You move forward once all official permits are approved and posted on the job site.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Pour the foundation and tie in the structure.",
+      "text": "Excavate the site, install required footings and slab or stem-wall foundations, and pass municipal rough inspections. Frame the new walls and integrate roof rafters or trusses securely into the existing home framing. This phase wraps up when framing, sheathing, and weather barriers are fully inspected and approved.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete rough trade rough-ins and wall finishes.",
+      "text": "Run wiring, plumbing lines, ductwork, and insulation before scheduling required intermediate building inspections. Once trade inspectors sign off, hang and finish durable drywall, prime surfaces, and install exterior finishes like stucco or siding. Done looks like clean, smooth surfaces prepped for fixtures and paint.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Install final finishes and pass final inspections.",
+      "text": "Hang interior doors, install flooring, wire lighting fixtures, and connect trim and outlets. Schedule the building department's final inspection to verify life safety and code adherence. The addition is officially complete when your local municipality grants final approval. If you are ready to expand your home with an experienced local contractor, call Bay City Remodeling & Bathrooms LLC at 813-362-0114 to request a free quote.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Pull your boundary survey and consult local building officials to measure setback lines, easements, and lot coverage limits. Having an accurate plot plan ready ensures you do not design a structure ov"
+}

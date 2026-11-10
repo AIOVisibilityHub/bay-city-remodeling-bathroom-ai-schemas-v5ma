@@ -1,0 +1,113 @@
+{
+  "name": "How to Prepare Your Kitchen for Countertop Replacement Without Chaos",
+  "step": [
+    {
+      "name": "Step 1: Inspect and level your base cabinets",
+      "text": "Before anyone measures for stone, check that your base cabinets are sturdy, fastened securely to the walls, and completely level across all runs. Uneven cabinet bases can put immense stress on heavy stone slabs later, causing joints to pull apart or stone to crack over time.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Finalize your appliance and fixture specifications",
+      "text": "Gather the exact model numbers and spec sheets for your drop-in or undermount sink, kitchen faucet, and cooktop or range. Your fabricator needs these precise dimensions and cutout templates before cutting hard materials to ensure everything drops into place cleanly on installation day.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear the pathway and prep access points",
+      "text": "Heavy natural stone and quartz slabs require a wide, clear path from the driveway into the house. Walk the route through front doors, tight entryways, and hallways, removing wall art, baby gates, and loose rugs so installers carrying hundreds of pounds have a safe, direct trip.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Disconnect plumbing and clear out lower storage",
+      "text": "Shut off the water supplies under the sink and safely disconnect the drain lines, trap, and garbage disposal. Empty out the base cabinets completely so technicians can reach underneath to anchor clips, apply adhesive, and secure your new sink basin.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plan for temporary sink downtime",
+      "text": "Expect to be without a functioning kitchen sink for a few days while adhesives and silicone cure before reconnecting the plumbing. Set up a wash station in a powder room or laundry sink, and keep paper products handy so your household runs smoothly while work finishes. Ready to refresh your kitchen surfaces? Contact Bay City Remodeling & Bathrooms at 813-362-0114 to discuss your countertop plans and get an estimate for your home.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anyone measures for stone, check that your base cabinets are sturdy, fastened securely to the walls, and completely level across all runs. Uneven cabinet bases can put immense stress on heavy s"
+}

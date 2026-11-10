@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Guide: Planning a Backyard Patio Extension That Sheds Rainwater Properly",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Overview: Expanding your patio adds wonderful space for dining and relaxing, but adding impermeable hardscape changes how rainwater moves across your lawn.\n\nKey Benefits of Proactive Planning: Planning slopes and runoff paths beforehand protects your home foundation, avoids water pooling on the new surface, and keeps neighboring properties safe from runoff washouts.\n\nProcess Breakdown: Start by reviewing your property lines, drainage swales, and any utility or local easements. Once boundaries are clear, excavate the extension area to allow for a compacted crushed-stone base. The patio must be graded with a subtle pitch away from your home. Edge restraints are set along the perimeter to lock pavers in place, followed by sand joints and thorough compaction.\n\nWhat to Prepare Before You Start: Measure your target area and locate where your existing downspouts and lawn drains flow. Check whether your community or county requires building or zoning permits for expanded hardscape or covered patio additions, and make sure your proposed surface does not encroach on protected utility easements.\n\nGet Started: Ready to extend your outdoor living area with a clean, level surface built to handle summer downpours? Contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule your consultation in the Brandon area.",
+  "datePublished": "2026-11-09"
+}

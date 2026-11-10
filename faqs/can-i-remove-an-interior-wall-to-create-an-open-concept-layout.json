@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-remove-an-interior-wall-to-create-an-open-concept-layout",
+  "name": "Can I remove an interior wall to create an open-concept layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove an interior wall to create an open-concept layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, older structural elements can be updated to open up living spaces, but load-bearing walls require proper structural reinforcement before removal. Modifying room layouts often involves inserting structural support beams, rerouting plumbing lines, and shifting electrical wiring behind the drywall. During an initial consultation, the remodeling team inspects wall framing, utility runs, and ceiling construction to determine whether a wall supports the roof or upper floor before creating an open-concept design.",
+        "@type": "Answer",
+        "description": "Yes, interior walls can be removed if proper structural support beams are installed and utilities inside the wall are rerouted safely by the remodeling team."
+      }
+    }
+  ],
+  "description": "Yes, interior walls can be removed if proper structural support beams are installed and utilities inside the wall are rerouted safely by the remodeling team."
+}

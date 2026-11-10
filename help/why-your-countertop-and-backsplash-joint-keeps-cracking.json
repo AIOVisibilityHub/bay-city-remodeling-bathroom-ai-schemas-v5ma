@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Countertop and Backsplash Joint Keeps Cracking",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Have you noticed a persistent hairline crack running right along the base of your kitchen backsplash where it meets your countertop? It is one of the most frequent headaches homeowners notice after a kitchen remodel. Many people assume their foundation shifted or the tile was defective, but the real issue is almost always using hard grout in a spot that demands flexible movement.\n\nWhy That Seam Keeps Breaking\nHouses naturally settle and expand with seasonal temperature and humidity changes. Your kitchen counters bear heavy weight from small appliances, prep work, and daily leaning. Because the countertop and the wall behind it are two completely different planes of your home, they move independently. When hard grout is packed into that joint, it cannot handle the micro-movements and snaps right open.\n\nCommon Mistakes to Avoid\n- Refilling the crack with more hard grout: Adding more grout into an existing crack will only break loose again in a few weeks.\n- Skipping joint cleanup: Leaving old crumbled grout chunks prevents new caulk from sticking to the gap.\n- Forgetting moisture resistance: Near sinks, cracked joints allow water behind the counter, risking unseen drywall softness.\n\nWhat to Do Next\nScrape out all the crumbling grout along the countertop joint using a carbide grout saw or utility blade. Vacuum the dust, clean the seam with isopropyl alcohol, and apply a 100% silicone caulk or color-matched flexible acrylic caulk. If you are dealing with broken tiles or uneven walls across your Tampa Bay home, give Bay City Remodeling & Bathrooms LLC a call at 813-362-0114 for an on-site look.",
+  "datePublished": "2026-11-09"
+}

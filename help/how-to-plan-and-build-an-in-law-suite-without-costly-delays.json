@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan and Build an In-Law Suite Without Costly Delays",
+  "step": [
+    {
+      "name": "Step 1: Clarify local zoning definitions and permitted uses.",
+      "text": "Contact your local planning department to verify whether your plans qualify as an attached guest suite or an accessory dwelling unit (ADU). Determine specific restrictions regarding separate kitchen facilities, private exterior entrances, and allowable square footage on your parcel. This step is complete when you know the exact zoning category and design limitations that govern your property.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Confirm utility capacities and sanitary connections.",
+      "text": "Inspect your existing electrical service, water supply pressure, and sewer or septic capacity to see if they can support extra daily living needs. Meet with utility providers or a licensed contractor to verify whether subpanels or line upgrades are required. You are finished with this step when you have written confirmation of your home's utility capacity for added plumbing and appliances.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Design accessibility, fire separation, and privacy layouts.",
+      "text": "Draft architectural plans that incorporate necessary fire-rated wall assemblies, smoke and carbon monoxide alarms, and independent emergency egress windows. Incorporate practical features like wide doorways and walk-in showers for aging family members. You are ready to proceed once your layout balances family privacy with mandatory life safety standards.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure building, mechanical, and trade permits.",
+      "text": "Submit the detailed blueprints, plot plans, and electrical and mechanical layouts to your local building office for comprehensive plan review. Answer any municipal questions regarding energy efficiency, framing tie-ins, or ventilation. This step wraps up when all necessary building and trade permits are formally approved and issued.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Execute structural framing and tie into the main house.",
+      "text": "Pour the inspected foundation, erect the framing, and securely tie roof trusses and exterior walls into the primary dwelling structure. Install exterior water barriers and flashings to protect against storm driven rain. Complete this milestone once framing, sheathing, and roof tie-in inspections are officially signed off.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete plumbing rough-ins, drywall, and custom finishes.",
+      "text": "Rough in plumbing for the bathroom, run electrical circuits, and complete wall insulation before passing trade inspections. Hang and tape drywall to ensure smooth walls, and install walk-in showers, cabinetry, flooring, and interior trim. The suite is ready when fixtures are tested, finishes are detailed, and the building department issues final occupancy approval. To discuss building a comfortable, compliant in-law suite, call the experts at Bay City Remodeling & Bathrooms LLC at 813-362-0114 to schedule a consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Contact your local planning department to verify whether your plans qualify as an attached guest suite or an accessory dwelling unit (ADU). Determine specific restrictions regarding separate kitchen f"
+}

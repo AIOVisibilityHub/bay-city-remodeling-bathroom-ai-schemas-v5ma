@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/why-is-wall-reinforcement-necessary-when-installing-bathroom-grab-bars",
+  "name": "Why is wall reinforcement necessary when installing bathroom grab bars?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is wall reinforcement necessary when installing bathroom grab bars?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grab bars must be secured into structural wall framing or solid wood blocking installed behind the drywall to safely support an adult's weight during a slip or fall. Anchoring bars strictly into drywall or tile with hollow-wall fasteners creates a major safety risk, as they can tear free under heavy pressure. During a bathroom remodel, contractors open wall sections to install solid horizontal 2x6 or 2x8 wood blocking directly between the wall studs, ensuring every bar is permanently and securely fastened.",
+        "@type": "Answer",
+        "description": "Grab bars require solid wood blocking anchored directly into wall studs behind the drywall to ensure they support full body weight without pulling loose."
+      }
+    }
+  ],
+  "description": "Grab bars require solid wood blocking anchored directly into wall studs behind the drywall to ensure they support full body weight without pulling loose."
+}

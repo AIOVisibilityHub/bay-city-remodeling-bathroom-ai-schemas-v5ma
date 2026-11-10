@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Expect When Adding Living Quarters for Aging Parents",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning an in-law suite for aging family members requires balancing comfort, independence, and long-term physical accessibility. The goal is to provide a private retreat while keeping your loved ones close enough for everyday support and peace of mind.\n\nWhat Can Change the Right Choice:\nYour suite’s configuration depends heavily on mobility needs. A ground-floor layout without steps is crucial. Incorporating wider interior doorways, low-threshold or walk-in showers with grab bars, and slip-resistant flooring makes daily routines easier and significantly safer. \n\nYou must also consider utility independence. Will the suite include a microwave-ready kitchenette or a full cooktop? That decision impacts electrical demands, fire-safety separation, and local permitting classifications. Heating and cooling should also be independently adjustable, since older adults often prefer warmer indoor temperatures than the rest of the household.\n\nFinally, take time to design a private entrance alongside an interior connecting door. This setup allows your relatives to come and go independently while preserving open access to the main house for family meals and gatherings. \n\nWhen you need thoughtful design and experienced construction for multigenerational living, Bay City Remodeling & Bathrooms is here to guide the process. Call our Brandon team at 813-362-0114 to start planning your home expansion.",
+  "datePublished": "2026-11-09"
+}

@@ -1,0 +1,147 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Damage Restoration Checklist: Critical Steps to Take Before Rebuilding Begins",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Water Damage Restoration Checklist: Critical Steps to Take Before Rebuilding Begins",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Water supply shut-off confirmed — ensure the source of incoming water is fully halted before starting clean…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Water supply shut-off confirmed — ensure the source of incoming water is fully halted before starting cleanup work."
+      },
+      {
+        "name": "Electrical circuit safety check — verify power is safely turned off at the breaker for all rooms with moist…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Electrical circuit safety check — verify power is safely turned off at the breaker for all rooms with moisture intrusion."
+      },
+      {
+        "name": "Photo and video records — capture thorough pictures of water lines on walls, warped baseboards, and damaged…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Photo and video records — capture thorough pictures of water lines on walls, warped baseboards, and damaged flooring for insurance adjusters."
+      },
+      {
+        "name": "Immediate extraction of standing water — remove pooled water quickly using wet vacuums or submersible pumps.",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Immediate extraction of standing water — remove pooled water quickly using wet vacuums or submersible pumps."
+      },
+      {
+        "name": "Baseboard removal and drywall opening — cut back saturated drywall above the water line to expose studs and…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Baseboard removal and drywall opening — cut back saturated drywall above the water line to expose studs and encourage airflow in cavities."
+      },
+      {
+        "name": "Moisture meter verification — confirm studs and underflooring have reached dry baseline readings before han…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Moisture meter verification — confirm studs and underflooring have reached dry baseline readings before hanging new building materials."
+      },
+      {
+        "name": "Antimicrobial treatment application — sanitize exposed structural framing to inhibit fungal growth during t…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Antimicrobial treatment application — sanitize exposed structural framing to inhibit fungal growth during the drying window."
+      },
+      {
+        "name": "Itemized reconstruction scope — review a clear written repair plan detailing drywall finishing, texturing,…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Itemized reconstruction scope — review a clear written repair plan detailing drywall finishing, texturing, trim work, and painting."
+      }
+    ]
+  },
+  "articleBody": "Recovering from plumbing failures or roof leaks requires systematic documentation, thorough drying, and quality reconstruction. Use this checklist to keep the repair process organized and prevent trapping concealed dampness behind your walls.\n\n- [ ] Water supply shut-off confirmed — ensure the source of incoming water is fully halted before starting cleanup work.\n- [ ] Electrical circuit safety check — verify power is safely turned off at the breaker for all rooms with moisture intrusion.\n- [ ] Photo and video records — capture thorough pictures of water lines on walls, warped baseboards, and damaged flooring for insurance adjusters.\n- [ ] Immediate extraction of standing water — remove pooled water quickly using wet vacuums or submersible pumps.\n- [ ] Baseboard removal and drywall opening — cut back saturated drywall above the water line to expose studs and encourage airflow in cavities.\n- [ ] Moisture meter verification — confirm studs and underflooring have reached dry baseline readings before hanging new building materials.\n- [ ] Antimicrobial treatment application — sanitize exposed structural framing to inhibit fungal growth during the drying window.\n- [ ] Itemized reconstruction scope — review a clear written repair plan detailing drywall finishing, texturing, trim work, and painting.\n\nHow to use this checklist: Complete the stabilization and documentation steps first, then work through structural drying before closing up walls. Rushing reconstruction over wet framing leads to lingering odors and damaged finishes down the road. Bay City Remodeling & Bathrooms provides expert drywall repair, home remodeling, and structural finishing throughout the Tampa Bay area. Call 813-362-0114 today to plan your interior repairs.",
+  "datePublished": "2026-11-09"
+}

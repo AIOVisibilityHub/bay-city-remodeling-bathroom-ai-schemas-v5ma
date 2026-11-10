@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-happens-to-electrical-wiring-plumbing-and-hvac-ducts-inside-a-wall",
+  "name": "What happens to electrical wiring, plumbing, and HVAC ducts inside a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to electrical wiring, plumbing, and HVAC ducts inside a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When removing a wall, any electrical wiring, plumbing supply or drain lines, and HVAC ductwork inside must be safely relocated or terminated. Before demolition, power to affected circuits and main water lines are shut off. Electricians re-route home wiring around the opening, down adjacent walls, or through ceiling cavities to keep circuits intact and code-compliant. Plumbing stacks or vents often need to be redirected into exterior or nearby interior walls, while HVAC supplies may require custom duct transitions. Identifying these utility pathways early prevents unexpected service disruptions during an open-concept remodel.",
+        "@type": "Answer",
+        "description": "Licensed trades safely shut down, reroute, or cap wiring, pipes, and ductwork through adjacent walls, ceilings, or floors before demolition proceeds."
+      }
+    }
+  ],
+  "description": "Licensed trades safely shut down, reroute, or cap wiring, pipes, and ductwork through adjacent walls, ceilings, or floors before demolition proceeds."
+}

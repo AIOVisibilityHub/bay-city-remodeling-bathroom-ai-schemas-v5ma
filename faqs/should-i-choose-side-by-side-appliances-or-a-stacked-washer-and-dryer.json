@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-choose-side-by-side-appliances-or-a-stacked-washer-and-dryer",
+  "name": "Should I choose side-by-side appliances or a stacked washer and dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose side-by-side appliances or a stacked washer and dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stacked laundry units free up valuable floor space for extra cabinetry, a linen closet, or a folding bench, but side-by-side units allow for a continuous countertop surface directly above the machines. Choosing a stacked configuration is ideal for compact spaces or converted closets, though reaching top controls can be challenging for some household members. Side-by-side setups take up more horizontal space but accommodate under-counter placement, built-in shelving, and adjacent utility sinks more comfortably.",
+        "@type": "Answer",
+        "description": "Stacked units save valuable floor space, while side-by-side appliances allow for a continuous work countertop across the top."
+      }
+    }
+  ],
+  "description": "Stacked units save valuable floor space, while side-by-side appliances allow for a continuous work countertop across the top."
+}

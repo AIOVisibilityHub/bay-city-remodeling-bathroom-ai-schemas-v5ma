@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-remodel-an-existing-room-or-build-an-in-law-suite-addition-for-an-aging",
+  "name": "Should I remodel an existing room or build an in-law suite addition for an aging parent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel an existing room or build an in-law suite addition for an aging parent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing room updates your current footprint, while adding an in-law suite or accessory dwelling unit builds new square footage. Remodeling an existing master bath or ground-floor bedroom costs less and preserves yard space, but you must work within existing structural dimensions and plumbing lines. An addition provides complete freedom to design zero-threshold entries, wide hallways, and customized living quarters from scratch, though it requires exterior foundation work, permitting, and a larger budget.",
+        "@type": "Answer",
+        "description": "Remodeling an existing room is faster and less costly, while an addition allows you to build completely custom, barrier-free living quarters from scratch."
+      }
+    }
+  ],
+  "description": "Remodeling an existing room is faster and less costly, while an addition allows you to build completely custom, barrier-free living quarters from scratch."
+}

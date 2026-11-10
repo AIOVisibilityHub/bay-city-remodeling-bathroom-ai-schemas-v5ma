@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Home Extension Contractor: Key Red Flags and Mistakes to Avoid",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Rushing into a home extension can lead to blown budgets and stressful delays. Watching out for common missteps early helps you keep your addition project running smoothly from day one.\n\nCommon Mistakes to Avoid\n- Starting construction before verifying property setbacks: Never assume your yard allows construction right up to property lines without checking local zoning limits.\n- Omitting a financial contingency: Hidden ground issues or hidden framing rot in tied-in walls can arise; setting aside reserve funds prevents halted work.\n- Comparing quotes with unequal scopes: A low estimate often excludes crucial structural items like foundation upgrades, drywall finishing, or electrical tie-ins.\n- Underestimating drainage alterations: Adding roof area redirects rainwater runoff; failing to plan for gutter routing or grading causes water pooling.\n- Overlooking temporary site access: Heavy machinery and materials need clear paths; neglecting access routes can damage driveways and landscaping.\n\nWhen Professional Guidance Helps\nWorking with an experienced remodeling company ensures accurate technical drawings, proper trade coordination, and cohesive structural integration.\n\nBay City Remodeling & Bathroom handles additions across Riverview, Bloomingdale, and Apollo Beach with transparent planning. Call us at 813-362-0114 to schedule your consultation.",
+  "datePublished": "2026-11-09"
+}

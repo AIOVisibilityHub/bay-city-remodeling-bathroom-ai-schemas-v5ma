@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Adding a Granny Flat: Attached Addition vs Detached Build for Florida Properties",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you decide to build a secondary dwelling, choosing the right structure format shapes your budget, timeline, and daily privacy. Both attached home extensions and detached backyard builds offer distinct advantages depending on your lot layout and living goals.\n\nKey Differences\nAn attached flat connects directly to your existing home's framing, roofline, and plumbing stacks. This makes routing electrical feeds, water supply, and drain lines simpler and often more cost-effective. A detached dwelling sits independently on your lot, providing complete acoustic separation and residential privacy, but it requires independent foundation work, longer utility trenches, and strict adherence to accessory structure setback regulations.\n\nWhen to Choose Each\nChoose an attached addition if your parcel has narrow side yards, tighter lot coverage restrictions, or if you want quick, indoor access to help an aging parent throughout the day. Choose a detached flat if your lot is deep, you desire total autonomy between households, or you prefer keeping the living spaces acoustically separate.\n\nCost and Timeline\nAttached projects generally finish faster because trenching and separate exterior envelope work are minimized. Detached structures demand dedicated groundwork, longer service connections, and independent exterior finishes, which usually extends the schedule and increases construction investment.\n\nWhat Can Change the Right Choice\nSoil conditions, existing tree roots, main service panel capacity, and easement paths can quickly swing the decision. If running long plumbing lines to the back fence requires cutting through patios or retaining walls, an attached build might be the practical route.\n\nWhen you are ready to evaluate your property's footprint, call Bay City Remodeling & Bathrooms at 813-362-0114 to schedule an on-site consultation.",
+  "datePublished": "2026-11-09"
+}

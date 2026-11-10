@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-meeting-with-a-whole-house-remodeling-contractor",
+  "name": "What should I prepare before meeting with a whole-house remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a whole-house remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling a formal consultation, homeowners should gather critical property details and outline their primary household goals. Note functional pain points in your current layout, such as crowded kitchens, insufficient bathroom storage, or the need for an in-law suite or expanded living room. Collect reference images or design styles that reflect your preferred aesthetic for cabinets, countertops, and flooring. It is also beneficial to verify property surveys if you plan exterior expansions, patios, or retaining walls, and to determine whether you need financing. Clear initial documentation allows your remodeling team to generate an accurate, actionable quote.",
+        "@type": "Answer",
+        "description": "Identify layout pain points, list must-have changes, collect design reference photos, and establish budget priorities so your contractor can provide an accurate project proposal."
+      }
+    }
+  ],
+  "description": "Identify layout pain points, list must-have changes, collect design reference photos, and establish budget priorities so your contractor can provide an accurate"
+}

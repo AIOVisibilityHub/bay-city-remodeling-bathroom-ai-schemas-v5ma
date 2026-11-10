@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Attached Suite vs Detached In-Law Addition: How to Compare Your Options",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When planning extra living space for family, homeowners often weigh an attached mother-in-law suite against a detached backyard build. Both options provide private quarters, but they differ significantly in construction requirements, daily convenience, and site constraints.\n\nHow to Compare Your Options\n\nAn attached suite expands your primary footprint by adding onto an existing exterior wall or converting underused space. This option keeps loved ones under one shared roof, making caregiving simpler during recovery or aging in place. It also allows you to tie more directly into your home's central plumbing and electrical systems, which can simplify utility runs. However, you will need to plan for sound separation and dedicated fire-separation walls between living areas.\n\nA detached unit offers complete privacy and independent living, functioning like a standalone cottage. The tradeoff lies in zoning and site capacity. Detached structures face strict property setbacks, lot coverage limitations, and independent utility connections that can increase site preparation demands. \n\nChoosing the right fit depends on your lot size, local zoning standards, and how much independence your family member wants. If you need help evaluating your home's layout in Brandon or Hillsborough County, contact Bay City Remodeling & Bathrooms LLC at 813-362-0114 to discuss your project.",
+  "datePublished": "2026-11-09"
+}

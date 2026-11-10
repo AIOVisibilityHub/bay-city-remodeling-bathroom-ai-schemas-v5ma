@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-creating-an-open-floor-plan",
+  "name": "What factors influence the cost of creating an open floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of creating an open floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept remodel is primarily driven by structural requirements and utility relocations. Removing a simple non-load-bearing partition wall requires minimal structural work, keeping labor lower. If a wall is load-bearing, costs increase due to structural engineering, temporary shoring, and installing heavy support beams. Additionally, if the wall contains plumbing lines, HVAC ductwork, or major electrical circuits, those systems must be rerouted through ceilings or subfloors. Flooring transitions, continuous drywall finishing, and ceiling adjustments across the merged spaces also factor into the total estimate.",
+        "@type": "Answer",
+        "description": "Costs depend mainly on whether walls are load-bearing, the need for structural support beams, and the complexity of rerouting electrical, plumbing, or HVAC lines."
+      }
+    }
+  ],
+  "description": "Costs depend mainly on whether walls are load-bearing, the need for structural support beams, and the complexity of rerouting electrical, plumbing, or HVAC line"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-meeting-with-a-laundry-room-remodeling-contractor",
+  "name": "What should I prepare before meeting with a laundry room remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting with a laundry room remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation, measure your existing washer and dryer or note the dimensions of new appliances you plan to purchase, including door-swing clearances. Identify whether you need an electric or gas dryer hookup, and decide if a utility sink, built-in ironing board, or drying racks are essential for your routine. Sharing these functional needs and appliance dimensions early helps us plan accurate plumbing cut-ins, electrical outlet locations, and custom cabinet layouts during the initial estimate.",
+        "@type": "Answer",
+        "description": "Gather your appliance dimensions, identify your dryer connection type (gas or electric), and list priority features like sinks or custom storage."
+      }
+    }
+  ],
+  "description": "Gather your appliance dimensions, identify your dryer connection type (gas or electric), and list priority features like sinks or custom storage."
+}

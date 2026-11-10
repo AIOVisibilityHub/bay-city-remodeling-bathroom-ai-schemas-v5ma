@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-any-living-room-wall-be-removed-to-create-an-open-concept-layout",
+  "name": "Can any living room wall be removed to create an open-concept layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any living room wall be removed to create an open-concept layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a wall can be removed depends on whether it is load-bearing and what mechanical lines run through it. A partition wall that carries no structural weight can usually be taken down with minimal framing adjustments. If the wall supports the roof or ceiling joists, it requires engineered support beams and posts to distribute the load safely. The tradeoff with open concepts is that you gain sightlines and natural light, but you lose dedicated wall space for furniture, artwork, and entertainment centers. Removing walls also requires careful drywall finishing to blend the ceilings seamlessly.",
+        "@type": "Answer",
+        "description": "Non-load-bearing partition walls are easy to remove, but load-bearing walls require engineered support beams. You also trade away wall space for furniture and artwork to gain open sightlines."
+      }
+    }
+  ],
+  "description": "Non-load-bearing partition walls are easy to remove, but load-bearing walls require engineered support beams. You also trade away wall space for furniture and a"
+}

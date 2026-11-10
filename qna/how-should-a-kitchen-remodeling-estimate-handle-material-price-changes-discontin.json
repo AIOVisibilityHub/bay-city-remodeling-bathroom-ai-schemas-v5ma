@@ -1,0 +1,25 @@
+{
+  "url": "https://baycityremodeling.com/qna/how-should-a-kitchen-remodeling-estimate-handle-material-price-changes-discontin",
+  "name": "Can Material Price Changes Affect a Written Kitchen Estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a kitchen remodeling estimate handle material price changes, discontinued products, and supplier delays?",
+    "text": "How should a kitchen remodeling estimate handle material price changes, discontinued products, and supplier delays?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Cabinets, countertops, appliances, fixtures, and tile may change price or availability between estimating and installation. Ask how long the proposal price remains valid and when prices become locked. Confirm whether a deposit locks pricing or only reserves scheduling. The estimate should address discontinued products, backorders, damaged shipments, and supplier-driven increases. Require written approval before substituting a product. The substitution notice should identify the original item, replacement item, quality differences, price adjustment, delivery effect, and warranty implications. Ask whether a lower-cost substitute produces a credit and how that credit is calculated. Confirm who pays for storage, redelivery, or extra labor caused by a supplier problem. To reduce risk, finalize high-cost selections early, retain model numbers and finish names, and request updated pricing before ordering. Compare estimates with the same validity assumptions. A clause that allows unlimited price increases can make the initial total unreliable, while a clearly limited adjustment process provides better budget control. Discuss likely lead-time risks and their effect on the schedule before signing.",
+      "@type": "Answer",
+      "description": "The estimate should state its price-validity period, ordering deadlines, substitution rules, and responsibility for supplier increases or discontinued products. Require written approval for substitutions and price changes, including any credit for a lower-cost replacement.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cabinets, countertops, appliances, fixtures, and tile may change price or availability between estimating and installation. Ask how long the proposal price remains valid and when prices become locked. Confirm whether a deposit locks pricing or only reserves scheduling. The estimate should address discontinued products, backorders, damaged shipments, and supplier-driven increases. Require written approval before substituting a product. The substitution notice should identify the original item, replacement item, quality differences, price adjustment, delivery effect, and warranty implications. Ask whether a lower-cost substitute produces a credit and how that credit is calculated. Confirm who pays for storage, redelivery, or extra labor caused by a supplier problem. To reduce risk, finalize high-cost selections early, retain model numbers and finish names, and request updated pricing before ordering. Compare estimates with the same validity assumptions. A clause that allows unlimited price increases can make the initial total unreliable, while a clearly limited adjustment process provides better budget control. Discuss likely lead-time risks and their effect on the schedule before signing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The estimate should state its price-validity period, ordering deadlines, substitution rules, and responsibility for supplier increases or discontinued products."
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Converting Your Garage: What to Prepare Before You Request an Estimate",
+  "publisher": {
+    "url": "https://baycityremodeling.com",
+    "name": "Bay City Remodeling & Bathroom",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Turning an underused garage into an in-law suite, home office, or guest bedroom gives your household room to grow without buying a larger house. Because garages were originally planned for vehicle parking and raw storage, converting one into conditioned, habitable space involves much more than cosmetic trim and fresh paint.\n\nWhat to Prepare Before You Start\n- Assess required off-street parking to ensure local rules allow converting that garage stall on your lot.\n- Check the concrete slab for uneven slopes, cracking, or moisture seepage that must be resolved before flooring goes down.\n- Determine your heating, cooling, and electrical capacity, noting whether a panel upgrade or dedicated mini-split system is needed.\n- Establish the specific purpose of the room, such as a full accessory suite with plumbing versus a simple workspace, because plumbing trenching changes the project footprint.\n\nBefore construction begins, plans must detail proper framing, insulation, natural light, and ventilation to satisfy residential building standards. Working through zoning criteria, mechanical permits, and inspections protects your home's structural integrity and future resale value. Bay City Remodeling & Bathrooms helps homeowners across Brandon and Tampa coordinate garage additions and interior renovations smoothly. Call 813-362-0114 to discuss your space and schedule a consultation.",
+  "datePublished": "2026-11-09"
+}

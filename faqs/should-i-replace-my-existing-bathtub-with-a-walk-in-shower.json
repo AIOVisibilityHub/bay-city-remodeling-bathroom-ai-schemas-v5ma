@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-replace-my-existing-bathtub-with-a-walk-in-shower",
+  "name": "Should I replace my existing bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my existing bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between keeping a bathtub or installing a walk-in shower depends on household usage, safety needs, and future resale considerations. Walk-in showers offer step-free access, easier cleaning, and an open appearance that works well for aging in place or smaller bathrooms. However, preserving at least one bathtub in the home is often recommended if you have young children or want to retain appeal for future buyers who prioritize family bathing. Converting a tub to a shower requires adjusting the drain assembly and waterproofing the entire surround, which can alter both your budget and plumbing layout.",
+        "@type": "Answer",
+        "description": "Walk-in showers provide easier access, modern style, and better space efficiency, but keeping at least one bathtub in the home is helpful for families with small children and resale value."
+      }
+    }
+  ],
+  "description": "Walk-in showers provide easier access, modern style, and better space efficiency, but keeping at least one bathtub in the home is helpful for families with smal"
+}

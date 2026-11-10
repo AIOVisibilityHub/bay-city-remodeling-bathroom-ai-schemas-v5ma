@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-restore-my-space-to-its-original-design-or-remodel-it-after-water-damag",
+  "name": "Should I restore my space to its original design or remodel it after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I restore my space to its original design or remodel it after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water-damage repair allows you to either restore what was originally there or roll the rebuild into a broader room remodel. If your bathroom or kitchen had outdated cabinetry, worn fixtures, or an awkward layout, repairing water-damaged subfloors and drywall provides an ideal opening to reconfigure the space. You can update plumbing lines, convert an unused tub into a walk-in shower, or install modern cabinets while the room is opened up.",
+        "@type": "Answer",
+        "description": "If your space was already outdated, water-damage reconstruction is an ideal time to upgrade layouts, modern fixtures, and cabinetry."
+      }
+    }
+  ],
+  "description": "If your space was already outdated, water-damage reconstruction is an ideal time to upgrade layouts, modern fixtures, and cabinetry."
+}

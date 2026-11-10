@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-an-addition-to-expand-a-living-room-or-convert-existing-sp",
+  "name": "Is it better to build an addition to expand a living room or convert existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to build an addition to expand a living room or convert existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between extending your living room into an addition versus converting existing spaces comes down to budget, yard space, and functional priorities. An exterior addition expands your total home square footage without sacrificing other usable interior rooms, but it requires foundation work, exterior framing, and exterior finishing like stuccoing. A garage conversion or repurposing an adjacent room uses existing shelter, lowering structural shell costs, but eliminates parking or dedicated storage. Reviewing lot boundaries and household needs during your consultation helps identify whether extending outward or reconfiguring existing space is the right path.",
+        "@type": "Answer",
+        "description": "An addition increases your home's footprint without sacrificing interior rooms, while a conversion uses existing walls at a lower shell cost but eliminates garage or storage space."
+      }
+    }
+  ],
+  "description": "An addition increases your home's footprint without sacrificing interior rooms, while a conversion uses existing walls at a lower shell cost but eliminates gara"
+}

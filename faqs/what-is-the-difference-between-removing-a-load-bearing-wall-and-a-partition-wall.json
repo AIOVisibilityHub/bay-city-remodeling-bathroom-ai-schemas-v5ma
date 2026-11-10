@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-removing-a-load-bearing-wall-and-a-partition-wall",
+  "name": "What is the difference between removing a load-bearing wall and a partition wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between removing a load-bearing wall and a partition wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a load-bearing wall takes longer and requires structural support beams, whereas removing a non-load-bearing wall is much simpler and faster. Taking down a standard partition wall generally involves basic demolition, re-routing any minor utility lines, and patching surrounding drywall and flooring. When you eliminate a load-bearing wall to create an open-concept kitchen or expanded living room, contractors must erect temporary support walls, calculate structural loads, and install a recessed or dropped support beam with solid posts. This extra structural framing, along with necessary building permits and inspections, increases both project duration and material requirements.",
+        "@type": "Answer",
+        "description": "Load-bearing wall removal requires temporary shoring, structural beams, and permits, while partition wall removal involves standard drywall demolition and minor utility adjustments."
+      }
+    }
+  ],
+  "description": "Load-bearing wall removal requires temporary shoring, structural beams, and permits, while partition wall removal involves standard drywall demolition and minor"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://baycityremodeling.com/qna/how-can-homeowners-compare-payment-schedules-and-deposits-in-kitchen-remodeling",
+  "name": "What Payment Schedule Should a Kitchen Remodeling Estimate Show?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can homeowners compare payment schedules and deposits in kitchen remodeling estimates?",
+    "text": "How can homeowners compare payment schedules and deposits in kitchen remodeling estimates?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A payment schedule should connect each payment to a clear project milestone. Compare the initial deposit, material or cabinet payment, demolition completion, rough trade completion, cabinet installation, countertop installation, punch-list completion, and final payment. Ask whether payments are based on work completed, materials delivered, or calendar dates, and identify any separate design or permit fees. Check whether the proposal requires large payments before materials are ordered and whether delivered products remain stored securely. Clarify how approved change orders are billed and whether credits are applied immediately or at the final payment. Ask what happens when a milestone is incomplete, an inspection is pending, or a damaged item must be replaced. Keep a written record of invoices, selections, approvals, receipts, and completion evidence. Avoid comparing percentages without considering the work attached to each payment. A transparent schedule supports cash-flow planning and reduces disputes over whether a contractor has earned the next installment. The final payment should be tied to defined completion conditions, correction of punch-list items, and delivery of agreed documents or warranty information.",
+      "@type": "Answer",
+      "description": "Compare the deposit, milestone payments, retainage or final payment, payment triggers, material deposits, and treatment of approved changes. Payments should correspond to documented progress rather than vague dates. Ask what happens if materials are delayed or work is incomplete at a milestone.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A payment schedule should connect each payment to a clear project milestone. Compare the initial deposit, material or cabinet payment, demolition completion, rough trade completion, cabinet installation, countertop installation, punch-list completion, and final payment. Ask whether payments are based on work completed, materials delivered, or calendar dates, and identify any separate design or permit fees. Check whether the proposal requires large payments before materials are ordered and whether delivered products remain stored securely. Clarify how approved change orders are billed and whether credits are applied immediately or at the final payment. Ask what happens when a milestone is incomplete, an inspection is pending, or a damaged item must be replaced. Keep a written record of invoices, selections, approvals, receipts, and completion evidence. Avoid comparing percentages without considering the work attached to each payment. A transparent schedule supports cash-flow planning and reduces disputes over whether a contractor has earned the next installment. The final payment should be tied to defined completion conditions, correction of punch-list items, and delivery of agreed documents or warranty information.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare the deposit, milestone payments, retainage or final payment, payment triggers, material deposits, and treatment of approved changes. Payments should cor"
+}

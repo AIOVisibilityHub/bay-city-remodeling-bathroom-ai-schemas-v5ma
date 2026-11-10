@@ -1,0 +1,25 @@
+{
+  "url": "https://baycityremodeling.com/qna/how-should-appliance-purchases-delivery-installation-and-hookups-appear-in-a-kit",
+  "name": "What Should a Kitchen Remodeling Estimate Say About Appliances?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should appliance purchases, delivery, installation, and hookups appear in a kitchen remodeling estimate?",
+    "text": "How should appliance purchases, delivery, installation, and hookups appear in a kitchen remodeling estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Appliances affect cabinet dimensions, electrical requirements, plumbing, ventilation, and countertop planning, so the estimate should address them explicitly. List the refrigerator, range or cooktop, oven, microwave, dishwasher, hood, and other appliances by model or allowance. State whether purchase, tax, delivery, installation, haul-away, warranty, and final connection are included. Ask whether the contractor has verified manufacturer clearances and rough-in requirements. A new induction range may require electrical capacity; a gas appliance may require approved piping and ventilation; a dishwasher may need plumbing or cabinet adjustments. Confirm who pays for circuits, outlets, shutoff valves, gas work, venting, trim kits, panels, and modifications when supplied appliances differ from the assumed specifications. If appliances are owner-supplied, ask when they must arrive, who checks for damage, and who is responsible for connecting them. Record model numbers before cabinetry is ordered. Compare estimates using the same appliance assumptions and identify all allowances. This prevents a low bid from excluding costly coordination work and reduces the chance that cabinets or countertops will need modification after installation.",
+      "@type": "Answer",
+      "description": "The estimate should list each appliance as included, excluded, owner-supplied, or carried as an allowance. It should identify delivery, haul-away, cabinet modifications, electrical circuits, plumbing, gas work, ventilation, and final connections. Never assume an appliance price includes installation or required site work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Appliances affect cabinet dimensions, electrical requirements, plumbing, ventilation, and countertop planning, so the estimate should address them explicitly. List the refrigerator, range or cooktop, oven, microwave, dishwasher, hood, and other appliances by model or allowance. State whether purchase, tax, delivery, installation, haul-away, warranty, and final connection are included. Ask whether the contractor has verified manufacturer clearances and rough-in requirements. A new induction range may require electrical capacity; a gas appliance may require approved piping and ventilation; a dishwasher may need plumbing or cabinet adjustments. Confirm who pays for circuits, outlets, shutoff valves, gas work, venting, trim kits, panels, and modifications when supplied appliances differ from the assumed specifications. If appliances are owner-supplied, ask when they must arrive, who checks for damage, and who is responsible for connecting them. Record model numbers before cabinetry is ordered. Compare estimates using the same appliance assumptions and identify all allowances. This prevents a low bid from excluding costly coordination work and reduces the chance that cabinets or countertops will need modification after installation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The estimate should list each appliance as included, excluded, owner-supplied, or carried as an allowance. It should identify delivery, haul-away, cabinet modif"
+}

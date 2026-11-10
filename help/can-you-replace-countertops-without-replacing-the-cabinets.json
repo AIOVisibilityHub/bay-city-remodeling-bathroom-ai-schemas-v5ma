@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Apollo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Balm",
+        "@type": "City"
+      },
+      {
+        "name": "Bloomingdale",
+        "@type": "City"
+      },
+      {
+        "name": "Boyette",
+        "@type": "City"
+      },
+      {
+        "name": "Brandon",
+        "@type": "City"
+      },
+      {
+        "name": "Dover",
+        "@type": "City"
+      },
+      {
+        "name": "East Lake-Orient Park",
+        "@type": "City"
+      },
+      {
+        "name": "Egypt Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fish Hawk",
+        "@type": "City"
+      },
+      {
+        "name": "Gibsonton",
+        "@type": "City"
+      },
+      {
+        "name": "Hyde Park",
+        "@type": "City"
+      },
+      {
+        "name": "Mango",
+        "@type": "City"
+      },
+      {
+        "name": "Riverview",
+        "@type": "City"
+      },
+      {
+        "name": "Seffner",
+        "@type": "City"
+      },
+      {
+        "name": "Tampa",
+        "@type": "City"
+      },
+      {
+        "name": "Valrico",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can You Replace Countertops Without Replacing the Cabinets?",
+    "text": "Can You Replace Countertops Without Replacing the Cabinets?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A lot of homeowners ask us: \"Can I replace my old kitchen countertops without tearing out or rebuilding my existing lower cabinets?\"\n\nThe short answer is yes, as long as your current cabinetry is structurally sound, square, and fully leveled. Natural stone, quartz, and solid surface slabs are extremely heavy, so the framework underneath must carry that weight evenly across the entire run. If your existing boxes are sagging, water-damaged under the sink, or pulling away from the drywall, putting new stone on top will eventually cause cracked joints, stressed seams, or broken edges.\n\nWhat to Expect During the Process:\nDuring an initial inspection, a professional will check your cabinet integrity, wall anchors, and level plane. If things are slightly out of alignment, shimming and structural reinforcement can often bridge the gap. You will also need to decide how to handle your sink mounting and appliances, since changing surface thickness might affect your faucet clearance or how a slide-in range aligns with the counter edge. Plumbing disconnects must happen beforehand, and custom fabrication takes roughly 5 to 10 business days after digital templates are created.\n\nIf you are thinking about upgrading your surfaces in Brandon or the Tampa Bay area, give Bay City Remodeling & Bathrooms a call at 813-362-0114. We will help you evaluate your current layout, check your cabinet support, and walk you through every detail from slab selection to final installation.",
+      "@type": "Answer",
+      "author": {
+        "name": "Bay City Remodeling & Bathroom",
+        "@type": "Organization"
+      }
+    }
+  }
+}

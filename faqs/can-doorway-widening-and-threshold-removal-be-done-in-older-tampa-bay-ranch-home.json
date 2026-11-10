@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-doorway-widening-and-threshold-removal-be-done-in-older-tampa-bay-ranch-home",
+  "name": "Can doorway widening and threshold removal be done in older Tampa Bay ranch homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can doorway widening and threshold removal be done in older Tampa Bay ranch homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, older homes across Tampa and Brandon often feature narrow interior doorways and raised exterior thresholds that can impede walkers and wheelchairs. In many mid-century ranch-style properties, expanding door openings involves cutting into drywall, modifying interior wall framing, and occasionally reinforcing load-bearing partitions. For exterior entries, concrete thresholds can be reworked into gentle transitions or paired with integrated deck and patio entries to eliminate tripping hazards while blending naturally with the home's exterior.",
+        "@type": "Answer",
+        "description": "Yes, contractors can reframe interior door openings, patch drywall, and adjust exterior thresholds to create wider, step-free entryways in older local homes."
+      }
+    }
+  ],
+  "description": "Yes, contractors can reframe interior door openings, patch drywall, and adjust exterior thresholds to create wider, step-free entryways in older local homes."
+}

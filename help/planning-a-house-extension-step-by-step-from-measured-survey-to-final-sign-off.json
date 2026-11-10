@@ -1,0 +1,125 @@
+{
+  "name": "Planning a House Extension: Step-by-Step From Measured Survey to Final Sign-Off",
+  "step": [
+    {
+      "name": "Step 1: Conduct a site feasibility check and measured survey",
+      "text": "Walk the property boundaries with your design specialist to evaluate yard depth, setbacks, utility lines, and existing structural walls. A detailed measured survey records every exact dimension, roof height, and window placement of your original house to serve as the baseline for all architectural and engineering plans.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Draft technical concepts and structural designs",
+      "text": "Develop floor plans that accomplish your functional goals while integrating structural loads cleanly into your existing home. Engineers calculate the required footings, lintels, and tie-in connections, ensuring that the new rooflines and load-bearing partitions meet safety standards and resist severe regional weather conditions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure building approvals and finalize project scope",
+      "text": "Finalize your detailed material specifications, electrical layouts, and plumbing points with your contractor before submitting plans for building-regulations review. Establishing every fixture, finish, and wall boundary at this stage locks in accurate scopes and avoids unexpected mid-build adjustments.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Excavate footings and pour the foundation",
+      "text": "Clear the construction area, install drainage diversions, and dig trenches down to solid ground according to engineering specifications. Once inspected, concrete footings and slabs are poured, creating a stable, level base that anchors the new extension securely to your home's existing foundation.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Frame the structure and tie in the weather-tight envelope",
+      "text": "Erect the structural framing, roof trusses, and exterior sheathing, joining the new framing directly into the original building structure. Install roof underlayment, shingles, impact-rated windows, and exterior wrap immediately so the interior space remains completely protected from heavy wind and rain.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Complete rough-ins, drywall, and interior finishes",
+      "text": "Run electrical wiring, plumbing supply lines, and HVAC ductwork through the open framing before insulating walls and hanging drywall. Once the drywall is finished with a smooth surface, crews install flooring, trim, doors, and paint to blend the new living space seamlessly with your home.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Conduct final inspections and handover",
+      "text": "Perform complete operational testing of all electrical switches, plumbing fixtures, and mechanical systems alongside the project manager. The building inspector confirms full code compliance, providing final completion documents so your family can move into the newly expanded space with complete confidence. Bay City Remodeling & Bathroom manages house extension projects from initial drawings to final touches. Contact us at 813-362-0114 or baycityremodeling.com to start your project.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Walk the property boundaries with your design specialist to evaluate yard depth, setbacks, utility lines, and existing structural walls. A detailed measured survey records every exact dimension, roof "
+}

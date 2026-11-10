@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-check-before-deciding-to-convert-my-garage-into-living-quarters",
+  "name": "What should I check before deciding to convert my garage into living quarters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before deciding to convert my garage into living quarters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before beginning, confirm that your property can legally accommodate the loss of off-street parking. Many municipalities and homeowner associations have minimum off-street parking rules that require at least two driveway or garage spaces. You must also determine the target function: a guest bedroom, home office, rental ADU, or in-law suite. Measure your existing electrical panel to see if it has open breaker slots, locate the nearest main plumbing stack if you want a bathroom, and gather any HOA design guidelines governing exterior materials and street-facing window placement.",
+        "@type": "Answer",
+        "description": "Check local zoning and HOA parking requirements, inspect electrical panel capacity, and evaluate plumbing access if adding a bathroom or kitchenette."
+      }
+    }
+  ],
+  "description": "Check local zoning and HOA parking requirements, inspect electrical panel capacity, and evaluate plumbing access if adding a bathroom or kitchenette."
+}

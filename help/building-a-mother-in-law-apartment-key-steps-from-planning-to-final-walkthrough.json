@@ -1,0 +1,119 @@
+{
+  "name": "Building a Mother-in-Law Apartment: Key Steps from Planning to Final Walkthrough",
+  "step": [
+    {
+      "name": "Step 1: Check property zoning and lot eligibility",
+      "text": "Review your local municipal and county zoning rules to verify whether your property allows an accessory dwelling unit or attached apartment. You need to verify lot coverage limits, property line setbacks, and parking requirements before drawing plans.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Assess existing utilities and structural capacity",
+      "text": "Have your contractor inspect your main electrical service panel, water line pressure, and sewer or septic capacity. A functioning apartment requires reliable infrastructure, and identifying whether you need panel upgrades or plumbing line extensions early prevents expensive mid-build delays.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop architectural drawings and layout plans",
+      "text": "Work with your design and construction team to draft detailed drawings covering bedroom sizing, bathroom fixtures, kitchen or kitchenette placement, and emergency egress windows. These plans establish the exact scope and are required for municipal permit submissions.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure required building permits",
+      "text": "Submit your plans to the local building department for zoning, structural, electrical, and plumbing reviews. Construction should never begin until official building permits are issued, keeping your project compliant with all safety and residential codes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Complete structural framing, rough-ins, and drywall",
+      "text": "Once framing is erected, trade specialists install rough electrical wiring, plumbing supply lines, drain lines, and mechanical ductwork. After passing municipal rough inspections, insulation and drywall are hung, finished, and prepped for paint.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Install interior finishes, fixtures, and complete the final walkthrough",
+      "text": "Artisans install bathroom tile, walk-in showers, cabinetry, countertops, flooring, and interior doors. Once all fixtures are connected, final building inspections are scheduled, followed by a complete walkthrough with your contractor to verify every detail before move-in day. What to Do Next A smooth build requires thorough coordination across every phase. To get started on a mother-in-law apartment in the Tampa Bay area, call Bay City Remodeling & Bathrooms LLC at 813-362-0114.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Apollo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Balm",
+      "@type": "City"
+    },
+    {
+      "name": "Bloomingdale",
+      "@type": "City"
+    },
+    {
+      "name": "Boyette",
+      "@type": "City"
+    },
+    {
+      "name": "Brandon",
+      "@type": "City"
+    },
+    {
+      "name": "Dover",
+      "@type": "City"
+    },
+    {
+      "name": "East Lake-Orient Park",
+      "@type": "City"
+    },
+    {
+      "name": "Egypt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fish Hawk",
+      "@type": "City"
+    },
+    {
+      "name": "Gibsonton",
+      "@type": "City"
+    },
+    {
+      "name": "Hyde Park",
+      "@type": "City"
+    },
+    {
+      "name": "Mango",
+      "@type": "City"
+    },
+    {
+      "name": "Riverview",
+      "@type": "City"
+    },
+    {
+      "name": "Seffner",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Valrico",
+      "@type": "City"
+    }
+  ],
+  "description": "Review your local municipal and county zoning rules to verify whether your property allows an accessory dwelling unit or attached apartment. You need to verify lot coverage limits, property line setba"
+}

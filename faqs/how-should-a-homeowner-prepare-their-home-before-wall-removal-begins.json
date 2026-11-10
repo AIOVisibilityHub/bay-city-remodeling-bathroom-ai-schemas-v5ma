@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-a-homeowner-prepare-their-home-before-wall-removal-begins",
+  "name": "How should a homeowner prepare their home before wall removal begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare their home before wall removal begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can prepare by clearing the adjacent rooms, packing fragile items, and identifying utility shut-off locations. Demolition produces dust and vibrations, so emptying nearby shelving, covering furniture, and removing wall art in adjoining rooms is vital. If original architectural blueprints or floor plans are accessible, having them ready helps contractors evaluate whether the wall carries structural loads or houses major utility runs. It is also helpful to decide in advance whether you plan to match existing flooring across the gap or replace the room's flooring entirely during the remodeling project.",
+        "@type": "Answer",
+        "description": "Clear the surrounding area, remove wall decor, secure pets, locate original floor plans if available, and decide on flooring transition preferences."
+      }
+    }
+  ],
+  "description": "Clear the surrounding area, remove wall decor, secure pets, locate original floor plans if available, and decide on flooring transition preferences."
+}
