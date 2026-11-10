@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T23:35:26.010Z",
+  "generatedAt": "2026-11-10T23:35:40.964Z",
   "client": {
     "name": "Bay City Remodeling & Bathroom",
     "canonicalUrl": "https://baycityremodeling.aiovisibility.net",
@@ -187,7 +187,7 @@
   },
   "package": {
     "totalFiles": 824,
-    "totalBytes": 4095374,
+    "totalBytes": 4018166,
     "stats": {
       "faqs": 430,
       "helpArticles": 197,
@@ -4208,82 +4208,82 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 25504,
+        "bytes": 20499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 75984,
+        "bytes": 71119,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 141824,
+        "bytes": 136928,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 40220,
+        "bytes": 35557,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 23467,
+        "bytes": 18729,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 521621,
+        "bytes": 516847,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 26001,
+        "bytes": 21238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 31970,
+        "bytes": 27254,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 24885,
+        "bytes": 20091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 141556,
+        "bytes": 136777,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 107809,
+        "bytes": 103035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 67583,
+        "bytes": 62739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 364649,
+        "bytes": 359834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 57089,
+        "bytes": 52238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 57927,
+        "bytes": 53182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 31558,
+        "bytes": 26705,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4295,7 +4295,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8860,
+        "bytes": 8823,
         "purpose": "LLM hint"
       },
       {
@@ -4315,32 +4315,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 9193,
+        "bytes": 9119,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 388366,
+        "bytes": 388292,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 112539,
+        "bytes": 112502,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 112539,
+        "bytes": 112502,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8864,
+        "bytes": 8827,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 135073,
+        "bytes": 135036,
         "purpose": "Repository README"
       },
       {
@@ -4358,7 +4358,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
-      "pagesUrl": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/",
+      "pagesUrl": "http://baycityremodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
     }
   }

@@ -20,7 +20,7 @@ Package contents:
 - [canonical] Bay City Remodeling & Bathroom — canonical website — https://baycityremodeling.aiovisibility.net
 - [ai-data-hub] Bay City Remodeling & Bathroom — AI Data Hub — https://baycityremodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://baycityremodeling.aiovisibility.net/ai-data.html
 - [same-as] Bay City Remodeling & Bathroom on aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space — https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/index.html
 - [same-as] Bay City Remodeling & Bathroom on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/bay-city-remodeling-bathroom-ai-schemas
 - [same-as] Bay City Remodeling & Bathroom on aiovisibilityhub.srht.site — https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas

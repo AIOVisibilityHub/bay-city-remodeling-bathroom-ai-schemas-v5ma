@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T23:35:25.997Z",
+  "generatedAt": "2026-11-10T23:35:40.954Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -63,7 +63,7 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/ai-data.html"
+      "url": "http://baycityremodeling.aiovisibility.net/ai-data.html"
     },
     {
       "role": "same-as",
@@ -189,7 +189,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
-      "pagesUrl": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/",
+      "pagesUrl": "http://baycityremodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
     }
   }
