@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T19:16:59.919Z",
+  "generatedAt": "2026-11-10T19:43:43.985Z",
   "client": {
     "name": "Bay City Remodeling & Bathroom",
     "canonicalUrl": "https://baycityremodeling.aiovisibility.net",
@@ -187,7 +187,7 @@
   },
   "package": {
     "totalFiles": 1310,
-    "totalBytes": 5615423,
+    "totalBytes": 5625178,
     "stats": {
       "faqs": 916,
       "helpArticles": 197,
@@ -6725,7 +6725,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5109,
+        "bytes": 6103,
         "purpose": "LLM hint"
       },
       {
@@ -6745,32 +6745,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1806,
+        "bytes": 4412,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 623971,
+        "bytes": 626150,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 175535,
+        "bytes": 176529,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 175535,
+        "bytes": 176529,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5113,
+        "bytes": 6107,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 219133,
+        "bytes": 220127,
         "purpose": "Repository README"
       },
       {
@@ -6790,6 +6790,25 @@
       "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
       "pagesUrl": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/",
       "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas-aq2x",
+      "pagesUrl": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24118565"
     }
   }
 }

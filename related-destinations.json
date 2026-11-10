@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-10T19:16:59.903Z",
+  "generatedAt": "2026-11-10T19:43:43.970Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -38,6 +38,54 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas-aq2x"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/24118565"
     }
   ],
   "destinations": {
@@ -45,6 +93,25 @@
       "url": "https://github.com/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma",
       "pagesUrl": "https://aiovisibilityhub.github.io/bay-city-remodeling-bathroom-ai-schemas-v5ma/",
       "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas-v5ma"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas-aq2x",
+      "pagesUrl": "https://bay-city-remodeling-bathroom-ai-schemas-aq2x-abae0c.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-bay-city-remodeling-bathroom-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/bay-city-remodeling-bathroom-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/bay-city-remodeling-bathroom-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24118565"
     }
   }
 }
