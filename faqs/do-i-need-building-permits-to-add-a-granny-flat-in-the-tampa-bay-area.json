@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits to add a granny flat in the Tampa Bay area?",
+  "description": "Yes, building a granny flat requires permits and must follow local municipal building codes, setback regulations, and zoning ordinances for your specific county",
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-add-a-granny-flat-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits to add a granny flat in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements depend on your local city or county building department across the Tampa Bay region, as zoning codes, setback rules, and utility guidelines vary by jurisdiction. For example, Hillsborough County, Pinellas County, and specific municipalities like Tampa or St. Petersburg maintain distinct regulations governing secondary suites, maximum building height, lot coverage limits, and parking rules. Homeowners must submit architectural plans and secure building, electrical, and plumbing permits before construction starts. Working with a licensed contractor ensures your project plans conform to local municipal standards and Florida building codes.",
+        "description": "Yes, building a granny flat requires permits and must follow local municipal building codes, setback regulations, and zoning ordinances for your specific county or city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

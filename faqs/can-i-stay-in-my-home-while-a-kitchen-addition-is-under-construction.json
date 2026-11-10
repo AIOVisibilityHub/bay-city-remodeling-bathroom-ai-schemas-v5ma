@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home while a kitchen addition is under construction?",
+  "description": "Yes, homeowners typically stay in the house by setting up a temporary kitchen, as early structural and foundation work happens outside the existing living envel",
+  "url": "https://baycityremodeling.com/faq/can-i-stay-in-my-home-while-a-kitchen-addition-is-under-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home while a kitchen addition is under construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners set up a temporary cooking station in an adjacent room so they can remain in the home during construction. Because the major early phases—such as excavation, foundation work, and initial framing—take place outside the existing envelope, disruptions inside your living quarters remain minimal at first. Major disruption occurs when crews remove the exterior wall to tie the new space into the main home and shut off utilities for plumbing and electrical cutovers.",
+        "description": "Yes, homeowners typically stay in the house by setting up a temporary kitchen, as early structural and foundation work happens outside the existing living envelope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

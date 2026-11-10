@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is heating and cooling handled for an added bedroom?",
+  "description": "You can extend your existing ductwork if your central unit has sufficient capacity, or install an independent ductless mini-split for dedicated temperature cont",
+  "url": "https://baycityremodeling.com/faq/how-is-heating-and-cooling-handled-for-an-added-bedroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is heating and cooling handled for an added bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can integrate a bedroom addition by extending your current central HVAC ductwork or by installing an independent ductless mini-split system. Extending ductwork provides a uniform system but requires an evaluation of your current unit’s tonnage to ensure it can handle the extra square footage without strain. A ductless mini-split offers zoned temperature control specifically for the new room, allowing occupants to set personal comfort levels without replacing or overloading the main air conditioning system.",
+        "description": "You can extend your existing ductwork if your central unit has sufficient capacity, or install an independent ductless mini-split for dedicated temperature control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

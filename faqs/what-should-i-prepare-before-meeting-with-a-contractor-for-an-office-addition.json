@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before meeting with a contractor for an office addition?",
+  "description": "Prepare a list of equipment power needs, preferred desk and storage layouts, sound privacy requirements, and your property survey to confirm yard setbacks.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-for-an-office-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before meeting with a contractor for an office addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for your consultation, consider how you work daily and list your essential functional requirements. Identify how many monitors or servers you operate, whether you require dedicated high-amperage circuits, and if your work demands acoustic privacy for client calls. You should also locate any available property surveys to help assess exterior setback limits on your lot. Gathering your preliminary layout ideas and exterior style preferences helps our team tailor an accurate project scope and estimate.",
+        "description": "Prepare a list of equipment power needs, preferred desk and storage layouts, sound privacy requirements, and your property survey to confirm yard setbacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

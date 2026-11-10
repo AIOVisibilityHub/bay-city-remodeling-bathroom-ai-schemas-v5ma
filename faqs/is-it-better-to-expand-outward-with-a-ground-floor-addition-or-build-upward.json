@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to expand outward with a ground-floor addition or build upward?",
+  "description": "Building out consumes yard space but is usually less disruptive inside. Building up preserves your lawn but requires structural reinforcement of the lower floor",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-expand-outward-with-a-ground-floor-addition-or-build-upward",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to expand outward with a ground-floor addition or build upward?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-floor bump-outs expand your home's footprint outward, while second-story additions build upward. Choosing between them involves evaluating land availability against construction disruption. Building out consumes yard space and requires foundation excavation, but it generally allows homeowners to remain in parts of the home during construction. Building up preserves your yard and lot coverage, but it requires structural reinforcement of existing lower-level framing and foundations, often causing greater daily disruption to living spaces below. Neighborhood height restrictions and soil conditions also guide which direction is viable.",
+        "description": "Building out consumes yard space but is usually less disruptive inside. Building up preserves your lawn but requires structural reinforcement of the lower floor and foundation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

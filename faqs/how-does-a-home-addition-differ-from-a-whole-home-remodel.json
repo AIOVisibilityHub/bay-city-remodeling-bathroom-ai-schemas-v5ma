@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-does-a-home-addition-differ-from-a-whole-home-remodel",
+  "name": "How does a home addition differ from a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a home addition differ from a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home addition involves building an entirely new footprint or second story onto your existing structure, whereas an interior remodel reconfigures space within your existing walls. Adding a new bedroom suite, family room, or in-law suite requires ground-up construction, including foundation work, framing, exterior tie-ins, and dedicated roofing. In contrast, an interior renovation updates areas like kitchens or bathrooms by altering interior partitions, finishes, and fixtures. If your household has outgrown its square footage, an addition solves the space deficit without requiring a move. However, if your current footprint is sufficient but poorly laid out, an interior remodel is typically less disruptive and avoids exterior site work.",
+        "@type": "Answer",
+        "description": "An addition expands your home's exterior footprint or height with new framing and foundation, while a remodel reconfigures and updates existing rooms inside."
+      }
+    }
+  ],
+  "description": "An addition expands your home's exterior footprint or height with new framing and foundation, while a remodel reconfigures and updates existing rooms inside."
+}

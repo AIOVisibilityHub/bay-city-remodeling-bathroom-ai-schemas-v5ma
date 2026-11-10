@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in converting an attached garage into livable space?",
+  "description": "Garage conversions involve framing exterior walls, insulating, running electrical and HVAC lines, leveling floors, and finishing drywall to blend with your exis",
+  "url": "https://baycityremodeling.com/faq/what-is-involved-in-converting-an-attached-garage-into-livable-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in converting an attached garage into livable space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting a garage requires leveling concrete floors, adding insulation, hanging drywall, extending electrical and HVAC systems, and finishing exterior walls. Before starting, measure ceiling heights and review parking alternatives, since you sacrifice enclosed car storage and utility staging space. Concrete slabs often require vapor barriers and subflooring before new finishes are installed. In addition, the garage door opening must be framed and finished with complementary siding or exterior stucco to blend seamlessly with your home's facade. Determining heating and cooling capacity early prevents undersized climate control once the conversion is occupied.",
+        "description": "Garage conversions involve framing exterior walls, insulating, running electrical and HVAC lines, leveling floors, and finishing drywall to blend with your existing home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What electrical upgrades should I include in a new home office addition?",
+  "description": "Plan for dedicated electrical circuits for sensitive computer equipment, recessed task lighting, hardwired internet jacks, and outlets positioned directly besid",
+  "url": "https://baycityremodeling.com/faq/what-electrical-upgrades-should-i-include-in-a-new-home-office-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What electrical upgrades should I include in a new home office addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dedicated home office addition requires a well-planned electrical layout that goes beyond standard bedroom wiring. You will want dedicated circuits to protect computers, printers, and sensitive hardware from circuit overloads. It is also beneficial to map out hardwired data ports, USB charging receptacles, recessed ceiling task lighting, and plenty of wall outlets positioned near your primary desk area so you do not have to rely on extension cords or power strips.",
+        "description": "Plan for dedicated electrical circuits for sensitive computer equipment, recessed task lighting, hardwired internet jacks, and outlets positioned directly beside your desk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

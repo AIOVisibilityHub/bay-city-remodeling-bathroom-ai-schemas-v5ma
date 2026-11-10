@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is typically included in a primary suite addition?",
+  "description": "A primary suite addition typically includes a spacious bedroom, a private en-suite bathroom, and walk-in closets, along with integrated plumbing and dedicated e",
+  "url": "https://baycityremodeling.com/faq/what-is-typically-included-in-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is typically included in a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A primary suite addition typically includes a large bedroom, a dedicated private bathroom, and one or more walk-in closets. Many homeowners also choose to incorporate sitting areas, dressing spaces, or direct outdoor patio access. Because the addition includes a full bathroom with features like double vanities or walk-in showers, the project requires rough-in plumbing, dedicated electrical circuits, and proper ventilation alongside structural framing and drywall installation. Planning these elements early helps ensure the layout supports your daily routine without crowding essential storage.",
+        "description": "A primary suite addition typically includes a spacious bedroom, a private en-suite bathroom, and walk-in closets, along with integrated plumbing and dedicated electrical systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

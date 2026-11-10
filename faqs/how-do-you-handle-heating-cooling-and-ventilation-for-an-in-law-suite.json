@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle heating, cooling, and ventilation for an in-law suite?",
+  "description": "You can install an independent ductless mini-split for custom temperature control or extend existing central ductwork if your current unit has sufficient capaci",
+  "url": "https://baycityremodeling.com/faq/how-do-you-handle-heating-cooling-and-ventilation-for-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle heating, cooling, and ventilation for an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heating and cooling can be addressed either by extending your home’s central HVAC ductwork or by installing an independent ductless mini-split system. Extending an existing central system requires verifying that your current heat pump or AC unit has enough tonnage and airflow capacity to handle the added square footage. A ductless mini-split is often the more practical choice because it operates independently, providing dedicated temperature controls for your relative without impacting the main home's comfort. It also eliminates the need to run bulky ductwork through existing ceilings and walls, reducing drywall alterations.",
+        "description": "You can install an independent ductless mini-split for custom temperature control or extend existing central ductwork if your current unit has sufficient capacity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before requesting a quote for an in-law suite or home addition?",
+  "description": "Gather your property survey, HOA guidelines, a list of must-have amenities like kitchens or accessible showers, and your preferred functional layout and budget",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-quote-for-an-in-law-suite-or-home-addi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before requesting a quote for an in-law suite or home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your initial design meeting, collect a copy of your property survey, a list of functional priorities, and any HOA bylaws that govern exterior additions. Determine the intended use: will the occupant need a full kitchen or just a kitchenette, and do they require step-free accessible features? Knowing your approximate budget and any electrical or plumbing issues in your current home also helps. Having these practical details ready allows us to evaluate your lot boundaries, discuss feasible architectural approaches, and prepare an accurate estimate.",
+        "description": "Gather your property survey, HOA guidelines, a list of must-have amenities like kitchens or accessible showers, and your preferred functional layout and budget goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

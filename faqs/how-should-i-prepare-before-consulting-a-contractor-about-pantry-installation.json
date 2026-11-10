@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-consulting-a-contractor-about-pantry-installation",
+  "name": "How should I prepare before consulting a contractor about pantry installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before consulting a contractor about pantry installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an estimate, measure your large kitchen appliances and assess your household storage routine to understand your volume needs. Take inventory of items you want stored behind closed doors, such as bulk grocery packages, slow cookers, stockpots, or recycling bins, noting their heights and depths. Consider whether you prefer open shelving for quick visibility or pull-out drawers that keep items from getting pushed to the back. Having an outline of these dimensions and usage goals helps the remodeling contractor draft an efficient, space-conscious framing or cabinetry layout.",
+        "@type": "Answer",
+        "description": "Measure your largest appliances, catalogue your bulk food storage needs, and decide between open shelving and pull-out drawers before your remodeling consultation."
+      }
+    }
+  ],
+  "description": "Measure your largest appliances, catalogue your bulk food storage needs, and decide between open shelving and pull-out drawers before your remodeling consultati"
+}

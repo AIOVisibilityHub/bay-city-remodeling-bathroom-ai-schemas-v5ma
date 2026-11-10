@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it practical to build an extension instead of moving to a larger house?",
+  "description": "An extension is practical when you want to stay in your neighborhood or avoid high moving costs, and your lot can legally accommodate the necessary square foota",
+  "url": "https://baycityremodeling.com/faq/when-is-it-practical-to-build-an-extension-instead-of-moving-to-a-larger-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it practical to build an extension instead of moving to a larger house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should start planning when changing household needs require permanent, long-term living space that existing rooms cannot accommodate. Common triggers include accommodating aging parents through multigenerational suites, creating dedicated home offices, expanding crowded common living rooms, or needing additional bedrooms for growing families. If your neighborhood, school district, and mortgage terms make moving unattractive or financially impractical, building an extension allows you to gain required square footage without the closing costs and disruption of relocating. A builder evaluates whether your lot has sufficient setback space to make expanding feasible.",
+        "description": "An extension is practical when you want to stay in your neighborhood or avoid high moving costs, and your lot can legally accommodate the necessary square footage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

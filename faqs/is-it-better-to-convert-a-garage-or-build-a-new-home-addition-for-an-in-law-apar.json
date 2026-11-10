@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to convert a garage or build a new home addition for an in-law apartment?",
+  "description": "A garage conversion saves on exterior framing but eliminates parking, while an addition preserves garage space and allows a fully customized, seamless layout.",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-convert-a-garage-or-build-a-new-home-addition-for-an-in-law-apar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to convert a garage or build a new home addition for an in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A converted garage reuses an existing slab and roof, while an addition expands your home’s footprint with newly engineered construction. Garage conversions can reduce framing time, but you sacrifice vehicle parking and storage, and you must level uneven concrete slabs, insulate unconditioned block walls, and add complete electrical and plumbing runs. An addition allows you to customize the floor plan, ceiling heights, and exterior finishes to blend seamlessly with your home’s architecture. An addition preserves your garage but requires land clearing, foundation pouring, and roof integration.",
+        "description": "A garage conversion saves on exterior framing but eliminates parking, while an addition preserves garage space and allows a fully customized, seamless layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

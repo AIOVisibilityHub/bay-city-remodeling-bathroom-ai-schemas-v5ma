@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What local building and zoning rules apply to bedroom additions in Hillsborough County?",
+  "description": "Additions must comply with local wind-load engineering, property boundary setbacks, ceiling height minimums, and egress window requirements established by count",
+  "url": "https://baycityremodeling.com/faq/what-local-building-and-zoning-rules-apply-to-bedroom-additions-in-hillsborough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What local building and zoning rules apply to bedroom additions in Hillsborough County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Hillsborough County jurisdictions such as Brandon and Tampa, bedroom additions must meet local building codes, wind-load standards, and property setback regulations from lot lines and easements. In addition, code requires that any legal bedroom feature an emergency egress window of specified dimensions and a minimum ceiling height. Bay City Remodeling & Bathrooms coordinates plans to ensure the new addition meets structural safety codes and complies with local municipal permitting and inspection guidelines.",
+        "description": "Additions must comply with local wind-load engineering, property boundary setbacks, ceiling height minimums, and egress window requirements established by county building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

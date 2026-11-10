@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does an in-law apartment require its own separate entrance?",
+  "description": "It is not always required, but a side or rear exterior entrance offers privacy while an interior connecting door ensures safety and easy family access.",
+  "url": "https://baycityremodeling.com/faq/does-an-in-law-apartment-require-its-own-separate-entrance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does an in-law apartment require its own separate entrance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding whether an in-law apartment needs a separate exterior entrance depends on privacy preferences, local zoning guidelines, and intended daily use. A private exterior entrance gives the occupant independence to enter and leave without walking through the primary home, which is ideal for independent family members or different daily schedules. However, local residential zoning codes sometimes restrict multiple front entrances on single-family properties to preserve neighborhood aesthetics, requiring secondary entrances to face the side or rear. Building both an interior connection and an exterior door offers privacy alongside quick indoor access.",
+        "description": "It is not always required, but a side or rear exterior entrance offers privacy while an interior connecting door ensures safety and easy family access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

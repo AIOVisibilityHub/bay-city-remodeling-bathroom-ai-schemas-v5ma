@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home while an addition is being built?",
+  "description": "Most homeowners remain home during ground-level additions since heavy construction stays outside until wall tie-in, though major structural openings may cause b",
+  "url": "https://baycityremodeling.com/faq/can-i-stay-in-my-home-while-an-addition-is-being-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home while an addition is being built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases involving ground-level additions, homeowners can stay in their homes because the majority of early structural work occurs outside. Crews establish dust barriers and seal off interior doors until it is time to open the connecting wall. However, if your addition involves heavy structural alterations to your main living space, extensive roof removal, or utility shutoffs affecting water and power, temporary relocation during the messiest phases may be more practical. Discussing phasing early ensures realistic expectations for daily living.",
+        "description": "Most homeowners remain home during ground-level additions since heavy construction stays outside until wall tie-in, though major structural openings may cause brief disruptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

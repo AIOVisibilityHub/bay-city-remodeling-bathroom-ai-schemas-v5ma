@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between building a family room addition and converting an existing garage?",
+  "description": "An addition builds new square footage outward, preserving storage and parking, while a conversion repurposes existing interior or covered space at a potentially",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-building-a-family-room-addition-and-converting-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between building a family room addition and converting an existing garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A family room addition expands your home footprint outward on your lot to create an entirely new, fully integrated living area. A conversion, such as turning an attached garage or porch into living space, works inside an existing building envelope. While a conversion can save on foundation and roof framing costs, an addition gives you complete freedom over room dimensions, ceiling height, and window placement. It also preserves your functional garage storage and vehicle parking. The right choice depends on your lot size, budget, and storage needs.",
+        "description": "An addition builds new square footage outward, preserving storage and parking, while a conversion repurposes existing interior or covered space at a potentially lower structural cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

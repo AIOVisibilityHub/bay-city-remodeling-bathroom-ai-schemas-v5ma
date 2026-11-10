@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors have the biggest impact on the cost of adding a bathroom?",
+  "description": "Key cost factors include building an exterior bump-out versus converting interior space, running new plumbing to main waste lines, and selecting custom tile or",
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-adding-a-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors have the biggest impact on the cost of adding a bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend heavily on whether you build an exterior home extension or convert interior space like a closet, laundry area, or garage. Ground additions require concrete slab or foundation work, framing, roofing, and full exterior finishes like siding or stucco. Interior conversions avoid exterior construction but require cutting into existing floors or foundations to tie into waste stacks and main water lines. Premium choices such as custom walk-in tile showers, freestanding tubs, and dedicated ventilation circuits will also increase overall plumbing and finishing expenses. Bay City Remodeling & Bathrooms reviews these scope details during an initial quote consultation.",
+        "description": "Key cost factors include building an exterior bump-out versus converting interior space, running new plumbing to main waste lines, and selecting custom tile or walk-in showers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

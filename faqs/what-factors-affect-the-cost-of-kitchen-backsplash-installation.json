@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-affect-the-cost-of-kitchen-backsplash-installation",
+  "name": "What factors affect the cost of kitchen backsplash installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of kitchen backsplash installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost of installing a kitchen backsplash depends on total square footage, the type of tile selected, and the condition of the drywall. High-end materials like marble, glass mosaic, or handmade zellige require specialized cutting tools, premium adhesives, and more detailed labor than standard glazed ceramic tiles. Extra expenses can also arise if the underlying wall needs drywall patching, outlet box extensions, or removal of an old backsplash. Bay City Remodeling provides in-home consultations and detailed estimates to establish accurate pricing based on your kitchen layout.",
+        "@type": "Answer",
+        "description": "Backsplash costs depend on square footage, tile material complexity, wall prep or drywall repairs, and the number of electrical cutouts required."
+      }
+    }
+  ],
+  "description": "Backsplash costs depend on square footage, tile material complexity, wall prep or drywall repairs, and the number of electrical cutouts required."
+}

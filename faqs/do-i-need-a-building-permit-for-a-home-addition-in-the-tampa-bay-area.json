@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-for-a-home-addition-in-the-tampa-bay-area",
+  "name": "Do I need a building permit for a home addition in the Tampa Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a home addition in the Tampa Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, home additions require building permits because they involve structural modifications, foundation work, framing, and extensions of electrical, plumbing, and mechanical systems. Building permits ensure that the new construction adheres to Florida building codes, wind-load standards, and local zoning laws such as setback limits from property lines. Unpermitted additions can cause major issues when selling your property, creating insurance complications or forcing costly code-compliance retrofits. A licensed general contractor coordinates architectural plans, submits permit applications to your local county or municipal building department, and schedules all required municipal inspections throughout the build.",
+        "@type": "Answer",
+        "description": "Yes, additions require municipal permits and inspections because they involve structural, electrical, and plumbing modifications that must comply with regional building codes."
+      }
+    }
+  ],
+  "description": "Yes, additions require municipal permits and inspections because they involve structural, electrical, and plumbing modifications that must comply with regional"
+}

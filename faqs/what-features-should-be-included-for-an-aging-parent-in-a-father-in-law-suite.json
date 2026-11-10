@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features should be included for an aging parent in a father-in-law suite?",
+  "description": "Essential features include zero-threshold walk-in showers, reinforced walls for grab bars, wide doorways, flush flooring transitions, and lever-style handles.",
+  "url": "https://baycityremodeling.com/faq/what-features-should-be-included-for-an-aging-parent-in-a-father-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features should be included for an aging parent in a father-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incorporating accessibility and aging-in-place features is best done during the initial framing and plumbing stages rather than retrofitting later. Prioritize zero-barrier walk-in showers with slip-resistant tile, built-in shower seating, and pre-blocked walls for sturdy grab bar installation. Plan for wider interior doorways and hallways to accommodate walkers or wheelchairs, along with lever-style door handles and single-handle faucets for easier grip. Flush transitions between flooring materials prevent tripping hazards. Installing rocker-style light switches at accessible heights and ensuring ample task lighting around kitchenettes also significantly improve daily comfort and safety for aging family members.",
+        "description": "Essential features include zero-threshold walk-in showers, reinforced walls for grab bars, wide doorways, flush flooring transitions, and lever-style handles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

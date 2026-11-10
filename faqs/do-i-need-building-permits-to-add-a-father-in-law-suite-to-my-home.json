@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits to add a father-in-law suite to my home?",
+  "description": "Yes. Adding living space, running plumbing lines, altering structures, and expanding electrical circuits require permits and municipal inspections.",
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-add-a-father-in-law-suite-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits to add a father-in-law suite to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building or converting a father-in-law suite requires building permits. Any project that involves structural modifications, plumbing extensions, electrical additions, mechanical ventilation, or creating new habitable space must be reviewed and permitted by your local building department. The permitting process involves submitting architectural drawings and site plans to verify compliance with local building codes, setbacks, and utility safety standards. Your general contractor should handle plan preparation, permit applications, and required municipal inspections at key milestones, such as rough plumbing, electrical rough-ins, insulation, and final occupancy checks.",
+        "description": "Yes. Adding living space, running plumbing lines, altering structures, and expanding electrical circuits require permits and municipal inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

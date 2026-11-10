@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-a-new-backsplash-be-installed-directly-over-existing-tile",
+  "name": "Can a new backsplash be installed directly over existing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new backsplash be installed directly over existing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backsplashes can occasionally be installed over smooth, well-bonded existing tile, but full removal down to clean drywall is the best practice. Tiling directly over old surfaces adds wall thickness, causing the backsplash to protrude awkwardly past electrical switch plates, cabinet frames, and window trim. Removing the original material gives installers direct access to inspect the wall substrate, perform necessary drywall repairs, and ensure a flat surface for proper mortar adhesion. Removing old tile also allows you to adjust electrical box depths so outlets sit flush.",
+        "@type": "Answer",
+        "description": "While technically possible on sound surfaces, removing the old tile is recommended to prevent excessive wall thickness and ensure a flat, secure bond."
+      }
+    }
+  ],
+  "description": "While technically possible on sound surfaces, removing the old tile is recommended to prevent excessive wall thickness and ensure a flat, secure bond."
+}

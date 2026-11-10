@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a mother-in-law apartment?",
+  "description": "A mother-in-law apartment is a self-contained living suite on a residential property featuring a bedroom, bathroom, living area, and private entrance for extend",
+  "url": "https://baycityremodeling.com/faq/what-is-a-mother-in-law-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a mother-in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mother-in-law apartment is a self-contained residential living area located on the same property as a single-family home. It typically includes its own sleeping quarters, full bathroom, living space, and often a kitchenette or full kitchen, along with an independent entrance. Depending on your property layout, these suites can be built as an interior conversion such as a transformed garage, an attached home addition sharing a wall with the main house, or a completely detached accessory dwelling unit (ADU). Establishing whether your space requires separate utility meters or specialized accessibility features like walk-in showers is a primary decision factor during early project planning.",
+        "description": "A mother-in-law apartment is a self-contained living suite on a residential property featuring a bedroom, bathroom, living area, and private entrance for extended family or guests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

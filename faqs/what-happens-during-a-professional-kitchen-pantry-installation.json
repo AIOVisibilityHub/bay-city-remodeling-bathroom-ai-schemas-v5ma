@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-happens-during-a-professional-kitchen-pantry-installation",
+  "name": "What happens during a professional kitchen pantry installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a professional kitchen pantry installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional pantry installation begins with measuring the kitchen layout and planning shelf heights around your stored goods, from dry food jars to large countertop appliances. For built-in rooms, carpenters construct the wall framing, route wiring for lighting or outlets, and install and finish drywall to match adjacent living areas. Once walls are prepped and painted, installers hang doors, fit trim, and secure fixed or adjustable shelving, drawers, and organizational inserts. A final walkthrough confirms shelf sturdiness, smooth hardware glide, and clean surface transitions.",
+        "@type": "Answer",
+        "description": "The process includes layout planning, framing walls and running wiring if needed, hanging and finishing drywall, painting, and securing custom shelving and trim."
+      }
+    }
+  ],
+  "description": "The process includes layout planning, framing walls and running wiring if needed, hanging and finishing drywall, painting, and securing custom shelving and trim"
+}

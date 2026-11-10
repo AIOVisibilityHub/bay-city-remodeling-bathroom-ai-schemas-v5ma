@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build a new addition or convert an existing garage?",
+  "description": "A garage conversion reuses existing structural walls but eliminates parking, while a new addition preserves storage and provides complete freedom over room dime",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-a-new-addition-or-convert-an-existing-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build a new addition or convert an existing garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A garage conversion repurposes enclosed, existing square footage under a shared roof, whereas a ground-up room addition requires pouring a new foundation, framing exterior walls, and constructing a new roofline. Converting a garage is typically faster and does not encroach on yard setbacks, but you permanently lose covered vehicle parking and vehicle-related storage. A ground-up addition lets you design the layout, ceiling height, and window placement from scratch without compromising your garage, though it involves higher structural, foundation, and roof tie-in labor.",
+        "description": "A garage conversion reuses existing structural walls but eliminates parking, while a new addition preserves storage and provides complete freedom over room dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

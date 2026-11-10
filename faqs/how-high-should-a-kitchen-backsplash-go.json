@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-high-should-a-kitchen-backsplash-go",
+  "name": "How high should a kitchen backsplash go?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How high should a kitchen backsplash go?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard backsplashes run between 15 and 18 inches high, filling the complete space from the countertop surface to the underside of the upper cabinets. However, many homeowners choose extended or full-height installations that carry tile up to the ceiling behind cooking ranges, under floating shelves, or around kitchen windows. Full-height backsplashes create an expansive focal point and protect larger wall areas from cooking splatters, though they require more tile material, additional wall leveling, and extra edge trim pieces.",
+        "@type": "Answer",
+        "description": "Backsplashes standardly span 15 to 18 inches up to the upper cabinets, but can extend to the ceiling behind stoves or around windows for a dramatic focal point."
+      }
+    }
+  ],
+  "description": "Backsplashes standardly span 15 to 18 inches up to the upper cabinets, but can extend to the ceiling behind stoves or around windows for a dramatic focal point."
+}

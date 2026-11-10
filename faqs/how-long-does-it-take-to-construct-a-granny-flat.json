@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a granny flat?",
+  "description": "Project duration ranges from a few months for garage conversions to longer for ground-up detached builds, depending on site prep, permitting, and finish selecti",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-a-granny-flat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a granny flat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline depends on the construction type, permitting requirements, and project scope. Garage conversions typically move faster because the outer building structure is already in place, while detached backyard units require full site preparation, foundation pouring, framing, and complete utility trenching. The overall schedule includes several phases: design planning, municipal permit approvals, rough trade installations for plumbing, electrical, and HVAC, followed by drywall, flooring, and final finish work. Weather conditions and supply lead times for specialized cabinetry or fixtures can also alter the building duration.",
+        "description": "Project duration ranges from a few months for garage conversions to longer for ground-up detached builds, depending on site prep, permitting, and finish selections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

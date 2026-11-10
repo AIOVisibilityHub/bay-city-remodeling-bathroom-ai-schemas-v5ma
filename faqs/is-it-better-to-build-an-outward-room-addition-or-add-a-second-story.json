@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build an outward room addition or add a second story?",
+  "description": "Building outward is usually less disruptive and avoids roof removal, while adding a second story preserves yard space but requires structural foundation reinfor",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-an-outward-room-addition-or-add-a-second-story",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build an outward room addition or add a second story?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building outward on the ground level is generally simpler and less disruptive to daily life than building a second-story addition. Ground-floor bump-outs avoid tearing off an existing roof or vacating the main living quarters during construction, but they consume yard space and must comply with property setback boundaries. Second-story additions preserve your lawn footprint but require reinforcing the existing foundation, adding structural support to ground-floor load-bearing walls, re-engineering the roofline, and fitting a staircase. Evaluating your lot boundaries, soil conditions, and municipal height limits during early planning determines which construction approach makes practical sense.",
+        "description": "Building outward is usually less disruptive and avoids roof removal, while adding a second story preserves yard space but requires structural foundation reinforcement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

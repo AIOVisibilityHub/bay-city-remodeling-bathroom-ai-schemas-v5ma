@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-new-kitchen-flooring-be-installed-directly-over-existing-floors",
+  "name": "Can new kitchen flooring be installed directly over existing floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new kitchen flooring be installed directly over existing floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While click-lock luxury vinyl can theoretically go over flat, well-bonded existing surfaces, laying new flooring directly over old material is generally not recommended for kitchens. Layering floors traps hidden moisture, conceals deteriorating subfloors, and raises the overall floor height. That height change can create awkward transitions into adjoining rooms and trap dishwashers beneath fixed countertops. Tearing out the old flooring allows technicians to inspect the subfloor for rot or plumbing leaks, level the foundation, and ensure the new floor sits flush with surrounding rooms.",
+        "@type": "Answer",
+        "description": "It is usually best to tear out old flooring. Layering traps subfloor moisture, creates uneven room transitions, and can trap dishwashers under existing countertops."
+      }
+    }
+  ],
+  "description": "It is usually best to tear out old flooring. Layering traps subfloor moisture, creates uneven room transitions, and can trap dishwashers under existing countert"
+}

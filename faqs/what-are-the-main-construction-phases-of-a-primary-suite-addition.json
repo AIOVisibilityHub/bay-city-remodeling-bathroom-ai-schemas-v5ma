@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main construction phases of a primary suite addition?",
+  "description": "Key phases include design and permitting, foundation and framing, mechanical rough-ins, drywall installation, and final interior bathroom and trim finishes.",
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-construction-phases-of-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main construction phases of a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary suite addition process moves through design, permitting, rough construction, and interior finishing. First, the contractor evaluates your property lines and existing floor plan to create architectural plans. After local building permits are secured, crews pour the foundation, frame the exterior walls, tie in the roofline, and seal the building envelope. Next, plumbers and electricians run lines before insulation and drywall are completed. Finally, interior work takes place, including tile work, shower installation, vanity placement, painting, and trim before the final inspection.",
+        "description": "Key phases include design and permitting, foundation and framing, mechanical rough-ins, drywall installation, and final interior bathroom and trim finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

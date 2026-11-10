@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure a new family room blends seamlessly with an existing house?",
+  "description": "We align rooflines, match exterior wall finishes like stucco, and coordinate interior drywall textures, ceiling heights, and trim to mirror your original struct",
+  "url": "https://baycityremodeling.com/faq/how-do-you-ensure-a-new-family-room-blends-seamlessly-with-an-existing-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure a new family room blends seamlessly with an existing house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A seamless family room addition matches both the exterior aesthetic and the interior flow of your existing home. Exterior cohesion is achieved by aligning roof pitches, matching roofing materials, and coordinating wall finishes, such as applying matching stucco textures and exterior paint. Inside, continuity comes from matching ceiling heights, flooring transitions, baseboard trim profiles, and drywall textures. Bay City Remodeling & Bathrooms coordinates framing, roofing, and drywall trades directly to ensure the new living space looks original to the house rather than an obvious add-on.",
+        "description": "We align rooflines, match exterior wall finishes like stucco, and coordinate interior drywall textures, ceiling heights, and trim to mirror your original structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

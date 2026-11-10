@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to plan and build an in-law suite addition?",
+  "description": "Timelines vary by scope: planning and permitting take several weeks, followed by sequential construction phases covering framing, rough utilities, drywall, and",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-plan-and-build-an-in-law-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to plan and build an in-law suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall schedule depends on project scope, with interior conversions generally moving faster than ground-up exterior additions. The process begins with an initial consultation, site measurements, and preliminary space planning. Once floor plans are finalized, preparing structural documents and waiting for municipal permit approval typically takes several weeks. Construction starts with site prep, foundation footings (for additions), and framing, followed by rough-in plumbing, electrical, and HVAC. Next comes insulation, drywall installation, tiling, cabinetry, and fixtures. Unforeseen structural changes or delayed utility tie-ins can extend the timeline, making realistic scheduling critical from the start.",
+        "description": "Timelines vary by scope: planning and permitting take several weeks, followed by sequential construction phases covering framing, rough utilities, drywall, and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you need a building permit to add a bathroom to a home?",
+  "description": "Yes, bathroom additions require permits and municipal inspections for structural framing, rough-in plumbing, electrical wiring, and final mechanical connections",
+  "url": "https://baycityremodeling.com/faq/do-you-need-a-building-permit-to-add-a-bathroom-to-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you need a building permit to add a bathroom to a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, adding a new bathroom almost universally requires residential building, electrical, and plumbing permits. Because the project alters structural framing and connects to primary water and wastewater systems, local building departments must review plans and perform inspections at key phases. These inspections verify framing, rough-in plumbing, electrical safety, and final installations. Licensed contractors handle drafting, application submissions, and scheduling municipal inspections to ensure all construction meets local building codes before walls are closed up with drywall.",
+        "description": "Yes, bathroom additions require permits and municipal inspections for structural framing, rough-in plumbing, electrical wiring, and final mechanical connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

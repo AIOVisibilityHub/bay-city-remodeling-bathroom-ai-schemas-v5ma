@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before requesting a quote for a room addition?",
+  "description": "Determine your main goals for the space, locate your property survey to check boundary lines, and note the age and capacity of your electrical panel.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-quote-for-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before requesting a quote for a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out for an estimate, identify the primary purpose of the space, whether you need extra bedrooms, a larger family room, or a dedicated home office. Next, locate your property survey to see your lot boundaries, easements, and setback restrictions. It also helps to inspect your electrical panel to see if it has room for new circuits and note any plumbing lines near the build site. Having your target budget range and general timeline expectations ready helps your contractor provide practical recommendations during the initial site assessment.",
+        "description": "Determine your main goals for the space, locate your property survey to check boundary lines, and note the age and capacity of your electrical panel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for a room addition in the Tampa Bay area?",
+  "description": "Yes, room additions require municipal permits, structural plan reviews, and code inspections, including compliance with local setback rules and HOA requirements",
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-for-a-room-addition-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for a room addition in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a residential room addition in Brandon and surrounding Florida communities requires official building permits, plan approvals, and mandatory inspections. Structural expansions involve foundation work, framing, electrical integration, and often plumbing and mechanical systems, all of which must comply with local building codes. Your contractor manages the permitting submission and inspection schedule as part of project coordination. Before plans are finalized, local zoning rules, building setbacks, and HOA covenants must be checked to confirm exactly where and how far your home can expand on your lot.",
+        "description": "Yes, room additions require municipal permits, structural plan reviews, and code inspections, including compliance with local setback rules and HOA requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

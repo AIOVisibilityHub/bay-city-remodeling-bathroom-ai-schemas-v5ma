@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is typically included in a bedroom addition project?",
+  "description": "A bedroom addition includes foundation, framing, roofing, HVAC, electrical, drywall, and finishing touches. An attached bathroom also requires plumbing tie-ins.",
+  "url": "https://baycityremodeling.com/faq/what-is-typically-included-in-a-bedroom-addition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is typically included in a bedroom addition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bedroom addition requires architectural planning, local building permits, foundation work, framing, electrical and HVAC integration, insulation, drywall, and interior finishes. If you include an attached bathroom, plumbing lines must also be tied into your existing sewer or septic system. Bay City Remodeling & Bathrooms handles the full scope from concept planning through drywall installation and finish trim, ensuring the new room matches your existing layout and roofline. Preparing your survey and property boundaries early helps determine where construction can legally extend.",
+        "description": "A bedroom addition includes foundation, framing, roofing, HVAC, electrical, drywall, and finishing touches. An attached bathroom also requires plumbing tie-ins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

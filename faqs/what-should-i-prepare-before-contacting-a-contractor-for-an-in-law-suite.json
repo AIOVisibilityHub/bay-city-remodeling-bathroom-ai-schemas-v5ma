@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a contractor for an in-law suite?",
+  "description": "Gather your property survey, verify any HOA rules, define your target budget, and outline necessary features like a full kitchen, laundry hookups, or accessibil",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a contractor for an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling a contractor consultation, gather details about your property, budget, and living arrangements. Identify the primary purpose of the space, such as housing elderly parents, hosting long-term guests, or providing quarters for adult children. Locate your property survey to clarify property lines and utility easements, and check any Homeowners Association (HOA) bylaws regarding exterior additions or secondary suites. Deciding in advance whether the unit requires a full kitchen or just a kitchenette, as well as desired square footage, will make your initial estimating discussion much more productive.",
+        "description": "Gather your property survey, verify any HOA rules, define your target budget, and outline necessary features like a full kitchen, laundry hookups, or accessibility needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

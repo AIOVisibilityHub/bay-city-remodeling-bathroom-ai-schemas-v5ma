@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-backsplash-installers-arrive",
+  "name": "What should I prepare before backsplash installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before backsplash installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your backsplash installation begins, clear all countertop appliances, cookware, and decorative items to give workers clear access to the entire wall area. Turn off the circuit breaker for kitchen wall outlets if electrical covers will be removed. You should also verify that your countertops, range hood, and overhead cabinets are fully secured and finished. Providing clear access from the entry door to the kitchen workspace helps contractors set up tile saws and mixing stations efficiently without disrupting the rest of your home.",
+        "@type": "Answer",
+        "description": "Clear all items from your countertops, ensure upper cabinets and counters are finished, and verify that installers have an unobstructed path to the workspace."
+      }
+    }
+  ],
+  "description": "Clear all items from your countertops, ensure upper cabinets and counters are finished, and verify that installers have an unobstructed path to the workspace."
+}

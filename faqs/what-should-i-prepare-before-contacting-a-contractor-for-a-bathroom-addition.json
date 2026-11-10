@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a contractor for a bathroom addition?",
+  "description": "Identify whether you need a half or full bath, note plumbing access locations, check your electrical panel capacity, and gather layout preferences and style ide",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-bathroom-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a contractor for a bathroom addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting consultations or estimates, identify your primary goals and gather practical details about your home. Decide whether you want a powder room for guests, an accessible walk-in shower, or an ensuite for a multigenerational living suite. Locate your primary electrical panel and main plumbing stack if known, and check whether you have available electrical breaker capacity. It is also wise to establish a rough budget range, assemble photo ideas of preferred tile and fixture styles, and check for any neighborhood HOA architectural guidelines if building outward.",
+        "description": "Identify whether you need a half or full bath, note plumbing access locations, check your electrical panel capacity, and gather layout preferences and style ideas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

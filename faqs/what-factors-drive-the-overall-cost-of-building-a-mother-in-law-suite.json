@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of building a mother-in-law suite?",
+  "description": "Overall costs are determined by the construction type—interior remodel versus ground-up addition—along with plumbing runs, electrical panel capacity, HVAC needs",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-building-a-mother-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of building a mother-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall investment depends heavily on whether your project is an interior renovation, a garage conversion, or ground-up new construction. Key cost drivers include running new plumbing branches and sewer lines for a bathroom, upgrading the electrical panel to support additional circuits, and adding heating and cooling systems. Interior conversions that use existing framing and subfloors generally require lower site preparation expenses than ground-up additions, which require excavation, concrete foundation slabs, framing, roofing, and full-house exterior finishes like stucco. Establishing specific layout priorities during the estimating process helps align the design with your target budget.",
+        "description": "Overall costs are determined by the construction type—interior remodel versus ground-up addition—along with plumbing runs, electrical panel capacity, HVAC needs, and finished materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

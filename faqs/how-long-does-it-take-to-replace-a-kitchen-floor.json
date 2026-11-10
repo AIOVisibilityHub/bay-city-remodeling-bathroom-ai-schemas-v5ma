@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-replace-a-kitchen-floor",
+  "name": "How long does it take to replace a kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen flooring replacement typically takes three to five business days once demolition begins, depending on the material selected. Luxury vinyl plank can often be laid in one to two days after subfloor preparation. Tile installations take longer because thin-set mortar requires cure time before grouting, followed by grout drying and sealing. If your project includes appliance removal, baseboard replacement, or extensive leveling, extra time must be planned into the schedule before the kitchen returns to regular use.",
+        "@type": "Answer",
+        "description": "Most kitchen floor replacements take three to five days. Vinyl plank installs quickly, whereas tile requires additional days for mortar, grout, and sealant to cure."
+      }
+    }
+  ],
+  "description": "Most kitchen floor replacements take three to five days. Vinyl plank installs quickly, whereas tile requires additional days for mortar, grout, and sealant to c"
+}

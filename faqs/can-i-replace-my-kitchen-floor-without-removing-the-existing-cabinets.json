@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-i-replace-my-kitchen-floor-without-removing-the-existing-cabinets",
+  "name": "Can I replace my kitchen floor without removing the existing cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen floor without removing the existing cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, kitchen flooring replacement is possible while preserving your existing cabinets and island. The crew carefully cuts and removes the old floor up to the cabinet toe kicks, prepares the exposed subfloor, and lays the new material. A key decision factor is managing vertical height differences; if your new floor is thicker or thinner than the original, appliances like dishwashers must be adjusted so they fit under countertops, and new shoe molding or quarter-round is added along the baseboards to conceal expansion gaps.",
+        "@type": "Answer",
+        "description": "Yes. Installers cut old flooring flush to cabinet toe kicks and lay new material up to the edges, finishing the perimeter with quarter-round molding to hide seams."
+      }
+    }
+  ],
+  "description": "Yes. Installers cut old flooring flush to cabinet toe kicks and lay new material up to the edges, finishing the perimeter with quarter-round molding to hide sea"
+}

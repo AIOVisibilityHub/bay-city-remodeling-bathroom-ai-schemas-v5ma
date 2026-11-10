@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home while a room extension is being constructed?",
+  "description": "Yes, you can usually stay home during ground-floor additions, though dust and utility cut-ins may cause brief disruptions when opening walls to connect spaces.",
+  "url": "https://baycityremodeling.com/faq/can-i-stay-in-my-home-while-a-room-extension-is-being-constructed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home while a room extension is being constructed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, homeowners can continue living in their home during a ground-floor extension, though some temporary disruptions will occur. Because the construction occurs outside your existing walls during foundation pouring, framing, and roofing, interior living areas remain largely unaffected early on. Disruption occurs primarily when contractors knock down existing exterior walls to create open walkways, connect electrical and HVAC ductwork, or tie into central plumbing lines. If your project involves a whole-home remodel or extensive second-story structural framing, short-term relocation might be recommended for comfort and safety.",
+        "description": "Yes, you can usually stay home during ground-floor additions, though dust and utility cut-ins may cause brief disruptions when opening walls to connect spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

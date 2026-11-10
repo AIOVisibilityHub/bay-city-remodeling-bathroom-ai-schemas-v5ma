@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
+  "description": "An in-law suite is an attached guest area within the home, whereas an ADU is a fully independent living unit with its own private entrance, kitchen, and bathroo",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-an-in-law-suite-and-an-accessory-dwelling-unit-ad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an in-law suite and an accessory dwelling unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An in-law suite is generally an attached or semi-private bedroom, bathroom, and sitting area built directly onto the primary residence. An accessory dwelling unit (ADU) is typically a fully independent living quarters with its own dedicated kitchen, bathroom, living space, and separate exterior entrance, either attached or detached. Before selecting an option, consult local municipal zoning codes. Many jurisdictions enforce specific restrictions on full secondary kitchens, utility metering, setback requirements, and rental occupancy for fully independent living spaces.",
+        "description": "An in-law suite is an attached guest area within the home, whereas an ADU is a fully independent living unit with its own private entrance, kitchen, and bathroom facilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

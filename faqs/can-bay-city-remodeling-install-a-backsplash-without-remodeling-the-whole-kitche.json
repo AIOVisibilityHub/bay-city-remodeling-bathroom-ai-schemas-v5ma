@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/can-bay-city-remodeling-install-a-backsplash-without-remodeling-the-whole-kitche",
+  "name": "Can Bay City Remodeling install a backsplash without remodeling the whole kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Bay City Remodeling install a backsplash without remodeling the whole kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Bay City Remodeling provides kitchen backsplash installation as a standalone upgrade or as part of whole-room renovations throughout Brandon, Riverview, Valrico, and the Tampa Bay area. Whether you are refreshing an existing kitchen with new tile or coordinating backsplashes alongside new cabinets, countertops, and drywall repairs, our team handles layout design, wall preparation, and precise installation. Homeowners can request a project consultation to review tile choices, assess wall conditions, and receive a customized quote.",
+        "@type": "Answer",
+        "description": "Yes, Bay City Remodeling installs standalone backsplashes as well as complete kitchen renovations across Brandon, Tampa, and surrounding communities."
+      }
+    }
+  ],
+  "description": "Yes, Bay City Remodeling installs standalone backsplashes as well as complete kitchen renovations across Brandon, Tampa, and surrounding communities."
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to convert a garage or build an addition for an in-law suite?",
+  "description": "Converting a garage saves on structural framing but eliminates parking, while an addition preserves storage and allows a fully customized layout at a larger con",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-convert-a-garage-or-build-an-addition-for-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to convert a garage or build an addition for an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing space such as an attached garage is often faster, while building a ground-up addition provides total design flexibility. The practical tradeoff with a garage conversion is that you lose sheltered vehicle parking and storage, but you save time and expense on exterior structural framing and roofing. An addition preserves your garage and allows you to tailor room dimensions, exterior architectural blending, and private entrances from scratch. However, additions require clearing yard space, pouring new footings, and coordinating tie-ins with existing rooflines. Deciding between them comes down to evaluating available lot space against the ongoing need for vehicle and utility storage.",
+        "description": "Converting a garage saves on structural framing but eliminates parking, while an addition preserves storage and allows a fully customized layout at a larger construction scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

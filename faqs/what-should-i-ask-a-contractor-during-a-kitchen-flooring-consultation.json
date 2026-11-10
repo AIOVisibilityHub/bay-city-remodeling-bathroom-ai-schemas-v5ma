@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-should-i-ask-a-contractor-during-a-kitchen-flooring-consultation",
+  "name": "What should I ask a contractor during a kitchen flooring consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a contractor during a kitchen flooring consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an in-home flooring estimate, ask about subfloor preparation, moisture testing, appliance handling, and debris disposal. Clarify whether baseboards will be removed or finished with shoe molding, and ask how transitions between the kitchen and adjacent rooms will be leveled. Bay City Remodeling & Bathrooms reviews these details directly during the consultation process, providing clear project scopes that outline demolition, surface preparation, and the specific installation requirements of your chosen flooring material.",
+        "@type": "Answer",
+        "description": "Ask about subfloor inspection, moisture testing, appliance handling, transition leveling, and debris disposal to ensure the full installation scope is covered."
+      }
+    }
+  ],
+  "description": "Ask about subfloor inspection, moisture testing, appliance handling, transition leveling, and debris disposal to ensure the full installation scope is covered."
+}

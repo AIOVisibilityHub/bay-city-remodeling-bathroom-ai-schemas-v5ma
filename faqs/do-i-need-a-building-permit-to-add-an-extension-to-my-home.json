@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit to add an extension to my home?",
+  "description": "Yes, home extensions require building permits and inspections to verify foundation engineering, structural framing, electrical work, and local zoning setback co",
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-add-an-extension-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit to add an extension to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, virtually all structural house extensions require building permits, structural engineering reviews, and municipal inspections. Because additions expand your home's footprint or structural envelope, local building departments must review plans for zoning setbacks, foundation depth, wind-load framing, and electrical or plumbing compliance. For example, projects across Hillsborough County and surrounding municipalities require approved architectural drawings before excavation begins. A professional contractor oversees the application process, submits blueprints, schedules required city or county building inspections, and ensures the finished addition receives a certificate of occupancy upon final inspection.",
+        "description": "Yes, home extensions require building permits and inspections to verify foundation engineering, structural framing, electrical work, and local zoning setback compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a home expansion, and when do I need one?",
+  "description": "A home expansion adds heated square footage or converts unused areas into living space. You need one when your household outgrows its current layout but prefers",
+  "url": "https://baycityremodeling.com/faq/what-is-considered-a-home-expansion-and-when-do-i-need-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a home expansion, and when do I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A home expansion is an addition that increases your home's total square footage or enclosed living space, rather than just updating an existing room. You typically need one when your household outgrows its current layout, such as needing an extra bedroom, a dedicated home office, or an expanded living area, but you prefer not to relocate. A primary decision factor is property layout: expanding outward requires sufficient yard space that complies with local setbacks, whereas interior reconfigurations work within existing walls. Evaluating whether your goal requires new foundation and framing or simply converting existing space helps determine the right scope.",
+        "description": "A home expansion adds heated square footage or converts unused areas into living space. You need one when your household outgrows its current layout but prefers not to relocate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

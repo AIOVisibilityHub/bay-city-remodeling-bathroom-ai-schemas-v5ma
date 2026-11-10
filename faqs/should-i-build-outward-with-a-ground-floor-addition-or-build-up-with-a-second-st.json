@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build outward with a ground-floor addition or build up with a second story?",
+  "description": "Ground-floor additions expand into your yard and need foundation work, while second-story additions preserve yard space but require structural reinforcement of",
+  "url": "https://baycityremodeling.com/faq/should-i-build-outward-with-a-ground-floor-addition-or-build-up-with-a-second-st",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build outward with a ground-floor addition or build up with a second story?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A ground-floor bump-out extends your home outward into your yard, while a second-story addition builds upward on top of your existing structure. Ground-floor expansions require adequate lot space, setback compliance, and foundation work, but they typically allow you to stay in parts of the home during construction. A second-story addition preserves your outdoor yard area but requires an engineer to inspect whether your existing foundation and framing can support the extra load. Choosing between them depends on your property boundaries, municipal setback limits, and whether you want to preserve your yard space.",
+        "description": "Ground-floor additions expand into your yard and need foundation work, while second-story additions preserve yard space but require structural reinforcement of your existing framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

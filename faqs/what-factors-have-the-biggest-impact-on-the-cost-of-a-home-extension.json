@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors have the biggest impact on the cost of a home extension?",
+  "description": "Costs depend on square footage, whether plumbing is needed for bathrooms or kitchenettes, foundation requirements, roof integrations, and exterior finishing lik",
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-a-home-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors have the biggest impact on the cost of a home extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost of a house extension depends on the square footage, intended use of the room, foundation requirements, and mechanical tie-ins. Simple room extensions, such as an expanded living room or basic bedroom, sit at the lower end of the pricing spectrum because they primarily involve basic framing, drywall, and standard electrical wiring. Costs rise significantly if the addition involves wet areas like bathrooms or in-law kitchenettes, which demand extensive plumbing trenching, water line tie-ins, venting, tile work, and specialized fixtures. Roof tie-ins and matching existing exterior finishes, such as full-house stuccoing, also influence the overall project estimate.",
+        "description": "Costs depend on square footage, whether plumbing is needed for bathrooms or kitchenettes, foundation requirements, roof integrations, and exterior finishing like stucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

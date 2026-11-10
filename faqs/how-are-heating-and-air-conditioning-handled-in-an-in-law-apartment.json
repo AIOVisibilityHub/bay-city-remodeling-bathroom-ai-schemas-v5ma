@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are heating and air conditioning handled in an in-law apartment?",
+  "description": "Ductless mini-split systems are typically used because they provide independent temperature control without overworking your main home’s central HVAC system.",
+  "url": "https://baycityremodeling.com/faq/how-are-heating-and-air-conditioning-handled-in-an-in-law-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are heating and air conditioning handled in an in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In-law apartments usually require independent heating and cooling to provide personal comfort and manage utility loads effectively. Expanding your main home’s central ductwork often strains your existing system, leading to uneven temperatures and poor airflow in both spaces. Installing a ductless mini-split system provides dedicated climate control for the in-law apartment, allowing the resident to set their preferred temperature without affecting the main household. Ductless units also avoid extensive attic ductwork runs, simplifying the renovation while maintaining high energy efficiency.",
+        "description": "Ductless mini-split systems are typically used because they provide independent temperature control without overworking your main home’s central HVAC system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

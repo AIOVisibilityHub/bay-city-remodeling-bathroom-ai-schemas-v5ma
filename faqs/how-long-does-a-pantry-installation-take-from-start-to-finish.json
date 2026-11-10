@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-pantry-installation-take-from-start-to-finish",
+  "name": "How long does a pantry installation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pantry installation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline ranges from two to three days for built-in cabinet organizers or standard closet conversions up to one to two weeks for framed walk-in pantries. Building a full walk-in pantry requires framing, drywall hanging, taping and mudding, drying time, painting, trim carpentry, and shelving assembly. If the design includes interior lighting, dedicated outlets for microwaves, or matching floor installation, scheduling electrical rough-ins and inspections will add time. The complexity of finishes and custom storage components dictates the final work schedule.",
+        "@type": "Answer",
+        "description": "Installing a pantry takes between two days for built-in cabinet units and up to two weeks for framed walk-in rooms requiring drywall, electrical work, and custom shelving."
+      }
+    }
+  ],
+  "description": "Installing a pantry takes between two days for built-in cabinet units and up to two weeks for framed walk-in rooms requiring drywall, electrical work, and custo"
+}

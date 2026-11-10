@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-plan-and-build-a-residential-home-addition",
+  "name": "How long does it take to plan and build a residential home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to plan and build a residential home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard room additions require several months to complete once physical construction begins, though the exact duration depends on project scope, weather, and structural complexity. The total project cycle includes an initial planning and drafting phase, engineering reviews, local municipal permitting, and actual construction phases from foundation to drywall and interior trim. Ground-level expansions often move faster than multi-story additions that demand structural reinforcements to existing lower-level framing. Site preparation, exterior tie-ins, plumbing rough-ins for bathrooms, and city inspection schedules also directly influence the final timeline. Your contractor establishes an estimated schedule during the initial consultation.",
+        "@type": "Answer",
+        "description": "Building a home addition typically takes several months of active construction, preceded by design planning, architectural engineering, and local permitting."
+      }
+    }
+  ],
+  "description": "Building a home addition typically takes several months of active construction, preceded by design planning, architectural engineering, and local permitting."
+}

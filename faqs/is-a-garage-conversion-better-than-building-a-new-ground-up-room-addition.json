@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/is-a-garage-conversion-better-than-building-a-new-ground-up-room-addition",
+  "name": "Is a garage conversion better than building a new ground-up room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a garage conversion better than building a new ground-up room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an attached garage into livable space is often faster and less expensive than building a ground-up addition because the exterior walls, roof framing, and concrete slab are already in place. However, you sacrifice sheltered vehicle parking, home storage, and workshop utility. Ground-up additions preserve your garage space and offer complete freedom in room layout, ceiling heights, and window placement, but they require new foundation excavation, complete exterior framing, and extensive roof integration. Additionally, garage conversions still require structural work, such as leveling the sloped garage floor, adding insulation, updating electrical circuits, and integrating air conditioning.",
+        "@type": "Answer",
+        "description": "A garage conversion utilizes an existing foundation and roof to lower costs, but you lose covered parking and must still insulate, level the slab, and add climate control."
+      }
+    }
+  ],
+  "description": "A garage conversion utilizes an existing foundation and roof to lower costs, but you lose covered parking and must still insulate, level the slab, and add clima"
+}

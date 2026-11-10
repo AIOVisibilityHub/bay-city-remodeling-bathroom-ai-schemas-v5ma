@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-do-you-prepare-kitchen-walls-before-installing-a-backsplash",
+  "name": "How do you prepare kitchen walls before installing a backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prepare kitchen walls before installing a backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wall preparation is essential to ensure tiles bond securely and lay flat across your kitchen walls. The surface must be clean, dry, and free of cooking grease, loose paint, or crumbling drywall. Installers repair holes, sand down uneven bumps, and apply drywall compound to create a smooth, level plane. In areas around sinks or cooktops where moisture or steam is common, technicians ensure the drywall is sturdy and apply a suitable primer or bonding agent before spreading thin-set mortar.",
+        "@type": "Answer",
+        "description": "Walls must be degreased, cleared of loose debris, repaired with drywall patches if damaged, and leveled to ensure a flat, stable bonding surface for tile."
+      }
+    }
+  ],
+  "description": "Walls must be degreased, cleared of loose debris, repaired with drywall patches if damaged, and leveled to ensure a flat, stable bonding surface for tile."
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local zoning and setback rules in Hillsborough County impact in-law suite designs?",
+  "description": "Local zoning sets property setback boundaries, maximum lot coverage limits, and rules regarding full cooking appliances versus kitchenettes.",
+  "url": "https://baycityremodeling.com/faq/how-do-local-zoning-and-setback-rules-in-hillsborough-county-impact-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local zoning and setback rules in Hillsborough County impact in-law suite designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local zoning rules, lot setbacks, and utility regulations across Hillsborough County and surrounding Tampa Bay municipalities dictate where and how additions can be built. Property setback requirements establish how close a new structure or bumped-out addition can sit relative to rear and side property lines. In addition, local regulations govern whether an auxiliary space can include a full-sized range or if it must be classified as a living space with a wet bar or kitchenette. Lot coverage limits and stormwater drainage rules also affect whether you can pour a new concrete slab in your yard.",
+        "description": "Local zoning sets property setback boundaries, maximum lot coverage limits, and rules regarding full cooking appliances versus kitchenettes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

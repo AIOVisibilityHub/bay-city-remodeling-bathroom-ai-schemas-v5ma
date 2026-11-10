@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about a kitchen addition?",
+  "description": "Gather your property survey, identify your setback boundaries, determine your must-have layout features, and define your appliance preferences before your initi",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-kitchen-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about a kitchen addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with an addition contractor, gather plat maps or property surveys showing your lot boundaries, list your functional priorities, and collect design inspirations. Knowing your property line setbacks is critical because zoning ordinances restrict how close an addition can sit to your property boundary. Consider how you use your current space, what appliances you want to integrate, and whether you require special features like a walk-in scullery or connection to an outdoor kitchen.",
+        "description": "Gather your property survey, identify your setback boundaries, determine your must-have layout features, and define your appliance preferences before your initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of adding a room to a home?",
+  "description": "Key cost drivers include square footage, roof integration, exterior matching finishes, and whether the room requires plumbing and tile or just dry framing and e",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-adding-a-room-to-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of adding a room to a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total investment for adding a room depends primarily on square footage, intended use, and required mechanical hookups. A basic bedroom or den addition involves framing, insulation, windows, drywall, and standard electrical runs, which keeps construction complexity lower. Adding a full bathroom or an in-law suite with plumbing lines, tile, specialty fixtures, and expanded waste pipes increases project cost and labor. Integrating rooflines, matching exterior finishes such as full-house stucco, and upgrading heating and cooling capacity also play major roles in the final estimate.",
+        "description": "Key cost drivers include square footage, roof integration, exterior matching finishes, and whether the room requires plumbing and tile or just dry framing and electrical."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build a home addition or sell and buy a larger house?",
+  "description": "Building an addition avoids moving costs and lets you customize extra space, provided your lot size and property setbacks accommodate the new foundation.",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-a-home-addition-or-sell-and-buy-a-larger-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build a home addition or sell and buy a larger house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a home addition allows you to gain extra square footage without the closing costs, moving fees, and real estate commissions of buying a new house. Deciding whether to extend or relocate usually comes down to your current lot space and neighborhood attachment. Adding onto your home lets you customize layouts such as primary suites, in-law apartments, or larger living rooms while preserving your existing property equity. However, if your yard cannot support a ground-level foundation expansion or local setbacks restrict outward construction, relocating might be the alternative. Scheduling an on-site consultation helps determine whether your property can accommodate your desired expansion.",
+        "description": "Building an addition avoids moving costs and lets you customize extra space, provided your lot size and property setbacks accommodate the new foundation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

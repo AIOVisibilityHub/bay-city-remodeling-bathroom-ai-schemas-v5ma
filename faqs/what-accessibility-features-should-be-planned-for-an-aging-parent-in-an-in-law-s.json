@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What accessibility features should be planned for an aging parent in an in-law suite?",
+  "description": "Key accessibility features include walk-in showers, zero-threshold entries, wider doorways, structural backing for grab bars, and slip-resistant flooring.",
+  "url": "https://baycityremodeling.com/faq/what-accessibility-features-should-be-planned-for-an-aging-parent-in-an-in-law-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What accessibility features should be planned for an aging parent in an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key accessibility upgrades include walk-in showers with zero-threshold entries, wider doorways, grab bar blocking, and single-level flooring. Walk-in showers and tub-to-shower conversions eliminate high curb barriers, significantly reducing fall risks for seniors. Planning for these details during the framing phase ensures adequate backing behind drywall for sturdy grab bars and allows doorway openings to accommodate walkers or wheelchairs comfortably. Choosing lever-style door handles, rocker light switches, and non-slip tile surfaces creates a functional, safer space without compromising design aesthetics or personal comfort.",
+        "description": "Key accessibility features include walk-in showers, zero-threshold entries, wider doorways, structural backing for grab bars, and slip-resistant flooring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

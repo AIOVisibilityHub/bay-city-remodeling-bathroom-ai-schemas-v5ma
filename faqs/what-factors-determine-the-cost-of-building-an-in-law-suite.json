@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of building an in-law suite?",
+  "description": "Costs depend on whether you build new or convert existing space, the overall square footage, required plumbing for bathrooms, electrical needs, and chosen inter",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-building-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of building an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost of building an in-law addition depends on the construction type, total square footage, utility requirements, and chosen finishes. Converting interior space or a garage generally costs less than building a custom ground-up addition that requires site excavation, a new foundation, exterior framing, and roofing. Adding a full bathroom with plumbing rough-ins, tile, and a walk-in shower will add more to the budget than a simple bedroom expansion. Other major cost factors include electrical panel upgrades, HVAC capacity, and custom cabinetry. Bay City Remodeling & Bathrooms reviews options during consultations to align project scope with your budget.",
+        "description": "Costs depend on whether you build new or convert existing space, the overall square footage, required plumbing for bathrooms, electrical needs, and chosen interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

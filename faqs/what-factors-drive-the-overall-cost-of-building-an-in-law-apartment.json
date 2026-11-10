@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of building an in-law apartment?",
+  "description": "Costs depend on square footage, foundation type, bathroom and kitchen plumbing installations, electrical upgrades, cabinetry, and whether it is an addition or c",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-building-an-in-law-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of building an in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build an in-law apartment varies widely depending on whether you are converting an existing room or building ground-up square footage. Major cost factors include the overall square footage, foundation requirements, roof ties, interior drywall, and whether the project is an attached addition or a standalone building. Adding a full bathroom with plumbing rough-ins, tile work, and walk-in fixtures represents a major portion of the budget. Kitchenette or full kitchen installations, cabinetry, countertop materials, dedicated electrical subpanels, and separate heating and cooling systems also directly drive your final estimate.",
+        "description": "Costs depend on square footage, foundation type, bathroom and kitchen plumbing installations, electrical upgrades, cabinetry, and whether it is an addition or conversion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

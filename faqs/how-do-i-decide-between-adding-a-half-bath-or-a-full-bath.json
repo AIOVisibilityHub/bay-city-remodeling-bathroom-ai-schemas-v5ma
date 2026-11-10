@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide between adding a half bath or a full bath?",
+  "description": "Choose a half bath if you only need guest convenience near living areas, or a full bath if your household needs an extra shower to ease busy family routines.",
+  "url": "https://baycityremodeling.com/faq/how-do-i-decide-between-adding-a-half-bath-or-a-full-bath",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide between adding a half bath or a full bath?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a full bathroom if your household frequently experiences morning routines with family members competing for showers, or if you are designing a guest suite or multigenerational space. A full bath with a walk-in shower or tub maximizes everyday utility and resale appeal. A half bath is ideal if your primary goal is providing convenient toilet and sink access for entertaining guests near living rooms, patios, or home offices without sacrificing the square footage or budget required for bathing fixtures.",
+        "description": "Choose a half bath if you only need guest convenience near living areas, or a full bath if your household needs an extra shower to ease busy family routines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

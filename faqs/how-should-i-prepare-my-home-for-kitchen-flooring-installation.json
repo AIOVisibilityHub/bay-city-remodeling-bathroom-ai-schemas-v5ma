@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-my-home-for-kitchen-flooring-installation",
+  "name": "How should I prepare my home for kitchen flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home for kitchen flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, homeowners should clear countertops, empty lower cabinets if structural work is required, and remove all loose items, rugs, and pet dishes from the room. A practical preparation step is identifying who will disconnect and move major appliances such as refrigerators, stoves, and dishwashers. You should also ensure a clear pathway from the home entry to the kitchen so crews can safely bring in equipment, dispose of old flooring debris, and move heavy materials without damaging adjacent walls or rooms.",
+        "@type": "Answer",
+        "description": "Clear the kitchen floor and counters, plan for appliance disconnection, and create a clear walkway from the entryway for demolition crews and heavy materials."
+      }
+    }
+  ],
+  "description": "Clear the kitchen floor and counters, plan for appliance disconnection, and create a clear walkway from the entryway for demolition crews and heavy materials."
+}

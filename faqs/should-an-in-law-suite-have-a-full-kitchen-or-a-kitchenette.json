@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should an in-law suite have a full kitchen or a kitchenette?",
+  "description": "A kitchenette saves space and simplifies plumbing and electrical needs, whereas a full kitchen provides complete cooking independence for long-term daily living",
+  "url": "https://baycityremodeling.com/faq/should-an-in-law-suite-have-a-full-kitchen-or-a-kitchenette",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should an in-law suite have a full kitchen or a kitchenette?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full kitchen typically features standard full-size appliances, extensive cabinetry, a full range, and dedicated 240-volt electrical circuits, whereas a kitchenette relies on compact elements like an under-counter refrigerator, sink, microwave, and small countertop appliances. Choosing a kitchenette saves significant square footage, lowers plumbing and electrical demands, and may align more smoothly with single-family zoning codes that restrict secondary full kitchens. However, if the occupant plans to prepare daily meals independently, a full kitchen provides necessary storage and cooking capacity. Determining daily meal preparation habits helps you select the right configuration.",
+        "description": "A kitchenette saves space and simplifies plumbing and electrical needs, whereas a full kitchen provides complete cooking independence for long-term daily living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

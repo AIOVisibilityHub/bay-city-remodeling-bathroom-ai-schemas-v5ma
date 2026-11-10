@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical phases of a room addition project?",
+  "description": "The process involves design and permitting, foundation and structural framing, rough electrical and plumbing installations, followed by drywall and exterior fin",
+  "url": "https://baycityremodeling.com/faq/what-are-the-typical-phases-of-a-room-addition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical phases of a room addition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room addition project typically progresses through five distinct phases: design consultation, engineering and permitting, site preparation and foundation work, framing and rough trades, and interior finishing. During the planning phase, architectural plans are drawn and submitted to the local building department. Once permits are approved, the crew prepares the site, pours the concrete slab or footing, frames walls and roof structures, and installs drywall, electrical wiring, and HVAC ducts. The final stage covers exterior stucco matching, painting, trim carpentry, and final municipal inspection sign-offs.",
+        "description": "The process involves design and permitting, foundation and structural framing, rough electrical and plumbing installations, followed by drywall and exterior finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

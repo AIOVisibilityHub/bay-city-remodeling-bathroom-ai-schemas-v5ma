@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to convert a garage or build a new addition for an in-law suite?",
+  "description": "Garage conversions reuse an existing structure to save framing costs, while ground-up additions protect your vehicle parking and allow a customized layout from",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-convert-a-garage-or-build-a-new-addition-for-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to convert a garage or build a new addition for an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing garage generally requires less framing and site preparation, whereas a new home addition offers complete freedom of layout. In a garage conversion, the foundation, exterior walls, and roof structure already exist, which can save structural construction time. However, the tradeoff involves bringing concrete floor slabs up to interior moisture standards, adding comprehensive insulation, upgrading electrical service, and cutting into the slab for bathroom plumbing. A ground-up addition costs more initially but does not sacrifice covered vehicle parking or existing household storage.",
+        "description": "Garage conversions reuse an existing structure to save framing costs, while ground-up additions protect your vehicle parking and allow a customized layout from the start."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

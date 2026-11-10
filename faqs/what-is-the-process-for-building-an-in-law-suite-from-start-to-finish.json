@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building an in-law suite from start to finish?",
+  "description": "The process involves consultation, architectural planning, permitting, framing, plumbing and electrical rough-ins, drywall, interior finishes, and final inspect",
+  "url": "https://baycityremodeling.com/faq/what-is-the-process-for-building-an-in-law-suite-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building an in-law suite from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a mother-in-law apartment follows structured phases from design to final inspection. The process begins with an on-site consultation to evaluate your property, establish layout goals, and draft architectural plans. Next, the project team pulls necessary municipal building, electrical, and plumbing permits. Construction starts with site preparation or demolition, followed by foundation work, framing, and rough-in installations for wiring, water lines, and HVAC ductwork. Once wall insulation and drywall are completed, craftsmen install flooring, cabinets, fixtures, and trim before scheduling final code inspections and handing over the keys.",
+        "description": "The process involves consultation, architectural planning, permitting, framing, plumbing and electrical rough-ins, drywall, interior finishes, and final inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

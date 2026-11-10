@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to plan and complete a home addition?",
+  "description": "Planning, permitting, and building a home addition generally takes several months, depending on scope, design approvals, and local inspection schedules.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-plan-and-complete-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to plan and complete a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total timeline depends on project size, permitting review times, and construction complexity, but most additions take several months from design to final inspection. The initial phase involves structural planning, architectural drawings, and securing municipal permits. Once construction begins, work proceeds through foundation pouring, framing, roofing, exterior tie-ins, rough-in plumbing and electrical, drywall, and interior finishing. Unforeseen structural adjustments, material delivery schedules, and local municipal inspection milestones can all extend or shorten the overall duration.",
+        "description": "Planning, permitting, and building a home addition generally takes several months, depending on scope, design approvals, and local inspection schedules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

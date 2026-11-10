@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-key-factors-determine-the-overall-cost-of-a-home-addition",
+  "name": "What key factors determine the overall cost of a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What key factors determine the overall cost of a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of a home addition is driven by total square footage, the intended use of the room, foundation requirements, and utility extensions. Wet spaces like in-law suites or master bedrooms with attached bathrooms cost significantly more than dry spaces like simple living room expansions because they require plumbing rough-ins, specialized tile, and extra fixtures. Other major cost variables include connecting rooflines seamlessly to your existing house, matching exterior finishes such as full-house stuccoing, upgrading electrical panels to handle the extra demand, and tie-ins to central air conditioning. Bay City Remodeling provides free-quote consultations to establish defined project scopes.",
+        "@type": "Answer",
+        "description": "Costs depend on square footage, foundation needs, whether plumbing is required for bathrooms or kitchens, structural tie-ins, and necessary electrical or HVAC upgrades."
+      }
+    }
+  ],
+  "description": "Costs depend on square footage, foundation needs, whether plumbing is required for bathrooms or kitchens, structural tie-ins, and necessary electrical or HVAC u"
+}

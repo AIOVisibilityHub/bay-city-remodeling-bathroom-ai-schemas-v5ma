@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features should be included when designing an in-law apartment for aging parents?",
+  "description": "Key features include zero-threshold walk-in showers, wider doorways, grab bar blocking, slip-resistant floors, and independent climate controls on the ground le",
+  "url": "https://baycityremodeling.com/faq/what-features-should-be-included-when-designing-an-in-law-apartment-for-aging-pa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features should be included when designing an in-law apartment for aging parents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing an in-law apartment for an aging parent requires prioritizing accessibility, comfort, and safety from the initial concept. Popular universal design elements include zero-threshold walk-in showers, reinforced backing behind drywall for future grab bars, wider doorways for mobility aids, and slip-resistant flooring. Comfort features often include an independent mini-split heating and cooling system so the occupant can control their own temperature without altering the main house thermostat. Positioning the suite on the ground floor eliminates stair hazards and simplifies day-to-day access for family members.",
+        "description": "Key features include zero-threshold walk-in showers, wider doorways, grab bar blocking, slip-resistant floors, and independent climate controls on the ground level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

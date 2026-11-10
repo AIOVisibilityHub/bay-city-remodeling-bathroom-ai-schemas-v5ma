@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an in-law suite and what does it include?",
+  "description": "An in-law suite is a private living space on a home's property featuring a bedroom, bathroom, living area, and sometimes a kitchen, built for aging relatives or",
+  "url": "https://baycityremodeling.com/faq/what-is-an-in-law-suite-and-what-does-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an in-law suite and what does it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An in-law suite is a self-contained living area on a residential property designed for family members, such as aging parents or adult children. These spaces typically include a bedroom, full bathroom, living space, and often a kitchenette or full kitchen. Depending on your home and budget, an in-law suite can be built as a brand-new room addition, converted from an existing garage, or constructed as a separate detached accessory dwelling unit (ADU). Determining whether the suite connects directly to the main interior or maintains a completely separate exterior entrance depends on how much daily privacy and household autonomy your family requires.",
+        "description": "An in-law suite is a private living space on a home's property featuring a bedroom, bathroom, living area, and sometimes a kitchen, built for aging relatives or guests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my existing HVAC system handle heating and cooling a home addition?",
+  "description": "It depends on your current unit's capacity; you can either extend existing ductwork, upgrade the primary system, or install an independent ductless mini-split s",
+  "url": "https://baycityremodeling.com/faq/can-my-existing-hvac-system-handle-heating-and-cooling-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my existing HVAC system handle heating and cooling a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your current heating and air conditioning system must have adequate capacity to heat and cool the added square footage. During project design, a technician calculates the heating and cooling load requirements of your expanded home. If your existing HVAC unit is appropriately sized, ductwork can often be extended into the new space. If your current unit is already running near peak capacity, options include upgrading the central HVAC unit or installing an independent ductless mini-split system specifically for the addition.",
+        "description": "It depends on your current unit's capacity; you can either extend existing ductwork, upgrade the primary system, or install an independent ductless mini-split system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

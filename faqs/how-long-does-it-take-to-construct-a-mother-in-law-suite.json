@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a mother-in-law suite?",
+  "description": "Construction typically takes several months depending on whether the project is an interior conversion or a ground-up addition, plus time for planning and local",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-a-mother-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a mother-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A complete mother-in-law suite project typically takes several months, influenced by design complexity, permitting reviews, and construction scope. Interior renovations or garage conversions generally move faster because the primary building envelope is already established. Ground-up attached additions and detached cottages require extra time for foundation excavation, concrete curing, structural framing, exterior siding or stucco, and utility line trenching. Material procurement lead times for custom cabinets, windows, and plumbing fixtures also play a role in the total schedule.",
+        "description": "Construction typically takes several months depending on whether the project is an interior conversion or a ground-up addition, plus time for planning and local permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

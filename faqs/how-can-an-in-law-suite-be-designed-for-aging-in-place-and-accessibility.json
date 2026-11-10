@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can an in-law suite be designed for aging-in-place and accessibility?",
+  "description": "Incorporate curbless walk-in showers, reinforced grab bars, wider interior doors, slip-resistant floors, and step-free transitions throughout the suite.",
+  "url": "https://baycityremodeling.com/faq/how-can-an-in-law-suite-be-designed-for-aging-in-place-and-accessibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can an in-law suite be designed for aging-in-place and accessibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To support aging relatives safely, you should prioritize accessibility and fall prevention throughout the layout. In the bathroom, replace traditional tubs with a zero-threshold walk-in shower, reinforced backing behind drywall for secure grab bars, slip-resistant flooring, and a comfort-height toilet. Throughout the suite, plan for wider doorways and hallways to accommodate walkers or wheelchairs, eliminate interior step-downs, and install lever-style door handles and rocker light switches. Incorporating these Universal Design features during the initial design phase avoids the need for costly future renovations as physical mobility changes.",
+        "description": "Incorporate curbless walk-in showers, reinforced grab bars, wider interior doors, slip-resistant floors, and step-free transitions throughout the suite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

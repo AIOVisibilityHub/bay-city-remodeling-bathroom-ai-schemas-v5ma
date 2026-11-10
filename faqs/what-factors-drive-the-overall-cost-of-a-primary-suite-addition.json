@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of a primary suite addition?",
+  "description": "Costs depend on total square footage, plumbing tie-in complexity, foundation work, luxury bathroom selections, and exterior finishes like matching stucco.",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total investment depends on square footage, architectural tie-ins, foundation requirements, and interior finishes. Adding a primary suite requires both living space and a complex bathroom, making it more involved than a simple bedroom expansion. Factors that alter costs include plumbing tie-in distances to the existing main line, luxury fixtures like freestanding tubs or custom walk-in showers, high-end cabinetry, and exterior finishes such as full-house stuccoing. Getting an on-site consultation helps establish an accurate budget based on your specific home layout.",
+        "description": "Costs depend on total square footage, plumbing tie-in complexity, foundation work, luxury bathroom selections, and exterior finishes like matching stucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

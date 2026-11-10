@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about a father-in-law suite?",
+  "description": "Gather your property survey, list accessibility and privacy needs, check any HOA guidelines, and outline your budget and preferred space location.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-father-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about a father-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, gather your property survey, list your relative's specific living requirements, and clarify your shared budget expectations. Note whether your parent requires accessibility modifications such as wider doorways, zero-threshold walk-in showers, or grab bars. Measure or identify candidate areas on your property, whether an unused wing, patio space, or garage. You should also check if your neighborhood has homeowners association guidelines governing exterior alterations, driveway changes, or separate entrances. Preparing these practical priorities in advance helps the project manager determine feasible structural boundaries and design options during your initial estimate.",
+        "description": "Gather your property survey, list accessibility and privacy needs, check any HOA guidelines, and outline your budget and preferred space location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

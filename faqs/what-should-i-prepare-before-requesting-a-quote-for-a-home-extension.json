@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before requesting a quote for a home extension?",
+  "description": "Gather property surveys, define the room's planned use, note your budget, and check any HOA guidelines before scheduling an initial consultation.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-quote-for-a-home-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before requesting a quote for a home extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a contractor, identify your main functional goals, outline your target investment range, and gather any existing property surveys or floor plans. Knowing whether the space will serve as an in-law suite, expanded family room, or home office helps define plumbing, electrical, and HVAC requirements early. You should also check for homeowners association rules or known deed restrictions that dictate exterior alterations. Having these details ready allows Bay City Remodeling & Bathrooms to provide an accurate assessment during your initial consultation and free estimate.",
+        "description": "Gather property surveys, define the room's planned use, note your budget, and check any HOA guidelines before scheduling an initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

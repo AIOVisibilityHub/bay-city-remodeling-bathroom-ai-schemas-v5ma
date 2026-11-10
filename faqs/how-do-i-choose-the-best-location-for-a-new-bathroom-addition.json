@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best location for a new bathroom addition?",
+  "description": "Choose a spot near existing plumbing lines to reduce trenching costs, or select an exterior wall bump-out if you want to avoid sacrificing interior bedroom or c",
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-the-best-location-for-a-new-bathroom-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best location for a new bathroom addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right choice comes down to utility access, layout flow, and project scope. Placing the addition back-to-back with an existing kitchen, laundry room, or existing bathroom significantly shortens plumbing runs and minimizes concrete slab trenching. Hallway conversions provide accessible guest use, whereas building off a bedroom creates a private ensuite. If your interior footprint cannot spare closet or living space, an exterior ground-level bump-out preserves indoor storage while giving you complete freedom to design your ideal layout, walk-in shower, and window placement.",
+        "description": "Choose a spot near existing plumbing lines to reduce trenching costs, or select an exterior wall bump-out if you want to avoid sacrificing interior bedroom or closet space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

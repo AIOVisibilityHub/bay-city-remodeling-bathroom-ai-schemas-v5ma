@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are heating and air conditioning handled in a new in-law suite?",
+  "description": "Suites can either extend the existing home HVAC ductwork if capacity allows or use an independent ductless mini-split system for dedicated zone temperature cont",
+  "url": "https://baycityremodeling.com/faq/how-are-heating-and-air-conditioning-handled-in-a-new-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are heating and air conditioning handled in a new in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The heating and cooling configuration depends on the suite's layout, distance from the main HVAC unit, and existing equipment capacity. If you build an attached addition, an HVAC technician must evaluate whether your primary air conditioning system has enough tonnage and duct capacity to handle the increased square footage. In many cases, or when completing a garage conversion, installing an independent ductless mini-split heat pump is the ideal solution. A mini-split allows the suite's resident to control their own thermostat independently without placing extra strain on the main household HVAC unit.",
+        "description": "Suites can either extend the existing home HVAC ductwork if capacity allows or use an independent ductless mini-split system for dedicated zone temperature control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

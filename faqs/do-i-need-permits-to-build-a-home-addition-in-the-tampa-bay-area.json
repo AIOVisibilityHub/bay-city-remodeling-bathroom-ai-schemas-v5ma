@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits to build a home addition in the Tampa Bay area?",
+  "description": "Yes, home additions require building permits and inspections to comply with local zoning, structural wind-load codes, and municipal setback rules across the Tam",
+  "url": "https://baycityremodeling.com/faq/do-i-need-permits-to-build-a-home-addition-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits to build a home addition in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building additions typically require official building permits, along with separate mechanical, electrical, and plumbing permits. In areas like Hillsborough, Pinellas, and Pasco counties, your project plans must comply with local building codes, wind-load standards, zoning ordinances, and property setbacks. Construction cannot legally begin until building departments review structural engineering plans and issue permits. A licensed general contractor manages the permit submittal process, schedules required municipal inspections at each milestone, and ensures the completed addition meets all regional code requirements.",
+        "description": "Yes, home additions require building permits and inspections to comply with local zoning, structural wind-load codes, and municipal setback rules across the Tampa Bay area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

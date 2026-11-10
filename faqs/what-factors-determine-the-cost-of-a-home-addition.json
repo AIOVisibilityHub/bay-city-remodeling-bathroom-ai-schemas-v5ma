@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a home addition?",
+  "description": "Costs depend on square footage, foundation requirements, plumbing and electrical integration, roofline tie-ins, and the quality of interior and exterior finishe",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of expanding a home depends on several structural and finish variables. Factors that influence total investment include the overall square footage, whether plumbing is required (such as adding a full bathroom or kitchenette), the complexity of tie-ins to the existing roofline, and chosen interior finishes like drywall, flooring, and cabinetry. In addition, foundation work and utility capacity upgrades play a significant role. Bay City Remodeling provides free on-site consultations to assess your home's layout, evaluate mechanical requirements, and deliver transparent, negotiable project estimates based on your goals.",
+        "description": "Costs depend on square footage, foundation requirements, plumbing and electrical integration, roofline tie-ins, and the quality of interior and exterior finishes you select."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

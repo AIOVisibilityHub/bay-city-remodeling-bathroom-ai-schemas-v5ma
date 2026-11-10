@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical home expansion take from start to finish?",
+  "description": "Most additions take several months to complete. Time is divided between pre-construction planning, municipal permitting, and on-site framing, mechanical work, a",
+  "url": "https://baycityremodeling.com/faq/how-long-does-a-typical-home-expansion-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical home expansion take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total project duration varies based on the size, design complexity, and scope of utility work. Most home additions take several months from the start of site excavation to final trim and punch-list completion. The timeline breaks into two distinct stages: pre-construction and physical construction. Pre-construction covers architectural design, engineering reviews, and local permit processing, which can take several weeks. Actual building phases—including foundation pours, framing, rough-in inspections, and drywall finishing—proceed sequentially according to municipal inspection schedules and material delivery lead times.",
+        "description": "Most additions take several months to complete. Time is divided between pre-construction planning, municipal permitting, and on-site framing, mechanical work, and interior finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

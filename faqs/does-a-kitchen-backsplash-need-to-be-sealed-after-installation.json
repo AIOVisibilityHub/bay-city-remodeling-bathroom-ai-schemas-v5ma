@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/does-a-kitchen-backsplash-need-to-be-sealed-after-installation",
+  "name": "Does a kitchen backsplash need to be sealed after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a kitchen backsplash need to be sealed after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard glazed ceramic and porcelain tiles do not require sealing because their glass-like surface is naturally non-porous. However, natural stone tiles such as marble, travertine, or slate must be sealed before and after grouting to prevent oil, grease, and water stains from penetrating the rock. Cement-based grout also requires a liquid penetrating sealer after it cures to protect the joints from kitchen spills. Homeowners seeking minimal maintenance can choose stain-resistant epoxy grout, which never requires resealing.",
+        "@type": "Answer",
+        "description": "Glazed ceramic tiles do not need sealing, but natural stone tiles and traditional cement grouts must be sealed to guard against stains and grease."
+      }
+    }
+  ],
+  "description": "Glazed ceramic tiles do not need sealing, but natural stone tiles and traditional cement grouts must be sealed to guard against stains and grease."
+}

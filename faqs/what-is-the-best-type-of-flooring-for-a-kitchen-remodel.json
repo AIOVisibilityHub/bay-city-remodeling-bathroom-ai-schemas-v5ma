@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-best-type-of-flooring-for-a-kitchen-remodel",
+  "name": "What is the best type of flooring for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile and luxury vinyl plank (LVP) are top choices for kitchen environments due to their durability and moisture resistance. Porcelain tile offers unmatched water protection and scratch resistance, but it is hard underfoot and requires proper grout maintenance. Luxury vinyl plank provides a softer, warmer feel and holds up well against everyday spills at a lower material cost. The primary decision factor comes down to subfloor readiness and daily comfort: concrete slabs handle rigid tile well, whereas elevated subfloors or homes with heavy foot traffic often benefit from resilient, forgiving vinyl.",
+        "@type": "Answer",
+        "description": "Porcelain tile and luxury vinyl plank are top kitchen choices due to water resistance. Tile is exceptionally durable, while vinyl plank is softer and warmer underfoot."
+      }
+    }
+  ],
+  "description": "Porcelain tile and luxury vinyl plank are top kitchen choices due to water resistance. Tile is exceptionally durable, while vinyl plank is softer and warmer und"
+}

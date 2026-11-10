@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a garage conversion better than building a new ground-up in-law addition?",
+  "description": "Garage conversions utilize an existing structure to save exterior yard space, while ground-up additions preserve your vehicle storage and offer total layout fre",
+  "url": "https://baycityremodeling.com/faq/is-a-garage-conversion-better-than-building-a-new-ground-up-in-law-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a garage conversion better than building a new ground-up in-law addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing garage into an in-law suite is often faster and avoids expanding your home's exterior footprint, but it brings unique trade-offs. You gain usable living square footage under an existing roof without pouring an entirely new foundation. However, you sacrifice covered parking and primary storage space. Garage slabs also often require moisture barriers, floor leveling, extensive insulation, and dedicated plumbing installation for the bathroom. A ground-up addition preserves your garage and allows complete freedom in designing the layout, but it involves new exterior framing, roofing, and full foundation work.",
+        "description": "Garage conversions utilize an existing structure to save exterior yard space, while ground-up additions preserve your vehicle storage and offer total layout freedom."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

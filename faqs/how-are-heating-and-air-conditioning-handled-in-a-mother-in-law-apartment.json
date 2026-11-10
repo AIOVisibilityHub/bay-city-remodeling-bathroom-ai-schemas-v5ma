@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are heating and air conditioning handled in a mother-in-law apartment?",
+  "description": "Ductless mini-split heat pumps are the most practical solution, providing independent temperature control without overworking your home's central HVAC system.",
+  "url": "https://baycityremodeling.com/faq/how-are-heating-and-air-conditioning-handled-in-a-mother-in-law-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are heating and air conditioning handled in a mother-in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heating and cooling a mother-in-law suite is most effectively achieved using an independent ductless mini-split heat pump system. Tying a new addition into your home’s existing central HVAC unit often overburdens the system, leading to uneven temperatures and higher energy strain. A ductless mini-split provides dedicated climate control directly inside the suite, allowing occupants to set their own preferred temperature without altering the main house. It also eliminates the need for extensive ductwork, saving ceiling space and simplifying construction across garage conversions and room additions.",
+        "description": "Ductless mini-split heat pumps are the most practical solution, providing independent temperature control without overworking your home's central HVAC system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

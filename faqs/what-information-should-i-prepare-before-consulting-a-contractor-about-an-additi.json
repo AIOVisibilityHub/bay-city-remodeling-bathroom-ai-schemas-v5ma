@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-information-should-i-prepare-before-consulting-a-contractor-about-an-additi",
+  "name": "What information should I prepare before consulting a contractor about an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before consulting a contractor about an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a remodeling contractor, gather your property survey, list your functional goals for the space, and establish your target budget. A property boundary survey or site plan is essential because it shows easements and property lines that determine how close you can build to your lot borders. Note how many people will use the space, whether accessibility features like walk-in showers or wider doorways are needed, and whether you require dedicated bathroom plumbing or kitchenettes. Having inspiration photos, current floor plans, and a list of structural priorities helps the contractor provide a realistic feasibility assessment and accurate initial estimate.",
+        "@type": "Answer",
+        "description": "Gather your property survey, identify your functional space goals, establish a budget range, and note any accessibility needs like walk-in showers or private entrances."
+      }
+    }
+  ],
+  "description": "Gather your property survey, identify your functional space goals, establish a budget range, and note any accessibility needs like walk-in showers or private en"
+}

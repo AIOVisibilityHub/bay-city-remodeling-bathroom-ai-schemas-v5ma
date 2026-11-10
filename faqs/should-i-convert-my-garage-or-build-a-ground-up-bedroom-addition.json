@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I convert my garage or build a ground-up bedroom addition?",
+  "description": "A garage conversion utilizes existing enclosed space but eliminates vehicle parking, while a ground-up addition preserves storage and adds brand-new square foot",
+  "url": "https://baycityremodeling.com/faq/should-i-convert-my-garage-or-build-a-ground-up-bedroom-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I convert my garage or build a ground-up bedroom addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A garage conversion repurposes existing interior square footage under your current roof, making it faster to build and typically less disruptive to your yard. However, you sacrifice covered parking and storage, and you must level the floor and insulate exterior-facing walls. A ground-up bedroom addition preserves your garage and allows custom sizing and layout design, but it requires a new foundation, exterior tie-ins, and adherence to yard setbacks. Choosing between them depends on your storage priorities and available lot space.",
+        "description": "A garage conversion utilizes existing enclosed space but eliminates vehicle parking, while a ground-up addition preserves storage and adds brand-new square footage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

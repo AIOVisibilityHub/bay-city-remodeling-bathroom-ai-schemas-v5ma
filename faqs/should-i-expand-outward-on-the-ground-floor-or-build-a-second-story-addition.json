@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-i-expand-outward-on-the-ground-floor-or-build-a-second-story-addition",
+  "name": "Should I expand outward on the ground floor or build a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I expand outward on the ground floor or build a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building outward expands your ground-level footprint, while building upward adds a second story to your existing home without sacrificing yard space. Building out is often more straightforward because it requires standard foundation excavation and exterior framing without disrupting the lower living spaces as severely. Building up preserves your lawn and outdoor living areas, which is beneficial on smaller lots with strict setback limits. However, building upward requires an engineer to verify that your existing foundation and wall framing can support the additional structural load, and it usually requires major roof removal and temporary relocation during construction.",
+        "@type": "Answer",
+        "description": "Building outward requires yard space for a new foundation, while building upward preserves your lot but requires structural verification of your existing foundation and framing."
+      }
+    }
+  ],
+  "description": "Building outward requires yard space for a new foundation, while building upward preserves your lot but requires structural verification of your existing founda"
+}

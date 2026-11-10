@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare before consulting a contractor for a primary suite addition?",
+  "description": "Locate your property survey, define must-have bathroom and storage features, establish a target budget, and note any specific layout preferences.",
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-consulting-a-contractor-for-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare before consulting a contractor for a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, gather your property survey or plot plan, identify your primary goals, and set a preliminary budget range. Knowing your property boundaries helps determine feasible expansion areas without encroaching on setback lines. It is also helpful to make a list of priorities—such as whether you require a zero-entry walk-in shower, double vanities, or private access to a back patio. Having these details ready allows the builder to provide realistic layout options and project estimates.",
+        "description": "Locate your property survey, define must-have bathroom and storage features, establish a target budget, and note any specific layout preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

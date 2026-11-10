@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/do-i-need-electrical-outlets-installed-inside-a-pantry",
+  "name": "Do I need electrical outlets installed inside a pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need electrical outlets installed inside a pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding electrical outlets to a pantry is recommended if you plan to store small countertop appliances such as toasters, coffee makers, blenders, or secondary microwaves. Having dedicated circuits keeps these everyday items off your main kitchen countertops and functional behind closed doors. You might also want wiring for interior overhead lighting, motion sensors, or under-shelf LED strip lighting. Incorporating electrical work requires rough-in wiring before drywall installation, which should be decided during the layout phase to prevent opening finished walls later.",
+        "@type": "Answer",
+        "description": "Yes, electrical outlets are useful if you want to run small appliances, charging stations, or specialized interior lighting inside the pantry rather than on kitchen counters."
+      }
+    }
+  ],
+  "description": "Yes, electrical outlets are useful if you want to run small appliances, charging stations, or specialized interior lighting inside the pantry rather than on kit"
+}

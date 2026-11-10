@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-subway-tile-and-mosaic-sheet-backsplashes",
+  "name": "What is the difference between subway tile and mosaic sheet backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between subway tile and mosaic sheet backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Subway tile offers a budget-friendly, timeless look that installs quickly, while mosaic tile delivers intricate color blends and visual texture at a higher installation cost. Standard subway tiles have uniform edges that allow for rapid setting and straightforward cuts around cabinetry and outlets. Mosaic sheets feature smaller glass, stone, or ceramic pieces mounted on mesh backing, which require extra time to align seams smoothly and prevent excess mortar from bleeding through small grout joints. Mosaics also require more grout, which increases cleaning and maintenance upkeep over time.",
+        "@type": "Answer",
+        "description": "Subway tiles install faster and cost less to set, while mosaic sheets offer intricate visual detail but demand precise alignment and more grout maintenance."
+      }
+    }
+  ],
+  "description": "Subway tiles install faster and cost less to set, while mosaic sheets offer intricate visual detail but demand precise alignment and more grout maintenance."
+}

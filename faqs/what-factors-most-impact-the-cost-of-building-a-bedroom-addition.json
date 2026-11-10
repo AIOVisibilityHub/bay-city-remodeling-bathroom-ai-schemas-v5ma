@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors most impact the cost of building a bedroom addition?",
+  "description": "Costs are driven by room square footage, foundation needs, roofing tie-ins, exterior finishes, and whether you add an en-suite bathroom requiring plumbing.",
+  "url": "https://baycityremodeling.com/faq/what-factors-most-impact-the-cost-of-building-a-bedroom-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors most impact the cost of building a bedroom addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost of a bedroom addition depends on the square footage, foundation requirements, roof complexity, and whether an en-suite bathroom is included. Adding plumbing fixtures, tile, and drainage lines for a private bath increases material and labor requirements compared to a simple dry bedroom. Exterior finishes such as matching existing siding or applying exterior stucco also affect the total budget. Bay City Remodeling & Bathrooms provides upfront estimates and negotiable pricing options to align with project scopes and design goals.",
+        "description": "Costs are driven by room square footage, foundation needs, roofing tie-ins, exterior finishes, and whether you add an en-suite bathroom requiring plumbing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

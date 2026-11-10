@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does an in-law suite addition differ from a standard bedroom extension?",
+  "description": "In-law suites include dedicated bathrooms and often private entrances or kitchenettes, whereas standard room extensions simply add floor area.",
+  "url": "https://baycityremodeling.com/faq/how-does-an-in-law-suite-addition-differ-from-a-standard-bedroom-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does an in-law suite addition differ from a standard bedroom extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An in-law suite is an attached or semi-independent living area tailored for extended family, featuring a private bedroom, bathroom, and often a sitting area or separate entrance. Standard additions typically focus on expanding a single room, such as enlarging a living room or adding a standard guest bedroom. Planning an in-law suite requires balancing privacy and accessibility, such as incorporating walk-in showers and independent climate zones. Bay City Remodeling & Bathrooms helps homeowners design multigenerational layouts that provide privacy while blending naturally into the existing architecture.",
+        "description": "In-law suites include dedicated bathrooms and often private entrances or kitchenettes, whereas standard room extensions simply add floor area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

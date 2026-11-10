@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a family room addition?",
+  "description": "Most additions take several months, covering permitting, architectural planning, foundation and framing work, rough-ins, drywall, and final finishing touches.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-typically-take-to-complete-a-family-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a family room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a family room addition typically takes several months, depending on permitting, engineering, and scope. The process starts with site evaluation, architectural planning, and securing local building permits. Once approvals are complete, physical construction begins with site excavation and foundation pouring, followed by framing, roof tie-ins, and exterior weatherproofing. Mechanical, electrical, and plumbing rough-ins occur before insulation and drywall installation. The final weeks involve interior trim, painting, flooring, and final code inspections. Bay City Remodeling & Bathrooms assigns project managers to oversee coordination and keep phases moving efficiently.",
+        "description": "Most additions take several months, covering permitting, architectural planning, foundation and framing work, rough-ins, drywall, and final finishing touches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

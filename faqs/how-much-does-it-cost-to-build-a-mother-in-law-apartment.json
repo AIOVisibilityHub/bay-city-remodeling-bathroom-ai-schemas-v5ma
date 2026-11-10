@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a mother-in-law apartment?",
+  "description": "Costs depend heavily on project scope, utility tie-ins, bathroom plumbing, kitchen fixtures, and whether you convert existing space or build an addition from th",
+  "url": "https://baycityremodeling.com/faq/how-much-does-it-cost-to-build-a-mother-in-law-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a mother-in-law apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to construct a mother-in-law apartment varies widely based on whether you are renovating an existing interior room, converting a garage, or building a brand-new detached structure. Major budget drivers include plumbing rough-ins for a new bathroom and kitchen, dedicated heating and cooling systems, separate electrical subpanels, and architectural finishes. Site conditions, utility connection distances, and foundation requirements also influence final estimates. Requesting an on-site consultation and detailed estimate helps define precise material allowances and labor costs before construction begins.",
+        "description": "Costs depend heavily on project scope, utility tie-ins, bathroom plumbing, kitchen fixtures, and whether you convert existing space or build an addition from the ground up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

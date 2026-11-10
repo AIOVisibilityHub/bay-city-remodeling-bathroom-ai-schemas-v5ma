@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered an additional living quarters on a residential property?",
+  "description": "An additional living quarters is an independent living space on your property, such as an attached in-law suite, guest apartment, or accessory dwelling unit.",
+  "url": "https://baycityremodeling.com/faq/what-is-considered-an-additional-living-quarters-on-a-residential-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered an additional living quarters on a residential property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An additional living quarters is an independent or semi-independent residential space located on the same property as a single-family home. Depending on your needs, this can take the form of an attached in-law suite, a converted garage, an expanded guest suite, or a detached accessory dwelling unit (ADU). These spaces typically feature a dedicated sleeping area and full bathroom, and they often include a separate entrance, living area, and kitchen setup. Rather than treating all living quarters as interchangeable construction solutions, we establish the right layout during consultation based on whether the space is meant for aging parents, returning adult children, or extended guests.",
+        "description": "An additional living quarters is an independent living space on your property, such as an attached in-law suite, guest apartment, or accessory dwelling unit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a granny flat and an accessory dwelling unit (ADU)?",
+  "description": "An ADU is a broad zoning term for any secondary residential unit, while a granny flat specifically emphasizes independent, accessible living space for family me",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-granny-flat-and-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a granny flat and an accessory dwelling unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both provide independent living space, a granny flat traditionally features design elements tailored to aging relatives, whereas an accessory dwelling unit (ADU) is a broader zoning classification. ADUs include detached backyard cottages, basement apartments, and garage conversions built for various uses, including long-term rental or guest housing. Granny flats often prioritize accessibility features such as walk-in showers, zero-threshold entries, and wider doorways to support aging in place. When deciding between the two, consider whether your primary goal is long-term family care or general multi-use flexible living space.",
+        "description": "An ADU is a broad zoning term for any secondary residential unit, while a granny flat specifically emphasizes independent, accessible living space for family members."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/when-should-i-replace-my-kitchen-floor-instead-of-repairing-it",
+  "name": "When should I replace my kitchen floor instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my kitchen floor instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners should consider replacing kitchen flooring when there is persistent water damage, deep subfloor softness, loose or cracked tiles, or extensive wear that cleaning cannot fix. In a busy kitchen, damaged floors can allow spills to seep into the subfloor, leading to mold or rot. A practical tradeoff to weigh is whether spot repairs make sense; while minor tile cracks can occasionally be patched, widespread issues or outdated layouts usually justify a full replacement to ensure a level, moisture-resistant base across your entire kitchen footprint.",
+        "@type": "Answer",
+        "description": "Replace your kitchen floor if you notice widespread water damage, soft subfloors, or loose tiles. Full replacement prevents moisture leaks and ensures a level base."
+      }
+    }
+  ],
+  "description": "Replace your kitchen floor if you notice widespread water damage, soft subfloors, or loose tiles. Full replacement prevents moisture leaks and ensures a level b"
+}

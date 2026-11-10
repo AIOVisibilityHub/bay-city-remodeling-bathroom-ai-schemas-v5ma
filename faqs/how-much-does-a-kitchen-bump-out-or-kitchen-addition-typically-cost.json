@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a kitchen bump-out or kitchen addition typically cost?",
+  "description": "Costs depend on added square footage, foundation needs, utility tie-ins, and finishes like cabinetry and countertops. Free quotes and negotiable pricing help es",
+  "url": "https://baycityremodeling.com/faq/how-much-does-a-kitchen-bump-out-or-kitchen-addition-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a kitchen bump-out or kitchen addition typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a kitchen addition depends on the added square footage, foundation requirements, plumbing relocation, and finish materials. Ground-up structural additions involve excavation, framing, roofing, and tie-ins to existing electrical and plumbing systems, making them a larger investment than interior updates. Custom cabinetry, stone countertops, appliance packages, and exterior finishes like matching stucco also shape overall pricing. Bay City Remodeling & Bathrooms reviews specific goals during on-site estimates, provides free quotes, and offers negotiable pricing and veteran discounts.",
+        "description": "Costs depend on added square footage, foundation needs, utility tie-ins, and finishes like cabinetry and countertops. Free quotes and negotiable pricing help establish the budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

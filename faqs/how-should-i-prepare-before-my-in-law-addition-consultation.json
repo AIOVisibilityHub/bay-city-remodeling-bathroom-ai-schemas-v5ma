@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare before my in-law addition consultation?",
+  "description": "Gather your property survey, define specific functional needs like private entrances or zero-barrier showers, identify your target budget, and check any HOA gui",
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-my-in-law-addition-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare before my in-law addition consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, gather your property survey, note your household priorities, and establish a comfortable working budget. Determine who will live in the space and what daily amenities they require, such as a walk-in shower, separate living room, or private exterior entrance. Check your property lines and verify whether your neighborhood has homeowners association guidelines regarding exterior additions. It is also helpful to collect visual design ideas for interior finishes, cabinets, and bathroom layouts. Having this information ready allows your contractor to provide accurate design suggestions and realistic project estimates.",
+        "description": "Gather your property survey, define specific functional needs like private entrances or zero-barrier showers, identify your target budget, and check any HOA guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

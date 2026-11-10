@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an attached in-law suite and a detached accessory dwelling unit?",
+  "description": "An attached suite shares a wall and foundation with the main home, while a detached unit is a standalone building. Attached suites offer indoor access and easie",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-an-attached-in-law-suite-and-a-detached-accessory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an attached in-law suite and a detached accessory dwelling unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An attached in-law suite is an addition or converted wing physically connected to the primary home, whereas a detached suite stands as a separate building. Attached suites share foundational walls, framing, and often tie into the main residence's existing electrical or plumbing systems, which can simplify utility runs and reduce overall site excavation. They provide immediate, weather-protected indoor access between households, making them ideal for elderly care. However, attached designs offer slightly less acoustic separation than detached structures and must directly conform to the existing home's rooflines and exterior architecture.",
+        "description": "An attached suite shares a wall and foundation with the main home, while a detached unit is a standalone building. Attached suites offer indoor access and easier utility ties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

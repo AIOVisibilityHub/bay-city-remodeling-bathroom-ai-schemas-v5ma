@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific structural factors affect home extensions built in the Tampa Bay area?",
+  "description": "Tampa Bay additions must comply with Florida hurricane codes, including wind-load engineering, impact windows, hurricane ties, proper flood elevations, and stor",
+  "url": "https://baycityremodeling.com/faq/what-specific-structural-factors-affect-home-extensions-built-in-the-tampa-bay-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific structural factors affect home extensions built in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Tampa Bay region, house extensions must be engineered to comply with strict Florida Building Code hurricane wind-load requirements. Structural plans must account for high-wind resistance, which dictates specific concrete footings, reinforced block or tie-down strapping, impact-rated windows, and sealed roofing underlayments. Additionally, additions must account for local flood zones and stormwater run-off rules, particularly in coastal or low-lying communities across Hillsborough and Pinellas counties. Licensed contractors ensure all plans reflect correct elevation standards, flood vents where necessary, and engineering approvals suitable for the regional climate.",
+        "description": "Tampa Bay additions must comply with Florida hurricane codes, including wind-load engineering, impact windows, hurricane ties, proper flood elevations, and stormwater runoff limits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

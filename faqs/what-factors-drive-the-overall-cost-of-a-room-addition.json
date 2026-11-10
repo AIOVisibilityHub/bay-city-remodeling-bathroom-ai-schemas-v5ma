@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of a room addition?",
+  "description": "Total costs depend on square footage, foundation needs, finish levels, and whether the space requires complex plumbing and electrical work for kitchens or bathr",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a home addition depends on square footage, intended use, foundation requirements, and interior finish levels. A dry room addition, such as an expanded living room or simple bedroom, generally costs less because it requires standard framing, drywall, and basic electrical wiring. In contrast, additions that include bathrooms, kitchens, or laundry facilities require extensive plumbing tie-ins, specialized ventilation, waterproofing, and tile work, which significantly increase the total investment. Bay City Remodeling & Bathrooms reviews plans during consultations and offers negotiable pricing and veteran discounts.",
+        "description": "Total costs depend on square footage, foundation needs, finish levels, and whether the space requires complex plumbing and electrical work for kitchens or bathrooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

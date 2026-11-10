@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an attached granny suite and a detached ADU?",
+  "description": "An attached granny suite is integrated into your main house structure, while a detached ADU is a separate standalone building requiring its own yard footprint a",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-an-attached-granny-suite-and-a-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an attached granny suite and a detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A granny suite is typically built as an integrated home addition or converted interior room, whereas an accessory dwelling unit (ADU) or detached granny flat is often a standalone structure on the lot. Deciding between the two involves practical tradeoffs around yard footprint, privacy, and budget. An attached addition connects directly to the existing foundation, roofline, and utilities, which typically streamlines electrical and plumbing connections. A detached structure offers complete acoustic and physical separation, but it demands dedicated land area, independent exterior utility hookups, and exterior work such as full-house stuccoing to match the primary residence.",
+        "description": "An attached granny suite is integrated into your main house structure, while a detached ADU is a separate standalone building requiring its own yard footprint and utility runs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

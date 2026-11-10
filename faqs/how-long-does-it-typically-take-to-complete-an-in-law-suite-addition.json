@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete an in-law suite addition?",
+  "description": "Timelines include upfront design and permitting followed by construction, spanning foundation work, framing, rough-in plumbing and electrical, drywall, and fina",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-typically-take-to-complete-an-in-law-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete an in-law suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline typically spans several distinct phases: design and planning, engineering, building permits, structural construction, and final finishing touches. The initial planning and permitting phase often takes several weeks to complete before construction can start, depending on municipal review queues. Once construction begins, the schedule involves site prep or demolition, framing, rough-in plumbing and electrical, drywall installation, tile work, fixture placement, and exterior finishes like matching stucco. Projects involving new additions generally take longer than converting existing interior spaces because they require foundation pours, roof integration, and exterior envelope inspections.",
+        "description": "Timelines include upfront design and permitting followed by construction, spanning foundation work, framing, rough-in plumbing and electrical, drywall, and final fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

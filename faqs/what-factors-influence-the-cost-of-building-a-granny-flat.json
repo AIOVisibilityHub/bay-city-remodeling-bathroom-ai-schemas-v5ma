@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of building a granny flat?",
+  "description": "Costs depend on square footage, whether the unit is attached or detached, utility connections for plumbing and power, and interior selections like kitchens and",
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-building-a-granny-flat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of building a granny flat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Granny flat costs vary widely based on whether you build a detached unit, construct an attached addition, or convert an existing garage. Key factors influencing the budget include the total square footage, structural foundations, utility connections for plumbing and electricity, and interior finishes. Kitchen cabinetry, countertops, and accessible bathroom fixtures such as curbless walk-in showers also affect the total. During the estimating process, a contractor can evaluate your existing plumbing and electrical capacity to establish an accurate scope of work before construction begins.",
+        "description": "Costs depend on square footage, whether the unit is attached or detached, utility connections for plumbing and power, and interior selections like kitchens and accessible showers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

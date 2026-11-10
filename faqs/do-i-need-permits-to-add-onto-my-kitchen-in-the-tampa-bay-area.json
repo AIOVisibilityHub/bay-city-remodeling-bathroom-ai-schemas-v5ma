@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits to add onto my kitchen in the Tampa Bay area?",
+  "description": "Yes. Expanding your home's footprint requires structural, electrical, and plumbing permits that comply with Florida building codes and local municipal regulatio",
+  "url": "https://baycityremodeling.com/faq/do-i-need-permits-to-add-onto-my-kitchen-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits to add onto my kitchen in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, kitchen additions require building permits because they involve structural modifications, foundation construction, roof tie-ins, and extensive electrical and plumbing rough-ins. In Florida, structural work must comply with local wind-load and building code standards. Bay City Remodeling & Bathrooms manages the permitting process across municipal jurisdictions in the Tampa Bay region, submitting engineered drawings to the local building department and scheduling mandatory inspections throughout the construction stages.",
+        "description": "Yes. Expanding your home's footprint requires structural, electrical, and plumbing permits that comply with Florida building codes and local municipal regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparations should I make before consulting a contractor about expanding living space?",
+  "description": "Gather your property survey, check easement boundaries, define your primary budget, and outline specific requirements like bathrooms, access doors, or dedicated",
+  "url": "https://baycityremodeling.com/faq/what-preparations-should-i-make-before-consulting-a-contractor-about-expanding-l",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparations should I make before consulting a contractor about expanding living space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin by gathering your property survey, noting utility locations, establishing clear budget parameters, and creating a prioritized list of essential functional needs. Review your property survey to see where boundary lines, utility easements, and setback buffers sit on your parcel. Measure nearby interior access points and consider how the new addition will connect to existing hallways without disrupting traffic flow. Identifying whether you need specialized wet areas, such as walk-in showers or secondary laundry setups, helps ensure your initial contractor consultation produces an accurate estimate and scope of work.",
+        "description": "Gather your property survey, check easement boundaries, define your primary budget, and outline specific requirements like bathrooms, access doors, or dedicated living zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

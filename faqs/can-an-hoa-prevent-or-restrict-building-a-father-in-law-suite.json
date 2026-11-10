@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an HOA prevent or restrict building a father-in-law suite?",
+  "description": "Yes. HOAs can regulate exterior appearances, architectural matching, visible private entrances, and parking expansions, requiring design approval before constru",
+  "url": "https://baycityremodeling.com/faq/can-an-hoa-prevent-or-restrict-building-a-father-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an HOA prevent or restrict building a father-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In communities governed by a Homeowners Association, you must secure HOA architectural review board approval in addition to municipal building permits before starting exterior construction. HOAs frequently enforce rules regarding exterior finishes, roof pitch, paint colors, window styles, and separate front-facing entrances to ensure the addition matches community aesthetics. Some associations also restrict street parking, which influences whether you must expand your driveway when hosting an additional resident. Reviewing your neighborhood's covenants and submitting architectural renderings early helps you plan around community requirements without stalling your project schedule.",
+        "description": "Yes. HOAs can regulate exterior appearances, architectural matching, visible private entrances, and parking expansions, requiring design approval before construction starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-types-of-pantry-installation-options-for-a-kitchen",
+  "name": "What are the main types of pantry installation options for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main types of pantry installation options for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry installation can involve building a walk-in room, framing a reach-in closet, or installing dedicated tall cabinetry with pull-out shelving. Walk-in pantries require dedicated floor area and framing, while cabinet pantries integrate directly alongside existing kitchen casework. The right choice depends on your available footprint, how many dry goods and small appliances you need to store, and whether you want appliances plugged in away from kitchen countertops. Bay City Remodeling & Bathrooms reviews kitchen dimensions during consultations to establish whether framing new walls or modifying existing casework provides the best balance of capacity and open floor space.",
+        "@type": "Answer",
+        "description": "Pantry installations typically range from framed walk-in rooms and reach-in closets to integrated tall cabinet units with custom pull-out shelves based on your kitchen's layout."
+      }
+    }
+  ],
+  "description": "Pantry installations typically range from framed walk-in rooms and reach-in closets to integrated tall cabinet units with custom pull-out shelves based on your"
+}

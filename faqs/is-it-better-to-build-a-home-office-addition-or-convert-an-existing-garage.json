@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build a home office addition or convert an existing garage?",
+  "description": "A ground-up addition preserves garage storage and allows custom room dimensions, while a garage conversion repurposes existing interior space with less structur",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-a-home-office-addition-or-convert-an-existing-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build a home office addition or convert an existing garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A ground-up home addition builds brand-new square footage extending from your exterior walls, while a conversion reprofiles interior space such as a garage or unused room. Adding a new room preserves existing vehicle parking and indoor storage, and it allows complete freedom over room dimensions, ceiling height, and window placement. However, building an addition involves foundation work, roof tying, and exterior wall integration, making it a larger structural investment than converting enclosed space. During your initial consultation, we review your property lot lines and functional needs to establish the best approach.",
+        "description": "A ground-up addition preserves garage storage and allows custom room dimensions, while a garage conversion repurposes existing interior space with less structural foundation work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

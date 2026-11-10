@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-overall-cost-of-installing-a-kitchen-pantry",
+  "name": "What factors determine the overall cost of installing a kitchen pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the overall cost of installing a kitchen pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pantry installation costs vary depending on whether the project involves basic shelving in an existing closet, custom tall cabinetry, or framing an entirely new walk-in room. Key cost drivers include structural framing, drywall installation and finishing, custom carpentry, door hanging, electrical rough-ins for interior outlets, and trim carpentry. Cabinet-style pantries depend on the chosen wood grade, finish, and internal hardware such as heavy-duty roll-out trays. Bay City Remodeling & Bathrooms assesses these scope variables on-site and provides negotiable pricing and free quotes based on individual design plans.",
+        "@type": "Answer",
+        "description": "Cost depends on whether you are framing a new room, finishing drywall, adding electrical outlets, or installing custom cabinetry with specialized pull-out hardware."
+      }
+    }
+  ],
+  "description": "Cost depends on whether you are framing a new room, finishing drywall, adding electrical outlets, or installing custom cabinetry with specialized pull-out hardw"
+}

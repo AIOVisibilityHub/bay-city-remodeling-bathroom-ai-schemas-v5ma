@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main stages of building a home addition?",
+  "description": "The process involves design, permitting, foundation pouring, framing, exterior tie-ins, utility rough-ins, drywall installation, and interior finishing.",
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-stages-of-building-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main stages of building a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A home addition project typically moves through architectural design, permitting, site preparation, foundation pouring, framing, exterior tie-ins, and interior finishing. Once plans pass municipal review, crews excavate and pour the slab or foundation before erecting walls and roof trusses. Exterior tie-ins ensure siding, roofing, or full-house stuccoing integrate seamlessly with your original structure. Interior work follows with rough-in plumbing, electrical, drywall installation, trim, and flooring. Project managers supervise each phase to coordinate trades and keep inspections moving smoothly toward final completion.",
+        "description": "The process involves design, permitting, foundation pouring, framing, exterior tie-ins, utility rough-ins, drywall installation, and interior finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I convert an existing garage or build a new room addition for a granny suite?",
+  "description": "Converting a garage preserves yard space and uses existing walls, while a new addition preserves enclosed vehicle parking and offers total layout flexibility.",
+  "url": "https://baycityremodeling.com/faq/should-i-convert-an-existing-garage-or-build-a-new-room-addition-for-a-granny-su",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I convert an existing garage or build a new room addition for a granny suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an attached garage into a granny suite is often faster and uses your home's existing footprint, but it trades off vehicle parking and storage space. Building a ground-up addition preserves garage utility and allows complete freedom over room dimensions, ceiling height, and layout, though it requires framing a new foundation, exterior walls, and rooflines. Garage conversions also demand specific modifications, such as leveling concrete slabs, framing insulated drywall partitions, raising floor elevations, and extending HVAC ductwork. Deciding between them depends on whether your property has sufficient yard space for an exterior bump-out.",
+        "description": "Converting a garage preserves yard space and uses existing walls, while a new addition preserves enclosed vehicle parking and offers total layout flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

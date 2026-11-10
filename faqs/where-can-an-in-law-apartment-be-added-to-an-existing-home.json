@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where can an in-law apartment be added to an existing home?",
+  "description": "In-law apartments can be built as ground-floor home additions, converted from existing attached garages, or constructed as detached accessory dwelling units.",
+  "url": "https://baycityremodeling.com/faq/where-can-an-in-law-apartment-be-added-to-an-existing-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can an in-law apartment be added to an existing home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In-law apartments are commonly created by building a ground-floor home addition, converting an attached garage, or constructing a detached accessory structure. Building an attached ground-floor addition keeps aging relatives close while sharing existing structural walls, but it requires sufficient yard setback space. A garage conversion repurposes existing enclosed square footage, which can save on foundation framing but eliminates covered parking and requires extensive insulation, drywall, and plumbing rough-ins. A detached unit provides maximum privacy for multigenerational living arrangements, though it requires separate utility trenches and exterior envelope work.",
+        "description": "In-law apartments can be built as ground-floor home additions, converted from existing attached garages, or constructed as detached accessory dwelling units."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features should be included when designing an in-law suite for aging relatives?",
+  "description": "Prioritize ground-floor access, wider doorways, zero-threshold walk-in showers, reinforced grab bars, slip-resistant tile, and bright, accessible lighting.",
+  "url": "https://baycityremodeling.com/faq/what-features-should-be-included-when-designing-an-in-law-suite-for-aging-relati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features should be included when designing an in-law suite for aging relatives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key design features include curbless walk-in showers, wider doorways, grab-bar reinforcement, level flooring transitions, and low-maintenance surfaces. Converting a tub to a barrier-free shower with slip-resistant tile and hand-held fixtures significantly improves safety for older relatives. It is also beneficial to place the suite on the ground floor with a dedicated exterior entry, lever-style door hardware, and ample task lighting. Planning these functional details early ensures the space remains safe, comfortable, and adaptable for years without requiring future corrective remodeling.",
+        "description": "Prioritize ground-floor access, wider doorways, zero-threshold walk-in showers, reinforced grab bars, slip-resistant tile, and bright, accessible lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

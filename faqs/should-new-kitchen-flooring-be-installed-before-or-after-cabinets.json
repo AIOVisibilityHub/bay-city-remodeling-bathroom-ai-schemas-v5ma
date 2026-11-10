@@ -1,0 +1,27 @@
+{
+  "url": "https://baycityremodeling.com/faq/should-new-kitchen-flooring-be-installed-before-or-after-cabinets",
+  "name": "Should new kitchen flooring be installed before or after cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should new kitchen flooring be installed before or after cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring can be replaced before or after cabinet installation, but installing flooring first is often preferred. Running flooring wall-to-wall ensures that all base cabinets, dishwashers, and islands sit at the standard counter height, making appliance maintenance much simpler down the road. The practical tradeoff is material cost: going under the cabinets uses more square footage and requires careful protection of the new floor during cabinet assembly. If keeping existing cabinetry, installers cut materials flush to cabinet bases and finish edges with quarter-round trim.",
+        "@type": "Answer",
+        "description": "Installing flooring wall-to-wall before cabinets keeps appliances level and easy to slide out. If existing cabinets remain, flooring is cut flush and trimmed with molding."
+      }
+    }
+  ],
+  "description": "Installing flooring wall-to-wall before cabinets keeps appliances level and easy to slide out. If existing cabinets remain, flooring is cut flush and trimmed wi"
+}
