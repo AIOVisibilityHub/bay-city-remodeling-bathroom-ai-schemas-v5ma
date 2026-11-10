@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a garage apartment be designed as a self-contained mother-in-law suite?",
+  "description": "Yes, garage apartments can serve as independent mother-in-law suites with private bathrooms, kitchens, and accessible features like walk-in showers.",
+  "url": "https://baycityremodeling.com/faq/can-a-garage-apartment-be-designed-as-a-self-contained-mother-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a garage apartment be designed as a self-contained mother-in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a garage apartment can function as a completely independent mother-in-law suite, provided it includes a dedicated bathroom, sleeping area, and basic kitchenette or kitchen. When designing for aging parents or extended family, prioritizing accessibility is an important decision factor. Many homeowners choose ground-level garage conversions over second-story builds to avoid daily stair use. Inside the unit, installing curbless walk-in showers, slip-resistant tile, grab bars, and open floor plans creates a comfortable living environment that allows family members to maintain personal independence while remaining close to the main household.",
+        "description": "Yes, garage apartments can serve as independent mother-in-law suites with private bathrooms, kitchens, and accessible features like walk-in showers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

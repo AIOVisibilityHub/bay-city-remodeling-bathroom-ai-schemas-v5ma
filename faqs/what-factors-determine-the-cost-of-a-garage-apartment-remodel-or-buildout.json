@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a garage apartment remodel or buildout?",
+  "description": "Key cost factors include whether construction is vertical or ground-level, utility trenching, HVAC additions, structural reinforcement, and your choice of kitch",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-a-garage-apartment-remodel-or-buildout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a garage apartment remodel or buildout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a garage apartment depends heavily on structural readiness, overall square footage, and the choice of interior finishes. Key variables include whether you are converting an existing ground-floor structure or building a vertical second-story addition that requires structural reinforcement. Running new utility infrastructure—such as trenching water and sewer lines, adding a subpanel, and installing a dedicated mini-split HVAC system—accounts for a substantial portion of the budget. Interior choices for kitchen cabinetry, countertops, bathroom tile, and walk-in showers also drive final expenses. Bay City Remodeling & Bathrooms reviews these scope items during the estimating process and provides negotiable pricing options.",
+        "description": "Key cost factors include whether construction is vertical or ground-level, utility trenching, HVAC additions, structural reinforcement, and your choice of kitchen and bath finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

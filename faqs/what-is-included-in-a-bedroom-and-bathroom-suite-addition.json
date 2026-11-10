@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a bedroom-and-bathroom suite addition?",
+  "description": "A bedroom-and-bathroom addition provides a fully integrated living suite, combining a private bedroom with an attached bath requiring dedicated plumbing, electr",
+  "url": "https://baycityremodeling.com/faq/what-is-included-in-a-bedroom-and-bathroom-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a bedroom-and-bathroom suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bedroom-and-bathroom addition is a newly constructed suite built onto your existing home that includes both a dedicated sleeping space and an attached private bath. Homeowners commonly build these as primary master suites, in-law suites for aging relatives, or private quarters for returning adult children. Unlike a basic bedroom addition, adding a bathroom requires extending major plumbing lines, venting, and drainage into the new footprint. Planning the right scope depends on who will use the room; for instance, creating an accessible space for older family members might call for zero-threshold walk-in showers and wider doorways, which Bay City Remodeling & Bathrooms coordinates during initial design.",
+        "description": "A bedroom-and-bathroom addition provides a fully integrated living suite, combining a private bedroom with an attached bath requiring dedicated plumbing, electrical, and structural connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

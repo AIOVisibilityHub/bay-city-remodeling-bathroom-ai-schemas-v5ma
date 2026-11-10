@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I build a detached cottage instead of converting an existing garage or room?",
+  "description": "Build a detached cottage when you need complete privacy and independent utilities without sacrificing interior square footage, vehicle parking, or existing stor",
+  "url": "https://baycityremodeling.com/faq/when-should-i-build-a-detached-cottage-instead-of-converting-an-existing-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I build a detached cottage instead of converting an existing garage or room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a detached backyard cottage when your household requires an independent living unit that cannot be comfortably accommodated within your existing home footprint. Common situations include caring for an aging parent who desires privacy, accommodating an adult child returning home, or creating a quiet, standalone studio away from main-house noise. If lot coverage rules permit detached construction and you prefer not to sacrifice interior garage or bedroom space for a remodel, a separate cottage provides complete autonomy, independent HVAC control, and distinct living quarters.",
+        "description": "Build a detached cottage when you need complete privacy and independent utilities without sacrificing interior square footage, vehicle parking, or existing storage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

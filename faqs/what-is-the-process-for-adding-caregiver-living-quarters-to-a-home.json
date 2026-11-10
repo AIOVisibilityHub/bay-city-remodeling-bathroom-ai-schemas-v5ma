@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for adding caregiver living quarters to a home?",
+  "description": "The process involves an initial home consultation, custom design drafting, building permit approvals, structural framing, utility rough-ins, drywall, and final",
+  "url": "https://baycityremodeling.com/faq/what-is-the-process-for-adding-caregiver-living-quarters-to-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for adding caregiver living quarters to a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Planning for caregiver quarters begins with an on-site consultation to inspect your property's structure, plumbing, and electrical capacity. The contractor drafts architectural layouts that blend seamlessly with your home's architecture while addressing accessibility needs. Once design plans are finalized, the builder submits blueprints for local municipal building permits. After permit approval, construction proceeds through framing, rough-in plumbing and electrical, drywall installation, fixture updates, and final finishes. The process concludes with building inspections to verify all safety standards are met before your caregiver moves in. Consulting early ensures your mechanical systems can support additional bathroom and kitchen fixtures.",
+        "description": "The process involves an initial home consultation, custom design drafting, building permit approvals, structural framing, utility rough-ins, drywall, and final finish installations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

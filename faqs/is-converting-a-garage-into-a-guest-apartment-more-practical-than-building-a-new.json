@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is converting a garage into a guest apartment more practical than building a new addition?",
+  "description": "A garage conversion saves on structural framing and roofing, but you lose parking and must upgrade the slab, insulation, plumbing, and climate control to meet l",
+  "url": "https://baycityremodeling.com/faq/is-converting-a-garage-into-a-guest-apartment-more-practical-than-building-a-new",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is converting a garage into a guest apartment more practical than building a new addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing garage generally requires less structural framing and roofing than building a ground-up addition, making it a faster way to gain enclosed square footage. However, garages present distinct tradeoffs: you sacrifice vehicle parking and storage, and the existing concrete slab typically requires moisture barriers, leveling, and insulation before living spaces can be built. You must also budget for adding full insulation, HVAC ducting, plumbing lines, and replacing garage doors with finished exterior walls. Ground-up additions avoid compromising existing vehicle storage but involve site excavation and foundation pours.",
+        "description": "A garage conversion saves on structural framing and roofing, but you lose parking and must upgrade the slab, insulation, plumbing, and climate control to meet living standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

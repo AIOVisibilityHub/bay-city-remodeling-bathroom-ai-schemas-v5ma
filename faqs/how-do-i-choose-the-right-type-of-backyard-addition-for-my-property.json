@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right type of backyard addition for my property?",
+  "description": "Choose based on available lot space, privacy goals, and utility capacity. Detached units maximize quiet independence, while attached additions or garage convers",
+  "url": "https://baycityremodeling.com/faq/how-do-i-choose-the-right-type-of-backyard-addition-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right type of backyard addition for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners generally choose between building a detached dwelling, building an attached ground-floor addition, or converting an existing garage. To determine the right approach, measure your usable yard space, identify property line setbacks, and inspect your existing electrical panel capacity. If yard space is tight, converting an attached garage or building onto the existing home preserves lawn space. If multigenerational family members require quiet daily independence, a detached guest cottage is often the better fit.",
+        "description": "Choose based on available lot space, privacy goals, and utility capacity. Detached units maximize quiet independence, while attached additions or garage conversions preserve yard space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

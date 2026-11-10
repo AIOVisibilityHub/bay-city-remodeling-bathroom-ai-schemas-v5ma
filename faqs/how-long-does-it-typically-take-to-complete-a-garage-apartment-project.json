@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a garage apartment project?",
+  "description": "Most garage apartment builds take several months from initial design and permitting through rough framing, drywall, bathroom installations, and final trim.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-typically-take-to-complete-a-garage-apartment-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a garage apartment project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for completing a garage apartment typically ranges from several months to half a year, depending on project complexity and local approvals. The initial phase involves design drafts, structural assessments, and municipal permit approvals through local offices like Hillsborough County. Once permits are issued, framing, utility rough-ins for plumbing and electric, and insulation take place, followed by county inspections. The remaining time is dedicated to drywall hanging and finishing, exterior stuccoing or siding, trim carpentry, painting, bathroom tiling, and cabinet installation. Supply delivery schedules and weather conditions during exterior work can influence overall completion timing.",
+        "description": "Most garage apartment builds take several months from initial design and permitting through rough framing, drywall, bathroom installations, and final trim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

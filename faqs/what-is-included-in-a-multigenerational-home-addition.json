@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a multigenerational home addition?",
+  "description": "A multigenerational addition provides private living space, such as a bedroom suite, accessible bathroom, or separate living area, designed for extended family",
+  "url": "https://baycityremodeling.com/faq/what-is-included-in-a-multigenerational-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a multigenerational home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A multigenerational home addition is a dedicated living space built onto or within an existing home to accommodate extended family members, such as aging parents or adult children. These projects typically include private bedrooms, accessible bathrooms, sitting rooms, and sometimes kitchenettes or private exterior entrances. Deciding on the layout depends on the level of independence desired and your lot parameters. A proper design blends seamlessly with the existing house architecture and interior drywall finishes to ensure the entire residence feels cohesive while maintaining everyday privacy for everyone.",
+        "description": "A multigenerational addition provides private living space, such as a bedroom suite, accessible bathroom, or separate living area, designed for extended family living together under one roof."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

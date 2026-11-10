@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a detached in-law suite project?",
+  "description": "Most detached builds take several months from design through final inspection, influenced by municipal permitting times, utility work, and construction scope.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-typically-take-to-complete-a-detached-in-law-suite-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a detached in-law suite project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline generally ranges from several months to half a year or more, depending on local permitting speeds, site readiness, and build complexity. The process begins with property assessment, design planning, and municipal permit applications. Once permits are approved, the construction sequence involves grading and foundation pouring, structural framing, exterior siding or stucco, roofing, rough-in plumbing and electrical, drywall installation, and final interior touches like cabinetry, tile, and plumbing fixtures. Weather conditions and inspection scheduling can also affect overall timing.",
+        "description": "Most detached builds take several months from design through final inspection, influenced by municipal permitting times, utility work, and construction scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

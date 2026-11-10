@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I convert my existing garage or build a new apartment above it?",
+  "description": "Converting saves on framing costs but eliminates parking; building above keeps garage bays intact but requires structural reinforcement and stair access for the",
+  "url": "https://baycityremodeling.com/faq/should-i-convert-my-existing-garage-or-build-a-new-apartment-above-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I convert my existing garage or build a new apartment above it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing garage into living space is generally faster and less expensive than building an apartment above one, but it eliminates enclosed parking. A ground-floor conversion uses the existing slab and walls, focusing primarily on framing, insulation, drywall, plumbing rough-ins, and climate control. Building an apartment over an existing garage preserves your parking and storage bays beneath, yet it introduces structural complexity. Contractors must inspect whether the existing foundation, slab, and framing can support the second-story load, which often requires adding structural posts or footings. Building upward also requires adding exterior stairs, subflooring, and dedicated fire separation between the garage and upper living quarters.",
+        "description": "Converting saves on framing costs but eliminates parking; building above keeps garage bays intact but requires structural reinforcement and stair access for the upper level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

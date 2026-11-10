@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a backyard cottage and an attached home addition?",
+  "description": "A backyard cottage is a freestanding, detached living unit with its own private entrance, while an attached addition expands the primary home's existing structu",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-backyard-cottage-and-an-attached-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a backyard cottage and an attached home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A backyard cottage is a detached accessory dwelling unit, commonly known as an ADU, granny flat, or guest suite, built on the same property as a primary residence. Unlike an attached home addition or an interior mother-in-law suite, a backyard cottage provides completely separate living quarters, typically including its own entrance, bedroom, bathroom, and kitchen area. Choosing a detached cottage offers maximum privacy and independence for aging parents, adult children, or guests. However, it requires its own foundation, exterior utility connections, and dedicated yard space, making the planning and site assessment different from expanding an existing home footprint.",
+        "description": "A backyard cottage is a freestanding, detached living unit with its own private entrance, while an attached addition expands the primary home's existing structural footprint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

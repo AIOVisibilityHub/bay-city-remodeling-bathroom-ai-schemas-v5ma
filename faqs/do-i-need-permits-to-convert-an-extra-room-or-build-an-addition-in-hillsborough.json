@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits to convert an extra room or build an addition in Hillsborough County?",
+  "description": "Yes, Hillsborough County and local municipalities require building, plumbing, and electrical permits for additions, bedroom conversions, and new bathrooms.",
+  "url": "https://baycityremodeling.com/faq/do-i-need-permits-to-convert-an-extra-room-or-build-an-addition-in-hillsborough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits to convert an extra room or build an addition in Hillsborough County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, municipal building codes across Hillsborough County, Pinellas County, and surrounding Tampa Bay municipalities require permits for structural alterations, new additions, and utility extensions. If you are adding a bedroom, local residential codes mandate minimum ceiling heights, minimum square footage, closet space, and specific emergency escape openings (egress windows). Adding a private bathroom or kitchenette requires licensed plumbing and electrical permits to ensure lines meet safety standards. Always confirm that plans are approved through local building authorities before construction starts.",
+        "description": "Yes, Hillsborough County and local municipalities require building, plumbing, and electrical permits for additions, bedroom conversions, and new bathrooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

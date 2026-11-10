@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a secondary living suite?",
+  "description": "Timelines range from a few months for interior garage conversions to longer durations for ground-up home additions that require foundations, framing, and full e",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-a-secondary-living-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a secondary living suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Construction timelines typically span several months, depending heavily on the scope and design approach. Garage conversions and interior renovations usually finish faster because the exterior structure, roof, and foundation already exist. Ground-up additions take longer because they require site preparation, concrete foundation pours, framing, exterior wall finishes like stuccoing, roofing, and full mechanical rough-ins for plumbing and HVAC. The overall schedule is also influenced by upfront design reviews and municipal building department permitting schedules across Hillsborough and surrounding counties.",
+        "description": "Timelines range from a few months for interior garage conversions to longer durations for ground-up home additions that require foundations, framing, and full exterior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an existing garage be converted into an ADU?",
+  "description": "Yes, garages can often be converted into ADUs, though they require extensive upgrades including foundation work, insulation, drywall, plumbing, and dedicated he",
+  "url": "https://baycityremodeling.com/faq/can-an-existing-garage-be-converted-into-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an existing garage be converted into an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting an existing detached or attached garage into an ADU is a common project type. The existing footprint, foundation, and framing can sometimes accelerate initial planning compared to building a ground-up detached unit. However, a garage conversion involves substantial structural upgrades, including leveling and insulating concrete slab floors, installing proper drywall, adding full plumbing lines for a kitchen and bathroom, and installing dedicated HVAC units. If you rely on your garage for vehicle parking or storage, you will also need to consider outdoor property layout alternatives before converting that enclosed space.",
+        "description": "Yes, garages can often be converted into ADUs, though they require extensive upgrades including foundation work, insulation, drywall, plumbing, and dedicated heating and cooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

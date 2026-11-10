@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct detached living quarters from start to finish?",
+  "description": "Construction timelines depend on permitting speeds, site excavation, utility trenching, and interior finish scope, progressing in distinct phases from design to",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-detached-living-quarters-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct detached living quarters from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Overall project duration depends on design complexity, municipal permit review times, weather conditions, and site preparation needs. The initial planning, architectural drafting, and permitting phase typically takes several weeks to a few months depending on local building department backlogs. Once permits are issued, physical construction progresses through excavation, foundation pouring, framing, exterior roofing and stucco or siding, rough-in plumbing and electrical, drywall, and interior finishing. A straightforward single-bedroom cottage with simple utility tie-ins moves much faster than a multi-room dwelling requiring substantial grading, retaining walls, or extensive custom tile and cabinetry.",
+        "description": "Construction timelines depend on permitting speeds, site excavation, utility trenching, and interior finish scope, progressing in distinct phases from design to final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

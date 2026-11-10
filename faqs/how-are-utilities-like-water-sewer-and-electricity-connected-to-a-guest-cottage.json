@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are utilities like water, sewer, and electricity connected to a guest cottage?",
+  "description": "Utilities are usually trenched from the primary home via an electrical subpanel and extended sewer lines, provided your existing panel and plumbing capacity can",
+  "url": "https://baycityremodeling.com/faq/how-are-utilities-like-water-sewer-and-electricity-connected-to-a-guest-cottage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are utilities like water, sewer, and electricity connected to a guest cottage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building an independent cottage requires extending water lines, sewer or septic connections, and electrical service from your main house or establishing new utility drops. A licensed contractor evaluates your existing main electrical panel to determine if it has sufficient amperage to support a subpanel for a cottage, or if an electrical service upgrade is necessary. Plumbing requires running supply lines and trenching waste lines with sufficient slope to tie into your public sewer lateral or septic tank. If your property uses a septic system, local health departments often evaluate whether your tank capacity and drain field can support the additional bedroom count.",
+        "description": "Utilities are usually trenched from the primary home via an electrical subpanel and extended sewer lines, provided your existing panel and plumbing capacity can support the added demand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

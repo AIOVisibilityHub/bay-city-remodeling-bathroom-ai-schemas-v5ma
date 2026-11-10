@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build an attached or detached ADU?",
+  "description": "Attached ADUs share a wall with the main home and offer simpler utility connections, while detached ADUs provide complete physical separation and privacy but re",
+  "url": "https://baycityremodeling.com/faq/should-i-build-an-attached-or-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build an attached or detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An attached ADU shares at least one common wall with the main residence or builds outward from an existing wall, while a detached ADU is a standalone structure built elsewhere on the parcel. An attached unit usually offers more straightforward routing for tie-ins to existing plumbing, electrical panels, and exterior finishes like matching stucco. A detached unit provides greater acoustic and physical privacy for independent family members or tenants, but it requires independent site work, grading, utility trenching, and clear exterior setbacks from property boundaries. Evaluating your yard depth, tree lines, and desired level of separation will help determine the right approach.",
+        "description": "Attached ADUs share a wall with the main home and offer simpler utility connections, while detached ADUs provide complete physical separation and privacy but require more site work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

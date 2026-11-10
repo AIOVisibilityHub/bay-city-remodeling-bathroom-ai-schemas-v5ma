@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an existing garage be converted into a multigenerational living suite?",
+  "description": "Yes, converting an existing garage creates a suite faster by using existing structure, though you must weigh the tradeoff of losing covered parking and storage",
+  "url": "https://baycityremodeling.com/faq/can-an-existing-garage-be-converted-into-a-multigenerational-living-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an existing garage be converted into a multigenerational living suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting an attached garage is often faster than building a ground-up addition because the exterior walls, roof, and foundation already exist. However, you trade vehicle parking and dedicated storage for living area. A conversion requires pouring leveling concrete, framing and finishing interior drywall, adding sufficient insulation, and extending electrical and HVAC ductwork to handle living demands. If you prefer to preserve vehicle parking, building a new ground-up ground-floor addition is usually the more suitable route.",
+        "description": "Yes, converting an existing garage creates a suite faster by using existing structure, though you must weigh the tradeoff of losing covered parking and storage space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of building an ADU?",
+  "description": "ADU costs are shaped by square footage, utility connections, plumbing and electrical infrastructure, whether it is a conversion or new build, and selected inter",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-building-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of building an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total investment for an ADU is driven by square footage, foundation type, utility infrastructure, and interior finish choices. Because an ADU functions as a complete independent home, it requires dedicated plumbing, water heating, an electrical subpanel, and kitchen appliances, making it more cost-intensive per square foot than an open bedroom addition. Connecting water, sewer, and electric services from the primary house or street across the property also represents a meaningful portion of the budget. Customizations like curbless walk-in showers, specialized cabinetry, and exterior stucco finishes also affect the final estimate.",
+        "description": "ADU costs are shaped by square footage, utility connections, plumbing and electrical infrastructure, whether it is a conversion or new build, and selected interior fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

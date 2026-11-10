@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are water, sewer, and power connected to an accessory dwelling unit?",
+  "description": "Utilities are either tied directly into the main home's existing service lines or installed as separate municipal meters, depending on capacity and site layout.",
+  "url": "https://baycityremodeling.com/faq/how-are-water-sewer-and-power-connected-to-an-accessory-dwelling-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are water, sewer, and power connected to an accessory dwelling unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water, sewer, and electrical lines must either extend from your existing primary residence or connect through separate municipal meters. Connecting to existing household infrastructure requires confirming that your current electrical service panel has adequate amperage to handle additional heating, cooling, and kitchen appliances without overloading. For plumbing, drain lines must maintain proper pitch toward the main sewer or septic connection, and any existing septic tank must be evaluated for capacity before adding bedrooms.",
+        "description": "Utilities are either tied directly into the main home's existing service lines or installed as separate municipal meters, depending on capacity and site layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of adding an extra bedroom?",
+  "description": "Costs depend on whether you build out or convert space, plus structural tie-ins, electrical work, drywall, exterior finishes like stucco, and whether you includ",
+  "url": "https://baycityremodeling.com/faq/what-factors-influence-the-cost-of-adding-an-extra-bedroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of adding an extra bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of adding an extra bedroom depends on whether you build outward from the foundation or convert existing interior space. Key cost drivers include site preparation, foundation pouring, tying into the existing roofline, drywall installation, framing, electrical work, and matching exterior finishes such as full-house stuccoing. Adding an en-suite bathroom will also significantly increase the budget due to plumbing fixtures and drainage requirements. Bay City Remodeling & Bathrooms reviews specific architectural plans to deliver customized, negotiable pricing and quotes.",
+        "description": "Costs depend on whether you build out or convert space, plus structural tie-ins, electrical work, drywall, exterior finishes like stucco, and whether you include a bathroom."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

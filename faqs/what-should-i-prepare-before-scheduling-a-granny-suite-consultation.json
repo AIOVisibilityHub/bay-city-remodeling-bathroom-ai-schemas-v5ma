@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before scheduling a granny suite consultation?",
+  "description": "Gather a property survey, define the resident's daily living and accessibility needs, outline your desired features, and establish a clear target budget.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-scheduling-a-granny-suite-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before scheduling a granny suite consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, assemble a clear list of daily living needs, your target budget, and any physical constraints of your property. Determine who will live in the space, whether they need immediate accessibility modifications, and whether you require a private entrance or small kitchenette. Gather existing property surveys or blueprints if available, which clarify boundary lines and existing utility locations. Comparing photos of preferred layouts and listing non-negotiable features helps project managers establish an accurate scope and deliver a practical, tailored project estimate.",
+        "description": "Gather a property survey, define the resident's daily living and accessibility needs, outline your desired features, and establish a clear target budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

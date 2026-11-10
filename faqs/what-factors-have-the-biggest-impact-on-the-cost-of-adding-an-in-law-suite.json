@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors have the biggest impact on the cost of adding an in-law suite?",
+  "description": "Primary cost factors include building new foundation and exterior walls versus converting interior space, running new plumbing lines, and installing dedicated b",
+  "url": "https://baycityremodeling.com/faq/what-factors-have-the-biggest-impact-on-the-cost-of-adding-an-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors have the biggest impact on the cost of adding an in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary substantially based on whether the project is an interior conversion or a structural addition, along with the plumbing and electrical work required. Adding a full bathroom with a walk-in shower and running dedicated supply lines and drains increases costs compared to a simple bedroom update. Kitchen amenities also drive expenses, especially if adding high-voltage appliance circuits or specialized cabinetry. Ground-up builds add costs for concrete slab work, framing, and matching exterior finishes such as full-house stuccoing and roofing materials. Detailed pricing is determined through an in-person consultation and estimate.",
+        "description": "Primary cost factors include building new foundation and exterior walls versus converting interior space, running new plumbing lines, and installing dedicated bathrooms and kitchens."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

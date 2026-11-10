@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the construction process when adding an attached in-law suite?",
+  "description": "The build follows design and permitting, foundation and framing, mechanical rough-ins, drywall, exterior matching, interior finishing, and required building ins",
+  "url": "https://baycityremodeling.com/faq/what-is-the-construction-process-when-adding-an-attached-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the construction process when adding an attached in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The project begins with an on-site consultation to review your property layout, budget, and specific household goals. Next, detailed plans and engineering documents are prepared to blend the addition's roofline, foundation, and exterior stucco with your existing residence. After plan submission and permit issuance from the local building department, construction begins with foundation work and framing. Trade specialists then complete electrical, plumbing, insulation, drywall, and custom interior finishes. Throughout the build, project managers coordinate progressive municipal inspections before handing over the finished living space.",
+        "description": "The build follows design and permitting, foundation and framing, mechanical rough-ins, drywall, exterior matching, interior finishing, and required building inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

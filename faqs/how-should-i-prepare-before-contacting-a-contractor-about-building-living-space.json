@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare before contacting a contractor about building living space for my adult child?",
+  "description": "Gather your property survey, outline needed features like private entrances or bathrooms, and define your budget and acoustic priorities before meeting with a c",
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-contacting-a-contractor-about-building-living-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare before contacting a contractor about building living space for my adult child?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting estimates, outline your family’s must-have features versus optional upgrades. Document whether the space needs a private exterior entrance, a full bathroom with a walk-in shower, or dedicated laundry connections. It is also helpful to locate your property survey to see boundary lines, easements, and setback requirements if you are considering building outward. Gathering clear expectations regarding your adult child’s daily routine, work-from-home acoustic needs, and target budget will help your contractor propose realistic construction solutions during the first meeting.",
+        "description": "Gather your property survey, outline needed features like private entrances or bathrooms, and define your budget and acoustic priorities before meeting with a contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

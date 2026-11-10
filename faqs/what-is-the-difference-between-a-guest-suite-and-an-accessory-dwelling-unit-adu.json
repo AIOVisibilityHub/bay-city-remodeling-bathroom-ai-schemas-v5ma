@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a guest suite and an accessory dwelling unit (ADU)?",
+  "description": "A guest suite typically includes a bedroom and private bath for guests, whereas a full ADU usually contains complete, independent cooking facilities for long-te",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-guest-suite-and-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a guest suite and an accessory dwelling unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A guest suite is an attached or detached living area designed for visiting guests, usually including a private bedroom and a full or half bathroom. Unlike a standard standalone accessory dwelling unit (ADU) or full apartment, a guest suite often omits a complete kitchen, featuring only a coffee bar or mini fridge instead. Choosing between a simple guest bedroom suite and an independent ADU depends on whether you plan to host short-term visitors or house long-term occupants who require independent cooking facilities and private exterior access. Bay City Remodeling & Bathrooms reviews these functional goals during your initial consultation to determine the appropriate layout.",
+        "description": "A guest suite typically includes a bedroom and private bath for guests, whereas a full ADU usually contains complete, independent cooking facilities for long-term living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

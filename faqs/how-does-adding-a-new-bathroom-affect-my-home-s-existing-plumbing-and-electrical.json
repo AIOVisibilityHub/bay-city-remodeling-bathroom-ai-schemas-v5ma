@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does adding a new bathroom affect my home's existing plumbing and electrical systems?",
+  "description": "The addition requires tying into existing drainage and supply lines and often demands dedicated electrical circuits to meet modern safety codes without overload",
+  "url": "https://baycityremodeling.com/faq/how-does-adding-a-new-bathroom-affect-my-home-s-existing-plumbing-and-electrical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does adding a new bathroom affect my home's existing plumbing and electrical systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a bathroom requires confirming whether your existing water supply, drainage lines, and electrical panel can support the increased load. If your home uses a septic system, you may need to check whether its capacity permits an extra bedroom under local health regulations. Running new waste pipes requires maintaining proper downward slope to connect to existing sewer mains, which can influence where the bathroom sits in the floor plan. Additionally, dedicated electrical circuits are required for bathroom outlets, lighting, and ventilation to handle modern safety codes and prevent overloading existing home circuits.",
+        "description": "The addition requires tying into existing drainage and supply lines and often demands dedicated electrical circuits to meet modern safety codes without overloading the panel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

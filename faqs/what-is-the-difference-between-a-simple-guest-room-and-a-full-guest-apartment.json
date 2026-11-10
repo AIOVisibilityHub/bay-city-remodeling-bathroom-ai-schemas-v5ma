@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a simple guest room and a full guest apartment?",
+  "description": "A guest room is an interior bedroom sharing existing household facilities. A guest apartment includes a private bathroom, living space, and independent access f",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-simple-guest-room-and-a-full-guest-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a simple guest room and a full guest apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standalone guest bedroom is simply an extra sleeping room within your primary home's existing floor plan, typically sharing a hallway bathroom and common areas with the rest of the household. A guest apartment, in contrast, is an independent living environment featuring its own private bathroom, living area, and often food-prep capabilities or an independent entrance. You should choose a guest apartment when housing guests for weeks or months at a time, accommodating aging relatives, or when you want to preserve daily privacy and quiet inside your main home.",
+        "description": "A guest room is an interior bedroom sharing existing household facilities. A guest apartment includes a private bathroom, living space, and independent access for extended stays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

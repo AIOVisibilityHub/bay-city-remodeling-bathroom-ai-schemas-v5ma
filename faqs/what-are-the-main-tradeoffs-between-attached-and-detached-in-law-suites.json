@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main tradeoffs between attached and detached in-law suites?",
+  "description": "Attached suites share walls and cost less to connect to utilities, while detached suites provide complete privacy but demand separate site preparation and outdo",
+  "url": "https://baycityremodeling.com/faq/what-are-the-main-tradeoffs-between-attached-and-detached-in-law-suites",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main tradeoffs between attached and detached in-law suites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference comes down to site layout, budget, and everyday privacy. An attached in-law suite expands your current home's footprint or converts existing rooms, which makes utility tie-ins simpler and costs lower, but offers less acoustic and lifestyle separation. A detached guest house functions as an autonomous building that delivers total privacy and independence for occupants. The tradeoff is that detached builds require separate foundation work, trenching for plumbing and electrical lines, and sufficient yard clearance away from property boundaries.",
+        "description": "Attached suites share walls and cost less to connect to utilities, while detached suites provide complete privacy but demand separate site preparation and outdoor utility trenching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

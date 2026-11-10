@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a guest apartment?",
+  "description": "Construction typically takes several months, spanning structural framing, utility rough-ins, drywall, and interior finishes. Timelines vary based on size and ut",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-a-guest-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a guest apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most guest apartment projects take several months from the start of physical work through final inspections. The timeline is divided into distinct phases: initial planning and architectural drafting, structural framing, exterior envelope sealing, rough-in plumbing and electrical, drywall hanging and finishing, and interior trim installation. Factors that can extend this schedule include structural foundation pours, lead times on custom cabinetry or specialized bathroom fixtures, and the complexity of tying into main sewer and water lines. Weather conditions can also affect the exterior phases of ground-up additions.",
+        "description": "Construction typically takes several months, spanning structural framing, utility rough-ins, drywall, and interior finishes. Timelines vary based on size and utility connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

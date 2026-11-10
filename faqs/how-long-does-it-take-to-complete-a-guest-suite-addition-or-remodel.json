@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a guest suite addition or remodel?",
+  "description": "Most projects take between two and six months, depending on permitting, whether it is an interior remodel or ground-up addition, and the extent of plumbing and",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-complete-a-guest-suite-addition-or-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a guest suite addition or remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical guest suite project generally takes between two to six months from groundbreaking or interior demolition to final inspection. The schedule depends heavily on whether the project is an interior renovation or a ground-up addition requiring foundation pours, framing, and full exterior stuccoing. The initial weeks involve layout planning, material selection for bathroom tile and fixtures, and securing municipal permits. Once construction starts, trade sequencing—rough plumbing, electrical, drywall hanging, and trim work—determines the exact timeline. Bay City Remodeling & Bathrooms assigns project managers to oversee each stage and maintain steady progress.",
+        "description": "Most projects take between two and six months, depending on permitting, whether it is an interior remodel or ground-up addition, and the extent of plumbing and finish work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

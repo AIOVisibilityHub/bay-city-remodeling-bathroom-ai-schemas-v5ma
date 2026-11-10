@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does an attached granny suite compare to a detached accessory unit?",
+  "description": "An attached suite shares walls and utility connections with the main home, while a detached unit is a standalone structure offering greater privacy but requirin",
+  "url": "https://baycityremodeling.com/faq/how-does-an-attached-granny-suite-compare-to-a-detached-accessory-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does an attached granny suite compare to a detached accessory unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference centers on privacy, structure, and property layout. An attached granny suite expands your main home, sharing walls, utility lines, and structural foundations, which makes access between spaces convenient while reducing utility tie-in complexity. A detached accessory unit sits as a standalone cottage or converted outbuilding on the lot. A detached build offers greater acoustic isolation and autonomy for the occupant, but it requires adequate backyard footprint and separate trenching for plumbing and electrical lines. Choosing between the two depends on property boundaries, available yard space, and the level of separation your family desires.",
+        "description": "An attached suite shares walls and utility connections with the main home, while a detached unit is a standalone structure offering greater privacy but requiring more yard space and separate utility lines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

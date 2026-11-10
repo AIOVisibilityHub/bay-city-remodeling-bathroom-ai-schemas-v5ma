@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features should I include if the cottage is for aging parents or multigenerational living?",
+  "description": "Incorporate zero-step entries, 36-inch doorways, zero-threshold walk-in showers, slip-resistant flooring, and wall blocking for grab bars to support long-term m",
+  "url": "https://baycityremodeling.com/faq/what-features-should-i-include-if-the-cottage-is-for-aging-parents-or-multigener",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features should I include if the cottage is for aging parents or multigenerational living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designing for aging family members requires integrating accessible, universal design elements from the foundation and framing stages. Key structural considerations include step-free zero-threshold entries, minimum 36-inch wide doorways, and reinforced drywall blocking inside the bathroom to support future grab bar placement. Inside the bathroom, replacing a standard tub with a barrier-free walk-in shower, slip-resistant tile flooring, and comfort-height plumbing fixtures improves safety. Single-story slab construction eliminates interior elevation changes, while open-concept living and kitchen areas ensure clear movement paths for walkers or wheelchairs without compromising the cottage's architectural appeal.",
+        "description": "Incorporate zero-step entries, 36-inch doorways, zero-threshold walk-in showers, slip-resistant flooring, and wall blocking for grab bars to support long-term mobility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

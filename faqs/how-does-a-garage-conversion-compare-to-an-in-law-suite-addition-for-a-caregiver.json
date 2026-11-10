@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a garage conversion compare to an in-law suite addition for a caregiver?",
+  "description": "Garage conversions utilize existing framing and rooflines but eliminate covered parking, whereas suite additions preserve garage space but require new exterior",
+  "url": "https://baycityremodeling.com/faq/how-does-a-garage-conversion-compare-to-an-in-law-suite-addition-for-a-caregiver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a garage conversion compare to an in-law suite addition for a caregiver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A garage conversion repurposes sheltered square footage under an existing roof, while an in-law suite addition builds new exterior space tailored specifically for caregiver accommodations. Garages already possess a foundation and roof framing, which can lower structural framing costs, but they require raising concrete floors, sealing moisture, upgrading electrical panels, and adding dedicated heating and cooling. An addition preserves your protected vehicle parking and garage storage while allowing you to choose optimal ceiling heights and doorway alignments. Deciding between them comes down to whether you can spare garage utility versus outdoor yard space.",
+        "description": "Garage conversions utilize existing framing and rooflines but eliminate covered parking, whereas suite additions preserve garage space but require new exterior foundation work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

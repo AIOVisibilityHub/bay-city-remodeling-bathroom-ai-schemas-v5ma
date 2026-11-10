@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare before requesting a quote for a guest suite?",
+  "description": "Gather your property survey, identify your plumbing and electrical locations, list desired features like private entries or kitchenettes, and establish an initi",
+  "url": "https://baycityremodeling.com/faq/how-should-i-prepare-before-requesting-a-quote-for-a-guest-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare before requesting a quote for a guest suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should prepare your property boundaries, an idea of guest requirements, and access to your home's utility layout. Determine whether you want an interior conversion or an exterior addition, and locate your property survey to check setbacks and utility easements if building outward. It is also beneficial to check your electrical panel's capacity to see if adding a new bathroom and subpanel is feasible. Gathering photos of preferred bathroom layouts, cabinetry, and tile styles helps streamline the design phase. Bay City Remodeling & Bathrooms reviews these details during your initial quote visit.",
+        "description": "Gather your property survey, identify your plumbing and electrical locations, list desired features like private entries or kitchenettes, and establish an initial budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

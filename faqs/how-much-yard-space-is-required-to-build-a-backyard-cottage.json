@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much yard space is required to build a backyard cottage?",
+  "description": "You need enough room to fit the desired footprint while complying with local setback buffers, maximum lot coverage ratios, and underground utility paths.",
+  "url": "https://baycityremodeling.com/faq/how-much-yard-space-is-required-to-build-a-backyard-cottage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much yard space is required to build a backyard cottage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detached cottage requires sufficient open backyard area that remains after accounting for property setbacks, lot coverage maximums, and existing features. Most local zoning authorities designate minimum distances from rear and side property lines where no permanent building can sit. You must also consider the location of underground pipes, overhead power lines, septic tanks, mature trees, and patio spaces. If an existing yard lacks sufficient clearance after subtracting mandatory setback buffers, an attached home addition or interior suite remodel may serve as the practical alternative.",
+        "description": "You need enough room to fit the desired footprint while complying with local setback buffers, maximum lot coverage ratios, and underground utility paths."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

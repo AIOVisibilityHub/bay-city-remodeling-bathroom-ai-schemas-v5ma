@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors blend a granny suite addition with an existing home exterior?",
+  "description": "Contractors match roof pitches, window styles, eaves, and exterior finishes, such as cohesive stucco textures and paint, so the addition looks original to the h",
+  "url": "https://baycityremodeling.com/faq/how-do-contractors-blend-a-granny-suite-addition-with-an-existing-home-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors blend a granny suite addition with an existing home exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality builders coordinate the architectural design so the new addition looks like a natural extension of the original home rather than an awkward afterthought. This requires matching rooflines, exterior wall textures, paint tones, window proportions, and fascia details. For homes with stucco exteriors across central Florida, applying matching full-house or blended stucco finishes ensures seamless visual integration between old and new construction. Inside, matching ceiling heights, flooring transitions, and trim molding preserves cohesive interior aesthetics from the main house into the suite.",
+        "description": "Contractors match roof pitches, window styles, eaves, and exterior finishes, such as cohesive stucco textures and paint, so the addition looks original to the house."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What bathroom modifications are essential for an aging parent living space?",
+  "description": "Curbless walk-in showers, slip-resistant tile, reinforced backing for grab bars, wider entryways, and comfort-height toilets are essential modifications.",
+  "url": "https://baycityremodeling.com/faq/what-bathroom-modifications-are-essential-for-an-aging-parent-living-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What bathroom modifications are essential for an aging parent living space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bathroom accessibility is the top priority when preparing a suite for aging relatives. The most crucial feature is eliminating trip hazards by installing a barrier-free, curbless walk-in shower or completing a tub-to-shower conversion. Additional essentials include reinforcing walls with solid blocking for secure grab bars, widening doorways to allow mobility aids, choosing slip-resistant flooring, and installing comfort-height toilets. Lever-style faucets and handheld showerheads also simplify daily routines. Planning these features early prevents costly structural rework after tile and drywall are already completed.",
+        "description": "Curbless walk-in showers, slip-resistant tile, reinforced backing for grab bars, wider entryways, and comfort-height toilets are essential modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

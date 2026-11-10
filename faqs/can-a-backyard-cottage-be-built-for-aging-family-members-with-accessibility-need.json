@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a backyard cottage be built for aging family members with accessibility needs?",
+  "description": "Yes, backyard cottages can feature accessible designs like zero-threshold entries, wider doorways, open floor plans, and curbless walk-in showers for aging in p",
+  "url": "https://baycityremodeling.com/faq/can-a-backyard-cottage-be-built-for-aging-family-members-with-accessibility-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a backyard cottage be built for aging family members with accessibility needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A backyard cottage can be designed as an accessible living space by incorporating single-level layouts, wider doorways, zero-threshold entries, and roll-in or walk-in showers. For aging parents or individuals with limited mobility, eliminating interior steps between the living area, bedroom, and bathroom improves everyday safety. In the bathroom, slip-resistant flooring, reinforced backing for grab bars, comfort-height toilets, and lever-style faucets offer long-term convenience. Planning these accessibility elements during the initial design phase avoids the expense and hassle of retrofitting structural walls or plumbing fixtures later.",
+        "description": "Yes, backyard cottages can feature accessible designs like zero-threshold entries, wider doorways, open floor plans, and curbless walk-in showers for aging in place."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

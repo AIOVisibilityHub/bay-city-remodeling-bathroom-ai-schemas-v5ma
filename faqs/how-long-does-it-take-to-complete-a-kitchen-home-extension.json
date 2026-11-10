@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a kitchen home extension?",
+  "description": "Construction usually takes three to six months after permit approval, covering excavation, foundation, framing, rough utilities, drywall, and interior finishes.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-complete-a-kitchen-home-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a kitchen home extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A kitchen extension generally takes between three to six months to construct once permits are issued, depending on project scale and weather conditions. The process begins with architectural drafting and municipal plan review, followed by site excavation, pouring the slab or foundation, framing the new exterior walls, and tying in the roofline. Once the structure is dried in, trades rough in the plumbing, electrical, and HVAC before drywall, cabinet installation, and interior finishes take place. Site delays, extensive utility relocations, or material lead times can extend the timeline.",
+        "description": "Construction usually takes three to six months after permit approval, covering excavation, foundation, framing, rough utilities, drywall, and interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

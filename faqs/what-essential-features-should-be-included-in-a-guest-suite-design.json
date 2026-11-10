@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What essential features should be included in a guest suite design?",
+  "description": "A quality guest suite should include a private full bathroom, adequate closet space, dedicated climate control, practical lighting, and optional sound-dampening",
+  "url": "https://baycityremodeling.com/faq/what-essential-features-should-be-included-in-a-guest-suite-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What essential features should be included in a guest suite design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key features include a dedicated full bathroom, sufficient closet storage, private climate control, and well-planned lighting. For enhanced comfort, consider a walk-in shower with tile finishes, a small hospitality station with a mini-fridge and sink, and sound-dampening drywall between shared household walls. If the suite is intended for aging parents, incorporating curbless shower entries, grab-bar backing, and wider interior doorways creates an accessible environment. Bay City Remodeling & Bathrooms helps balance luxury and accessibility features based on your budget and expected visitor needs.",
+        "description": "A quality guest suite should include a private full bathroom, adequate closet space, dedicated climate control, practical lighting, and optional sound-dampening insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

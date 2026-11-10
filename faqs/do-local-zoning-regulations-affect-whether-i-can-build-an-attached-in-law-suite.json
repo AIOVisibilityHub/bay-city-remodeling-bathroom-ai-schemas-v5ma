@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do local zoning regulations affect whether I can build an attached in-law suite in the Tampa Bay area?",
+  "description": "Yes. Setback limits, lot coverage caps, and rules on full kitchens versus kitchenettes vary across municipalities like Tampa, St. Petersburg, and unincorporated",
+  "url": "https://baycityremodeling.com/faq/do-local-zoning-regulations-affect-whether-i-can-build-an-attached-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do local zoning regulations affect whether I can build an attached in-law suite in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, zoning ordinances and building codes vary significantly across Tampa Bay jurisdictions, including Hillsborough, Pinellas, and Pasco counties. Local municipal codes dictate setback boundaries, maximum lot coverage ratios, and specific restrictions regarding full kitchens versus kitchenettes in single-family residential zones. For instance, regulations in unincorporated Hillsborough County may differ from strict municipal zoning in St. Petersburg or Tampa. A professional contractor verifies local jurisdiction requirements, setback allowances, and utility capacity before engineering drawings are submitted for residential addition permits.",
+        "description": "Yes. Setback limits, lot coverage caps, and rules on full kitchens versus kitchenettes vary across municipalities like Tampa, St. Petersburg, and unincorporated counties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

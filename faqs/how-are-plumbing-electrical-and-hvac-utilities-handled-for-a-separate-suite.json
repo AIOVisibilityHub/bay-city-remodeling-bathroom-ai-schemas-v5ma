@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are plumbing, electrical, and HVAC utilities handled for a separate suite?",
+  "description": "Utilities are trenched from the primary house to the suite, using a dedicated electrical subpanel, independent water lines, and ductless mini-split heating and",
+  "url": "https://baycityremodeling.com/faq/how-are-plumbing-electrical-and-hvac-utilities-handled-for-a-separate-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are plumbing, electrical, and HVAC utilities handled for a separate suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detached suites require autonomous utility service to function as independent living quarters. Contractors typically trench water lines, sewer or septic connections, and electrical feeds from the primary home’s supply, adding a dedicated electrical subpanel to handle the suite’s appliances and lighting. For climate control, ductless mini-split HVAC systems are commonly installed because they provide independent temperature zoning without requiring ductwork tied to the main house. Plumbers also install a separate water heater sized specifically for the secondary suite's bathrooms and kitchen sinks.",
+        "description": "Utilities are trenched from the primary house to the suite, using a dedicated electrical subpanel, independent water lines, and ductless mini-split heating and cooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

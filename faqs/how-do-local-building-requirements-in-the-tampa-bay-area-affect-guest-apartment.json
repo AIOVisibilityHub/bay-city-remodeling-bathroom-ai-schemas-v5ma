@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local building requirements in the Tampa Bay area affect guest apartment design?",
+  "description": "Local codes dictate property setbacks, maximum lot coverage, emergency egress, and utility connections. Guidelines may also influence rooflines, exterior finish",
+  "url": "https://baycityremodeling.com/faq/how-do-local-building-requirements-in-the-tampa-bay-area-affect-guest-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local building requirements in the Tampa Bay area affect guest apartment design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local building codes throughout Hillsborough, Pinellas, and surrounding Tampa Bay municipalities regulate setbacks, maximum lot coverage, ceiling heights, emergency egress, and plumbing tie-ins. When planning a guest apartment, your property boundaries and utility locations must be reviewed to ensure adequate space exists for new foundations or trenching. In areas with strict homeowner associations or specific county zoning classifications, there may also be guidelines governing exterior finishes, roof pitches, or whether secondary living spaces can include full cooking ranges. A professional contractor handles code review and plan preparation as part of project design.",
+        "description": "Local codes dictate property setbacks, maximum lot coverage, emergency egress, and utility connections. Guidelines may also influence rooflines, exterior finishes, and cooking appliances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

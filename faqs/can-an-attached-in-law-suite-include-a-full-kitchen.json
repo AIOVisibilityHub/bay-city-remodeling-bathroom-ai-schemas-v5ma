@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an attached in-law suite include a full kitchen?",
+  "description": "It depends on local zoning and HOA rules. Many areas permit kitchenettes with small sinks and refrigerators, but restrict full ranges in single-family residenti",
+  "url": "https://baycityremodeling.com/faq/can-an-attached-in-law-suite-include-a-full-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an attached in-law suite include a full kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether a full kitchen is allowed depends on local municipal zoning classifications and your property's deed or HOA covenants. Many suburban jurisdictions permit a kitchenette containing a small sink, compact refrigerator, and countertop appliances, but restrict full 240-volt range hookups or full-sized ovens in attached additions to prevent unauthorized multi-family conversions. In some zoning districts, full accessory dwellings are permitted with specific parking and utility conditions. A contractor reviews municipal building codes and homeowner association rules to confirm what cooking appliances are legally permitted for your property.",
+        "description": "It depends on local zoning and HOA rules. Many areas permit kitchenettes with small sinks and refrigerators, but restrict full ranges in single-family residential zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

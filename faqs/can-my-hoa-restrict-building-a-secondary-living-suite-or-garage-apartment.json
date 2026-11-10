@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my HOA restrict building a secondary living suite or garage apartment?",
+  "description": "Yes, HOAs can restrict exterior alterations, street-facing garage door removals, exterior paint, and architectural styles even if city zoning permits the additi",
+  "url": "https://baycityremodeling.com/faq/can-my-hoa-restrict-building-a-secondary-living-suite-or-garage-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my HOA restrict building a secondary living suite or garage apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In areas like Brandon, Tampa, and surrounding Florida communities, homes with deed restrictions governed by a homeowners association (HOA) often enforce strict architectural review guidelines. While local building departments evaluate structural safety, HOAs oversee exterior aesthetics, rooflines, driveway alterations, parking rules, and exterior materials such as matching stucco and paint. Before deciding between converting a front-facing garage or extending the home into the backyard, review your community bylaws to understand what exterior modifications are permitted.",
+        "description": "Yes, HOAs can restrict exterior alterations, street-facing garage door removals, exterior paint, and architectural styles even if city zoning permits the addition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

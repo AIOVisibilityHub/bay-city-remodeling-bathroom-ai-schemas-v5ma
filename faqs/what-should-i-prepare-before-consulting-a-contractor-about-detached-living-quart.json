@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about detached living quarters?",
+  "description": "Collect your property survey, establish intended uses such as kitchens or accessible bathrooms, and check any HOA guidelines regarding setbacks and exterior sty",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-detached-living-quart",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about detached living quarters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, gather your property survey, list your functional must-haves, and review your community rules. A boundary survey helps identify property lines, existing easements, and current structures, clarifying where new construction can legally sit. You should also outline your intended use: decide whether the space needs a full kitchen or a kitchenette, specific mobility accommodations like zero-threshold walk-in showers, or dedicated laundry hookups. If your property is governed by a homeowners association, obtain their architectural guidelines regarding accessory structures, exterior color schemes, and rooflines to ensure initial designs align with community standards.",
+        "description": "Collect your property survey, establish intended uses such as kitchens or accessible bathrooms, and check any HOA guidelines regarding setbacks and exterior styling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

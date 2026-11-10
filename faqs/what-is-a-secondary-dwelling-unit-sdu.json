@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a secondary dwelling unit (SDU)?",
+  "description": "A secondary dwelling unit is an independent, self-contained living space on the same lot as a primary home, featuring its own sleeping, cooking, and bathroom fa",
+  "url": "https://baycityremodeling.com/faq/what-is-a-secondary-dwelling-unit-sdu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a secondary dwelling unit (SDU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A secondary dwelling unit is a self-contained residential living area located on the same property as a single-family home. These spaces include complete living facilities with dedicated areas for sleeping, cooking, and sanitation. Common types include detached backyard cottages, attached in-law suites, and converted areas such as garages or basements. When planning, homeowners must determine whether the space will share existing utility connections or require independent meters, as this affects the overall project scope and utility configuration. Bay City Remodeling & Bathrooms reviews these specific layout and living arrangement needs during the initial consultation.",
+        "description": "A secondary dwelling unit is an independent, self-contained living space on the same lot as a primary home, featuring its own sleeping, cooking, and bathroom facilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

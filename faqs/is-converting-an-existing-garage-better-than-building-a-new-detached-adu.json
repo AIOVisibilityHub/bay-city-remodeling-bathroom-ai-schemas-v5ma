@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is converting an existing garage better than building a new detached ADU?",
+  "description": "Garage conversions save on framing and foundation costs but eliminate covered parking, while detached units preserve storage and maximize privacy at a higher co",
+  "url": "https://baycityremodeling.com/faq/is-converting-an-existing-garage-better-than-building-a-new-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is converting an existing garage better than building a new detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an attached garage is generally faster and more budget-friendly, but it eliminates covered vehicle parking and vehicle storage. A garage conversion capitalizes on existing exterior walls, roof framing, and foundation, though the slab must be leveled and conditioned, and wall insulation and drywall added. A detached new build preserves your vehicle parking and offers total layout freedom, but it requires new foundation work, exterior framing, and trenching utilities across the yard.",
+        "description": "Garage conversions save on framing and foundation costs but eliminate covered parking, while detached units preserve storage and maximize privacy at a higher cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

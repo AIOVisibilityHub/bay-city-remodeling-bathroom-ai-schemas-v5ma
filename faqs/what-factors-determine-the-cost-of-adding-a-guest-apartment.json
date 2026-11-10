@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of adding a guest apartment?",
+  "description": "Costs are driven by whether the space is a conversion or new build, utility trenching, electrical panel capacity, bathroom plumbing, HVAC requirements, and fini",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-adding-a-guest-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of adding a guest apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total costs depend on whether the project is an interior conversion, an attached room addition, or a detached new build. Primary cost drivers include running dedicated plumbing lines for a new bathroom, upgrading your home's electrical panel to handle additional circuits, and installing independent heating and cooling, such as a ductless mini-split system. Material selections for cabinetry, countertops, tile, and fixtures also significantly move the budget. During the estimating process, an on-site consultation helps establish the exact scope, structural requirements, and finish levels to provide tailored pricing. Bay City Remodeling also offers negotiable pricing and veteran discounts.",
+        "description": "Costs are driven by whether the space is a conversion or new build, utility trenching, electrical panel capacity, bathroom plumbing, HVAC requirements, and finish materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

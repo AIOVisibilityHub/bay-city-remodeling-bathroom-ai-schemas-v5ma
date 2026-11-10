@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a granny apartment and what features does it include?",
+  "description": "A granny apartment is an independent living unit on a primary residence property, featuring a bedroom, bathroom, living space, and often a private entrance and",
+  "url": "https://baycityremodeling.com/faq/what-is-a-granny-apartment-and-what-features-does-it-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a granny apartment and what features does it include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A granny apartment, also called an in-law suite or accessory dwelling unit, is a self-contained living area located on the same lot as a primary residence. It usually includes a bedroom, a private bathroom, and living space, often paired with a compact kitchen or kitchenette and a separate entrance. These units support aging parents, adult children, or extended family who want independence while staying close to relatives. The layout can be attached directly to the main house as an addition, integrated into existing space, or built as a detached structure depending on lot size and property rules.",
+        "description": "A granny apartment is an independent living unit on a primary residence property, featuring a bedroom, bathroom, living space, and often a private entrance and kitchenette."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

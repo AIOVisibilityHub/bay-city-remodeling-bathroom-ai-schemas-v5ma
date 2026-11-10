@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of building a guest cottage?",
+  "description": "Costs depend on building size, required site preparation, distance for utility trenching, foundation requirements, and the level of interior plumbing and kitche",
+  "url": "https://baycityremodeling.com/faq/what-factors-drive-the-overall-cost-of-building-a-guest-cottage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of building a guest cottage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall investment for a guest cottage is determined by site preparation, footprint square footage, structural design, utility distances, and interior finishes. Key variables include whether your yard requires grading or tree removal, the distance plumbing and electrical lines must travel from the main connection, and foundation type. Interior choices also shift costs significantly: full kitchens with custom cabinetry, stone counters, and full tile walk-in showers require more plumbing fixtures and electrical circuits than a simple bedroom with a compact powder room. Exterior finishes like full-house stucco that match your existing home also shape the overall construction scope.",
+        "description": "Costs depend on building size, required site preparation, distance for utility trenching, foundation requirements, and the level of interior plumbing and kitchen finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features are most important when designing an in-law suite for an adult child?",
+  "description": "Key features include a private ensuite bathroom, dedicated workspace wiring, sound-dampening drywall insulation, and often a kitchenette for daily independence.",
+  "url": "https://baycityremodeling.com/faq/what-features-are-most-important-when-designing-an-in-law-suite-for-an-adult-chi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features are most important when designing an in-law suite for an adult child?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adult children generally require greater privacy and sound isolation than younger dependents. Essential features include an ensuite bathroom, dedicated closet storage, and sufficient electrical capacity for home office setups and electronics. Many homeowners also incorporate a kitchenette with a mini-fridge, sink, and counter space to provide daily autonomy without requiring a full commercial kitchen. Incorporating acoustic insulation inside interior drywall partitions is a practical preparation step that limits noise transfer between the new suite and the primary household living areas.",
+        "description": "Key features include a private ensuite bathroom, dedicated workspace wiring, sound-dampening drywall insulation, and often a kitchenette for daily independence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

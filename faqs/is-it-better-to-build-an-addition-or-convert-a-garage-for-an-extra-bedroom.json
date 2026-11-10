@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to build an addition or convert a garage for an extra bedroom?",
+  "description": "An exterior addition preserves existing vehicle storage and interior layout, while a garage conversion uses current square footage to save on framing and founda",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-build-an-addition-or-convert-a-garage-for-an-extra-bedroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to build an addition or convert a garage for an extra bedroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To add an extra bedroom, you can either build an exterior ground-floor home addition or convert an existing interior space such as an attached garage or oversized formal room. Building outward expands your home's footprint without sacrificing current living areas, though it requires foundation and roof integration. Converting interior space like a garage saves exterior yard space and structural framing costs, but you give up vehicle storage and may need floor leveling, drywall installation, and air conditioning upgrades to make it code-compliant.",
+        "description": "An exterior addition preserves existing vehicle storage and interior layout, while a garage conversion uses current square footage to save on framing and foundation work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

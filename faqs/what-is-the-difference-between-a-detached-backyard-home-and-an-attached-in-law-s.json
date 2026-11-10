@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a detached backyard home and an attached in-law suite?",
+  "description": "Detached units provide complete privacy as separate structures but require new utility lines. Attached additions share walls and footprint, offering less privac",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-detached-backyard-home-and-an-attached-in-law-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a detached backyard home and an attached in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detached backyard homes offer maximum privacy and independence since they stand completely separate from the main house. However, building a freestanding structure requires independent foundation work, exterior framing, and trenching new utility lines, which increases project complexity. Attached suites or garage conversions connect directly to the existing structure, reducing the ground footprint and sharing existing wall assemblies, but they provide less acoustic separation. Choosing between them depends on whether your priority is total independence for family members or minimizing construction disruption and yard loss.",
+        "description": "Detached units provide complete privacy as separate structures but require new utility lines. Attached additions share walls and footprint, offering less privacy but simpler access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

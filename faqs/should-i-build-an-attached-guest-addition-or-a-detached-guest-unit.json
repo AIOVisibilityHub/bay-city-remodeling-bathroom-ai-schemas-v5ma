@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build an attached guest addition or a detached guest unit?",
+  "description": "Attached units share walls and utility hookups, making them cost-efficient and close. Detached units offer superior privacy and autonomy but require independent",
+  "url": "https://baycityremodeling.com/faq/should-i-build-an-attached-guest-addition-or-a-detached-guest-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build an attached guest addition or a detached guest unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision usually comes down to yard space, privacy needs, and budget. An attached addition shares at least one wall and structural foundation with your primary house, making it easier to tie into existing plumbing and electrical lines. This setup works well for aging family members who need quick assistance. A detached unit provides complete privacy and independent access, which is ideal for long-term guests or adult children. However, detached builds require independent utility trenches, standalone exterior framing, and sufficient property setbacks, which can increase overall site preparation and construction complexity.",
+        "description": "Attached units share walls and utility hookups, making them cost-efficient and close. Detached units offer superior privacy and autonomy but require independent utility trenching and yard space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

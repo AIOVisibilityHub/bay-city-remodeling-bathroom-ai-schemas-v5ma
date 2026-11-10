@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed to build a garage apartment in the Tampa Bay area?",
+  "description": "You will need building, electrical, mechanical, and plumbing permits approved by local building departments, along with zoning compliance for setbacks and ADU g",
+  "url": "https://baycityremodeling.com/faq/what-permits-are-needed-to-build-a-garage-apartment-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed to build a garage apartment in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most garage apartment projects require standard building, electrical, mechanical, and plumbing permits before construction begins. You will need to submit detailed architectural and engineering plans that demonstrate how the living space complies with residential building codes. Specific requirements include minimum ceiling heights, emergency egress windows, proper fire-rated drywall between the garage and living area, dedicated ventilation, and separate plumbing tie-ins. Hillsborough County and municipal zoning departments like Brandon or Tampa also enforce setback requirements and accessory dwelling unit ordinances. Verifying property lines, lot coverage allowances, and HOA bylaws early avoids costly plan revisions later.",
+        "description": "You will need building, electrical, mechanical, and plumbing permits approved by local building departments, along with zoning compliance for setbacks and ADU guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

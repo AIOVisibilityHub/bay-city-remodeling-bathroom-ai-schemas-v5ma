@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit to construct a guest cottage on my property?",
+  "description": "Yes. A guest cottage requires municipal building, electrical, and plumbing permits compliant with the Florida Building Code before construction can proceed.",
+  "url": "https://baycityremodeling.com/faq/do-i-need-a-building-permit-to-construct-a-guest-cottage-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit to construct a guest cottage on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a detached guest cottage requires pulling structural, electrical, plumbing, and mechanical permits from your local building department before work starts. Detached dwellings are treated as new residential construction and must comply with the Florida Building Code, including strict wind-load engineering, energy efficiency ratings, and structural anchoring requirements. Constructing an unpermitted outbuilding exposes property owners to stop-work orders, municipal fines, insurance coverage gaps, and potential demands to tear down non-compliant work. Professional builders prepare signed, sealed architectural drawings and coordinate the required sequence of site inspections from footing to final occupancy.",
+        "description": "Yes. A guest cottage requires municipal building, electrical, and plumbing permits compliant with the Florida Building Code before construction can proceed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

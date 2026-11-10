@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct an accessory dwelling unit?",
+  "description": "Project timelines depend on whether it is a conversion or new build, with duration influenced by site planning, permitting, utility rough-ins, drywall installat",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-construct-an-accessory-dwelling-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct an accessory dwelling unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building an ADU involves several distinct phases: design consultation, site planning, permitting, foundation and framing, MEP (mechanical, electrical, and plumbing) rough-ins, drywall, and finish installation. The overall schedule varies based on whether the unit is an attached addition, a garage conversion, or ground-up new construction. Project complexity changes significantly if trenching underground utility lines across the yard is required, or if the main electrical panel must be upgraded to support a secondary kitchen and water heater. Weather, permitting review times, and material lead times also influence completion schedules.",
+        "description": "Project timelines depend on whether it is a conversion or new build, with duration influenced by site planning, permitting, utility rough-ins, drywall installation, and finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

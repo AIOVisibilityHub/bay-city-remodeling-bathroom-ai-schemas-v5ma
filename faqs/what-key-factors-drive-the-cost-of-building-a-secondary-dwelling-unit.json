@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key factors drive the cost of building a secondary dwelling unit?",
+  "description": "Costs are driven by whether the build is a conversion or new construction, plumbing and electrical utility extensions, overall square footage, and chosen interi",
+  "url": "https://baycityremodeling.com/faq/what-key-factors-drive-the-cost-of-building-a-secondary-dwelling-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key factors drive the cost of building a secondary dwelling unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends on whether you are converting an existing interior area or building a new structure from the ground up. Key factors that shape the budget include the overall square footage, kitchen cabinet and countertop choices, bathroom fixtures, and structural alterations. Plumbing and electrical line extensions represent a significant share of the expense, especially if trenches must cross a yard to connect a detached suite to the main service panel. Bay City Remodeling & Bathrooms reviews these elements during an on-site consultation to provide customized, negotiable pricing and clear project estimates.",
+        "description": "Costs are driven by whether the build is a conversion or new construction, plumbing and electrical utility extensions, overall square footage, and chosen interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

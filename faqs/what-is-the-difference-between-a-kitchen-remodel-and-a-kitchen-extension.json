@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a kitchen remodel and a kitchen extension?",
+  "description": "A kitchen remodel updates elements within your existing floor plan, while a kitchen extension builds outward to physically increase your home's square footage a",
+  "url": "https://baycityremodeling.com/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-extension",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a kitchen remodel and a kitchen extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A kitchen extension builds outward past the existing exterior walls of your home to add new square footage, whereas a standard kitchen remodel updates the cabinetry, appliances, and finishes within your current floor plan. A remodel reconfigures interior space, but an extension involves foundation work, new framing, roof tie-ins, and exterior wall modifications. The main tradeoff comes down to usable space versus project complexity. While a standard renovation avoids altering your home’s footprint, an extension allows you to add large islands, walk-in pantries, or dining space that your existing layout cannot physically accommodate.",
+        "description": "A kitchen remodel updates elements within your existing floor plan, while a kitchen extension builds outward to physically increase your home's square footage and footprint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

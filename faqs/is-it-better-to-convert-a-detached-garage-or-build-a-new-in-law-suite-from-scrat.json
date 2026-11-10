@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to convert a detached garage or build a new in-law suite from scratch?",
+  "description": "Garage conversions can save on basic framing costs, but new builds give you total control over room layouts, ceiling heights, insulation, and modern plumbing.",
+  "url": "https://baycityremodeling.com/faq/is-it-better-to-convert-a-detached-garage-or-build-a-new-in-law-suite-from-scrat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to convert a detached garage or build a new in-law suite from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing detached garage can save money on exterior framing, foundation work, and roof construction compared to starting from raw ground. However, existing garages often present practical challenges: the concrete slab may require moisture sealing or leveling, ceilings and walls must be fully insulated and drywalled, and plumbing lines must still be trenched through the yard. If the current garage structure is undersized, poorly positioned, or structurally deteriorated, building a custom detached suite from the ground up may be more cost-effective.",
+        "description": "Garage conversions can save on basic framing costs, but new builds give you total control over room layouts, ceiling heights, insulation, and modern plumbing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

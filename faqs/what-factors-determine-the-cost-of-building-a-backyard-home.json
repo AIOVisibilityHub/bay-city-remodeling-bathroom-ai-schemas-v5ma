@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of building a backyard home?",
+  "description": "Costs depend on square footage, foundation requirements, utility hookups, layout complexity, and interior finishes like custom kitchen cabinetry and bathroom fi",
+  "url": "https://baycityremodeling.com/faq/what-factors-determine-the-cost-of-building-a-backyard-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of building a backyard home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a backyard home varies based on whether it is a detached ground-up build or a conversion, total square footage, and chosen interior finishes. Significant cost drivers include trenching for plumbing and electrical service, specialized foundations, and structural work. Premium bathroom fixtures, custom cabinetry, and exterior finishes like full-house stuccoing also influence the total budget. Bay City Remodeling & Bathrooms reviews specific project goals during the estimating consultation to establish accurate scopes and offers negotiable pricing and veteran discounts.",
+        "description": "Costs depend on square footage, foundation requirements, utility hookups, layout complexity, and interior finishes like custom kitchen cabinetry and bathroom fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

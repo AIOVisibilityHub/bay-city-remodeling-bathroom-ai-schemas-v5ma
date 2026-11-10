@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are permits required to build an in-law suite in the Tampa Bay area?",
+  "description": "Yes, adding living quarters requires building permits for structural changes, electrical work, plumbing, and meeting local zoning and setback standards.",
+  "url": "https://baycityremodeling.com/faq/are-permits-required-to-build-an-in-law-suite-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are permits required to build an in-law suite in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding an in-law suite typically requires building permits because the work alters electrical systems, plumbing lines, and structural elements. In the Tampa Bay region, including Hillsborough, Pinellas, and Pasco counties, municipal building departments enforce local building codes to ensure residential additions meet hurricane resistance, energy efficiency, and electrical safety standards. If your project includes a full kitchen or detached living quarters, local zoning and setback regulations dictate whether an accessory dwelling unit is permitted. A licensed contractor manages these code filings and inspection schedules on your behalf.",
+        "description": "Yes, adding living quarters requires building permits for structural changes, electrical work, plumbing, and meeting local zoning and setback standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

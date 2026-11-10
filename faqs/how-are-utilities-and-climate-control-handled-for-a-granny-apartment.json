@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are utilities and climate control handled for a granny apartment?",
+  "description": "Plumbing and electrical lines tie into existing infrastructure or upgraded panels, while independent mini-split systems provide efficient, personalized heating",
+  "url": "https://baycityremodeling.com/faq/how-are-utilities-and-climate-control-handled-for-a-granny-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are utilities and climate control handled for a granny apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners must assess their plumbing capacity, electrical panel load, and HVAC requirements before building a self-contained suite. A dedicated bathroom, kitchenette, and laundry line demand proper drainage slopes and adequate water supply tie-ins. The main electrical service panel must have sufficient breaker space to support new lighting, appliances, and air conditioning without overload. Heating and cooling are often addressed with independent ductless mini-split systems, which allow the suite resident to control their own room temperature without overtaxing the primary home's central HVAC unit.",
+        "description": "Plumbing and electrical lines tie into existing infrastructure or upgraded panels, while independent mini-split systems provide efficient, personalized heating and cooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

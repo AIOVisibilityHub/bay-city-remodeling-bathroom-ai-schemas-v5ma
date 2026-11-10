@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my home's existing HVAC system be able to support a new master suite addition?",
+  "description": "Not always. If your current unit lacks adequate capacity, you will need to either resize your central system or install an independent ductless mini-split.",
+  "url": "https://baycityremodeling.com/faq/will-my-home-s-existing-hvac-system-be-able-to-support-a-new-master-suite-additi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my home's existing HVAC system be able to support a new master suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many cases, an existing heating and cooling system lacks the capacity to condition several hundred additional square feet of living area. You can either upgrade your main central HVAC unit and ductwork or install an independent ductless mini-split system. A ductless mini-split offers an efficient tradeoff: it provides customized temperature control specifically for your bedroom and en-suite bath without requiring you to replace a functional main household unit.",
+        "description": "Not always. If your current unit lacks adequate capacity, you will need to either resize your central system or install an independent ductless mini-split."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

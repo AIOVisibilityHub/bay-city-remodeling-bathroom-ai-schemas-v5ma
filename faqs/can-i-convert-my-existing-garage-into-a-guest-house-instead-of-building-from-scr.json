@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert my existing garage into a guest house instead of building from scratch?",
+  "description": "Yes, but it requires adding wall insulation, leveling and sealing the concrete slab, running plumbing lines, installing HVAC, and meeting residential egress cod",
+  "url": "https://baycityremodeling.com/faq/can-i-convert-my-existing-garage-into-a-guest-house-instead-of-building-from-scr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert my existing garage into a guest house instead of building from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting an existing detached or attached garage into a guest house is often possible and saves the expense of framing a new exterior shell. However, garages were built for vehicle storage rather than habitation, meaning the existing concrete slab must be inspected for moisture barriers and levelness. You will also need to frame and insulate exterior walls, install dedicated heating and cooling, add code-compliant plumbing lines, and provide adequate emergency egress windows. In many cases, bringing an older garage up to modern residential building codes can rival the cost of ground-up additions.",
+        "description": "Yes, but it requires adding wall insulation, leveling and sealing the concrete slab, running plumbing lines, installing HVAC, and meeting residential egress codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

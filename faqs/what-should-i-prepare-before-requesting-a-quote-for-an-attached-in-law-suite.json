@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before requesting a quote for an attached in-law suite?",
+  "description": "Gather your property survey, list must-have features like kitchenettes or private entries, and note accessibility needs like walk-in showers before consultation",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-requesting-a-quote-for-an-attached-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before requesting a quote for an attached in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To plan accurately for an attached in-law suite, gather your property survey, identify your occupant's mobility needs, and establish your target scope. Determine whether the space requires a full bathroom, a dedicated exterior entrance, independent climate controls, or kitchenette features. If aging family members will reside there, measure doorways and consider zero-threshold showers early, as structural framing and slab work must accommodate these specifications from the start. Reviewing existing electrical panel capacity and septic or sewer connections before design consultations also helps streamline the initial architectural phase.",
+        "description": "Gather your property survey, list must-have features like kitchenettes or private entries, and note accessibility needs like walk-in showers before consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

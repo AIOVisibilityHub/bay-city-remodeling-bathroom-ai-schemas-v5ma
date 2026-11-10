@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I convert an existing garage or build a new home addition for a granny flat?",
+  "description": "Garage conversions make use of existing framing to save money, but sacrifice parking. New additions preserve storage and allow custom layouts tailored to your e",
+  "url": "https://baycityremodeling.com/faq/should-i-convert-an-existing-garage-or-build-a-new-home-addition-for-a-granny-fl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I convert an existing garage or build a new home addition for a granny flat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting a garage allows you to use an existing foundation, roof, and exterior framing, which generally costs less and finishes faster than ground-up framing. However, converting requires giving up sheltered parking and vehicle storage, and it often involves significant work to level floors, insulate exterior walls, and add plumbing lines. A custom home addition preserves your garage and lets you tailor room dimensions, accessibility features, and architectural flow to match your house seamlessly. The choice depends on whether preserving storage and parking outweighs the budget savings of retrofitting existing space.",
+        "description": "Garage conversions make use of existing framing to save money, but sacrifice parking. New additions preserve storage and allow custom layouts tailored to your exact needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

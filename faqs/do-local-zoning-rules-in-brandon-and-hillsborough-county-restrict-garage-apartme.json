@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do local zoning rules in Brandon and Hillsborough County restrict garage apartments?",
+  "description": "Yes, local rules govern building setbacks, structure height, lot coverage, and replacement parking spaces, while HOAs may impose additional design criteria.",
+  "url": "https://baycityremodeling.com/faq/do-local-zoning-rules-in-brandon-and-hillsborough-county-restrict-garage-apartme",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do local zoning rules in Brandon and Hillsborough County restrict garage apartments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning requirements for garage apartments vary across Florida communities like Brandon, Plant City, and surrounding Hillsborough County. Municipal regulations dictate maximum accessory structure dimensions, building height limits, setback distances from property lines, and required off-street parking spots. For instance, converting your only enclosed garage might require verifying that your driveway provides sufficient replacement parking to meet local codes. Historic districts or deed-restricted communities also enforce exterior design guidelines, requiring additions to match primary home architecture, roof pitches, or exterior finishes like stucco. Reviewing zoning parameters with your contractor early ensures your design meets neighborhood codes.",
+        "description": "Yes, local rules govern building setbacks, structure height, lot coverage, and replacement parking spaces, while HOAs may impose additional design criteria."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

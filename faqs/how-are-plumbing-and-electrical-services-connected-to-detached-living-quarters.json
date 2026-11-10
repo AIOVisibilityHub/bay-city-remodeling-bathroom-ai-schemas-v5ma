@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are plumbing and electrical services connected to detached living quarters?",
+  "description": "Utilities are extended from the main house via underground trenches, often requiring an electrical panel upgrade and dedicated lines for water, drainage, and cl",
+  "url": "https://baycityremodeling.com/faq/how-are-plumbing-and-electrical-services-connected-to-detached-living-quarters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are plumbing and electrical services connected to detached living quarters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, detached structures must connect to essential home utilities, which involves extending lines from existing systems or adding separate meters. Electrical, potable water, and sanitary sewer or septic lines must be trenched across the yard out to the new building footprint. The capacity of your primary home's electrical panel is a key factor; adding heating, cooling, cooking appliances, and water heating often requires a subpanel or service panel upgrade. Plumbing must be sloped properly to tie into the sewer main. Planning utility paths early prevents conflicts with existing trees, patios, retaining walls, or irrigation systems.",
+        "description": "Utilities are extended from the main house via underground trenches, often requiring an electrical panel upgrade and dedicated lines for water, drainage, and climate systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

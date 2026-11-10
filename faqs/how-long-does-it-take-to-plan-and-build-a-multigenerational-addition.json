@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to plan and build a multigenerational addition?",
+  "description": "Construction timelines depend on project scope, from permitting and foundation work to drywall and finish installations, with exact schedules determined during",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-plan-and-build-a-multigenerational-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to plan and build a multigenerational addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multigenerational addition timelines vary depending on whether the project involves a standard ground-floor bedroom suite or an extensive multi-room layout. Once design plans and local building permits are secured, physical construction typically progresses through foundation prep, framing, mechanical rough-ins for plumbing and electric, insulation, drywall hanging, and interior finishing. Adding dedicated kitchenettes or custom tile walk-in showers can extend the schedule due to specialized trade sequencing. A detailed consultation establishes a realistic timeline for your specific scope.",
+        "description": "Construction timelines depend on project scope, from permitting and foundation work to drywall and finish installations, with exact schedules determined during consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

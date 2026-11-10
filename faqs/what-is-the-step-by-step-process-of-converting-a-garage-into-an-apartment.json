@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the step-by-step process of converting a garage into an apartment?",
+  "description": "The process involves permitting, framing the opening, cutting the slab for plumbing, running electrical lines, insulating, hanging drywall, and finishing with f",
+  "url": "https://baycityremodeling.com/faq/what-is-the-step-by-step-process-of-converting-a-garage-into-an-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the step-by-step process of converting a garage into an apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Garage apartment projects generally involve architectural design, permitting, structural rough-ins, and interior finishing over several distinct phases. Once design plans are approved and permits are pulled, crews remove the overhead door and frame the new exterior wall. Next, plumbers cut the slab to install rough plumbing, electricians run dedicated wiring, and HVAC specialists set up climate lines. After trade inspections pass, contractors install wall insulation, hang and finish drywall, lay finished flooring, and set cabinetry, bathroom fixtures, and trim. Clear coordination across these phases keeps the job moving predictably toward final inspection.",
+        "description": "The process involves permitting, framing the opening, cutting the slab for plumbing, running electrical lines, insulating, hanging drywall, and finishing with flooring and fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

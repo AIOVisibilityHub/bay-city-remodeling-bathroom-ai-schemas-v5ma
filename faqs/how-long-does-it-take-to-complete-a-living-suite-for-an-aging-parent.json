@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a living suite for an aging parent?",
+  "description": "Interior bedroom and bathroom remodels generally take several weeks, while full additions or garage conversions usually take several months to complete.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-complete-a-living-suite-for-an-aging-parent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a living suite for an aging parent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction schedule for an aging-parent suite depends directly on the project scope and whether work is interior or exterior. Remodeling an existing ground-floor bedroom and bathroom can take several weeks, whereas converting a garage or constructing a full ground-up home addition typically takes several months. Project duration is also influenced by architectural design time, municipal permitting reviews, material delivery schedules, and utility connections. Clear communication with your project manager helps you plan family housing arrangements while work is underway.",
+        "description": "Interior bedroom and bathroom remodels generally take several weeks, while full additions or garage conversions usually take several months to complete."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

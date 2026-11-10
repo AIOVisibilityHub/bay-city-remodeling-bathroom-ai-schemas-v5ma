@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about a guest apartment?",
+  "description": "Identify who will use the space, note accessibility needs like walk-in showers, locate your electrical panel and plumbing access, and outline your budget and pr",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-guest-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about a guest apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling a consultation, determine the primary intended use for the space. Will it accommodate aging parents, visiting relatives, or provide a long-term home for an adult child? If the space is meant for seniors, note accessibility requirements early, such as zero-threshold walk-in showers, wider doorways, and single-level layouts. Next, gather any existing home blueprints, locate your electrical breaker panel, and identify your outdoor water and sewer access points. Having a general budget in mind and a clear list of must-have features—such as kitchenettes, separate laundry hookups, or private exterior entrances—helps streamline the initial estimating process.",
+        "description": "Identify who will use the space, note accessibility needs like walk-in showers, locate your electrical panel and plumbing access, and outline your budget and preferred layout features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a backyard home, and how does it function?",
+  "description": "A backyard home is an independent secondary residence on your lot featuring its own bathroom, sleeping area, and kitchen setup, commonly used as a guest suite o",
+  "url": "https://baycityremodeling.com/faq/what-is-a-backyard-home-and-how-does-it-function",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a backyard home, and how does it function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A backyard home, often called an accessory dwelling unit (ADU), granny flat, or in-law suite, is a secondary residential unit built on the same lot as a primary house. It functions as an independent living space with its own kitchen area, bathroom, and sleeping quarters. Homeowners typically build them to house aging parents, adult children, or guests. Before committing to a project, verify whether your property layout supports a standalone structure or if an attached suite makes more practical sense for your utility connections and available yard space.",
+        "description": "A backyard home is an independent secondary residence on your lot featuring its own bathroom, sleeping area, and kitchen setup, commonly used as a guest suite or multigenerational housing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

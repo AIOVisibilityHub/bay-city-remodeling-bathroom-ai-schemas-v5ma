@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is plumbing handled when adding a bathroom and kitchenette to a suite?",
+  "description": "Plumbing is routed from your existing water supply and waste lines, which may involve trenching concrete slabs to install new drains, vents, and supply pipes.",
+  "url": "https://baycityremodeling.com/faq/how-is-plumbing-handled-when-adding-a-bathroom-and-kitchenette-to-a-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is plumbing handled when adding a bathroom and kitchenette to a suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plumbing connections depend on the location of your home's main water supply and sewer or septic lines. When adding a bathroom or kitchenette, contractors locate existing tie-in points to plan drain slope and water supply runs. For ground-floor additions or garage conversions over existing concrete slabs, plumbers may need to trench the slab to run drainpipes and vent lines. If the suite is built as a separate wing, extending plumbing further across the home increases labor and pipe runs, which is planned during initial structural design.",
+        "description": "Plumbing is routed from your existing water supply and waste lines, which may involve trenching concrete slabs to install new drains, vents, and supply pipes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

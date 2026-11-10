@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about building a guest house?",
+  "description": "Gather your property boundary survey, review HOA rules, decide whether you need accessibility features, and establish a clear list of must-have rooms and amenit",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-consulting-a-contractor-about-building-a-guest-hous",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about building a guest house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling a remodeling and addition consultation, gather key property documentation and outline your primary goals for the space. Locate your property boundary survey to identify building setbacks, easements, and current lot coverage. Determine whether the unit will house aging family members, adult children, or short-term guests, as this dictates whether you need accessible features like zero-threshold showers or widened doorways. Having a clear budget range, a list of desired rooms, and your neighborhood HOA rules ready helps your contractor establish feasible design options immediately.",
+        "description": "Gather your property boundary survey, review HOA rules, decide whether you need accessibility features, and establish a clear list of must-have rooms and amenities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

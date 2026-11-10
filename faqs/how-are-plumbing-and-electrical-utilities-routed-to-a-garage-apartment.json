@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are plumbing and electrical utilities routed to a garage apartment?",
+  "description": "Utilities are typically extended from the main house via yard trenching or slab cuts, requiring a dedicated electrical subpanel, plumbing connections, and a min",
+  "url": "https://baycityremodeling.com/faq/how-are-plumbing-and-electrical-utilities-routed-to-a-garage-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are plumbing and electrical utilities routed to a garage apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Connecting utilities to a garage apartment typically requires extending plumbing, drainage, and electrical service from your main house or establishing dedicated sub-connections. Waste lines must be pitched correctly to link with your primary sewer lateral or septic tank, which often requires trenching through the yard or cutting into existing concrete slabs. For electricity, standard garage circuits cannot handle living spaces; you will generally need a subpanel to power kitchen appliances, lighting, and a dedicated ductless mini-split HVAC unit. Sizing these systems correctly during early planning prevents panel overloads and ensures reliable water pressure and climate control.",
+        "description": "Utilities are typically extended from the main house via yard trenching or slab cuts, requiring a dedicated electrical subpanel, plumbing connections, and a mini-split HVAC."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

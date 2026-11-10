@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the right time to invest in multigenerational living quarters?",
+  "description": "Invest when aging parents or adult children need nearby living support, or when frequent extended guests require private accommodations without disrupting daily",
+  "url": "https://baycityremodeling.com/faq/when-is-the-right-time-to-invest-in-multigenerational-living-quarters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the right time to invest in multigenerational living quarters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider separate living quarters when aging family members require nearby care, adult children need transitional housing, or your household experiences frequent long-term guests. Moving relatives into your home provides daily support while avoiding institutional living costs, but sharing common areas indefinitely can strain household routines. Adding dedicated quarters offers family members dignity and autonomy while keeping them close. It is also an ideal choice for homeowners who want extra space for hobbies or home offices without relocating to a new neighborhood.",
+        "description": "Invest when aging parents or adult children need nearby living support, or when frequent extended guests require private accommodations without disrupting daily household routines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What trade-offs should I consider before turning my garage into an apartment?",
+  "description": "You lose covered parking and bulk storage space, and you must verify that your property still satisfies local off-street parking requirements before removing ve",
+  "url": "https://baycityremodeling.com/faq/what-trade-offs-should-i-consider-before-turning-my-garage-into-an-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What trade-offs should I consider before turning my garage into an apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting a garage to an apartment permanently eliminates enclosed vehicle storage and workshop area, which is the primary trade-off homeowners face. In communities across Hillsborough and Pinellas counties, losing a garage can create neighborhood parking challenges or conflict with local rules governing off-street parking minimums. Additionally, water heaters, laundry units, or home storage systems commonly housed in a garage must be relocated or framed into dedicated utility closets. Homeowners must balance this lost storage against the valuable benefit of gaining rental revenue or housing an aging family member.",
+        "description": "You lose covered parking and bulk storage space, and you must verify that your property still satisfies local off-street parking requirements before removing vehicle stalls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

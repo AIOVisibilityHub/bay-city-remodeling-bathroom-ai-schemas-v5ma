@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before meeting with a contractor for a master suite addition?",
+  "description": "Gather your property survey, identify your target budget and must-have layout features, and check for any neighborhood or HOA building restrictions.",
+  "url": "https://baycityremodeling.com/faq/what-should-i-prepare-before-meeting-with-a-contractor-for-a-master-suite-additi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before meeting with a contractor for a master suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling an on-site consultation, locate your property survey, list your desired features, and check for any neighborhood deed restrictions. Having a clear idea of must-have items—such as a zero-threshold walk-in shower, specific vanity dimensions, or custom closet organizers—helps the design team create an accurate preliminary layout. It also helps to note the location of your home's electrical panel and main plumbing stack, as distance from these utilities affects rough-in planning.",
+        "description": "Gather your property survey, identify your target budget and must-have layout features, and check for any neighborhood or HOA building restrictions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

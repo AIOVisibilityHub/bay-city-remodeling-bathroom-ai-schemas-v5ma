@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key factors influence the cost of building a detached in-law suite?",
+  "description": "Costs depend on unit size, foundation and site work, distance for utility trenching, material selections, and specific plumbing and kitchen configurations.",
+  "url": "https://baycityremodeling.com/faq/what-key-factors-influence-the-cost-of-building-a-detached-in-law-suite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key factors influence the cost of building a detached in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total construction costs depend directly on unit square footage, foundation type, site preparation, interior finish levels, and utility routing distances from the primary residence. Because a detached build involves ground-up construction, costs reflect independent framing, exterior finishes like siding or full-house stuccoing, roof installation, dedicated electrical subpanels, and dedicated HVAC mini-split systems. We evaluate the specific layout, trenching distance, and finish selections during the consultation phase and offer negotiable pricing alongside veteran discounts.",
+        "description": "Costs depend on unit size, foundation and site work, distance for utility trenching, material selections, and specific plumbing and kitchen configurations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

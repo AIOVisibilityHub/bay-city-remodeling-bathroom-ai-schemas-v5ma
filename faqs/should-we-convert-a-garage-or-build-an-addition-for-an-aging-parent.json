@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should we convert a garage or build an addition for an aging parent?",
+  "description": "Garage conversions use existing structures but eliminate parking; room additions preserve storage and garage utility while expanding your home footprint.",
+  "url": "https://baycityremodeling.com/faq/should-we-convert-a-garage-or-build-an-addition-for-an-aging-parent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should we convert a garage or build an addition for an aging parent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding between an attached in-law suite addition and a garage conversion involves weighing interior space needs against construction scope. An attached addition builds new square footage tailored to specific accessibility needs, leaving existing vehicle parking intact, but it requires new foundation and exterior framing. A garage conversion uses the existing roof and walls, which can shorten building steps, but you sacrifice storage or vehicle parking and must level recessed floors, insulate walls, and extend HVAC services. Families should compare whether preserving garage utility outweighs the cost and yard footprint of extending the home.",
+        "description": "Garage conversions use existing structures but eliminate parking; room additions preserve storage and garage utility while expanding your home footprint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

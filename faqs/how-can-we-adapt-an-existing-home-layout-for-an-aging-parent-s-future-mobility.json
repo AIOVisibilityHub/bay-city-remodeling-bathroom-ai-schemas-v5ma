@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can we adapt an existing home layout for an aging parent's future mobility?",
+  "description": "Widen interior doorways, eliminate floor thresholds, install zero-entry walk-in showers, and add drywall blocking for sturdy grab bars.",
+  "url": "https://baycityremodeling.com/faq/how-can-we-adapt-an-existing-home-layout-for-an-aging-parent-s-future-mobility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can we adapt an existing home layout for an aging parent's future mobility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To future-proof a living space, focus on universal design principles that make daily living easier as physical needs change. Essential updates include widening doorways to at least 36 inches, keeping flooring transitions flush between rooms, and choosing slip-resistant surfaces throughout. In the bathroom, convert tubs into curbless walk-in showers with integrated bench seating and install reinforced blocking behind drywall for future grab bars. Placing electrical outlets slightly higher and light switches lower also ensures comfortable access from both seated and standing positions.",
+        "description": "Widen interior doorways, eliminate floor thresholds, install zero-entry walk-in showers, and add drywall blocking for sturdy grab bars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

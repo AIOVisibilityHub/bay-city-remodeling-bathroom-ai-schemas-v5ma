@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build a detached guest cottage in my Tampa Bay backyard?",
+  "description": "Yes, if your zoning allows accessory dwellings and your lot meets local setbacks, height caps, and HOA rules enforced by your county or municipality.",
+  "url": "https://baycityremodeling.com/faq/can-i-build-a-detached-guest-cottage-in-my-tampa-bay-backyard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build a detached guest cottage in my Tampa Bay backyard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements for a detached guest cottage depend on local municipal zoning, parcel size, and jurisdiction-specific land development codes across the Tampa Bay area. Municipalities like Hillsborough County, Pinellas County, and the City of Tampa enforce specific zoning designations, minimum lot dimensions, maximum building heights, and property line setbacks that dictate where an accessory structure can sit. Many codes also regulate kitchen elements, such as permanent ranges, and parking access. Before drafting construction plans, you must verify your zoning classification and check whether your homeowner association has deed restrictions that prohibit secondary detached residential structures.",
+        "description": "Yes, if your zoning allows accessory dwellings and your lot meets local setbacks, height caps, and HOA rules enforced by your county or municipality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

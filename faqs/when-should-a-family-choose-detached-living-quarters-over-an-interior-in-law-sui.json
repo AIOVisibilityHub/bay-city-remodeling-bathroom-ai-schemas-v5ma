@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a family choose detached living quarters over an interior in-law suite?",
+  "description": "Choose a detached unit when occupants want complete privacy, independent schedules, and autonomy, provided the occupant does not require continuous indoor super",
+  "url": "https://baycityremodeling.com/faq/when-should-a-family-choose-detached-living-quarters-over-an-interior-in-law-sui",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a family choose detached living quarters over an interior in-law suite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detached layout is ideal when family members require independent routines, private outdoor access, or distinct living schedules. Multigenerational households frequently choose detached units for aging parents who value autonomy while staying close to family support. It is also well-suited for adult children working from home or frequent long-term guests where acoustic privacy is important. In contrast, if an aging relative requires immediate physical supervision or direct, indoor access without stepping outside, an attached in-law suite connected to the main floor is often the safer, more practical solution for everyday care.",
+        "description": "Choose a detached unit when occupants want complete privacy, independent schedules, and autonomy, provided the occupant does not require continuous indoor supervision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

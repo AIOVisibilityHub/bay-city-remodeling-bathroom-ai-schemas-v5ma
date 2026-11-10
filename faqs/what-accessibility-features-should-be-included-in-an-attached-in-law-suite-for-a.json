@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What accessibility features should be included in an attached in-law suite for aging parents?",
+  "description": "Include zero-threshold showers, 36-inch wide doors, reinforced framing for grab bars, comfort-height fixtures, and step-free transitions between rooms.",
+  "url": "https://baycityremodeling.com/faq/what-accessibility-features-should-be-included-in-an-attached-in-law-suite-for-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What accessibility features should be included in an attached in-law suite for aging parents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aging-in-place features should be integrated into the framing and rough-in stages of your addition rather than retrofitted later. Key accessibility choices include widening interior doorways to at least 36 inches, eliminating hallway step-downs, and incorporating a zero-entry, walk-in shower with slip-resistant tile and internal wall blocking for grab bars. Comfort-height toilets, lever-style door handles, rocker light switches, and single-handle faucets provide long-term daily convenience. Planning these adjustments early ensures the addition meets current comfort needs while avoiding structural modifications in the future.",
+        "description": "Include zero-threshold showers, 36-inch wide doors, reinforced framing for grab bars, comfort-height fixtures, and step-free transitions between rooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

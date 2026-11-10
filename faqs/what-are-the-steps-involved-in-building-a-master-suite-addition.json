@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the steps involved in building a master suite addition?",
+  "description": "The process involves design planning, municipal permitting, foundation and framing work, utility rough-ins, drywall installation, and finishing touches like til",
+  "url": "https://baycityremodeling.com/faq/what-are-the-steps-involved-in-building-a-master-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the steps involved in building a master suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The project starts with an initial consultation to assess your existing floor plan, lot boundaries, and living goals. Designers develop plans that ensure the new structure matches your home's exterior roofline, stucco, or siding. Once building permits are secured, crews excavate, pour the slab, frame the walls and roof, and install exterior weatherproofing. Subcontractors complete electrical, HVAC, and plumbing rough-ins before drywall installation, tile work, painting, and fixture trim-out bring the room to completion.",
+        "description": "The process involves design planning, municipal permitting, foundation and framing work, utility rough-ins, drywall installation, and finishing touches like tile and cabinetry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

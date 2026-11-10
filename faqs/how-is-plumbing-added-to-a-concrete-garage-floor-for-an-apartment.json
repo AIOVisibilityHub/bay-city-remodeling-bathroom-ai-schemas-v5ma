@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is plumbing added to a concrete garage floor for an apartment?",
+  "description": "Plumbing requires saw-cutting trenches through the concrete slab, installing sloped drain and water supply lines, and repouring concrete before building interio",
+  "url": "https://baycityremodeling.com/faq/how-is-plumbing-added-to-a-concrete-garage-floor-for-an-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is plumbing added to a concrete garage floor for an apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plumbing a bathroom and kitchenette requires cutting trenches into the concrete floor to tie new drains into your home's main sanitary sewer line. Standard garage slabs sit directly on grade and contain no rough-in piping. Contractors saw-cut the concrete, dig downward to achieve proper slope for waste pipes, lay supply and drain lines, and repour the slab before interior framing begins. Because this work involves permanent structural modifications to the floor, finalizing your bathroom layout and kitchen fixture placements early in the planning stage prevents costly adjustments later.",
+        "description": "Plumbing requires saw-cutting trenches through the concrete slab, installing sloped drain and water supply lines, and repouring concrete before building interior walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

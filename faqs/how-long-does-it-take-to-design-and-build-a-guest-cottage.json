@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and build a guest cottage?",
+  "description": "Building a guest cottage typically takes four to nine months, divided between engineering and municipal permitting followed by active on-site construction.",
+  "url": "https://baycityremodeling.com/faq/how-long-does-it-take-to-design-and-build-a-guest-cottage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and build a guest cottage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a detached guest cottage typically ranges from four to nine months once site planning begins. The process breaks down into two distinct phases: pre-construction design, engineering, and municipal permitting, followed by physical construction. Permitting speed varies across local building departments, often taking anywhere from several weeks to a few months. Once foundation work starts, construction includes excavation, slab or stem wall pouring, framing, roofing, exterior finishes like stucco, utility trenching, drywall installation, and interior fixture installation. Weather conditions, material selections, and municipal inspection schedules directly influence how quickly the project moves from foundation to final inspection.",
+        "description": "Building a guest cottage typically takes four to nine months, divided between engineering and municipal permitting followed by active on-site construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

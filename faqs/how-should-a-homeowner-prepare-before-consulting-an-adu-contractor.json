@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a homeowner prepare before consulting an ADU contractor?",
+  "description": "Locate your property survey, define your intended use and budget, and note essential features like accessible bathrooms or specific kitchen requirements.",
+  "url": "https://baycityremodeling.com/faq/how-should-a-homeowner-prepare-before-consulting-an-adu-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a homeowner prepare before consulting an ADU contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a remodeling contractor, gather your property survey, identify your primary goals for the space, and establish a clear budget range. A boundary survey helps identify property lines, easements, and setback limits on your parcel. It is also beneficial to list your must-have functional features, such as walk-in showers or specific kitchen layouts for aging relatives, and identify existing electrical panel capacity and main sewer line locations to help guide early feasibility evaluations.",
+        "description": "Locate your property survey, define your intended use and budget, and note essential features like accessible bathrooms or specific kitchen requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

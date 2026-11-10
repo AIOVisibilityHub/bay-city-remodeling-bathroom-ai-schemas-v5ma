@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits to convert my garage into an apartment?",
+  "description": "Yes. Converting a garage into an apartment requires building, electrical, plumbing, and mechanical permits to verify the finished space meets residential safety",
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-to-convert-my-garage-into-an-apartment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits to convert my garage into an apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Converting a garage into an apartment or accessory dwelling unit requires residential building permits, along with specialized trade permits for electrical, plumbing, and mechanical work. Because you are transforming an uninhabitable utility zone into a legally recognized living space, the plans must show compliance with local residential building codes. This includes meeting rules for minimum ceiling height, continuous insulation, emergency egress windows, smoke alarms, and dedicated heating and cooling. Bay City Remodeling & Bathrooms reviews local zoning and code mandates during planning so that all structural drawings, rough-in inspections, and final occupancy reviews are properly managed.",
+        "description": "Yes. Converting a garage into an apartment requires building, electrical, plumbing, and mechanical permits to verify the finished space meets residential safety and building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

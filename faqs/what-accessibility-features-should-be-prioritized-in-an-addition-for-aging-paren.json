@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What accessibility features should be prioritized in an addition for aging parents?",
+  "description": "Prioritize zero-threshold walk-in showers, wider doorways, lever handles, non-slip surfaces, and wall backing for grab bars to ensure safe, long-term living.",
+  "url": "https://baycityremodeling.com/faq/what-accessibility-features-should-be-prioritized-in-an-addition-for-aging-paren",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What accessibility features should be prioritized in an addition for aging parents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Universal design focuses on safety and accessibility, making it easier for older family members to live comfortably and age in place. Key features include zero-threshold walk-in showers, reinforced walls for future grab bar installation, wider interior doorways for mobility aids, comfort-height toilets, and lever-style door handles. Incorporating these elements early during architectural drafting prevents the disruption and expense of having to remodel bathrooms or widen hallways later as family mobility needs evolve over time.",
+        "description": "Prioritize zero-threshold walk-in showers, wider doorways, lever handles, non-slip surfaces, and wall backing for grab bars to ensure safe, long-term living."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

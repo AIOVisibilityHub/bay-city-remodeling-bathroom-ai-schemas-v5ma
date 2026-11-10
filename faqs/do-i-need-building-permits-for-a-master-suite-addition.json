@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits for a master suite addition?",
+  "description": "Yes, master suite additions require building, electrical, and plumbing permits to ensure the structure complies with municipal codes, wind loads, and zoning set",
+  "url": "https://baycityremodeling.com/faq/do-i-need-building-permits-for-a-master-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits for a master suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building an attached master suite requires residential building, electrical, mechanical, and plumbing permits from your local municipality or county building department. Before plans are submitted, your property must be checked against local zoning setbacks, lot coverage limits, and any community or HOA architectural guidelines. Work cannot begin until plans comply with applicable building codes, including wind-load standards and energy conservation rules. A licensed general contractor manages this application and inspection sequence.",
+        "description": "Yes, master suite additions require building, electrical, and plumbing permits to ensure the structure complies with municipal codes, wind loads, and zoning setbacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

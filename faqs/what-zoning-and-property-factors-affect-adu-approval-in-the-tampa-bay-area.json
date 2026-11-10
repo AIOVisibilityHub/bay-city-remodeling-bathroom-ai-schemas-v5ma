@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What zoning and property factors affect ADU approval in the Tampa Bay area?",
+  "description": "Local municipality codes dictate ADU square footage limits, setbacks, height, and lot coverage, which must be verified against local zoning and parcel guideline",
+  "url": "https://baycityremodeling.com/faq/what-zoning-and-property-factors-affect-adu-approval-in-the-tampa-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What zoning and property factors affect ADU approval in the Tampa Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local building departments throughout the Tampa Bay area, such as Hillsborough County and the City of Tampa, establish specific zoning ordinances that govern ADUs. These local codes set rules regarding maximum allowed square footage, building height, boundary setbacks, lot coverage, and whether separate utility metering is permitted. Some neighborhoods or homeowner associations also have specific deed restrictions on secondary detached buildings. During an initial site consultation, evaluating your parcel dimensions, zoning classification, and existing easements is an essential first step before drafting construction plans.",
+        "description": "Local municipality codes dictate ADU square footage limits, setbacks, height, and lot coverage, which must be verified against local zoning and parcel guidelines before building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
